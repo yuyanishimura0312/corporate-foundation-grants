@@ -1,0 +1,1831 @@
+
+<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="" name="description"/>
+<meta content="sacra" name="author"/>
+<!-- Title -->
+<title>国・都道府県公式公益法人行政総合情報サイト 公益法人information</title>
+<link href="images/favicon.ico" rel="shortcut icon"/>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+<link href="css/bootstrap-datepicker.css" rel="stylesheet" type="text/css"/>
+<link href="css/bootstrap-datepicker.standalone.css" rel="stylesheet" type="text/css"/>
+<link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<link href="css/font-size/01.css" rel="stylesheet" type="text/css"/>
+<link href="css/loading-animation.css" rel="stylesheet" type="text/css"/>
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<link href="css/bootstrap-multiselect.css" rel="stylesheet" type="text/css"/>
+<link href="css/fontello/css/fontello.css" rel="stylesheet" type="text/css"/>
+<link href="css/magnific-popup.css" rel="stylesheet" type="text/css"/>
+<link href="js/dataTables/css/jquery.dataTables.css" rel="stylesheet" type="text/css"/>
+<link href="js/dataTables/css/dataTables.bootstrap.css" rel="stylesheet" type="text/css"/>
+<script src="js/jquery-2.2.1.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+<script src="js/bootstrap-multiselect.js" type="text/javascript"></script>
+<script src="js/pdf.js" type="text/javascript"></script>
+<script src="js/pdfViewer.js" type="text/javascript"></script>
+<script src="js/iframeView.js" type="text/javascript"></script>
+<script src="js/script.js" type="text/javascript"></script>
+<script src="js/encoding/encoding.js" type="text/javascript"></script>
+<script src="js/dateJp.js" type="text/javascript"></script>
+<meta content="-1" http-equiv="Expires">
+<meta content="no-cache" http-equiv="Cache-Control">
+<meta content="no-cache" http-equiv="Pragma">
+<script type="text/javascript">
+		 //<!--
+									   /**
+										* <dd>概要：イベントの登録を行います。
+										* <dd>詳細：公益法人等の検索画面のイベントを登録します。
+										* <dd>備考：
+										*/
+
+		 $(document).ready(function() {
+
+			 /*
+			 var prefAgencyListAll = [];
+			 var prefAgencyList0 = [];
+			 var prefAgencyList1 = [];
+			 var prefAgencyList2 = [];
+			 var prefAgencyList3 = [];
+			 var prefAgencyList4 = [];
+			 var prefAgencyList5 = [];
+			 var prefAgencyList6 = [];
+			 var prefAgencyList7 = [];
+			 var prefAgencyList8 = [];
+			 var prefAgencyList9 = [];
+			 var prefAgencyList10 = [];
+			 */
+
+			 $('#multiple-selected-kind').multiselect({
+				 numberDisplayed: 25,
+				 buttonText: function(options, select) {
+					 if(options.length === 0) {
+						 return '選択されていません...';
+					 } else if(options.length > 0) {
+						 var labels = [];
+						 options.each(function() {
+							 if($(this).val() !== undefined) {
+								 labels.push($(this).val());
+							 } else {
+								 labels.push($(this).html());
+							 }
+						 });
+						 return labels.join(', ') + '';
+					 }
+				 }
+			 });
+/*
+			$('#condition-clear-btn').on('click', function(e){
+				 e.preventDefault();
+				 overlay('on');
+
+				 var thisEvent = this;
+
+				 $("#mainForm").append("<input type='hidden' name='ajax' value='1' />");
+				 var dto = $("#mainForm");
+				 $.ajax({
+					 url: $(this).attr("data-action"),
+					 type:'POST',
+					 dataType:'json',
+					 data: dto.serialize(),
+					 async: false }).
+				   done(function(data) {
+					   ajaxCommonDone(data, function(data) {
+						   $('#searchCondition1').prop('checked', true);
+						   $('#searchCondition2').prop('checked', false);
+						   $('#searchCondition3').prop('checked', false);
+						   $('#searchCondition4').prop('checked', false);
+						   $('#searchCondition5').prop('checked', false);
+						   clearCondition1();
+						   clearCondition2();
+						   clearCondition3();
+						   clearCondition4();
+						   clearCondition5();
+						   overlay('off');
+					   });
+
+				   }).fail(function(data) {
+					   ajaxCommonFail();
+					   overlay('off');
+				   });
+			 });
+*/
+			 $('.condition-clear-btn').on('click', function(e) {
+				 e.preventDefault();
+
+				 clearCondition1();	
+				 clearCondition2();	
+				 clearCondition3();	
+				 clearCondition4();	
+				 clearCondition5();	
+				 
+				 $('#searchCondition1').prop('checked',true);
+				 $('#searchCondition2').prop('checked',false);
+				 $('#searchCondition3').prop('checked',false);
+				 $('#searchCondition4').prop('checked',false);
+				 $('#searchCondition5').prop('checked',false);
+				 
+				 checkStateSearchCondition1();
+				 checkStateSearchCondition2();
+				 checkStateSearchCondition3();
+				 checkStateSearchCondition4();
+				 checkStateSearchCondition5();
+				 
+				 if(document.getElementById('collapseExample1-btn').getAttribute('aria-expanded') == 'false'){
+					 $('#collapseExample1-btn').trigger("click");
+				 };
+				 if(document.getElementById('collapseExample2-btn').getAttribute('aria-expanded') == 'true'){
+					 $('#collapseExample2-btn').trigger("click");
+				 };
+				 if(document.getElementById('collapseExample3-btn').getAttribute('aria-expanded') == 'true'){
+					 $('#collapseExample3-btn').trigger("click");
+				 };
+				 if(document.getElementById('collapseExample4-btn').getAttribute('aria-expanded') == 'true'){
+					 $('#collapseExample4-btn').trigger("click");
+				 };
+				 if(document.getElementById('collapseExample5-btn').getAttribute('aria-expanded') == 'true'){
+					 $('#collapseExample5-btn').trigger("click");
+				 };
+
+				 $('.show-btn').prop("disabled", true);
+				 $('#result-display').hide();
+				 
+				 $("#corpDivision2XCnt").empty();
+				 $("#corpDivision20Cnt").empty();
+				 $("#corpDivision21Cnt").empty();
+				 $("#corpDivision3XCnt").empty();
+				 $("#corpDivision30Cnt").empty();
+				 $("#corpDivision31Cnt").empty();
+				 $("#corpDivision50Cnt").empty();
+				 $("#corpDivision2XCnt").append("0");
+				 $("#corpDivision20Cnt").append("0");
+				 $("#corpDivision21Cnt").append("0");
+				 $("#corpDivision3XCnt").append("0");
+				 $("#corpDivision30Cnt").append("0");
+				 $("#corpDivision31Cnt").append("0");
+				 $("#corpDivision50Cnt").append("0");
+
+			});
+/*
+			 setCheckbox();
+
+			 $('.pref-agency-list-all').on('click', function() {
+				 setCheckbox();
+			 });
+
+			 $('.pref-agency-list').on('click', function() {
+				 setCheckbox();
+			 });
+*/
+
+			
+			
+				if($('#searchCondition1').prop('checked')){
+					$('#collapseExample1-btn').trigger("click");
+				}
+				if($('#searchCondition2').prop('checked')){
+					$('#collapseExample2-btn').trigger("click");
+				}
+				if($('#searchCondition3').prop('checked')){
+					$('#collapseExample3-btn').trigger("click");
+				}
+				if($('#searchCondition4').prop('checked')){
+					$('#collapseExample4-btn').trigger("click");
+				}
+				if($('#searchCondition5').prop('checked')){
+					$('#collapseExample5-btn').trigger("click");
+				}
+				$('#result-display').hide();
+			
+			 
+			 
+			 
+			 	$('.show-btn').prop("disabled", true);
+			 
+
+			 checkStateSearchCondition1();
+			 checkStateSearchCondition2();
+			 checkStateSearchCondition3();
+			 checkStateSearchCondition4();
+			 checkStateSearchCondition5();
+			 
+			 $("#corpDivision2XCnt").append("0");
+			 $("#corpDivision20Cnt").append("0");
+			 $("#corpDivision21Cnt").append("0");
+			 $("#corpDivision3XCnt").append("0");
+			 $("#corpDivision30Cnt").append("0");
+			 $("#corpDivision31Cnt").append("0");
+			 $("#corpDivision50Cnt").append("0");
+			
+
+			 $('.search-btn').on('click', function(e) {
+				 e.preventDefault();
+				 overlay('on');
+				 $(this).parents('form').attr("action", $(this).attr("data-action")).submit();
+			 });
+
+			 $('.show-btn').on('click', function(e) {
+				 e.preventDefault();
+				 overlay('on');
+				 $(this).parents('form').attr("action", $(this).attr("data-action")).submit();
+			 });
+
+			 // 検索条件1の「クリア」ボタン押下
+			 $('#condition-1-clear-btn').on('click', function(e) {
+				 e.preventDefault();
+				 clearCondition1();
+			 });
+			 // 検索条件2の「クリア」ボタン押下
+			 $('#condition-2-clear-btn').on('click', function(e) {
+				 e.preventDefault();
+				 clearCondition2();
+			 });
+			 // 検索条件3の「クリア」ボタン押下
+			 $('#condition-3-clear-btn').on('click', function(e) {
+				 e.preventDefault();
+				 clearCondition3();
+			 });
+			 // 検索条件4の「クリア」ボタン押下
+			 $('#condition-4-clear-btn').on('click', function(e) {
+				 e.preventDefault();
+				 clearCondition4();
+			 });
+			 // 検索条件5の「クリア」ボタン押下
+			 $('#condition-5-clear-btn').on('click', function(e) {
+				 e.preventDefault();
+				 clearCondition5();
+			 });
+			 // 検索条件4の「全選択」ボタン押下
+			 $('#checkbox-4-all-select').on('click', function(e) {
+				 e.preventDefault();
+				 $('.business-kind-list').each(function(i, elem) {
+					 $(elem).prop('checked', true);
+				 });
+			 });
+			 // 検索条件5の「全選択」ボタン押下
+			 $('#checkbox-5-all-select').on('click', function(e) {
+				 e.preventDefault();
+				 $('.pref-agency-list').each(function(i, elem) {
+					 $(elem).prop('checked', true);
+				 });
+			 });
+
+			 function clearCondition1() {
+				   $('#keyword').val('');
+			 }
+			 function clearCondition2() {
+				   $('.corp-division-list').prop('checked', false);
+				   $('#corpNumber').val('');
+				   $('#corpCode').val('');
+				   $('#corpName').val('');
+				   $('#taxDeductionAffectAccordingFlg').prop('checked', false);
+			 }
+			 function clearCondition3() {
+				   $('#postal').val('');
+				   $('#addr').val('');
+				   $('#representTel').val('');
+				   $('#delegateName').val('');
+			 }
+			 function clearCondition4() {
+				 $('.business-kind-list').each(function(i, elem) {
+					 $(elem).prop('checked', false);
+				 });
+			 }
+			 function clearCondition5() {
+				 $('.pref-agency-list').each(function(i, elem) {
+					 $(elem).prop('checked', false);
+				 });
+			 }
+			 // 詳細画面遷移
+			 $('.corp-name-anchor').on('click', function(e) {
+				 e.preventDefault();
+				 overlay('on');
+				 $("#corpSeq").val($(this).attr("data-corpseq"));
+				 $("#prefCode").val($(this).attr("data-prefCode"));
+
+				 $(this).parents('form').attr("action", $(this).attr("data-action")).submit();
+			 });
+
+			 // 検索条件1を選択
+			 $('#searchCondition1').on('click', function() {
+				 checkStateSearchCondition1();
+			 });
+			 // 検索条件2を選択
+			 $('#searchCondition2').on('click', function() {
+				 checkStateSearchCondition2();
+			 });
+			 // 検索条件3を選択
+			 $('#searchCondition3').on('click', function() {
+				 checkStateSearchCondition3();
+			 });
+			 // 検索条件4を選択
+			 $('#searchCondition4').on('click', function() {
+				 checkStateSearchCondition4();
+			 });
+			 // 検索条件5を選択
+			 $('#searchCondition5').on('click', function() {
+				 checkStateSearchCondition5();
+			 });
+			 function checkStateSearchCondition1() {
+				if($('#searchCondition1').prop('checked')) {
+					$(".searchConditionForm1").prop('disabled', false);
+				} else {
+					$(".searchConditionForm1").prop('disabled', true);
+				}
+			 }
+			 function checkStateSearchCondition2() {
+				if($('#searchCondition2').prop('checked')) {
+					$(".searchConditionForm2").prop('disabled', false);
+				} else {
+					$(".searchConditionForm2").prop('disabled', true);
+				}
+			 }
+			 function checkStateSearchCondition3() {
+				if($('#searchCondition3').prop('checked')) {
+					$(".searchConditionForm3").prop('disabled', false);
+				} else {
+					$(".searchConditionForm3").prop('disabled', true);
+				}
+			 }
+			 function checkStateSearchCondition4() {
+				if($('#searchCondition4').prop('checked')) {
+					$(".business-kind-list").prop('disabled', false);
+				} else {
+					$(".business-kind-list").prop('disabled', true);
+				}
+			 }
+			 function checkStateSearchCondition5() {
+				if($('#searchCondition5').prop('checked')) {
+					$(".pref-agency-list").prop('disabled', false);
+				} else {
+					$(".pref-agency-list").prop('disabled', true);
+				}
+			 }
+		 });
+
+		 var setCheckbox = function() {
+			 if($('.pref-agency-list-all').prop('checked')) {
+				 $('.pref-agency-list').each(function(i, elem) {
+					 if($(elem).prop('checked')) {
+						 $(elem).prop('checked', false);
+					 }
+					 if(!$(elem).prop('disabled')) {
+						 $(elem).prop('disabled', true);
+					 }
+				 });
+			 } else {
+				 $('.pref-agency-list').each(function(i, elem) {
+					 if($(elem).prop('disabled')) {
+						 $(elem).prop('disabled', false);
+					 }
+				 });
+			 }
+		 }
+		 //-->
+		</script>
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+</meta></meta></meta></head>
+<body>
+<!-- container start -->
+<div id="container">
+<!-- header start -->
+<div id="header">
+<!-- header-body start -->
+<div class="header-body">
+<form method="post">
+<div class="system-title-anchor" data-action="bpb0001!showHomepage" id="system-title">
+<div class="system-sub-title">国・都道府県公式公益法人行政総合情報サイト</div>
+<div class="system-name">
+<div>
+<span class="ms-gothic">公益法人</span>
+<span class="circle-logo"><span class="circle-str">i</span></span>
+<span class="times-new-roman">nformation</span>
+</div>
+</div>
+</div>
+</form>
+<div id="search">
+<form action="http://www.google.co.jp/search" id="searchBox" method="get">
+<input class="textbox" id="MF_form_phrase" name="q" title="検索キーワードを入力" type="text" value=""/>
+<input alt="検索" class="search_button" src="images/btn_serach.png" type="image"/>
+<input name="domains" type="hidden" value="koeki-info.go.jp"/>
+<input name="sitesearch" type="hidden" value="koeki-info.go.jp"/>
+<input name="as_oq" type="hidden"/>
+<input name="page" type="hidden" value="1"/>
+<input name="ie" type="hidden" value="UTF-8"/>
+<input name="tmpl" type="hidden" value="ja"/>
+</form>
+</div>
+<div class="clearfix-right"></div>
+<form method="get">
+<input id="transitionUrl" name="transitionUrl" type="hidden" value=""/>
+<ul id="headNavi">
+<li class="sitemap"><a href="/sitemap.html">サイトマップ</a></li>
+</ul>
+</form>
+</div>
+<!-- header-body end -->
+</div>
+<!-- header end -->
+<!-- main-content start -->
+<form id="mainForm" method="post">
+<input name="struts.token.name" type="hidden" value="token"/>
+<input name="token" type="hidden" value="NC05CDL2OG8A3EYWKTS6E5PWY70JJY0D"/>
+<div id="main-content">
+<!-- content-area start -->
+<div class="contents-area">
+<ul class="breadcrumbs">
+<li><i class="fa fa-home fa-lg"></i><a class="breadcrumbs-anchor" data-action="/pictis-info/bpc0001!show" href="#" name="back-to-previous-btn">ホーム</a></li>
+<li><span class="current">公益法人等の検索</span></li>
+</ul>
+<div class="alert alert-danger alert-dismissible display-none" id="errorMessageArea" role="alert">
+<button aria-label="Close" class="close" data-dismiss="alert" type="button">
+<span aria-hidden="true">×</span>
+</button>
+</div>
+<input id="state-tabIndex" name="stateTabFlag" type="hidden" value=""/>
+<input id="state-panelIndex" name="statePanelFlag" type="hidden" value=""/>
+<input id="store-accordion" name="storeAccordionFlag" type="hidden" value=""/>
+<input id="store-accordion2" name="storeAccordionFlag2" type="hidden" value=""/>
+<input id="store-accordion3" name="storeAccordionFlag3" type="hidden" value=""/>
+<input id="store-accordion4" name="storeAccordionFlag4" type="hidden" value=""/>
+<input id="sourceMapDownload" name="sourceMapDownload" type="hidden" value=""/>
+<input id="seqNumber" name="seqNumber" type="hidden" value=""/>
+<input id="prefCode" name="prefCode" type="hidden" value="">
+<input id="file-upload-upperSize" name="fileUPloadUpperSize" type="hidden" value="">
+<input id="file-upload-upperErrorMessage" name="fileUPloadUpperErrorMessage" type="hidden" value=""/>
+<input id="corpSeq" name="corpSeq" type="hidden" value=""/>
+<div class="screen-name">公益法人等の検索</div>
+<div class="sub-title">対象法人数</div>
+<div class="target-area margin-top-5">
+<div class="division-area">
+<ul>
+<li class="table-header total-name">公益法人</li>
+<li class="table-content total-name"><span id="corpDivision2XCnt"></span></li>
+</ul>
+<ul>
+<li class="table-header each-name"> 公益財団法人</li>
+<li class="table-content each-name"><span id="corpDivision20Cnt"></span></li>
+</ul>
+<ul>
+<li class="table-header each-name"> 公益社団法人</li>
+<li class="table-content each-name"><span id="corpDivision21Cnt"></span></li>
+</ul>
+</div>
+<div class="division-area">
+<ul>
+<li class="table-header total-name">一般法人</li>
+<li class="table-content total-name"><span id="corpDivision3XCnt"></span></li>
+</ul>
+<ul>
+<li class="table-header each-name"> 一般財団法人である移行法人</li>
+<li class="table-content each-name"><span id="corpDivision30Cnt"></span></li>
+</ul>
+<ul>
+<li class="table-header each-name"> 一般社団法人である移行法人</li>
+<li class="table-content each-name"><span id="corpDivision31Cnt"></span></li>
+</ul>
+</div>
+<div class="division-area">
+<ul>
+<li class="table-header total-name">公益信託</li>
+<li class="table-content total-name"><span id="corpDivision50Cnt"></span></li>
+</ul>
+</div>
+</div>
+<div class="msg-area">
+			「検索」ボタンをクリックすると検索条件と一致する法人数が表示されます。<br/>
+			「一覧表示」ボタンをクリックすると、表示されている法人件数の法人明細が一覧で表示されます。
+		</div>
+<div class="table-element margin-top-5">
+<div class="table-header width-200">検索条件</div>
+<div class="table-body">
+<div class="form-group margin-bottom-0">
+<div class="checkbox searchConditionListValidate">
+<div class="form-inline">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label><input checked="checked" id="searchCondition1" name="searchCondition1" type="checkbox" value="true"/><input id="__checkbox_searchCondition1" name="__checkbox_searchCondition1" type="hidden" value="true"/> 検索条件1</label>
+</div>
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label><input id="searchCondition2" name="searchCondition2" type="checkbox" value="true"/><input id="__checkbox_searchCondition2" name="__checkbox_searchCondition2" type="hidden" value="true"/> 検索条件2</label>
+</div>
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label><input id="searchCondition3" name="searchCondition3" type="checkbox" value="true"/><input id="__checkbox_searchCondition3" name="__checkbox_searchCondition3" type="hidden" value="true"/> 検索条件3</label>
+</div>
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label><input id="searchCondition4" name="searchCondition4" type="checkbox" value="true"/><input id="__checkbox_searchCondition4" name="__checkbox_searchCondition4" type="hidden" value="true"/> 検索条件4</label>
+</div>
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label><input id="searchCondition5" name="searchCondition5" type="checkbox" value="true"/><input id="__checkbox_searchCondition5" name="__checkbox_searchCondition5" type="hidden" value="true"/> 検索条件5</label>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elements margin-top-30 margin-bottom-5">
+<button class="btn btn-a pull-right margin-left-4 condition-clear-btn" data-action="csa0001!show" type="button">
+<i class="fa fa-eraser"></i>条件クリア
+			</button>
+<button class="btn btn-a pull-right margin-left-4 show-btn" data-action="csa0001!showSearchResult" type="button">
+<i class="fa fa-th-list"></i>一覧表示
+			</button>
+<button class="btn btn-a pull-right margin-top-4 search-btn" data-action="csa0001!countSearchResult" type="button">
+<i class="fa fa-search"></i>検索
+			</button>
+</div>
+<div class="clearfix"></div>
+<div class="sub-title margin-top-30">検索条件</div>
+<div class="boxes margin-top-20" style="margin-bottom:30px; margin-top: -80px;">
+<div class="boxes-title">
+<span aria-controls="collapseExample" aria-expanded="false" class="pull-left margin-top-2" data-toggle="collapse" href="#collapseExample1" role="button">
+<i class="fa fa-search"></i><span> 検索条件1　キーワード</span>
+</span>
+<span class="collapseExample1"></span>
+<div class="clearfix"></div>
+</div>
+<div class="collapse padding-top-10" data-id="CSA0001_1" id="collapseExample1">
+<table class="proc-style-table">
+<tbody>
+<tr>
+<td class="width-150">
+								キーワード
+							</td>
+<td>
+<div class="form-group margin-bottom-0">
+<input class="searchConditionForm1 form-control" id="keyword" name="keyword" type="text" value=""/>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="borderless-table margin-top-2 width-100-percent">
+<tbody>
+<tr>
+<td>
+								 
+							</td>
+<td class="width-180">
+<button class="btn btn-a pull-right margin-top-2" id="condition-1-clear-btn" type="button">
+<i class="fa fa-eraser"></i>クリア
+								</button>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="boxes margin-top-20" style="margin-bottom:30px; margin-top: -80px;">
+<div class="boxes-title">
+<span aria-controls="collapseExample" aria-expanded="false" class="pull-left margin-top-2" data-toggle="collapse" href="#collapseExample2" role="button">
+<i class="fa fa-search"></i><span> 検索条件2　法人区分</span>
+</span>
+<span class="collapseExample2"></span>
+<div class="clearfix"></div>
+</div>
+<div class="collapse padding-top-10" data-id="CSA0001_2" id="collapseExample2">
+<table class="proc-style-table">
+<tbody>
+<tr>
+<td class="width-160">
+								法人区分
+							</td>
+<td>
+<div class="corpdivision-grid">
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="corp-division-list searchConditionForm2" id="corpDivision" name="corpDivision" type="checkbox" value="20"/><input id="__checkbox_corpDivision" name="__checkbox_corpDivision" type="hidden" value="20"/>
+													公益財団法人
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="corp-division-list searchConditionForm2" id="corpDivision" name="corpDivision" type="checkbox" value="21"/><input id="__checkbox_corpDivision" name="__checkbox_corpDivision" type="hidden" value="21"/>
+													公益社団法人
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="corp-division-list searchConditionForm2" id="corpDivision" name="corpDivision" type="checkbox" value="30"/><input id="__checkbox_corpDivision" name="__checkbox_corpDivision" type="hidden" value="30"/>
+													一般財団法人である移行法人
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="corp-division-list searchConditionForm2" id="corpDivision" name="corpDivision" type="checkbox" value="31"/><input id="__checkbox_corpDivision" name="__checkbox_corpDivision" type="hidden" value="31"/>
+													一般社団法人である移行法人
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="corp-division-list searchConditionForm2" id="corpDivision" name="corpDivision" type="checkbox" value="50"/><input id="__checkbox_corpDivision" name="__checkbox_corpDivision" type="hidden" value="50"/>
+													公益信託
+												</label>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="width-150">
+								法人番号
+							</td>
+<td>
+<div class="form-group margin-bottom-0">
+<input class="form-control width-400 searchConditionForm2" id="corpNumber" name="corpNumber" type="text" value=""/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="width-150">
+								法人コード
+							</td>
+<td>
+<div class="form-group margin-bottom-0">
+<input class="form-control width-400 searchConditionForm2" id="corpCode" name="corpCode" type="text" value=""/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="width-150">
+								法人名
+							</td>
+<td>
+<div class="form-group margin-bottom-0 corpNameValidate">
+<input class="form-control searchConditionForm2" id="corpName" name="corpName" type="text" value=""/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="width-150">
+								税額控除対象法人
+							</td>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="searchConditionForm2" id="taxDeductionAffectAccordingFlg" name="taxDeductionAffectAccordingFlg" type="checkbox" value="true"/><input id="__checkbox_taxDeductionAffectAccordingFlg" name="__checkbox_taxDeductionAffectAccordingFlg" type="hidden" value="true"/>
+											 対象法人のみ
+										</label>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="borderless-table margin-top-2 width-100-percent">
+<tbody>
+<tr>
+<td>
+								 
+							</td>
+<td class="width-180">
+<button class="btn btn-a pull-right margin-top-2" id="condition-2-clear-btn" type="button">
+<i class="fa fa-eraser"></i>クリア
+								</button>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="boxes margin-top-20" style="margin-bottom:30px; margin-top: -80px;">
+<div class="boxes-title">
+<span aria-controls="collapseExample" aria-expanded="false" class="pull-left margin-top-2" data-toggle="collapse" href="#collapseExample3" role="button">
+<i class="fa fa-search"></i><span> 検索条件3　主たる事務所</span>
+</span>
+<span class="collapseExample3"></span>
+<div class="clearfix"></div>
+</div>
+<div class="collapse padding-top-10" data-id="CSA0001_3" id="collapseExample3">
+<table class="proc-style-table">
+<tbody>
+<tr>
+<td class="width-150">
+								都道府県
+							</td>
+<td>
+<div class="form-group margin-bottom-0">
+<select class="form-control width-110 searchConditionForm3" id="addrPref" name="addrPref">
+<option value=""></option>
+<option value="北海道">北海道</option>
+<option value="青森県">青森県</option>
+<option value="岩手県">岩手県</option>
+<option value="宮城県">宮城県</option>
+<option value="秋田県">秋田県</option>
+<option value="山形県">山形県</option>
+<option value="福島県">福島県</option>
+<option value="茨城県">茨城県</option>
+<option value="栃木県">栃木県</option>
+<option value="群馬県">群馬県</option>
+<option value="埼玉県">埼玉県</option>
+<option value="千葉県">千葉県</option>
+<option value="東京都">東京都</option>
+<option value="神奈川県">神奈川県</option>
+<option value="新潟県">新潟県</option>
+<option value="富山県">富山県</option>
+<option value="石川県">石川県</option>
+<option value="福井県">福井県</option>
+<option value="山梨県">山梨県</option>
+<option value="長野県">長野県</option>
+<option value="岐阜県">岐阜県</option>
+<option value="静岡県">静岡県</option>
+<option value="愛知県">愛知県</option>
+<option value="三重県">三重県</option>
+<option value="滋賀県">滋賀県</option>
+<option value="京都府">京都府</option>
+<option value="大阪府">大阪府</option>
+<option value="兵庫県">兵庫県</option>
+<option value="奈良県">奈良県</option>
+<option value="和歌山県">和歌山県</option>
+<option value="鳥取県">鳥取県</option>
+<option value="島根県">島根県</option>
+<option value="岡山県">岡山県</option>
+<option value="広島県">広島県</option>
+<option value="山口県">山口県</option>
+<option value="徳島県">徳島県</option>
+<option value="香川県">香川県</option>
+<option value="愛媛県">愛媛県</option>
+<option value="高知県">高知県</option>
+<option value="福岡県">福岡県</option>
+<option value="佐賀県">佐賀県</option>
+<option value="長崎県">長崎県</option>
+<option value="熊本県">熊本県</option>
+<option value="大分県">大分県</option>
+<option value="宮崎県">宮崎県</option>
+<option value="鹿児島県">鹿児島県</option>
+<option value="沖縄県">沖縄県</option>
+</select>
+</div>
+</td>
+</tr>
+<tr>
+<td class="width-150">
+								郵便番号
+							</td>
+<td>
+<div class="form-group margin-bottom-0">
+<input class="form-control width-400 searchConditionForm3" id="postal" name="postal" type="text" value=""/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="width-150">
+								住所
+							</td>
+<td>
+<div class="form-group margin-bottom-0 addrValidate">
+<input class="form-control searchConditionForm3" id="addr" name="addr" type="text" value=""/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="width-150">
+								代表電話番号
+							</td>
+<td>
+<div class="form-group margin-bottom-0">
+<input class="form-control width-400 searchConditionForm3" id="representTel" name="representTel" type="text" value=""/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="width-150">
+								代表者名
+							</td>
+<td>
+<div class="form-group margin-bottom-0">
+<input class="form-control searchConditionForm3" id="delegateName" name="delegateName" type="text" value=""/>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="borderless-table margin-top-2 width-100-percent">
+<tbody>
+<tr>
+<td>
+								 
+							</td>
+<td class="width-180">
+<button class="btn btn-a pull-right margin-top-2" id="condition-3-clear-btn" type="button">
+<i class="fa fa-eraser"></i>クリア
+								</button>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="boxes margin-top-20" style="margin-bottom:30px; margin-top: -80px;">
+<div class="boxes-title">
+<span aria-controls="collapseExample" aria-expanded="false" class="pull-left margin-top-2" data-toggle="collapse" href="#collapseExample4" role="button">
+<i class="fa fa-search"></i><span> 検索条件4　事業目的</span>
+</span>
+<span class="collapseExample4"></span>
+<div class="clearfix"></div>
+</div>
+<div class="collapse padding-top-10" data-id="CSA0001_4" id="collapseExample4">
+<table class="proc-style-table">
+<tbody>
+<tr>
+<td class="width-150">
+								事業目的<br/>
+								(複数選択可能)
+							</td>
+<td>
+<div class="businesskind-grid">
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="1"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="1"/>
+													学術・科学技術
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="2"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="2"/>
+													文化及び技術
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="3"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="3"/>
+													被害者支援等
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="4"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="4"/>
+													高齢者福祉
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="5"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="5"/>
+													就労の支援
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="6"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="6"/>
+													公衆衛生向上
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="7"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="7"/>
+													児童等健全育成
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="8"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="8"/>
+													勤労者福祉
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="9"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="9"/>
+													教育、スポーツ
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="10"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="10"/>
+													犯罪防止等
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="11"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="11"/>
+													事故災害防止
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="12"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="12"/>
+													差別被害防止
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="13"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="13"/>
+													思想信教の自由
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="14"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="14"/>
+													男女共同参画等
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="15"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="15"/>
+													海外経済協力
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="16"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="16"/>
+													地球環境保全
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="17"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="17"/>
+													国土利用整備
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="18"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="18"/>
+													国政の健全運営
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="19"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="19"/>
+													地域社会発展
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="20"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="20"/>
+													経済機会確保
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="21"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="21"/>
+													物資等安定確保
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="22"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="22"/>
+													消費者利益擁護
+												</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox margin-bottom-0 margin-top-0">
+<label>
+<input class="business-kind-list" id="businessKind" name="businessKind" type="checkbox" value="23"/><input id="__checkbox_businessKind" name="__checkbox_businessKind" type="hidden" value="23"/>
+													その他
+												</label>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="elements margin-top-5 margin-bottom-5">
+<button class="btn btn-a pull-right margin-left-4" id="condition-4-clear-btn" type="button">
+<i class="fa fa-eraser"></i>クリア
+					</button>
+<button class="btn btn-a pull-right margin-left-4" id="checkbox-4-all-select" type="button">
+<i class="fa fa-plus"></i>全選択
+					</button>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="boxes margin-top-20" style="margin-bottom:30px; margin-top: -80px;">
+<div class="boxes-title">
+<span aria-controls="collapseExample" aria-expanded="false" class="pull-left margin-top-2" data-toggle="collapse" href="#collapseExample5" role="button">
+<i class="fa fa-search"></i><span> 検索条件5　行政庁</span>
+</span>
+<span class="collapseExample5"></span>
+<div class="clearfix"></div>
+</div>
+<div class="collapse padding-top-10" data-id="CSA0001_5" id="collapseExample5">
+<table class="proc-style-table">
+<tbody>
+<tr>
+<td class="width-150" rowspan="11">
+								行政庁<br/>
+								(複数選択可能)
+							</td>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate">
+<label>
+<input class="pref-agency-list" id="prefAgencyList0_0__checked" name="prefAgencyList0[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList0_0__checked" name="__checkbox_prefAgencyList0[0].checked" type="hidden" value="true"/>
+												内閣府
+												<input id="prefAgencyList0_0__prefAgencyName" name="prefAgencyList0[0].prefAgencyName" type="hidden" value="内閣府"/>
+<input id="prefAgencyList0_0__prefAgencyCode" name="prefAgencyList0[0].prefAgencyCode" type="hidden" value="0000"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate">
+<label>
+<input class="pref-agency-list" id="prefAgencyList1_0__checked" name="prefAgencyList1[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList1_0__checked" name="__checkbox_prefAgencyList1[0].checked" type="hidden" value="true"/>
+												北海道
+												<input id="prefAgencyList1_0__prefAgencyName" name="prefAgencyList1[0].prefAgencyName" type="hidden" value="北海道"/>
+<input id="prefAgencyList1_0__prefAgencyCode" name="prefAgencyList1[0].prefAgencyCode" type="hidden" value="0001"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList2_0__checked" name="prefAgencyList2[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList2_0__checked" name="__checkbox_prefAgencyList2[0].checked" type="hidden" value="true"/>
+												青森県
+												<input id="prefAgencyList2_0__prefAgencyName" name="prefAgencyList2[0].prefAgencyName" type="hidden" value="青森県"/>
+<input id="prefAgencyList2_0__prefAgencyCode" name="prefAgencyList2[0].prefAgencyCode" type="hidden" value="0002"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList2_1__checked" name="prefAgencyList2[1].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList2_1__checked" name="__checkbox_prefAgencyList2[1].checked" type="hidden" value="true"/>
+												岩手県
+												<input id="prefAgencyList2_1__prefAgencyName" name="prefAgencyList2[1].prefAgencyName" type="hidden" value="岩手県"/>
+<input id="prefAgencyList2_1__prefAgencyCode" name="prefAgencyList2[1].prefAgencyCode" type="hidden" value="0003"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList2_2__checked" name="prefAgencyList2[2].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList2_2__checked" name="__checkbox_prefAgencyList2[2].checked" type="hidden" value="true"/>
+												宮城県
+												<input id="prefAgencyList2_2__prefAgencyName" name="prefAgencyList2[2].prefAgencyName" type="hidden" value="宮城県"/>
+<input id="prefAgencyList2_2__prefAgencyCode" name="prefAgencyList2[2].prefAgencyCode" type="hidden" value="0004"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList2_3__checked" name="prefAgencyList2[3].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList2_3__checked" name="__checkbox_prefAgencyList2[3].checked" type="hidden" value="true"/>
+												秋田県
+												<input id="prefAgencyList2_3__prefAgencyName" name="prefAgencyList2[3].prefAgencyName" type="hidden" value="秋田県"/>
+<input id="prefAgencyList2_3__prefAgencyCode" name="prefAgencyList2[3].prefAgencyCode" type="hidden" value="0005"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList2_4__checked" name="prefAgencyList2[4].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList2_4__checked" name="__checkbox_prefAgencyList2[4].checked" type="hidden" value="true"/>
+												山形県
+												<input id="prefAgencyList2_4__prefAgencyName" name="prefAgencyList2[4].prefAgencyName" type="hidden" value="山形県"/>
+<input id="prefAgencyList2_4__prefAgencyCode" name="prefAgencyList2[4].prefAgencyCode" type="hidden" value="0006"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList2_5__checked" name="prefAgencyList2[5].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList2_5__checked" name="__checkbox_prefAgencyList2[5].checked" type="hidden" value="true"/>
+												福島県
+												<input id="prefAgencyList2_5__prefAgencyName" name="prefAgencyList2[5].prefAgencyName" type="hidden" value="福島県"/>
+<input id="prefAgencyList2_5__prefAgencyCode" name="prefAgencyList2[5].prefAgencyCode" type="hidden" value="0007"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList3_0__checked" name="prefAgencyList3[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList3_0__checked" name="__checkbox_prefAgencyList3[0].checked" type="hidden" value="true"/>
+												茨城県
+												<input id="prefAgencyList3_0__prefAgencyName" name="prefAgencyList3[0].prefAgencyName" type="hidden" value="茨城県"/>
+<input id="prefAgencyList3_0__prefAgencyCode" name="prefAgencyList3[0].prefAgencyCode" type="hidden" value="0008"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList3_1__checked" name="prefAgencyList3[1].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList3_1__checked" name="__checkbox_prefAgencyList3[1].checked" type="hidden" value="true"/>
+												栃木県
+												<input id="prefAgencyList3_1__prefAgencyName" name="prefAgencyList3[1].prefAgencyName" type="hidden" value="栃木県"/>
+<input id="prefAgencyList3_1__prefAgencyCode" name="prefAgencyList3[1].prefAgencyCode" type="hidden" value="0009"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList3_2__checked" name="prefAgencyList3[2].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList3_2__checked" name="__checkbox_prefAgencyList3[2].checked" type="hidden" value="true"/>
+												群馬県
+												<input id="prefAgencyList3_2__prefAgencyName" name="prefAgencyList3[2].prefAgencyName" type="hidden" value="群馬県"/>
+<input id="prefAgencyList3_2__prefAgencyCode" name="prefAgencyList3[2].prefAgencyCode" type="hidden" value="0010"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList3_3__checked" name="prefAgencyList3[3].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList3_3__checked" name="__checkbox_prefAgencyList3[3].checked" type="hidden" value="true"/>
+												埼玉県
+												<input id="prefAgencyList3_3__prefAgencyName" name="prefAgencyList3[3].prefAgencyName" type="hidden" value="埼玉県"/>
+<input id="prefAgencyList3_3__prefAgencyCode" name="prefAgencyList3[3].prefAgencyCode" type="hidden" value="0011"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList3_4__checked" name="prefAgencyList3[4].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList3_4__checked" name="__checkbox_prefAgencyList3[4].checked" type="hidden" value="true"/>
+												千葉県
+												<input id="prefAgencyList3_4__prefAgencyName" name="prefAgencyList3[4].prefAgencyName" type="hidden" value="千葉県"/>
+<input id="prefAgencyList3_4__prefAgencyCode" name="prefAgencyList3[4].prefAgencyCode" type="hidden" value="0012"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList3_5__checked" name="prefAgencyList3[5].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList3_5__checked" name="__checkbox_prefAgencyList3[5].checked" type="hidden" value="true"/>
+												東京都
+												<input id="prefAgencyList3_5__prefAgencyName" name="prefAgencyList3[5].prefAgencyName" type="hidden" value="東京都"/>
+<input id="prefAgencyList3_5__prefAgencyCode" name="prefAgencyList3[5].prefAgencyCode" type="hidden" value="0013"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList3_6__checked" name="prefAgencyList3[6].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList3_6__checked" name="__checkbox_prefAgencyList3[6].checked" type="hidden" value="true"/>
+												神奈川県
+												<input id="prefAgencyList3_6__prefAgencyName" name="prefAgencyList3[6].prefAgencyName" type="hidden" value="神奈川県"/>
+<input id="prefAgencyList3_6__prefAgencyCode" name="prefAgencyList3[6].prefAgencyCode" type="hidden" value="0014"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList4_0__checked" name="prefAgencyList4[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList4_0__checked" name="__checkbox_prefAgencyList4[0].checked" type="hidden" value="true"/>
+												新潟県
+												<input id="prefAgencyList4_0__prefAgencyName" name="prefAgencyList4[0].prefAgencyName" type="hidden" value="新潟県"/>
+<input id="prefAgencyList4_0__prefAgencyCode" name="prefAgencyList4[0].prefAgencyCode" type="hidden" value="0015"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList4_1__checked" name="prefAgencyList4[1].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList4_1__checked" name="__checkbox_prefAgencyList4[1].checked" type="hidden" value="true"/>
+												山梨県
+												<input id="prefAgencyList4_1__prefAgencyName" name="prefAgencyList4[1].prefAgencyName" type="hidden" value="山梨県"/>
+<input id="prefAgencyList4_1__prefAgencyCode" name="prefAgencyList4[1].prefAgencyCode" type="hidden" value="0019"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList4_2__checked" name="prefAgencyList4[2].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList4_2__checked" name="__checkbox_prefAgencyList4[2].checked" type="hidden" value="true"/>
+												長野県
+												<input id="prefAgencyList4_2__prefAgencyName" name="prefAgencyList4[2].prefAgencyName" type="hidden" value="長野県"/>
+<input id="prefAgencyList4_2__prefAgencyCode" name="prefAgencyList4[2].prefAgencyCode" type="hidden" value="0020"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList5_0__checked" name="prefAgencyList5[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList5_0__checked" name="__checkbox_prefAgencyList5[0].checked" type="hidden" value="true"/>
+												富山県
+												<input id="prefAgencyList5_0__prefAgencyName" name="prefAgencyList5[0].prefAgencyName" type="hidden" value="富山県"/>
+<input id="prefAgencyList5_0__prefAgencyCode" name="prefAgencyList5[0].prefAgencyCode" type="hidden" value="0016"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList5_1__checked" name="prefAgencyList5[1].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList5_1__checked" name="__checkbox_prefAgencyList5[1].checked" type="hidden" value="true"/>
+												石川県
+												<input id="prefAgencyList5_1__prefAgencyName" name="prefAgencyList5[1].prefAgencyName" type="hidden" value="石川県"/>
+<input id="prefAgencyList5_1__prefAgencyCode" name="prefAgencyList5[1].prefAgencyCode" type="hidden" value="0017"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList5_2__checked" name="prefAgencyList5[2].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList5_2__checked" name="__checkbox_prefAgencyList5[2].checked" type="hidden" value="true"/>
+												福井県
+												<input id="prefAgencyList5_2__prefAgencyName" name="prefAgencyList5[2].prefAgencyName" type="hidden" value="福井県"/>
+<input id="prefAgencyList5_2__prefAgencyCode" name="prefAgencyList5[2].prefAgencyCode" type="hidden" value="0018"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList6_0__checked" name="prefAgencyList6[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList6_0__checked" name="__checkbox_prefAgencyList6[0].checked" type="hidden" value="true"/>
+												岐阜県
+												<input id="prefAgencyList6_0__prefAgencyName" name="prefAgencyList6[0].prefAgencyName" type="hidden" value="岐阜県"/>
+<input id="prefAgencyList6_0__prefAgencyCode" name="prefAgencyList6[0].prefAgencyCode" type="hidden" value="0021"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList6_1__checked" name="prefAgencyList6[1].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList6_1__checked" name="__checkbox_prefAgencyList6[1].checked" type="hidden" value="true"/>
+												静岡県
+												<input id="prefAgencyList6_1__prefAgencyName" name="prefAgencyList6[1].prefAgencyName" type="hidden" value="静岡県"/>
+<input id="prefAgencyList6_1__prefAgencyCode" name="prefAgencyList6[1].prefAgencyCode" type="hidden" value="0022"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList6_2__checked" name="prefAgencyList6[2].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList6_2__checked" name="__checkbox_prefAgencyList6[2].checked" type="hidden" value="true"/>
+												愛知県
+												<input id="prefAgencyList6_2__prefAgencyName" name="prefAgencyList6[2].prefAgencyName" type="hidden" value="愛知県"/>
+<input id="prefAgencyList6_2__prefAgencyCode" name="prefAgencyList6[2].prefAgencyCode" type="hidden" value="0023"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList6_3__checked" name="prefAgencyList6[3].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList6_3__checked" name="__checkbox_prefAgencyList6[3].checked" type="hidden" value="true"/>
+												三重県
+												<input id="prefAgencyList6_3__prefAgencyName" name="prefAgencyList6[3].prefAgencyName" type="hidden" value="三重県"/>
+<input id="prefAgencyList6_3__prefAgencyCode" name="prefAgencyList6[3].prefAgencyCode" type="hidden" value="0024"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList7_0__checked" name="prefAgencyList7[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList7_0__checked" name="__checkbox_prefAgencyList7[0].checked" type="hidden" value="true"/>
+												滋賀県
+												<input id="prefAgencyList7_0__prefAgencyName" name="prefAgencyList7[0].prefAgencyName" type="hidden" value="滋賀県"/>
+<input id="prefAgencyList7_0__prefAgencyCode" name="prefAgencyList7[0].prefAgencyCode" type="hidden" value="0025"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList7_1__checked" name="prefAgencyList7[1].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList7_1__checked" name="__checkbox_prefAgencyList7[1].checked" type="hidden" value="true"/>
+												京都府
+												<input id="prefAgencyList7_1__prefAgencyName" name="prefAgencyList7[1].prefAgencyName" type="hidden" value="京都府"/>
+<input id="prefAgencyList7_1__prefAgencyCode" name="prefAgencyList7[1].prefAgencyCode" type="hidden" value="0026"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList7_2__checked" name="prefAgencyList7[2].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList7_2__checked" name="__checkbox_prefAgencyList7[2].checked" type="hidden" value="true"/>
+												大阪府
+												<input id="prefAgencyList7_2__prefAgencyName" name="prefAgencyList7[2].prefAgencyName" type="hidden" value="大阪府"/>
+<input id="prefAgencyList7_2__prefAgencyCode" name="prefAgencyList7[2].prefAgencyCode" type="hidden" value="0027"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList7_3__checked" name="prefAgencyList7[3].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList7_3__checked" name="__checkbox_prefAgencyList7[3].checked" type="hidden" value="true"/>
+												兵庫県
+												<input id="prefAgencyList7_3__prefAgencyName" name="prefAgencyList7[3].prefAgencyName" type="hidden" value="兵庫県"/>
+<input id="prefAgencyList7_3__prefAgencyCode" name="prefAgencyList7[3].prefAgencyCode" type="hidden" value="0028"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList7_4__checked" name="prefAgencyList7[4].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList7_4__checked" name="__checkbox_prefAgencyList7[4].checked" type="hidden" value="true"/>
+												奈良県
+												<input id="prefAgencyList7_4__prefAgencyName" name="prefAgencyList7[4].prefAgencyName" type="hidden" value="奈良県"/>
+<input id="prefAgencyList7_4__prefAgencyCode" name="prefAgencyList7[4].prefAgencyCode" type="hidden" value="0029"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList7_5__checked" name="prefAgencyList7[5].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList7_5__checked" name="__checkbox_prefAgencyList7[5].checked" type="hidden" value="true"/>
+												和歌山県
+												<input id="prefAgencyList7_5__prefAgencyName" name="prefAgencyList7[5].prefAgencyName" type="hidden" value="和歌山県"/>
+<input id="prefAgencyList7_5__prefAgencyCode" name="prefAgencyList7[5].prefAgencyCode" type="hidden" value="0030"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList8_0__checked" name="prefAgencyList8[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList8_0__checked" name="__checkbox_prefAgencyList8[0].checked" type="hidden" value="true"/>
+												鳥取県
+												<input id="prefAgencyList8_0__prefAgencyName" name="prefAgencyList8[0].prefAgencyName" type="hidden" value="鳥取県"/>
+<input id="prefAgencyList8_0__prefAgencyCode" name="prefAgencyList8[0].prefAgencyCode" type="hidden" value="0031"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList8_1__checked" name="prefAgencyList8[1].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList8_1__checked" name="__checkbox_prefAgencyList8[1].checked" type="hidden" value="true"/>
+												島根県
+												<input id="prefAgencyList8_1__prefAgencyName" name="prefAgencyList8[1].prefAgencyName" type="hidden" value="島根県"/>
+<input id="prefAgencyList8_1__prefAgencyCode" name="prefAgencyList8[1].prefAgencyCode" type="hidden" value="0032"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList8_2__checked" name="prefAgencyList8[2].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList8_2__checked" name="__checkbox_prefAgencyList8[2].checked" type="hidden" value="true"/>
+												岡山県
+												<input id="prefAgencyList8_2__prefAgencyName" name="prefAgencyList8[2].prefAgencyName" type="hidden" value="岡山県"/>
+<input id="prefAgencyList8_2__prefAgencyCode" name="prefAgencyList8[2].prefAgencyCode" type="hidden" value="0033"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList8_3__checked" name="prefAgencyList8[3].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList8_3__checked" name="__checkbox_prefAgencyList8[3].checked" type="hidden" value="true"/>
+												広島県
+												<input id="prefAgencyList8_3__prefAgencyName" name="prefAgencyList8[3].prefAgencyName" type="hidden" value="広島県"/>
+<input id="prefAgencyList8_3__prefAgencyCode" name="prefAgencyList8[3].prefAgencyCode" type="hidden" value="0034"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList8_4__checked" name="prefAgencyList8[4].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList8_4__checked" name="__checkbox_prefAgencyList8[4].checked" type="hidden" value="true"/>
+												山口県
+												<input id="prefAgencyList8_4__prefAgencyName" name="prefAgencyList8[4].prefAgencyName" type="hidden" value="山口県"/>
+<input id="prefAgencyList8_4__prefAgencyCode" name="prefAgencyList8[4].prefAgencyCode" type="hidden" value="0035"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList9_0__checked" name="prefAgencyList9[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList9_0__checked" name="__checkbox_prefAgencyList9[0].checked" type="hidden" value="true"/>
+												徳島県
+												<input id="prefAgencyList9_0__prefAgencyName" name="prefAgencyList9[0].prefAgencyName" type="hidden" value="徳島県"/>
+<input id="prefAgencyList9_0__prefAgencyCode" name="prefAgencyList9[0].prefAgencyCode" type="hidden" value="0036"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList9_1__checked" name="prefAgencyList9[1].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList9_1__checked" name="__checkbox_prefAgencyList9[1].checked" type="hidden" value="true"/>
+												愛媛県
+												<input id="prefAgencyList9_1__prefAgencyName" name="prefAgencyList9[1].prefAgencyName" type="hidden" value="愛媛県"/>
+<input id="prefAgencyList9_1__prefAgencyCode" name="prefAgencyList9[1].prefAgencyCode" type="hidden" value="0038"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList9_2__checked" name="prefAgencyList9[2].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList9_2__checked" name="__checkbox_prefAgencyList9[2].checked" type="hidden" value="true"/>
+												香川県
+												<input id="prefAgencyList9_2__prefAgencyName" name="prefAgencyList9[2].prefAgencyName" type="hidden" value="香川県"/>
+<input id="prefAgencyList9_2__prefAgencyCode" name="prefAgencyList9[2].prefAgencyCode" type="hidden" value="0037"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList9_3__checked" name="prefAgencyList9[3].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList9_3__checked" name="__checkbox_prefAgencyList9[3].checked" type="hidden" value="true"/>
+												高知県
+												<input id="prefAgencyList9_3__prefAgencyName" name="prefAgencyList9[3].prefAgencyName" type="hidden" value="高知県"/>
+<input id="prefAgencyList9_3__prefAgencyCode" name="prefAgencyList9[3].prefAgencyCode" type="hidden" value="0039"/>
+</label>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList10_0__checked" name="prefAgencyList10[0].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList10_0__checked" name="__checkbox_prefAgencyList10[0].checked" type="hidden" value="true"/>
+												福岡県
+												<input id="prefAgencyList10_0__prefAgencyName" name="prefAgencyList10[0].prefAgencyName" type="hidden" value="福岡県"/>
+<input id="prefAgencyList10_0__prefAgencyCode" name="prefAgencyList10[0].prefAgencyCode" type="hidden" value="0040"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList10_1__checked" name="prefAgencyList10[1].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList10_1__checked" name="__checkbox_prefAgencyList10[1].checked" type="hidden" value="true"/>
+												佐賀県
+												<input id="prefAgencyList10_1__prefAgencyName" name="prefAgencyList10[1].prefAgencyName" type="hidden" value="佐賀県"/>
+<input id="prefAgencyList10_1__prefAgencyCode" name="prefAgencyList10[1].prefAgencyCode" type="hidden" value="0041"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList10_2__checked" name="prefAgencyList10[2].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList10_2__checked" name="__checkbox_prefAgencyList10[2].checked" type="hidden" value="true"/>
+												長崎県
+												<input id="prefAgencyList10_2__prefAgencyName" name="prefAgencyList10[2].prefAgencyName" type="hidden" value="長崎県"/>
+<input id="prefAgencyList10_2__prefAgencyCode" name="prefAgencyList10[2].prefAgencyCode" type="hidden" value="0042"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList10_3__checked" name="prefAgencyList10[3].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList10_3__checked" name="__checkbox_prefAgencyList10[3].checked" type="hidden" value="true"/>
+												熊本県
+												<input id="prefAgencyList10_3__prefAgencyName" name="prefAgencyList10[3].prefAgencyName" type="hidden" value="熊本県"/>
+<input id="prefAgencyList10_3__prefAgencyCode" name="prefAgencyList10[3].prefAgencyCode" type="hidden" value="0043"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList10_4__checked" name="prefAgencyList10[4].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList10_4__checked" name="__checkbox_prefAgencyList10[4].checked" type="hidden" value="true"/>
+												大分県
+												<input id="prefAgencyList10_4__prefAgencyName" name="prefAgencyList10[4].prefAgencyName" type="hidden" value="大分県"/>
+<input id="prefAgencyList10_4__prefAgencyCode" name="prefAgencyList10[4].prefAgencyCode" type="hidden" value="0044"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList10_5__checked" name="prefAgencyList10[5].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList10_5__checked" name="__checkbox_prefAgencyList10[5].checked" type="hidden" value="true"/>
+												宮崎県
+												<input id="prefAgencyList10_5__prefAgencyName" name="prefAgencyList10[5].prefAgencyName" type="hidden" value="宮崎県"/>
+<input id="prefAgencyList10_5__prefAgencyCode" name="prefAgencyList10[5].prefAgencyCode" type="hidden" value="0045"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList10_6__checked" name="prefAgencyList10[6].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList10_6__checked" name="__checkbox_prefAgencyList10[6].checked" type="hidden" value="true"/>
+												鹿児島県
+												<input id="prefAgencyList10_6__prefAgencyName" name="prefAgencyList10[6].prefAgencyName" type="hidden" value="鹿児島県"/>
+<input id="prefAgencyList10_6__prefAgencyCode" name="prefAgencyList10[6].prefAgencyCode" type="hidden" value="0046"/>
+</label>
+</div>
+</div>
+<div class="float-left margin-right-20">
+<div class="checkbox prefAgencyListValidate margin-bottom-0 margin-top-0">
+<label>
+<input class="pref-agency-list" id="prefAgencyList10_7__checked" name="prefAgencyList10[7].checked" type="checkbox" value="true"/><input id="__checkbox_prefAgencyList10_7__checked" name="__checkbox_prefAgencyList10[7].checked" type="hidden" value="true"/>
+												沖縄県
+												<input id="prefAgencyList10_7__prefAgencyName" name="prefAgencyList10[7].prefAgencyName" type="hidden" value="沖縄県"/>
+<input id="prefAgencyList10_7__prefAgencyCode" name="prefAgencyList10[7].prefAgencyCode" type="hidden" value="0047"/>
+</label>
+</div>
+</div>
+<div class="clearfix"></div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="elements margin-top-5 margin-bottom-5">
+<button class="btn btn-a pull-right margin-left-4" id="condition-5-clear-btn" type="button">
+<i class="fa fa-eraser"></i>クリア
+					</button>
+<button class="btn btn-a pull-right margin-left-4" id="checkbox-5-all-select" type="button">
+<i class="fa fa-plus"></i>全選択
+					</button>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="elements margin-top-30 margin-bottom-5">
+<button class="btn btn-a pull-right margin-left-4 condition-clear-btn" data-action="csa0001!show" type="button">
+<i class="fa fa-eraser"></i>条件クリア
+			</button>
+<button class="btn btn-a pull-right margin-left-4 show-btn" data-action="csa0001!showSearchResult" type="button">
+<i class="fa fa-th-list"></i>一覧表示
+			</button>
+<button class="btn btn-a pull-right margin-top-4 search-btn" data-action="csa0001!countSearchResult" type="button">
+<i class="fa fa-search"></i>検索
+			</button>
+</div>
+<div class="clearfix"></div>
+<div id="result-display">
+<div class="sub-title">検索結果一覧</div>
+<div class="margin-bottom-10">
+<span>検索の結果は以下の通りです。 </span>
+</div>
+<script type="text/javascript">
+		//<!--
+			$(document).ready(function() {
+				$('.csa0001disp-counter').on('change', function(e) {
+					e.preventDefault();
+					overlay('on');
+					 var formToken = $(this).parents('form').find('[name=token]').val();  
+					 if (formToken == null || formToken == '' || formToken == undefined) {  
+						 $('<input>').attr({'type': 'hidden', 'name': 'token', 'value': $('[name=token]').val()}).appendTo($(this).parents('form')); 
+					 } 
+						 $('<input>').attr({'type': 'hidden', 'name': 'stateTabFlag', 'value': $('#state-tabIndex').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'statePanelFlag', 'value': $('#state-panelIndex').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'storeAccordionFlag', 'value': $('#store-accordion').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'storeAccordionFlag2', 'value': $('#store-accordion2').val()}).appendTo($(this).parents('form')); 
+					$(this).parents('form').attr('action', '/pictis-info/' + $(this).data('action') + '!dispCountChange');
+					$(this).parents('form').submit();
+				});
+
+				$('.csa0001paginate_button_previous').on('click', function(e) {
+					e.preventDefault();
+					if($(this).parents('li').hasClass('disabled')) {
+						return false;
+					}
+					overlay('on');
+					 var formToken = $(this).parents('form').find('[name=token]').val();  
+					 if (formToken == null || formToken == '' || formToken == undefined) {  
+						 $('<input>').attr({'type': 'hidden', 'name': 'token', 'value': $('[name=token]').val()}).appendTo($(this).parents('form')); 
+					 } 
+						 $('<input>').attr({'type': 'hidden', 'name': 'stateTabFlag', 'value': $('#state-tabIndex').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'statePanelFlag', 'value': $('#state-panelIndex').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'storeAccordionFlag', 'value': $('#store-accordion').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'storeAccordionFlag2', 'value': $('#store-accordion2').val()}).appendTo($(this).parents('form')); 
+					$(this).parents('form').attr('action', '/pictis-info/' + $(this).data('action') + '!prevShow');
+					$(this).parents('form').submit();
+				});
+
+				$('.csa0001paginate_button_next').on('click', function(e) {
+					e.preventDefault();
+					if($(this).parents('li').hasClass('disabled')) {
+						return false;
+					}
+					overlay('on');
+					 var formToken = $(this).parents('form').find('[name=token]').val();  
+					 if (formToken == null || formToken == '' || formToken == undefined) {  
+						 $('<input>').attr({'type': 'hidden', 'name': 'token', 'value': $('[name=token]').val()}).appendTo($(this).parents('form')); 
+					 } 
+						 $('<input>').attr({'type': 'hidden', 'name': 'stateTabFlag', 'value': $('#state-tabIndex').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'statePanelFlag', 'value': $('#state-panelIndex').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'storeAccordionFlag', 'value': $('#store-accordion').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'storeAccordionFlag2', 'value': $('#store-accordion2').val()}).appendTo($(this).parents('form')); 
+					$(this).parents('form').attr('action', '/pictis-info/' + $(this).data('action') + '!nextShow');
+					$(this).parents('form').submit();
+				});
+
+				$('.csa0001paginate_button_number').on('click', function(e) {
+					e.preventDefault();
+					if($(this).parents('li').hasClass('disabled')) {
+						return false;
+					}
+					if($(this).parents('li').hasClass('active') || $(this).parents('li').hasClass('active')) {
+						return false;
+					}
+					overlay('on');
+					 var formToken = $(this).parents('form').find('[name=token]').val();  
+					 if (formToken == null || formToken == '' || formToken == undefined) {  
+						 $('<input>').attr({'type': 'hidden', 'name': 'token', 'value': $('[name=token]').val()}).appendTo($(this).parents('form')); 
+					 } 
+						 $('<input>').attr({'type': 'hidden', 'name': 'stateTabFlag', 'value': $('#state-tabIndex').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'statePanelFlag', 'value': $('#state-panelIndex').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'storeAccordionFlag', 'value': $('#store-accordion').val()}).appendTo($(this).parents('form')); 
+						 $('<input>').attr({'type': 'hidden', 'name': 'storeAccordionFlag2', 'value': $('#store-accordion2').val()}).appendTo($(this).parents('form')); 
+					$('#csa0001selected-page-index').val($(this).data('pagenumber'));
+					$(this).parents('form').attr('action', '/pictis-info/' + $(this).data('action') + '!pageShow');
+					$(this).parents('form').submit();
+				});
+
+				$('#csa0001').addClass('dataTable');
+				$('#csa0001').addClass('no-footer');
+				$('#csa0001 thead tr th').eq(0).addClass('sorting_asc');
+				$('#csa0001 thead tr th').eq(0).attr('data-action', 'csa0001');
+				$('#csa0001 thead tr th').eq(1).addClass('sorting_asc');
+				$('#csa0001 thead tr th').eq(1).attr('data-action', 'csa0001');
+				$('#csa0001 thead tr th').on('click', function(e) {
+					e.preventDefault();
+					overlay('on');
+					var arrayNumber = new Array('0', '1');
+					var index = $('#csa0001 thead tr th').index(this);
+					var flag = 0;
+					for(var i = 0; i < arrayNumber.length; i++) {
+						if(arrayNumber[i] == index) {
+							flag = 1;
+							break;
+						}
+					}
+					if(flag == 1) {
+						$('#csa0001sort-header-number').val(index);
+					 var formToken = $(this).parents('form').find('[name=token]').val();  
+					 if (formToken == null || formToken == '' || formToken == undefined) {  
+						 $('<input>').attr({'type': 'hidden', 'name': 'token', 'value': $('[name=token]').val()}).appendTo($(this).parents('form')); 
+					 } 
+						$(this).parents('form').attr('action', '/pictis-info/' + $(this).data('action') + '!sortHeader');
+						$(this).parents('form').submit();
+					}else{
+						overlay('off');
+					}
+				});
+
+			});
+		//-->
+	</script>
+<input name="pageIndex" type="hidden" value="0"/>
+<input id="csa0001selected-page-index" name="selectedPageIndex" type="hidden" value=""/>
+<input name="sortColumnList[0].number" type="hidden" value="0"/>
+<input name="sortColumnList[0].columnName" type="hidden" value="corp_name"/>
+<input name="sortColumnList[0].order" type="hidden" value="asc"/>
+<input name="sortColumnList[1].number" type="hidden" value="1"/>
+<input name="sortColumnList[1].columnName" type="hidden" value="pref_code"/>
+<input name="sortColumnList[1].order" type="hidden" value="asc"/>
+<input id="csa0001sort-header-number" name="sortHeaderNumber" type="hidden" value=""/>
+<input name="orderByCondition[0].number" type="hidden" value="0"/>
+<input name="orderByCondition[0].columnName" type="hidden" value="corp_name"/>
+<input name="orderByCondition[0].order" type="hidden" value="asc"/>
+<input name="orderByCondition[1].number" type="hidden" value="1"/>
+<input name="orderByCondition[1].columnName" type="hidden" value="pref_code"/>
+<input name="orderByCondition[1].order" type="hidden" value="asc"/>
+<div class="dataTables_wrapper form-inline dt-bootstrap no-footer">
+<div class="row">
+<div class="col-md-12" style="padding-right: 13px; padding-left: 40px; margin-top: 5px;">
+<div class="pull-right"></div>
+<div class="pull-right margin-right-20">
+<div class="dataTables_length">
+<div class="form-group pull-right">
+<select class="selectpicker form-control csa0001disp-counter" data-action="csa0001" name="dispNumber">
+<option value="100">100件</option>
+<option value="50">50件</option>
+<option value="10">10件</option>
+<option value="5">5件</option>
+</select>
+</div>
+<div class="pull-right" style="margin-top: 8px; margin-right: 5px;">表示件数：</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 clear" style="padding-right: 30px; padding-left: 30px; margin-top: 5px; margin-bottom: 5px;">
+<div class="dataTables_paginate paging_simple_numbers">
+<div class="pagination">
+<ul class="pager">
+<li class="paginate_button previous" tabindex="0">
+<a class="csa0001paginate_button_previous" data-action="csa0001" href="#">« 前のページ</a>
+</li>
+<li class="csa0001paginate_button next disabled" tabindex="0">
+<a class="csa0001paginate_button_next" data-action="csa0001" href="#">次のページ »</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<table class="table table-bordered table-hover table-striped" id="csa0001">
+<tbody>
+<tr class="tr-hidden">
+<th class="width-600 th-hidden"> </th>
+</tr>
+</tbody>
+</table>
+<div class="row">
+<div class="col-md-12 clear" style="padding-right: 30px; padding-left: 30px; margin-top: 5px; margin-bottom: 5px;">
+<div class="dataTables_paginate paging_simple_numbers">
+<div class="pagination">
+<ul class="pager">
+<li class="paginate_button previous" tabindex="0">
+<a class="csa0001paginate_button_previous" data-action="csa0001" href="#">« 前のページ</a>
+</li>
+<li class="paginate_button next disabled" tabindex="0">
+<a class="csa0001paginate_button_next" data-action="csa0001" href="#">次のページ »</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--  	<div class="button-area margin-top-30">
+			<button type="button" id="condition-clear-btn" class="btn btn-a pull-right margin-top-4" data-action="csa0001!resetCondition" >
+				<i class="fa fa-eraser"></i>条件クリア
+			</button>
+			<button type="button" id="search-btn" class="btn btn-a pull-right margin-left-4" data-action="csa0001!showSearchResult">
+				<i class="fa fa-search"></i>一覧表示
+			</button>
+			<button type="button" id="search-btn" class="btn btn-a pull-right margin-left-4" data-action="csa0001!countSearchResult">
+				<i class="fa fa-search"></i>検索
+			</button>
+		</div>
+-->
+<div>
+</div>
+</input></input></div>
+<!-- content-area end -->
+</div>
+<!-- main-content end -->
+</form>
+</div>
+<!-- container end -->
+</body>
+</html>
