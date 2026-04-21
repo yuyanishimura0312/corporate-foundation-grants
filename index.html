@@ -3,79 +3,117 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>企業財団 研究助成ダッシュボード</title>
+<title>企業財団 研究助成ダッシュボード | MIRA TUKU</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 <style>
   :root {
-    --bg: #0f172a;
-    --surface: #1e293b;
-    --surface2: #334155;
-    --border: #475569;
-    --text: #e2e8f0;
-    --text-muted: #94a3b8;
-    --accent: #38bdf8;
-    --accent2: #818cf8;
-    --accent3: #a78bfa;
-    --green: #34d399;
-    --amber: #fbbf24;
-    --rose: #fb7185;
+    /* Miratuku CI Colors */
+    --mi-golden-orange: #F0A671;
+    --mi-light-beige: #F2C792;
+    --mi-warm-beige: #F1C189;
+    --mi-camel: #CEA26F;
+    --mi-pale-peach: #F8CDAC;
+    --mi-sand-gold: #F0BE83;
+    --mi-soft-salmon: #EFC4A4;
+    --mi-rose-peach: #F7BEA2;
+    --mi-terracotta: #DC8766;
+    --mi-amber-brown: #B07256;
+    --mi-warm-brown: #966D5E;
+    --mi-deep-brown: #7A4033;
+
+    /* App standard */
+    --accent: #783c28;
+    --accent-light: #B07256;
+    --accent-hover: #5e2e1e;
+    --bg: #faf8f5;
+    --surface: #ffffff;
+    --surface2: #f5f0eb;
+    --border: #e8ddd3;
+    --border-strong: #d4c4b5;
+    --text: #1a1a1a;
+    --text-muted: #6b5e54;
+    --text-light: #9a8b7e;
+    --green: #5a8a4a;
+    --amber: #b8860b;
+    --rose: #c05050;
+
+    --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    font-family: var(--font-family);
     background: var(--bg); color: var(--text);
-    line-height: 1.6; min-height: 100vh;
+    line-height: 1.7; min-height: 100vh;
   }
+
+  /* Header with Miratuku branding */
   .header {
-    background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
-    border-bottom: 1px solid var(--border);
-    padding: 2rem 2rem 1.5rem;
+    background: var(--surface);
+    border-bottom: 3px solid var(--mi-terracotta);
+    padding: 1.5rem 2rem;
+    display: flex; align-items: center; gap: 1.5rem;
   }
+  .header-logo {
+    display: flex; align-items: center; gap: .5rem;
+    color: var(--mi-deep-brown); font-size: .8rem;
+    font-weight: 600; letter-spacing: .15em; white-space: nowrap;
+  }
+  .seed-cluster {
+    display: inline-flex; gap: 2px; align-items: center;
+  }
+  .seed {
+    width: 8px; height: 12px; border-radius: 50%;
+    display: inline-block; transform: rotate(var(--r, 0deg));
+  }
+  .header-content { flex: 1; }
   .header h1 {
-    font-size: 1.75rem; font-weight: 700;
-    background: linear-gradient(135deg, var(--accent), var(--accent2));
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    font-size: 1.5rem; font-weight: 700; color: var(--mi-deep-brown);
+    letter-spacing: .02em;
   }
-  .header p { color: var(--text-muted); margin-top: .25rem; font-size: .9rem; }
+  .header p { color: var(--text-muted); margin-top: .15rem; font-size: .85rem; }
   .container { max-width: 1400px; margin: 0 auto; padding: 1.5rem; }
 
   /* KPI Cards */
   .kpi-grid {
-    display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     gap: 1rem; margin-bottom: 2rem;
   }
   .kpi-card {
     background: var(--surface); border: 1px solid var(--border);
-    border-radius: 12px; padding: 1.25rem; text-align: center;
+    border-radius: 10px; padding: 1.25rem; text-align: center;
+    border-top: 3px solid var(--mi-golden-orange);
   }
+  .kpi-card:nth-child(2) { border-top-color: var(--mi-terracotta); }
+  .kpi-card:nth-child(3) { border-top-color: var(--mi-camel); }
+  .kpi-card:nth-child(4) { border-top-color: var(--mi-amber-brown); }
+  .kpi-card:nth-child(5) { border-top-color: var(--mi-warm-brown); }
   .kpi-card .value {
-    font-size: 2.25rem; font-weight: 800;
-    background: linear-gradient(135deg, var(--accent), var(--accent2));
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    font-size: 2.25rem; font-weight: 800; color: var(--accent);
   }
-  .kpi-card .label { color: var(--text-muted); font-size: .85rem; margin-top: .25rem; }
+  .kpi-card .label { color: var(--text-muted); font-size: .85rem; margin-top: .15rem; }
 
   /* Section */
   .section { margin-bottom: 2rem; }
   .section-title {
-    font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem;
-    padding-bottom: .5rem; border-bottom: 1px solid var(--border);
-    color: var(--accent);
+    font-size: 1.1rem; font-weight: 700; margin-bottom: 1rem;
+    padding-bottom: .5rem; border-bottom: 2px solid var(--mi-terracotta);
+    color: var(--mi-deep-brown);
   }
 
   /* Grid layouts */
   .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
   .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; }
-  @media (max-width: 900px) {
-    .grid-2, .grid-3 { grid-template-columns: 1fr; }
-  }
+  @media (max-width: 900px) { .grid-2, .grid-3 { grid-template-columns: 1fr; } }
 
   /* Cards */
   .card {
     background: var(--surface); border: 1px solid var(--border);
-    border-radius: 12px; padding: 1.25rem;
+    border-radius: 10px; padding: 1.25rem;
   }
-  .card h3 { font-size: .95rem; color: var(--text-muted); margin-bottom: .75rem; }
+  .card h3 {
+    font-size: .9rem; color: var(--text-muted); margin-bottom: .75rem;
+    font-weight: 600;
+  }
   .chart-container { position: relative; width: 100%; }
   .chart-container canvas { max-height: 350px; }
 
@@ -83,24 +121,37 @@
   .table-wrap { overflow-x: auto; max-height: 500px; overflow-y: auto; }
   table { width: 100%; border-collapse: collapse; font-size: .85rem; }
   th {
-    background: var(--surface2); color: var(--accent);
-    padding: .6rem .75rem; text-align: left; font-weight: 600;
+    background: var(--surface2); color: var(--mi-deep-brown);
+    padding: .6rem .75rem; text-align: left; font-weight: 700;
     position: sticky; top: 0; z-index: 2;
+    border-bottom: 2px solid var(--mi-camel);
   }
-  td { padding: .5rem .75rem; border-bottom: 1px solid var(--border); }
-  tr:hover td { background: rgba(56, 189, 248, .05); }
+  td { padding: .5rem .75rem; border-bottom: 1px solid var(--border); color: var(--text); }
+  tr:hover td { background: rgba(206, 162, 111, .08); }
+
   .badge {
     display: inline-block; padding: .15rem .5rem; border-radius: 999px;
     font-size: .75rem; font-weight: 600;
   }
-  .badge-open { background: rgba(52, 211, 153, .15); color: var(--green); }
-  .badge-upcoming { background: rgba(251, 191, 36, .15); color: var(--amber); }
-  .badge-closed { background: rgba(148, 163, 184, .1); color: var(--text-muted); }
-  .badge-unknown { background: rgba(148, 163, 184, .1); color: var(--text-muted); }
+  .badge-open { background: rgba(90, 138, 74, .12); color: var(--green); }
+  .badge-upcoming { background: rgba(184, 134, 11, .12); color: var(--amber); }
+  .badge-closed { background: rgba(107, 94, 84, .08); color: var(--text-light); }
+  .badge-unknown { background: rgba(107, 94, 84, .08); color: var(--text-light); }
 
-  /* Amount formatting */
-  .amount { font-weight: 600; color: var(--green); white-space: nowrap; }
+  .amount { font-weight: 600; color: var(--accent); white-space: nowrap; }
   .amount-large { color: var(--amber); }
+
+  /* Domain pills */
+  .domain-pill {
+    display: inline-block; padding: .1rem .45rem; border-radius: 4px;
+    font-size: .7rem; font-weight: 600; margin: .1rem;
+  }
+  .domain-natural { background: #e8f5e9; color: #2e7d32; }
+  .domain-social { background: #e3f2fd; color: #1565c0; }
+  .domain-engineering { background: #fff3e0; color: #e65100; }
+  .domain-humanities { background: #f3e5f5; color: #7b1fa2; }
+  .domain-arts { background: #fce4ec; color: #c62828; }
+  .domain-unclassified { background: #f5f5f5; color: #757575; }
 
   /* Tabs */
   .tabs { display: flex; gap: .5rem; margin-bottom: 1rem; flex-wrap: wrap; }
@@ -110,18 +161,19 @@
     color: var(--text-muted); font-size: .85rem; transition: all .15s;
   }
   .tab:hover { border-color: var(--accent); color: var(--text); }
-  .tab.active { background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: 600; }
+  .tab.active {
+    background: var(--accent); color: #fff; border-color: var(--accent); font-weight: 600;
+  }
   .tab-content { display: none; }
   .tab-content.active { display: block; }
 
-  /* Search */
   .search-box {
     background: var(--surface); border: 1px solid var(--border);
     border-radius: 8px; padding: .5rem 1rem; color: var(--text);
     font-size: .9rem; width: 100%; max-width: 400px; margin-bottom: 1rem;
   }
   .search-box:focus { outline: none; border-color: var(--accent); }
-  .search-box::placeholder { color: var(--text-muted); }
+  .search-box::placeholder { color: var(--text-light); }
 
   /* Bar list */
   .bar-list { list-style: none; }
@@ -134,21 +186,67 @@
   }
   .bar-fill {
     height: 100%; border-radius: 3px;
-    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    background: linear-gradient(90deg, var(--mi-golden-orange), var(--mi-terracotta));
     transition: width .5s ease;
   }
+  .bar-fill-alt {
+    background: linear-gradient(90deg, var(--mi-camel), var(--mi-amber-brown));
+  }
+
+  /* Field analysis special */
+  .field-grid {
+    display: grid; grid-template-columns: repeat(5, 1fr); gap: .75rem;
+    margin-bottom: 1.5rem;
+  }
+  @media (max-width: 900px) { .field-grid { grid-template-columns: repeat(2, 1fr); } }
+  .field-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; padding: 1rem; text-align: center;
+    border-left: 4px solid var(--mi-camel);
+    transition: transform .15s;
+  }
+  .field-card:hover { transform: translateY(-2px); }
+  .field-card:nth-child(1) { border-left-color: #2e7d32; }
+  .field-card:nth-child(2) { border-left-color: #1565c0; }
+  .field-card:nth-child(3) { border-left-color: #e65100; }
+  .field-card:nth-child(4) { border-left-color: #7b1fa2; }
+  .field-card:nth-child(5) { border-left-color: #c62828; }
+  .field-card .field-name { font-weight: 700; font-size: .9rem; color: var(--text); }
+  .field-card .field-count { font-size: 1.75rem; font-weight: 800; color: var(--accent); margin: .25rem 0; }
+  .field-card .field-amount { font-size: .8rem; color: var(--text-muted); }
+
+  .insight-box {
+    background: linear-gradient(135deg, rgba(240,166,113,.08), rgba(220,135,102,.08));
+    border: 1px solid var(--mi-soft-salmon);
+    border-radius: 10px; padding: 1.25rem; margin-bottom: 1.5rem;
+  }
+  .insight-box h4 { color: var(--mi-deep-brown); font-size: .95rem; margin-bottom: .5rem; }
+  .insight-box p { color: var(--text-muted); font-size: .85rem; line-height: 1.8; }
 
   .footer {
-    text-align: center; padding: 2rem; color: var(--text-muted); font-size: .8rem;
-    border-top: 1px solid var(--border); margin-top: 2rem;
+    text-align: center; padding: 2rem; color: var(--text-light); font-size: .8rem;
+    border-top: 2px solid var(--border); margin-top: 2rem;
   }
+  .footer strong { color: var(--mi-deep-brown); letter-spacing: .1em; }
 </style>
 </head>
 <body>
 
 <div class="header">
-  <h1>企業財団 研究助成ダッシュボード</h1>
-  <p>Corporate Foundation Research Grants — 企業が設立した財団による研究助成プログラムの全容</p>
+  <div class="header-logo">
+    <span class="seed-cluster">
+      <span class="seed" style="background:var(--mi-golden-orange);--r:-30deg"></span>
+      <span class="seed" style="background:var(--mi-terracotta);--r:15deg"></span>
+      <span class="seed" style="background:var(--mi-camel);--r:-10deg"></span>
+      <span class="seed" style="background:var(--mi-amber-brown);--r:25deg"></span>
+      <span class="seed" style="background:var(--mi-warm-brown);--r:-20deg"></span>
+    </span>
+    MIRA TUKU
+  </div>
+  <div class="header-content">
+    <h1>企業財団 研究助成ダッシュボード</h1>
+    <p>Corporate Foundation Research Grants &mdash; 企業が設立した財団による研究助成プログラムの全容と学術分野別分析</p>
+  </div>
 </div>
 
 <div class="container">
@@ -160,6 +258,57 @@
     <div class="section-title">現在募集中・近日公募の研究助成</div>
     <div class="card">
       <div class="table-wrap" id="active-table"></div>
+    </div>
+  </div>
+
+  <!-- ========== NEW: Academic Field Analysis ========== -->
+  <div class="section">
+    <div class="section-title">学術分野別分析（Academic Knowledge DB連携）</div>
+
+    <div class="insight-box">
+      <h4>分析概要</h4>
+      <p id="field-insight"></p>
+    </div>
+
+    <!-- Domain cards -->
+    <div class="field-grid" id="field-cards"></div>
+
+    <!-- Field charts -->
+    <div class="grid-2 section">
+      <div class="card">
+        <h3>学術5分野 プログラム数比較</h3>
+        <div class="chart-container"><canvas id="chart-field-count"></canvas></div>
+      </div>
+      <div class="card">
+        <h3>学術5分野 助成総額比較（万円）</h3>
+        <div class="chart-container"><canvas id="chart-field-amount"></canvas></div>
+      </div>
+    </div>
+
+    <div class="grid-2 section">
+      <div class="card">
+        <h3>サブフィールド別 プログラム数</h3>
+        <div class="chart-container"><canvas id="chart-subfield-count"></canvas></div>
+      </div>
+      <div class="card">
+        <h3>サブフィールド別 助成総額（万円）</h3>
+        <div class="chart-container"><canvas id="chart-subfield-amount"></canvas></div>
+      </div>
+    </div>
+
+    <!-- Field-grant mapping table -->
+    <div class="card" style="margin-top:1rem">
+      <h3>助成プログラム 学術分野マッピング一覧</h3>
+      <div class="tabs" id="field-tabs">
+        <div class="tab active" data-ftab="all-fields">全分野</div>
+        <div class="tab" data-ftab="natural">自然科学</div>
+        <div class="tab" data-ftab="social">社会科学</div>
+        <div class="tab" data-ftab="engineering">工学</div>
+        <div class="tab" data-ftab="humanities">人文学</div>
+        <div class="tab" data-ftab="arts">芸術</div>
+      </div>
+      <input type="text" class="search-box" id="field-search" placeholder="検索（財団名、プログラム名）">
+      <div class="table-wrap" id="field-table" style="max-height:400px"></div>
     </div>
   </div>
 
@@ -215,7 +364,6 @@
       <div class="tab" data-tab="groups">企業グループ</div>
     </div>
     <input type="text" class="search-box" id="table-search" placeholder="検索（財団名、プログラム名、キーワード）">
-
     <div class="tab-content active" id="tab-all">
       <div class="card"><div class="table-wrap" id="all-table"></div></div>
     </div>
@@ -229,18 +377,34 @@
 </div>
 
 <div class="footer">
-  Corporate Foundation Research Grants Dashboard &mdash; Built 2026-04-21<br>
-  Source: Grant DB (grant-db-seven.vercel.app) &mdash; 82 foundations, 258 programs
+  <strong>MIRA TUKU</strong> &mdash; Corporate Foundation Research Grants Dashboard<br>
+  Built 2026-04-21 &mdash; Source: Grant DB + Academic Knowledge DB (4,703 concepts across 5 domains)
 </div>
 
 <script>
 let DATA = {};
+let FIELDS = {};
+
+const MI_COLORS = [
+  '#F0A671','#F2C792','#F1C189','#CEA26F','#F8CDAC','#F0BE83',
+  '#EFC4A4','#F7BEA2','#DC8766','#B07256','#966D5E','#7A4033'
+];
+const DOMAIN_COLORS = {
+  '自然科学': '#2e7d32', '社会科学': '#1565c0', '工学': '#e65100',
+  '人文学': '#7b1fa2', '芸術': '#c62828', '未分類': '#9e9e9e'
+};
+const DOMAIN_CLS = {
+  '自然科学':'domain-natural', '社会科学':'domain-social', '工学':'domain-engineering',
+  '人文学':'domain-humanities', '芸術':'domain-arts'
+};
 
 async function init() {
-  const resp = await fetch('data.json');
-  DATA = await resp.json();
+  const [r1, r2] = await Promise.all([fetch('data.json'), fetch('field_analysis.json')]);
+  DATA = await r1.json();
+  FIELDS = await r2.json();
   renderKPI();
   renderActiveGrants();
+  renderFieldAnalysis();
   renderCharts();
   renderBarCharts();
   renderTables();
@@ -250,25 +414,32 @@ async function init() {
 
 function fmt(n) {
   if (n == null) return '-';
-  if (n >= 100000000) return (n / 100000000).toFixed(1) + '億円';
-  if (n >= 10000) return (n / 10000).toFixed(0) + '万円';
-  return n.toLocaleString() + '円';
+  if (n >= 100000000) return (n / 100000000).toFixed(1) + '\u5104\u5186';
+  if (n >= 10000) return (n / 10000).toFixed(0) + '\u4e07\u5186';
+  return n.toLocaleString() + '\u5186';
 }
 
 function statusBadge(s) {
-  const labels = { open: '募集中', upcoming: '近日公募', closed: '終了', unknown: '不明', reviewing: '審査中', awarded: '決定済' };
+  const labels = { open:'\u52df\u96c6\u4e2d', upcoming:'\u8fd1\u65e5\u516c\u52df', closed:'\u7d42\u4e86', unknown:'\u4e0d\u660e', reviewing:'\u5be9\u67fb\u4e2d', awarded:'\u6c7a\u5b9a\u6e08' };
   const cls = s === 'open' ? 'badge-open' : s === 'upcoming' ? 'badge-upcoming' : 'badge-closed';
   return `<span class="badge ${cls}">${labels[s] || s}</span>`;
+}
+
+function domainPills(domains) {
+  return domains.map(d => {
+    const cls = DOMAIN_CLS[d] || 'domain-unclassified';
+    return `<span class="domain-pill ${cls}">${d}</span>`;
+  }).join('');
 }
 
 function renderKPI() {
   const s = DATA.stats;
   const items = [
-    { value: s.foundation_count, label: '企業財団' },
-    { value: s.corporate_group_count, label: '企業グループ' },
-    { value: s.program_count, label: '研究助成プログラム' },
-    { value: s.call_count, label: '公募数' },
-    { value: s.active_count, label: '現在募集中/近日' },
+    { value: s.foundation_count, label: '\u4f01\u696d\u8ca1\u56e3' },
+    { value: s.corporate_group_count, label: '\u4f01\u696d\u30b0\u30eb\u30fc\u30d7' },
+    { value: s.program_count, label: '\u7814\u7a76\u52a9\u6210\u30d7\u30ed\u30b0\u30e9\u30e0' },
+    { value: s.call_count, label: '\u516c\u52df\u6570' },
+    { value: s.active_count, label: '\u73fe\u5728\u52df\u96c6\u4e2d/\u8fd1\u65e5' },
   ];
   document.getElementById('kpi-grid').innerHTML = items.map(i =>
     `<div class="kpi-card"><div class="value">${i.value}</div><div class="label">${i.label}</div></div>`
@@ -277,214 +448,337 @@ function renderKPI() {
 
 function renderActiveGrants() {
   const grants = DATA.active_grants;
-  if (!grants.length) {
-    document.getElementById('active-section').style.display = 'none';
-    return;
-  }
-  let html = '<table><thead><tr><th>財団</th><th>親企業</th><th>プログラム</th><th>助成上限</th><th>締切</th><th>状態</th></tr></thead><tbody>';
+  if (!grants.length) { document.getElementById('active-section').style.display = 'none'; return; }
+  let html = '<table><thead><tr><th>\u8ca1\u56e3</th><th>\u89aa\u4f01\u696d</th><th>\u30d7\u30ed\u30b0\u30e9\u30e0</th><th>\u52a9\u6210\u4e0a\u9650</th><th>\u7de0\u5207</th><th>\u72b6\u614b</th></tr></thead><tbody>';
   grants.forEach(g => {
-    const amtClass = g.amount > 10000000 ? 'amount amount-large' : 'amount';
-    html += `<tr>
-      <td>${g.foundation}</td>
-      <td>${g.corporate_parent || '-'}</td>
-      <td>${g.program}</td>
-      <td class="${amtClass}">${fmt(g.amount)}</td>
-      <td>${g.deadline || '-'}</td>
-      <td>${statusBadge(g.status)}</td>
-    </tr>`;
+    const ac = g.amount > 10000000 ? 'amount amount-large' : 'amount';
+    html += `<tr><td>${g.foundation}</td><td>${g.corporate_parent||'-'}</td><td>${g.program}</td><td class="${ac}">${fmt(g.amount)}</td><td>${g.deadline||'-'}</td><td>${statusBadge(g.status)}</td></tr>`;
   });
   html += '</tbody></table>';
   document.getElementById('active-table').innerHTML = html;
 }
 
-const COLORS = ['#38bdf8','#818cf8','#a78bfa','#34d399','#fbbf24','#fb7185','#f472b6','#22d3ee','#4ade80','#c084fc','#f97316','#2dd4bf'];
+// ===== Field Analysis =====
+function renderFieldAnalysis() {
+  const dd = FIELDS.domain_distribution.filter(d => d.domain !== 'unclassified');
+  const total = dd.reduce((s,d) => s+d.count, 0);
+  const totalAmt = dd.reduce((s,d) => s+d.total_amount, 0);
 
+  // Insight text
+  const top = dd[0];
+  const lowest = dd[dd.length - 1];
+  document.getElementById('field-insight').innerHTML =
+    `258\u4ef6\u306e\u52a9\u6210\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u5b66\u8853\u77e5\u8b58DB\uff084,703\u6982\u5ff5\u30fb5\u5206\u91ce\uff09\u3068\u7167\u5408\u3057\u305f\u7d50\u679c\u3001` +
+    `<strong>${top.domain_name}</strong>\u304c${top.count}\u4ef6\uff08${(top.count/total*100).toFixed(0)}%\uff09\u3067\u6700\u591a\u3002` +
+    `\u52a9\u6210\u7dcf\u984d\u3067\u3082${fmt(top.total_amount)}\u3068\u7a81\u51fa\u3002` +
+    `\u4e00\u65b9\u3001<strong>${lowest.domain_name}</strong>\u306f${lowest.count}\u4ef6\u306e\u307f\u3067\u3001\u4f01\u696d\u8ca1\u56e3\u306b\u3088\u308b\u652f\u63f4\u304c\u8584\u3044\u9818\u57df\u3002` +
+    `\u5e73\u5747\u52a9\u6210\u984d\u306f\u5de5\u5b66\uff08${fmt(dd.find(d=>d.domain==='engineering_method')?.avg_amount||0)}\uff09\u304c\u6700\u3082\u9ad8\u304f\u3001` +
+    `\u6280\u8853\u7cfb\u8ca1\u56e3\u306e\u5927\u578b\u52a9\u6210\u304c\u7279\u5fb4\u7684\u3002`;
+
+  // Domain cards
+  const cardColors = ['#2e7d32','#1565c0','#e65100','#7b1fa2','#c62828'];
+  document.getElementById('field-cards').innerHTML = dd.map((d, i) =>
+    `<div class="field-card">
+      <div class="field-name">${d.domain_name}</div>
+      <div class="field-count">${d.count}</div>
+      <div class="field-amount">\u52a9\u6210\u7dcf\u984d ${fmt(d.total_amount)}</div>
+      <div class="field-amount">\u5e73\u5747 ${fmt(d.avg_amount)}</div>
+    </div>`
+  ).join('');
+
+  // Domain count radar/bar
+  new Chart(document.getElementById('chart-field-count'), {
+    type: 'radar',
+    data: {
+      labels: dd.map(d => d.domain_name),
+      datasets: [{
+        label: '\u30d7\u30ed\u30b0\u30e9\u30e0\u6570',
+        data: dd.map(d => d.count),
+        backgroundColor: 'rgba(120, 60, 40, .15)',
+        borderColor: '#783c28',
+        borderWidth: 2,
+        pointBackgroundColor: dd.map((_, i) => cardColors[i]),
+        pointRadius: 5,
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        r: {
+          ticks: { color: '#6b5e54', font: { size: 10 } },
+          pointLabels: { color: '#1a1a1a', font: { size: 12, weight: 'bold' } },
+          grid: { color: '#e8ddd3' },
+          angleLines: { color: '#e8ddd3' },
+        }
+      }
+    }
+  });
+
+  // Domain amount bar
+  new Chart(document.getElementById('chart-field-amount'), {
+    type: 'bar',
+    data: {
+      labels: dd.map(d => d.domain_name),
+      datasets: [
+        {
+          label: '\u52a9\u6210\u7dcf\u984d',
+          data: dd.map(d => d.total_amount / 10000),
+          backgroundColor: dd.map((_, i) => cardColors[i] + '99'),
+          borderColor: dd.map((_, i) => cardColors[i]),
+          borderWidth: 1, borderRadius: 4,
+        },
+        {
+          label: '\u5e73\u5747\u52a9\u6210\u984d',
+          data: dd.map(d => d.avg_amount / 10000),
+          backgroundColor: dd.map((_, i) => cardColors[i] + '44'),
+          borderColor: dd.map((_, i) => cardColors[i]),
+          borderWidth: 1, borderRadius: 4,
+        }
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { labels: { color: '#1a1a1a' } } },
+      scales: {
+        x: { ticks: { color: '#6b5e54' }, grid: { display: false } },
+        y: { ticks: { color: '#6b5e54', callback: v => v + '\u4e07' }, grid: { color: '#e8ddd3' } }
+      }
+    }
+  });
+
+  // Subfield charts
+  const sfs = FIELDS.subfield_distribution.filter(s => s.name !== '\u672a\u5206\u985e');
+  new Chart(document.getElementById('chart-subfield-count'), {
+    type: 'bar',
+    data: {
+      labels: sfs.map(s => s.name),
+      datasets: [{
+        data: sfs.map(s => s.count),
+        backgroundColor: sfs.map((_, i) => MI_COLORS[i % MI_COLORS.length]),
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#6b5e54' }, grid: { color: '#e8ddd3' } },
+        y: { ticks: { color: '#1a1a1a', font: { size: 11 } }, grid: { display: false } }
+      }
+    }
+  });
+
+  new Chart(document.getElementById('chart-subfield-amount'), {
+    type: 'bar',
+    data: {
+      labels: sfs.map(s => s.name),
+      datasets: [{
+        data: sfs.map(s => s.total_amount / 10000),
+        backgroundColor: sfs.map((_, i) => MI_COLORS[i % MI_COLORS.length]),
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => fmt(ctx.raw * 10000) } } },
+      scales: {
+        x: { ticks: { color: '#6b5e54', callback: v => v + '\u4e07' }, grid: { color: '#e8ddd3' } },
+        y: { ticks: { color: '#1a1a1a', font: { size: 11 } }, grid: { display: false } }
+      }
+    }
+  });
+
+  // Field mapping table
+  renderFieldTable('all-fields');
+  document.querySelectorAll('[data-ftab]').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('[data-ftab]').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      renderFieldTable(tab.dataset.ftab);
+    });
+  });
+
+  document.getElementById('field-search').addEventListener('input', (e) => {
+    const q = e.target.value.toLowerCase();
+    document.querySelectorAll('.field-row').forEach(r => {
+      r.style.display = r.dataset.search.includes(q) ? '' : 'none';
+    });
+  });
+}
+
+function renderFieldTable(filter) {
+  const FILTER_MAP = {
+    'natural': '\u81ea\u7136\u79d1\u5b66', 'social': '\u793e\u4f1a\u79d1\u5b66',
+    'engineering': '\u5de5\u5b66', 'humanities': '\u4eba\u6587\u5b66', 'arts': '\u82b8\u8853'
+  };
+  let grants = FIELDS.grants_with_fields;
+  if (filter !== 'all-fields') {
+    const target = FILTER_MAP[filter];
+    grants = grants.filter(g => g.domains.includes(target));
+  }
+  let html = '<table><thead><tr><th>\u8ca1\u56e3</th><th>\u30d7\u30ed\u30b0\u30e9\u30e0</th><th>\u5b66\u8853\u5206\u91ce</th><th>\u30b5\u30d6\u30d5\u30a3\u30fc\u30eb\u30c9</th><th>\u52a9\u6210\u4e0a\u9650</th><th>\u72b6\u614b</th></tr></thead><tbody>';
+  grants.forEach(g => {
+    html += `<tr class="field-row" data-search="${(g.foundation+g.program+(g.corporate_parent||'')+g.domains.join('')+g.subfields.join('')).toLowerCase()}">
+      <td>${g.foundation}</td>
+      <td>${g.program}</td>
+      <td>${domainPills(g.domains)}</td>
+      <td style="font-size:.8rem">${g.subfields.join(', ') || '-'}</td>
+      <td class="amount">${fmt(g.amount)}</td>
+      <td>${statusBadge(g.status)}</td>
+    </tr>`;
+  });
+  html += '</tbody></table>';
+  document.getElementById('field-table').innerHTML = html;
+}
+
+// ===== Original Charts =====
 function renderCharts() {
-  // Corporate groups bar chart
   const groups = DATA.corporate_groups.slice(0, 15);
   new Chart(document.getElementById('chart-groups'), {
     type: 'bar',
     data: {
       labels: groups.map(g => g.name),
-      datasets: [{
-        data: groups.map(g => g.programs),
-        backgroundColor: COLORS.concat(COLORS),
-        borderRadius: 4,
-      }]
+      datasets: [{ data: groups.map(g => g.programs), backgroundColor: MI_COLORS.concat(MI_COLORS), borderRadius: 4 }]
     },
     options: {
       indexAxis: 'y', responsive: true, maintainAspectRatio: false,
       plugins: { legend: { display: false } },
       scales: {
-        x: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
-        y: { ticks: { color: '#e2e8f0', font: { size: 11 } }, grid: { display: false } }
+        x: { ticks: { color: '#6b5e54' }, grid: { color: '#e8ddd3' } },
+        y: { ticks: { color: '#1a1a1a', font: { size: 11 } }, grid: { display: false } }
       }
     }
   });
 
-  // Amount distribution
   const ranges = DATA.amount_ranges;
   new Chart(document.getElementById('chart-amounts'), {
     type: 'bar',
     data: {
       labels: ranges.map(r => r.range_label),
-      datasets: [{
-        data: ranges.map(r => r.count),
-        backgroundColor: ranges.map((_, i) => COLORS[i % COLORS.length]),
-        borderRadius: 4,
-      }]
+      datasets: [{ data: ranges.map(r => r.count), backgroundColor: MI_COLORS, borderRadius: 4 }]
     },
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: { legend: { display: false } },
       scales: {
-        x: { ticks: { color: '#94a3b8', font: { size: 10 } }, grid: { display: false } },
-        y: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } }
+        x: { ticks: { color: '#6b5e54', font: { size: 10 } }, grid: { display: false } },
+        y: { ticks: { color: '#6b5e54' }, grid: { color: '#e8ddd3' } }
       }
     }
   });
 
-  // Categories donut
   const cats = DATA.categories;
-  const catLabels = {
-    research: '研究', education: '教育', social: '社会', welfare: '福祉',
-    environment: '環境', international: '国際', culture: '文化', other: 'その他'
-  };
+  const catLabels = { research:'\u7814\u7a76', education:'\u6559\u80b2', social:'\u793e\u4f1a', welfare:'\u798f\u7949', environment:'\u74b0\u5883', international:'\u56fd\u969b', culture:'\u6587\u5316', other:'\u305d\u306e\u4ed6' };
   new Chart(document.getElementById('chart-categories'), {
     type: 'doughnut',
     data: {
       labels: cats.map(c => catLabels[c.category] || c.category),
-      datasets: [{ data: cats.map(c => c.count), backgroundColor: COLORS }]
+      datasets: [{ data: cats.map(c => c.count), backgroundColor: MI_COLORS }]
     },
     options: {
       responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { position: 'right', labels: { color: '#e2e8f0', font: { size: 11 } } } }
+      plugins: { legend: { position: 'right', labels: { color: '#1a1a1a', font: { size: 11 } } } }
     }
   });
 
-  // Status donut
   const statuses = DATA.statuses;
-  const statusLabels = { unknown: '不明', open: '募集中', closed: '終了', upcoming: '近日公募', reviewing: '審査中', awarded: '決定済' };
-  const statusColors = { open: '#34d399', upcoming: '#fbbf24', closed: '#64748b', unknown: '#475569', reviewing: '#818cf8', awarded: '#38bdf8' };
+  const statusLabels = { unknown:'\u4e0d\u660e', open:'\u52df\u96c6\u4e2d', closed:'\u7d42\u4e86', upcoming:'\u8fd1\u65e5\u516c\u52df', reviewing:'\u5be9\u67fb\u4e2d', awarded:'\u6c7a\u5b9a\u6e08' };
+  const statusColors = { open:'#5a8a4a', upcoming:'#b8860b', closed:'#9a8b7e', unknown:'#d4c4b5', reviewing:'#1565c0', awarded:'#2e7d32' };
   new Chart(document.getElementById('chart-status'), {
     type: 'doughnut',
     data: {
       labels: statuses.map(s => statusLabels[s.status] || s.status),
-      datasets: [{ data: statuses.map(s => s.count), backgroundColor: statuses.map(s => statusColors[s.status] || '#475569') }]
+      datasets: [{ data: statuses.map(s => s.count), backgroundColor: statuses.map(s => statusColors[s.status] || '#d4c4b5') }]
     },
     options: {
       responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { position: 'right', labels: { color: '#e2e8f0', font: { size: 11 } } } }
+      plugins: { legend: { position: 'right', labels: { color: '#1a1a1a', font: { size: 11 } } } }
     }
   });
 
-  // Top amounts horizontal bar
   const top = DATA.amounts_top.slice(0, 12);
   new Chart(document.getElementById('chart-top-amounts'), {
     type: 'bar',
     data: {
-      labels: top.map(t => t.foundation.replace(/公益財団法人|一般財団法人/g, '').substring(0, 12)),
-      datasets: [{
-        data: top.map(t => t.amount / 10000),
-        backgroundColor: top.map((_, i) => COLORS[i % COLORS.length]),
-        borderRadius: 4,
-      }]
+      labels: top.map(t => t.foundation.replace(/\u516c\u76ca\u8ca1\u56e3\u6cd5\u4eba|\u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba/g, '').substring(0, 12)),
+      datasets: [{ data: top.map(t => t.amount / 10000), backgroundColor: MI_COLORS, borderRadius: 4 }]
     },
     options: {
       indexAxis: 'y', responsive: true, maintainAspectRatio: false,
-      plugins: {
-        legend: { display: false },
-        tooltip: { callbacks: { label: ctx => fmt(ctx.raw * 10000) } }
-      },
+      plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => fmt(ctx.raw * 10000) } } },
       scales: {
-        x: { ticks: { color: '#94a3b8', callback: v => v >= 10000 ? (v/10000)+'億' : v+'万' }, grid: { color: '#334155' } },
-        y: { ticks: { color: '#e2e8f0', font: { size: 10 } }, grid: { display: false } }
+        x: { ticks: { color: '#6b5e54', callback: v => v >= 10000 ? (v/10000)+'\u5104' : v+'\u4e07' }, grid: { color: '#e8ddd3' } },
+        y: { ticks: { color: '#1a1a1a', font: { size: 10 } }, grid: { display: false } }
       }
     }
   });
 }
 
 function renderBarCharts() {
-  // Program count ranking
   const founds = DATA.foundations.slice(0, 20);
   const maxProg = Math.max(...founds.map(f => f.programs));
   document.getElementById('bar-programs').innerHTML = founds.map(f => `
     <li class="bar-item">
       <div class="bar-label">
-        <span>${f.name.replace(/公益財団法人|一般財団法人/g, '').substring(0, 20)}${f.corporate_parent ? ' <small style="color:var(--text-muted)">(' + f.corporate_parent + ')</small>' : ''}</span>
+        <span>${f.name.replace(/\u516c\u76ca\u8ca1\u56e3\u6cd5\u4eba|\u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba/g, '').substring(0, 20)}${f.corporate_parent ? ' <small style="color:var(--text-light)">(' + f.corporate_parent + ')</small>' : ''}</span>
         <span style="color:var(--accent)">${f.programs}</span>
       </div>
       <div class="bar-track"><div class="bar-fill" style="width:${(f.programs/maxProg*100)}%"></div></div>
     </li>
   `).join('');
 
-  // Doc richness
   const docs = DATA.doc_richness.slice(0, 15);
   const maxSec = Math.max(...docs.map(d => d.section_count + d.eval_count));
   document.getElementById('bar-docs').innerHTML = docs.map(d => {
     const total = d.section_count + d.eval_count;
     return `<li class="bar-item">
       <div class="bar-label">
-        <span>${d.foundation.replace(/公益財団法人|一般財団法人/g, '').substring(0, 20)}</span>
-        <span style="color:var(--accent3)">書類${d.doc_count} / セクション${d.section_count} / 審査${d.eval_count}</span>
+        <span>${d.foundation.replace(/\u516c\u76ca\u8ca1\u56e3\u6cd5\u4eba|\u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba/g, '').substring(0, 20)}</span>
+        <span style="color:var(--mi-amber-brown)">\u66f8\u985e${d.doc_count} / \u30bb\u30af\u30b7\u30e7\u30f3${d.section_count} / \u5be9\u67fb${d.eval_count}</span>
       </div>
-      <div class="bar-track"><div class="bar-fill" style="width:${(total/maxSec*100)}%;background:linear-gradient(90deg,var(--accent2),var(--accent3))"></div></div>
+      <div class="bar-track"><div class="bar-fill bar-fill-alt" style="width:${(total/maxSec*100)}%"></div></div>
     </li>`;
   }).join('');
 }
 
 function renderTables() {
-  // All grants
-  let html = '<table><thead><tr><th>財団</th><th>親企業</th><th>プログラム</th><th>カテゴリ</th><th>年度</th><th>助成上限</th><th>締切</th><th>状態</th></tr></thead><tbody>';
-  const catLabels = { research:'研究', education:'教育', social:'社会', welfare:'福祉', environment:'環境', international:'国際', culture:'文化' };
+  const catLabels = { research:'\u7814\u7a76', education:'\u6559\u80b2', social:'\u793e\u4f1a', welfare:'\u798f\u7949', environment:'\u74b0\u5883', international:'\u56fd\u969b', culture:'\u6587\u5316' };
+  let html = '<table><thead><tr><th>\u8ca1\u56e3</th><th>\u89aa\u4f01\u696d</th><th>\u30d7\u30ed\u30b0\u30e9\u30e0</th><th>\u30ab\u30c6\u30b4\u30ea</th><th>\u5e74\u5ea6</th><th>\u52a9\u6210\u4e0a\u9650</th><th>\u7de0\u5207</th><th>\u72b6\u614b</th></tr></thead><tbody>';
   DATA.all_grants.forEach(g => {
-    const amtClass = g.grant_amount_max > 10000000 ? 'amount amount-large' : 'amount';
+    const ac = g.grant_amount_max > 10000000 ? 'amount amount-large' : 'amount';
     html += `<tr class="grant-row" data-search="${(g.foundation+g.program+g.title+(g.corporate_parent||'')).toLowerCase()}">
-      <td>${g.foundation}</td>
-      <td>${g.corporate_parent || '-'}</td>
-      <td title="${g.title || ''}">${g.program}</td>
-      <td>${catLabels[g.category] || g.category || '-'}</td>
-      <td>${g.fiscal_year || '-'}</td>
-      <td class="${amtClass}">${fmt(g.grant_amount_max)}</td>
-      <td>${g.application_deadline || '-'}</td>
-      <td>${statusBadge(g.status)}</td>
-    </tr>`;
+      <td>${g.foundation}</td><td>${g.corporate_parent||'-'}</td>
+      <td title="${g.title||''}">${g.program}</td><td>${catLabels[g.category]||g.category||'-'}</td>
+      <td>${g.fiscal_year||'-'}</td><td class="${ac}">${fmt(g.grant_amount_max)}</td>
+      <td>${g.application_deadline||'-'}</td><td>${statusBadge(g.status)}</td></tr>`;
   });
   html += '</tbody></table>';
   document.getElementById('all-table').innerHTML = html;
 
-  // Foundations
-  html = '<table><thead><tr><th>財団名</th><th>親企業</th><th>プログラム数</th><th>最大助成額</th><th>カテゴリ</th></tr></thead><tbody>';
+  html = '<table><thead><tr><th>\u8ca1\u56e3\u540d</th><th>\u89aa\u4f01\u696d</th><th>\u30d7\u30ed\u30b0\u30e9\u30e0\u6570</th><th>\u6700\u5927\u52a9\u6210\u984d</th><th>\u30ab\u30c6\u30b4\u30ea</th></tr></thead><tbody>';
   DATA.foundations.forEach(f => {
     html += `<tr class="found-row" data-search="${(f.name+(f.corporate_parent||'')+f.categories).toLowerCase()}">
-      <td>${f.name}</td>
-      <td>${f.corporate_parent || '-'}</td>
-      <td style="text-align:center">${f.programs}</td>
-      <td class="amount">${fmt(f.max_amount)}</td>
-      <td>${f.categories || '-'}</td>
-    </tr>`;
+      <td>${f.name}</td><td>${f.corporate_parent||'-'}</td><td style="text-align:center">${f.programs}</td>
+      <td class="amount">${fmt(f.max_amount)}</td><td>${f.categories||'-'}</td></tr>`;
   });
   html += '</tbody></table>';
   document.getElementById('foundations-table').innerHTML = html;
 
-  // Groups
-  html = '<table><thead><tr><th>企業グループ</th><th>財団数</th><th>プログラム数</th><th>最大助成額</th></tr></thead><tbody>';
+  html = '<table><thead><tr><th>\u4f01\u696d\u30b0\u30eb\u30fc\u30d7</th><th>\u8ca1\u56e3\u6570</th><th>\u30d7\u30ed\u30b0\u30e9\u30e0\u6570</th><th>\u6700\u5927\u52a9\u6210\u984d</th></tr></thead><tbody>';
   DATA.corporate_groups.forEach(g => {
     html += `<tr class="group-row" data-search="${g.name.toLowerCase()}">
-      <td>${g.name}</td>
-      <td style="text-align:center">${g.foundations}</td>
-      <td style="text-align:center">${g.programs}</td>
-      <td class="amount">${fmt(g.max_amount)}</td>
-    </tr>`;
+      <td>${g.name}</td><td style="text-align:center">${g.foundations}</td>
+      <td style="text-align:center">${g.programs}</td><td class="amount">${fmt(g.max_amount)}</td></tr>`;
   });
   html += '</tbody></table>';
   document.getElementById('groups-table').innerHTML = html;
 }
 
 function setupTabs() {
-  document.querySelectorAll('.tab').forEach(tab => {
+  document.querySelectorAll('#table-tabs .tab').forEach(tab => {
     tab.addEventListener('click', () => {
-      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('#table-tabs .tab').forEach(t => t.classList.remove('active'));
       document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
       tab.classList.add('active');
       document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
