@@ -75,12 +75,14 @@
 
   /* KPI Cards */
   .kpi-grid {
-    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    display: grid; grid-template-columns: repeat(6, 1fr);
     gap: 1rem; margin-bottom: 2rem;
   }
+  @media (max-width: 900px) { .kpi-grid { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 560px) { .kpi-grid { grid-template-columns: repeat(2, 1fr); } }
   .kpi-card {
     background: var(--surface); border: 1px solid var(--border);
-    border-radius: 10px; padding: 1.25rem; text-align: center;
+    border-radius: 10px; padding: 1.25rem 1rem; text-align: center;
     border-top: 3px solid var(--mi-golden-orange);
   }
   .kpi-card:nth-child(2) { border-top-color: var(--mi-terracotta); }
@@ -89,21 +91,22 @@
   .kpi-card:nth-child(5) { border-top-color: var(--mi-warm-brown); }
   .kpi-card:nth-child(6) { border-top-color: var(--mi-deep-brown); }
   .kpi-card .value {
-    font-size: 2.25rem; font-weight: 800; color: var(--accent);
+    font-size: 2rem; font-weight: 800; color: var(--accent);
+    white-space: nowrap;
   }
-  .kpi-card .label { color: var(--text-muted); font-size: .85rem; margin-top: .15rem; }
+  .kpi-card .label { color: var(--text-muted); font-size: .8rem; margin-top: .2rem; }
 
   /* Section */
-  .section { margin-bottom: 2rem; }
+  .section { margin-bottom: 2.5rem; }
   .section-title {
-    font-size: 1.1rem; font-weight: 700; margin-bottom: 1rem;
+    font-size: 1.05rem; font-weight: 700; margin-bottom: 1.25rem;
     padding-bottom: .5rem; border-bottom: 2px solid var(--mi-terracotta);
-    color: var(--mi-deep-brown);
+    color: var(--mi-deep-brown); letter-spacing: .02em;
   }
 
   /* Grid layouts */
-  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
-  .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; }
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+  .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.25rem; }
   @media (max-width: 900px) { .grid-2, .grid-3 { grid-template-columns: 1fr; } }
 
   /* Cards */
@@ -112,23 +115,23 @@
     border-radius: 10px; padding: 1.25rem;
   }
   .card h3 {
-    font-size: .9rem; color: var(--text-muted); margin-bottom: .75rem;
-    font-weight: 600;
+    font-size: .85rem; color: var(--mi-warm-brown); margin-bottom: .75rem;
+    font-weight: 700; letter-spacing: .01em;
   }
   .chart-container { position: relative; width: 100%; }
-  .chart-container canvas { max-height: 350px; }
+  .chart-container canvas { max-height: 380px; }
 
   /* Tables */
-  .table-wrap { overflow-x: auto; max-height: 500px; overflow-y: auto; }
-  table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+  .table-wrap { overflow-x: auto; max-height: 480px; overflow-y: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: .84rem; }
   th {
     background: var(--surface2); color: var(--mi-deep-brown);
-    padding: .6rem .75rem; text-align: left; font-weight: 700;
+    padding: .55rem .7rem; text-align: left; font-weight: 700;
     position: sticky; top: 0; z-index: 2;
-    border-bottom: 2px solid var(--mi-camel);
+    border-bottom: 2px solid var(--mi-camel); font-size: .82rem;
   }
-  td { padding: .5rem .75rem; border-bottom: 1px solid var(--border); color: var(--text); }
-  tr:hover td { background: rgba(206, 162, 111, .08); }
+  td { padding: .55rem .7rem; border-bottom: 1px solid var(--border); color: var(--text); }
+  tr:hover td { background: rgba(206, 162, 111, .06); }
 
   .badge {
     display: inline-block; padding: .15rem .5rem; border-radius: 999px;
@@ -178,17 +181,18 @@
 
   /* Bar list */
   .bar-list { list-style: none; }
-  .bar-item { margin-bottom: .5rem; }
+  .bar-item { margin-bottom: .6rem; }
   .bar-label {
-    display: flex; justify-content: space-between; font-size: .85rem; margin-bottom: .2rem;
+    display: flex; justify-content: space-between; font-size: .84rem; margin-bottom: .2rem;
   }
+  .bar-label span:first-child { color: var(--text); }
+  .bar-label span:last-child { font-weight: 700; }
   .bar-track {
-    height: 6px; background: var(--surface2); border-radius: 3px; overflow: hidden;
+    height: 5px; background: var(--surface2); border-radius: 3px; overflow: hidden;
   }
   .bar-fill {
     height: 100%; border-radius: 3px;
     background: linear-gradient(90deg, var(--mi-golden-orange), var(--mi-terracotta));
-    transition: width .5s ease;
   }
   .bar-fill-alt {
     background: linear-gradient(90deg, var(--mi-camel), var(--mi-amber-brown));
@@ -196,39 +200,38 @@
 
   /* Field analysis special */
   .field-grid {
-    display: grid; grid-template-columns: repeat(5, 1fr); gap: .75rem;
-    margin-bottom: 1.5rem;
+    display: grid; grid-template-columns: repeat(5, 1fr); gap: 1rem;
+    margin-bottom: 2rem;
   }
-  @media (max-width: 900px) { .field-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 900px) { .field-grid { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 560px) { .field-grid { grid-template-columns: repeat(2, 1fr); } }
   .field-card {
     background: var(--surface); border: 1px solid var(--border);
-    border-radius: 10px; padding: 1rem; text-align: center;
+    border-radius: 10px; padding: 1.25rem 1rem; text-align: center;
     border-left: 4px solid var(--mi-camel);
-    transition: transform .15s;
   }
-  .field-card:hover { transform: translateY(-2px); }
   .field-card:nth-child(1) { border-left-color: #2e7d32; }
   .field-card:nth-child(2) { border-left-color: #1565c0; }
   .field-card:nth-child(3) { border-left-color: #e65100; }
   .field-card:nth-child(4) { border-left-color: #7b1fa2; }
   .field-card:nth-child(5) { border-left-color: #c62828; }
-  .field-card .field-name { font-weight: 700; font-size: .9rem; color: var(--text); }
-  .field-card .field-count { font-size: 1.75rem; font-weight: 800; color: var(--accent); margin: .25rem 0; }
-  .field-card .field-amount { font-size: .8rem; color: var(--text-muted); }
+  .field-card .field-name { font-weight: 700; font-size: .85rem; color: var(--mi-deep-brown); }
+  .field-card .field-count { font-size: 2rem; font-weight: 800; color: var(--accent); margin: .25rem 0; }
+  .field-card .field-amount { font-size: .8rem; color: var(--text-muted); line-height: 1.5; }
 
   .insight-box {
-    background: linear-gradient(135deg, rgba(240,166,113,.08), rgba(220,135,102,.08));
-    border: 1px solid var(--mi-soft-salmon);
-    border-radius: 10px; padding: 1.25rem; margin-bottom: 1.5rem;
+    background: linear-gradient(135deg, rgba(240,166,113,.06), rgba(220,135,102,.06));
+    border: 1px solid var(--mi-pale-peach);
+    border-radius: 10px; padding: 1.25rem; margin-bottom: 2rem;
   }
-  .insight-box h4 { color: var(--mi-deep-brown); font-size: .95rem; margin-bottom: .5rem; }
-  .insight-box p { color: var(--text-muted); font-size: .85rem; line-height: 1.8; }
+  .insight-box h4 { color: var(--mi-deep-brown); font-size: .9rem; margin-bottom: .4rem; font-weight: 700; }
+  .insight-box p { color: var(--text-muted); font-size: .84rem; line-height: 1.8; }
 
   .footer {
-    text-align: center; padding: 2rem; color: var(--text-light); font-size: .8rem;
-    border-top: 2px solid var(--border); margin-top: 2rem;
+    text-align: center; padding: 2rem 1.5rem; color: var(--text-light); font-size: .78rem;
+    border-top: 1px solid var(--border); margin-top: 3rem; line-height: 1.8;
   }
-  .footer strong { color: var(--mi-deep-brown); letter-spacing: .1em; }
+  .footer strong { color: var(--mi-deep-brown); letter-spacing: .1em; font-weight: 700; }
 </style>
 </head>
 <body>
@@ -290,11 +293,11 @@
     <div class="grid-2 section">
       <div class="card">
         <h3>Level 1: 主要学術領域別 プログラム数（38領域）</h3>
-        <div class="chart-container" style="min-height:500px"><canvas id="chart-l1-count"></canvas></div>
+        <div class="chart-container" style="min-height:450px"><canvas id="chart-l1-count"></canvas></div>
       </div>
       <div class="card">
         <h3>Level 1: 主要学術領域別 助成総額（万円）</h3>
-        <div class="chart-container" style="min-height:500px"><canvas id="chart-l1-amount"></canvas></div>
+        <div class="chart-container" style="min-height:450px"><canvas id="chart-l1-amount"></canvas></div>
       </div>
     </div>
 
@@ -302,11 +305,11 @@
     <div class="grid-2 section">
       <div class="card">
         <h3>Level 2: サブフィールド別 プログラム数 Top 25（57分野中）</h3>
-        <div class="chart-container" style="min-height:500px"><canvas id="chart-l2-count"></canvas></div>
+        <div class="chart-container" style="min-height:450px"><canvas id="chart-l2-count"></canvas></div>
       </div>
       <div class="card">
         <h3>Level 2: サブフィールド別 助成総額 Top 25（万円）</h3>
-        <div class="chart-container" style="min-height:500px"><canvas id="chart-l2-amount"></canvas></div>
+        <div class="chart-container" style="min-height:450px"><canvas id="chart-l2-amount"></canvas></div>
       </div>
     </div>
 
@@ -398,7 +401,8 @@
 
 <div class="footer">
   <strong>MIRA TUKU</strong> &mdash; Corporate Foundation Research Grants Dashboard<br>
-  Built 2026-04-21 &mdash; Source: Grant DB + Academic Knowledge DB (4,703 concepts across 5 domains)
+  82 foundations &middot; 258 programs &middot; 38 L1 fields &middot; 57 L2 subfields<br>
+  Source: Grant DB + Academic Knowledge DB (4,703 concepts) &mdash; Updated 2026-04-21
 </div>
 
 <script>
@@ -459,16 +463,12 @@ function renderKPI() {
     { value: s.corporate_group_count, label: '\u4f01\u696d\u30b0\u30eb\u30fc\u30d7' },
     { value: s.program_count, label: '\u7814\u7a76\u52a9\u6210\u30d7\u30ed\u30b0\u30e9\u30e0' },
     { value: s.call_count, label: '\u516c\u52df\u6570' },
-    { value: s.active_count, label: '\u73fe\u5728\u52df\u96c6\u4e2d/\u8fd1\u65e5' },
-    { value: fmt(s.total_amount), label: '\u52a9\u6210\u7dcf\u984d\uff08\u5224\u660e\u5206\uff09', raw: true },
+    { value: s.active_count, label: '募集中 / 近日' },
+    { value: fmt(s.total_amount), label: '助成総額（判明分）' },
   ];
   document.getElementById('kpi-grid').innerHTML = items.map(i =>
-    `<div class="kpi-card"><div class="value">${i.raw ? i.value : i.value}</div><div class="label">${i.label}</div></div>`
+    `<div class="kpi-card"><div class="value">${i.value}</div><div class="label">${i.label}</div></div>`
   ).join('');
-  // Adjust font for amount card
-  document.querySelectorAll('.kpi-card').forEach((card, idx) => {
-    if (idx === 5) card.querySelector('.value').style.fontSize = '1.5rem';
-  });
 }
 
 function renderActiveGrants() {
@@ -820,7 +820,7 @@ function renderBarCharts() {
     <li class="bar-item">
       <div class="bar-label">
         <span>${f.name.replace(/\u516c\u76ca\u8ca1\u56e3\u6cd5\u4eba|\u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba/g, '').substring(0, 20)}${f.corporate_parent ? ' <small style="color:var(--text-light)">(' + f.corporate_parent + ')</small>' : ''}</span>
-        <span style="color:var(--accent)">${f.programs}</span>
+        <span style="color:var(--mi-terracotta)">${f.programs}</span>
       </div>
       <div class="bar-track"><div class="bar-fill" style="width:${(f.programs/maxProg*100)}%"></div></div>
     </li>
@@ -833,7 +833,7 @@ function renderBarCharts() {
     return `<li class="bar-item">
       <div class="bar-label">
         <span>${d.foundation.replace(/\u516c\u76ca\u8ca1\u56e3\u6cd5\u4eba|\u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba/g, '').substring(0, 20)}</span>
-        <span style="color:var(--mi-amber-brown)">\u66f8\u985e${d.doc_count} / \u30bb\u30af\u30b7\u30e7\u30f3${d.section_count} / \u5be9\u67fb${d.eval_count}</span>
+        <span style="color:var(--mi-terracotta)">\u66f8\u985e${d.doc_count} / \u30bb\u30af\u30b7\u30e7\u30f3${d.section_count} / \u5be9\u67fb${d.eval_count}</span>
       </div>
       <div class="bar-track"><div class="bar-fill bar-fill-alt" style="width:${(total/maxSec*100)}%"></div></div>
     </li>`;
