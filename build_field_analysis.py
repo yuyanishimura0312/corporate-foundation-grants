@@ -187,6 +187,7 @@ def build():
     grant_db = sqlite3.connect(str(GRANT_DB))
     grant_db.row_factory = sqlite3.Row
 
+    # === Layer 1: Program-level classification (258 programs) ===
     grants = q(grant_db, """
         SELECT o.name as foundation, o.corporate_parent,
             gp.name as program, gp.category, gp.description as prog_desc,
@@ -199,86 +200,117 @@ def build():
         JOIN grant_calls gc ON gc.program_id = gp.id
     """)
 
-    # Classify all
     classified = []
     for g in grants:
         c = classify_grant(g)
         classified.append({**g, **c})
 
-    # === Aggregations ===
+    # === Layer 2: Foundation-level classification (all 189) ===
+    # Classify foundations that have no programs using their description
+    all_orgs = q(grant_db, """
+        SELECT o.name as foundation, o.corporate_parent,
+            o.description as prog_desc, o.annual_grant_amount,
+            o.jfc_rank, o.annual_grant_year,
+            (SELECT COUNT(*) FROM grant_programs gp WHERE gp.organization_id = o.id) as program_count
+        FROM organizations o
+    """)
 
-    # Domain level
-    domain_stats = {}
-    for g in classified:
-        for d in g["domains"]:
-            if d not in domain_stats:
-                domain_stats[d] = {"count": 0, "total_amount": 0, "amount_count": 0}
-            domain_stats[d]["count"] += 1
-            amt = g.get("grant_amount_max")
-            if amt and 0 < amt < 10_000_000_000:
-                domain_stats[d]["total_amount"] += amt
-                domain_stats[d]["amount_count"] += 1
+    classified_orgs = []
+    for org in all_orgs:
+        # Build text for classification from org description
+        fake_grant = {
+            "foundation": org["foundation"],
+            "program": "",
+            "title": "",
+            "prog_desc": org.get("prog_desc") or "",
+            "purpose": "",
+            "summary": "",
+            "keywords": "",
+            "subcategories": "",
+        }
+        c = classify_grant(fake_grant)
+        classified_orgs.append({**org, **c})
 
+    # === Aggregations using ANNUAL AMOUNTS (primary) ===
+    def aggregate_stats(items, amount_key="annual_grant_amount"):
+        domain_stats = {}
+        l1_stats = {}
+        l2_stats = {}
+
+        for g in items:
+            amt = g.get(amount_key) or 0
+            if amt < 0 or amt > 100_000_000_000:
+                amt = 0
+
+            for d in g["domains"]:
+                if d not in domain_stats:
+                    domain_stats[d] = {"count": 0, "total_amount": 0, "amount_count": 0}
+                domain_stats[d]["count"] += 1
+                if amt > 0:
+                    domain_stats[d]["total_amount"] += amt
+                    domain_stats[d]["amount_count"] += 1
+
+            for f in g.get("l1_fields", []):
+                if f not in l1_stats:
+                    dom = "unknown"
+                    for m in g.get("matches", []):
+                        if m[1] == f:
+                            dom = m[0]
+                            break
+                    l1_stats[f] = {"count": 0, "total_amount": 0, "amount_count": 0, "domain": dom}
+                l1_stats[f]["count"] += 1
+                if amt > 0:
+                    l1_stats[f]["total_amount"] += amt
+                    l1_stats[f]["amount_count"] += 1
+
+            for sf in g.get("l2_subfields", []):
+                if sf not in l2_stats:
+                    dom = "unknown"
+                    l1 = "unknown"
+                    for m in g.get("matches", []):
+                        if m[2] == sf:
+                            dom = m[0]
+                            l1 = m[1]
+                            break
+                    l2_stats[sf] = {"count": 0, "total_amount": 0, "amount_count": 0, "domain": dom, "l1": l1}
+                l2_stats[sf]["count"] += 1
+                if amt > 0:
+                    l2_stats[sf]["total_amount"] += amt
+                    l2_stats[sf]["amount_count"] += 1
+
+        return domain_stats, l1_stats, l2_stats
+
+    # Foundation-level stats (annual amounts)
+    org_domain_stats, org_l1_stats, org_l2_stats = aggregate_stats(classified_orgs, "annual_grant_amount")
+
+    # Program-level stats (per-call amounts, for program count)
+    prog_domain_stats, prog_l1_stats, prog_l2_stats = aggregate_stats(classified, "grant_amount_max")
+
+    # === Build output ===
     domain_distribution = []
     for d in ["natural_discovery", "social_theory", "engineering_method", "humanities_concept", "arts_question", "unclassified"]:
-        if d not in domain_stats:
-            continue
-        s = domain_stats[d]
+        os = org_domain_stats.get(d, {"count": 0, "total_amount": 0, "amount_count": 0})
+        ps = prog_domain_stats.get(d, {"count": 0, "total_amount": 0, "amount_count": 0})
         domain_distribution.append({
             "domain": d,
             "domain_name": DOMAIN_NAMES.get(d, "未分類"),
-            "count": s["count"],
-            "total_amount": s["total_amount"],
-            "avg_amount": int(s["total_amount"] / s["amount_count"]) if s["amount_count"] else 0,
+            "count": os["count"],  # foundation count
+            "program_count": ps["count"],  # program count
+            "total_amount": os["total_amount"],  # annual amount
+            "avg_amount": int(os["total_amount"] / os["amount_count"]) if os["amount_count"] else 0,
         })
-
-    # L1 field level
-    l1_stats = {}
-    for g in classified:
-        for f in g["l1_fields"]:
-            if f not in l1_stats:
-                # Find domain for this L1
-                dom = "unknown"
-                for m in g["matches"]:
-                    if m[1] == f:
-                        dom = m[0]
-                        break
-                l1_stats[f] = {"count": 0, "total_amount": 0, "amount_count": 0, "domain": dom}
-            l1_stats[f]["count"] += 1
-            amt = g.get("grant_amount_max")
-            if amt and 0 < amt < 10_000_000_000:
-                l1_stats[f]["total_amount"] += amt
-                l1_stats[f]["amount_count"] += 1
 
     l1_distribution = sorted([
         {
             "name": f,
             "domain": DOMAIN_NAMES.get(s["domain"], s["domain"]),
             "count": s["count"],
+            "program_count": prog_l1_stats.get(f, {}).get("count", 0),
             "total_amount": s["total_amount"],
             "avg_amount": int(s["total_amount"] / s["amount_count"]) if s["amount_count"] else 0,
         }
-        for f, s in l1_stats.items()
-    ], key=lambda x: -x["count"])
-
-    # L2 subfield level
-    l2_stats = {}
-    for g in classified:
-        for sf in g["l2_subfields"]:
-            if sf not in l2_stats:
-                dom = "unknown"
-                l1 = "unknown"
-                for m in g["matches"]:
-                    if m[2] == sf:
-                        dom = m[0]
-                        l1 = m[1]
-                        break
-                l2_stats[sf] = {"count": 0, "total_amount": 0, "amount_count": 0, "domain": dom, "l1": l1}
-            l2_stats[sf]["count"] += 1
-            amt = g.get("grant_amount_max")
-            if amt and 0 < amt < 10_000_000_000:
-                l2_stats[sf]["total_amount"] += amt
-                l2_stats[sf]["amount_count"] += 1
+        for f, s in org_l1_stats.items()
+    ], key=lambda x: -x["total_amount"] if x["total_amount"] > 0 else -x["count"])
 
     l2_distribution = sorted([
         {
@@ -286,15 +318,18 @@ def build():
             "l1_field": s["l1"],
             "domain": DOMAIN_NAMES.get(s["domain"], s["domain"]),
             "count": s["count"],
+            "program_count": prog_l2_stats.get(sf, {}).get("count", 0),
             "total_amount": s["total_amount"],
             "avg_amount": int(s["total_amount"] / s["amount_count"]) if s["amount_count"] else 0,
         }
-        for sf, s in l2_stats.items()
-    ], key=lambda x: -x["count"])
+        for sf, s in org_l2_stats.items()
+    ], key=lambda x: -x["total_amount"] if x["total_amount"] > 0 else -x["count"])
 
-    # Grant-level detail
-    grants_with_fields = [
-        {
+    # Foundation-level detail (all 189)
+    grants_with_fields = []
+    # First: programs
+    for g in classified:
+        grants_with_fields.append({
             "foundation": g["foundation"],
             "corporate_parent": g.get("corporate_parent"),
             "program": g["program"],
@@ -304,13 +339,28 @@ def build():
             "amount": g.get("grant_amount_max"),
             "deadline": g.get("application_deadline"),
             "status": g.get("status"),
-        }
-        for g in classified
-    ]
+            "type": "program",
+        })
+    # Then: foundations without programs
+    seen_foundations = set(g["foundation"] for g in classified)
+    for org in classified_orgs:
+        if org["foundation"] not in seen_foundations and org["domains"] != ["unclassified"]:
+            grants_with_fields.append({
+                "foundation": org["foundation"],
+                "corporate_parent": org.get("corporate_parent"),
+                "program": "(事業目的から推定)",
+                "domains": org["domain_names"],
+                "l1_fields": org["l1_fields"],
+                "l2_subfields": org["l2_subfields"],
+                "amount": org.get("annual_grant_amount"),
+                "deadline": None,
+                "status": "active" if org.get("annual_grant_amount") else "unknown",
+                "type": "foundation",
+            })
 
-    # Domain→L1→L2 tree for treemap/sunburst
+    # Hierarchy tree
     tree = {}
-    for sf, s in l2_stats.items():
+    for sf, s in org_l2_stats.items():
         dom = DOMAIN_NAMES.get(s["domain"], s["domain"])
         l1 = s["l1"]
         if dom not in tree:
@@ -325,16 +375,18 @@ def build():
         for l1, l2s in l1s.items():
             children.append({
                 "name": l1,
-                "children": sorted(l2s, key=lambda x: -x["count"]),
+                "children": sorted(l2s, key=lambda x: -x["amount"] if x["amount"] > 0 else -x["count"]),
                 "count": sum(x["count"] for x in l2s),
+                "amount": sum(x["amount"] for x in l2s),
             })
-        children.sort(key=lambda x: -x["count"])
+        children.sort(key=lambda x: -x["amount"] if x["amount"] > 0 else -x["count"])
         hierarchy.append({
             "name": dom,
             "children": children,
             "count": sum(c["count"] for c in children),
+            "amount": sum(c["amount"] for c in children),
         })
-    hierarchy.sort(key=lambda x: -x["count"])
+    hierarchy.sort(key=lambda x: -x["amount"] if x["amount"] > 0 else -x["count"])
 
     result = {
         "domain_distribution": domain_distribution,
@@ -347,20 +399,28 @@ def build():
     with open(str(OUT), "w") as f:
         json.dump(result, f, ensure_ascii=False)
 
-    print(f"=== Field Analysis Results ===")
-    print(f"Grants classified: {len(classified)}")
+    total_annual = sum(d["total_amount"] for d in domain_distribution)
+    classified_count = sum(1 for o in classified_orgs if o["domains"] != ["unclassified"])
+    unclassified_count = sum(1 for o in classified_orgs if o["domains"] == ["unclassified"])
+
+    print(f"=== Field Analysis Results (v2: Annual Amount Based) ===")
+    print(f"Total foundations: {len(classified_orgs)}")
+    print(f"  Classified: {classified_count}")
+    print(f"  Unclassified: {unclassified_count}")
+    print(f"Programs: {len(classified)}")
     print(f"Domains: {len(domain_distribution)}")
     print(f"L1 fields: {len(l1_distribution)}")
     print(f"L2 subfields: {len(l2_distribution)}")
-    print(f"\n--- Domain Distribution ---")
+    print(f"Total annual amount mapped: {total_annual/100000000:.1f}億円")
+    print(f"\n--- Domain Distribution (Annual Amount) ---")
     for d in domain_distribution:
-        print(f"  {d['domain_name']}: {d['count']} grants, {d['total_amount']/10000:.0f}万円")
-    print(f"\n--- L1 Top 15 ---")
+        print(f"  {d['domain_name']}: {d['count']} foundations, {d['program_count']} programs, {d['total_amount']/100000000:.1f}億円")
+    print(f"\n--- L1 Top 15 (by Annual Amount) ---")
     for f in l1_distribution[:15]:
-        print(f"  [{f['domain']}] {f['name']}: {f['count']} grants, {f['total_amount']/10000:.0f}万円")
-    print(f"\n--- L2 Top 20 ---")
+        print(f"  [{f['domain']}] {f['name']}: {f['count']} foundations, {f['total_amount']/100000000:.1f}億円")
+    print(f"\n--- L2 Top 20 (by Annual Amount) ---")
     for sf in l2_distribution[:20]:
-        print(f"  [{sf['domain']}] {sf['l1_field']} > {sf['name']}: {sf['count']} grants, {sf['total_amount']/10000:.0f}万円")
+        print(f"  [{sf['domain']}] {sf['l1_field']} > {sf['name']}: {sf['count']} foundations, {sf['total_amount']/100000000:.1f}億円")
 
     print(f"\nOutput: {OUT} ({OUT.stat().st_size / 1024:.0f} KB)")
     grant_db.close()
