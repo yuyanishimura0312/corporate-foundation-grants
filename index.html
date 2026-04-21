@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>企業財団 研究助成ダッシュボード</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0f172a;
+    --surface: #1e293b;
+    --surface2: #334155;
+    --border: #475569;
+    --text: #e2e8f0;
+    --text-muted: #94a3b8;
+    --accent: #38bdf8;
+    --accent2: #818cf8;
+    --accent3: #a78bfa;
+    --green: #34d399;
+    --amber: #fbbf24;
+    --rose: #fb7185;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    background: var(--bg); color: var(--text);
+    line-height: 1.6; min-height: 100vh;
+  }
+  .header {
+    background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 2rem 2rem 1.5rem;
+  }
+  .header h1 {
+    font-size: 1.75rem; font-weight: 700;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  .header p { color: var(--text-muted); margin-top: .25rem; font-size: .9rem; }
+  .container { max-width: 1400px; margin: 0 auto; padding: 1.5rem; }
+
+  /* KPI Cards */
+  .kpi-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem; margin-bottom: 2rem;
+  }
+  .kpi-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; padding: 1.25rem; text-align: center;
+  }
+  .kpi-card .value {
+    font-size: 2.25rem; font-weight: 800;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  .kpi-card .label { color: var(--text-muted); font-size: .85rem; margin-top: .25rem; }
+
+  /* Section */
+  .section { margin-bottom: 2rem; }
+  .section-title {
+    font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem;
+    padding-bottom: .5rem; border-bottom: 1px solid var(--border);
+    color: var(--accent);
+  }
+
+  /* Grid layouts */
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+  .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; }
+  @media (max-width: 900px) {
+    .grid-2, .grid-3 { grid-template-columns: 1fr; }
+  }
+
+  /* Cards */
+  .card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; padding: 1.25rem;
+  }
+  .card h3 { font-size: .95rem; color: var(--text-muted); margin-bottom: .75rem; }
+  .chart-container { position: relative; width: 100%; }
+  .chart-container canvas { max-height: 350px; }
+
+  /* Tables */
+  .table-wrap { overflow-x: auto; max-height: 500px; overflow-y: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+  th {
+    background: var(--surface2); color: var(--accent);
+    padding: .6rem .75rem; text-align: left; font-weight: 600;
+    position: sticky; top: 0; z-index: 2;
+  }
+  td { padding: .5rem .75rem; border-bottom: 1px solid var(--border); }
+  tr:hover td { background: rgba(56, 189, 248, .05); }
+  .badge {
+    display: inline-block; padding: .15rem .5rem; border-radius: 999px;
+    font-size: .75rem; font-weight: 600;
+  }
+  .badge-open { background: rgba(52, 211, 153, .15); color: var(--green); }
+  .badge-upcoming { background: rgba(251, 191, 36, .15); color: var(--amber); }
+  .badge-closed { background: rgba(148, 163, 184, .1); color: var(--text-muted); }
+  .badge-unknown { background: rgba(148, 163, 184, .1); color: var(--text-muted); }
+
+  /* Amount formatting */
+  .amount { font-weight: 600; color: var(--green); white-space: nowrap; }
+  .amount-large { color: var(--amber); }
+
+  /* Tabs */
+  .tabs { display: flex; gap: .5rem; margin-bottom: 1rem; flex-wrap: wrap; }
+  .tab {
+    padding: .4rem 1rem; border-radius: 8px; cursor: pointer;
+    background: var(--surface); border: 1px solid var(--border);
+    color: var(--text-muted); font-size: .85rem; transition: all .15s;
+  }
+  .tab:hover { border-color: var(--accent); color: var(--text); }
+  .tab.active { background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: 600; }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  /* Search */
+  .search-box {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: .5rem 1rem; color: var(--text);
+    font-size: .9rem; width: 100%; max-width: 400px; margin-bottom: 1rem;
+  }
+  .search-box:focus { outline: none; border-color: var(--accent); }
+  .search-box::placeholder { color: var(--text-muted); }
+
+  /* Bar list */
+  .bar-list { list-style: none; }
+  .bar-item { margin-bottom: .5rem; }
+  .bar-label {
+    display: flex; justify-content: space-between; font-size: .85rem; margin-bottom: .2rem;
+  }
+  .bar-track {
+    height: 6px; background: var(--surface2); border-radius: 3px; overflow: hidden;
+  }
+  .bar-fill {
+    height: 100%; border-radius: 3px;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    transition: width .5s ease;
+  }
+
+  .footer {
+    text-align: center; padding: 2rem; color: var(--text-muted); font-size: .8rem;
+    border-top: 1px solid var(--border); margin-top: 2rem;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>企業財団 研究助成ダッシュボード</h1>
+  <p>Corporate Foundation Research Grants — 企業が設立した財団による研究助成プログラムの全容</p>
+</div>
+
+<div class="container">
+  <!-- KPI -->
+  <div class="kpi-grid" id="kpi-grid"></div>
+
+  <!-- Active Grants -->
+  <div class="section" id="active-section">
+    <div class="section-title">現在募集中・近日公募の研究助成</div>
+    <div class="card">
+      <div class="table-wrap" id="active-table"></div>
+    </div>
+  </div>
+
+  <!-- Charts Row 1 -->
+  <div class="grid-2 section">
+    <div class="card">
+      <h3>企業グループ別 プログラム数</h3>
+      <div class="chart-container"><canvas id="chart-groups"></canvas></div>
+    </div>
+    <div class="card">
+      <h3>助成額の分布</h3>
+      <div class="chart-container"><canvas id="chart-amounts"></canvas></div>
+    </div>
+  </div>
+
+  <!-- Charts Row 2 -->
+  <div class="grid-3 section">
+    <div class="card">
+      <h3>プログラムカテゴリ</h3>
+      <div class="chart-container"><canvas id="chart-categories"></canvas></div>
+    </div>
+    <div class="card">
+      <h3>公募ステータス</h3>
+      <div class="chart-container"><canvas id="chart-status"></canvas></div>
+    </div>
+    <div class="card">
+      <h3>助成額 上位プログラム</h3>
+      <div class="chart-container"><canvas id="chart-top-amounts"></canvas></div>
+    </div>
+  </div>
+
+  <!-- Foundation Rankings -->
+  <div class="section">
+    <div class="section-title">財団別ランキング</div>
+    <div class="grid-2">
+      <div class="card">
+        <h3>プログラム数 Top 20</h3>
+        <ul class="bar-list" id="bar-programs"></ul>
+      </div>
+      <div class="card">
+        <h3>申請書類の充実度 Top 15</h3>
+        <ul class="bar-list" id="bar-docs"></ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Full Data Table -->
+  <div class="section">
+    <div class="section-title">全データ一覧</div>
+    <div class="tabs" id="table-tabs">
+      <div class="tab active" data-tab="all">全公募 (258)</div>
+      <div class="tab" data-tab="foundations">財団一覧 (82)</div>
+      <div class="tab" data-tab="groups">企業グループ</div>
+    </div>
+    <input type="text" class="search-box" id="table-search" placeholder="検索（財団名、プログラム名、キーワード）">
+
+    <div class="tab-content active" id="tab-all">
+      <div class="card"><div class="table-wrap" id="all-table"></div></div>
+    </div>
+    <div class="tab-content" id="tab-foundations">
+      <div class="card"><div class="table-wrap" id="foundations-table"></div></div>
+    </div>
+    <div class="tab-content" id="tab-groups">
+      <div class="card"><div class="table-wrap" id="groups-table"></div></div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  Corporate Foundation Research Grants Dashboard &mdash; Built 2026-04-21<br>
+  Source: Grant DB (grant-db-seven.vercel.app) &mdash; 82 foundations, 258 programs
+</div>
+
+<script>
+let DATA = {};
+
+async function init() {
+  const resp = await fetch('data.json');
+  DATA = await resp.json();
+  renderKPI();
+  renderActiveGrants();
+  renderCharts();
+  renderBarCharts();
+  renderTables();
+  setupTabs();
+  setupSearch();
+}
+
+function fmt(n) {
+  if (n == null) return '-';
+  if (n >= 100000000) return (n / 100000000).toFixed(1) + '億円';
+  if (n >= 10000) return (n / 10000).toFixed(0) + '万円';
+  return n.toLocaleString() + '円';
+}
+
+function statusBadge(s) {
+  const labels = { open: '募集中', upcoming: '近日公募', closed: '終了', unknown: '不明', reviewing: '審査中', awarded: '決定済' };
+  const cls = s === 'open' ? 'badge-open' : s === 'upcoming' ? 'badge-upcoming' : 'badge-closed';
+  return `<span class="badge ${cls}">${labels[s] || s}</span>`;
+}
+
+function renderKPI() {
+  const s = DATA.stats;
+  const items = [
+    { value: s.foundation_count, label: '企業財団' },
+    { value: s.corporate_group_count, label: '企業グループ' },
+    { value: s.program_count, label: '研究助成プログラム' },
+    { value: s.call_count, label: '公募数' },
+    { value: s.active_count, label: '現在募集中/近日' },
+  ];
+  document.getElementById('kpi-grid').innerHTML = items.map(i =>
+    `<div class="kpi-card"><div class="value">${i.value}</div><div class="label">${i.label}</div></div>`
+  ).join('');
+}
+
+function renderActiveGrants() {
+  const grants = DATA.active_grants;
+  if (!grants.length) {
+    document.getElementById('active-section').style.display = 'none';
+    return;
+  }
+  let html = '<table><thead><tr><th>財団</th><th>親企業</th><th>プログラム</th><th>助成上限</th><th>締切</th><th>状態</th></tr></thead><tbody>';
+  grants.forEach(g => {
+    const amtClass = g.amount > 10000000 ? 'amount amount-large' : 'amount';
+    html += `<tr>
+      <td>${g.foundation}</td>
+      <td>${g.corporate_parent || '-'}</td>
+      <td>${g.program}</td>
+      <td class="${amtClass}">${fmt(g.amount)}</td>
+      <td>${g.deadline || '-'}</td>
+      <td>${statusBadge(g.status)}</td>
+    </tr>`;
+  });
+  html += '</tbody></table>';
+  document.getElementById('active-table').innerHTML = html;
+}
+
+const COLORS = ['#38bdf8','#818cf8','#a78bfa','#34d399','#fbbf24','#fb7185','#f472b6','#22d3ee','#4ade80','#c084fc','#f97316','#2dd4bf'];
+
+function renderCharts() {
+  // Corporate groups bar chart
+  const groups = DATA.corporate_groups.slice(0, 15);
+  new Chart(document.getElementById('chart-groups'), {
+    type: 'bar',
+    data: {
+      labels: groups.map(g => g.name),
+      datasets: [{
+        data: groups.map(g => g.programs),
+        backgroundColor: COLORS.concat(COLORS),
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
+        y: { ticks: { color: '#e2e8f0', font: { size: 11 } }, grid: { display: false } }
+      }
+    }
+  });
+
+  // Amount distribution
+  const ranges = DATA.amount_ranges;
+  new Chart(document.getElementById('chart-amounts'), {
+    type: 'bar',
+    data: {
+      labels: ranges.map(r => r.range_label),
+      datasets: [{
+        data: ranges.map(r => r.count),
+        backgroundColor: ranges.map((_, i) => COLORS[i % COLORS.length]),
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#94a3b8', font: { size: 10 } }, grid: { display: false } },
+        y: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } }
+      }
+    }
+  });
+
+  // Categories donut
+  const cats = DATA.categories;
+  const catLabels = {
+    research: '研究', education: '教育', social: '社会', welfare: '福祉',
+    environment: '環境', international: '国際', culture: '文化', other: 'その他'
+  };
+  new Chart(document.getElementById('chart-categories'), {
+    type: 'doughnut',
+    data: {
+      labels: cats.map(c => catLabels[c.category] || c.category),
+      datasets: [{ data: cats.map(c => c.count), backgroundColor: COLORS }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { position: 'right', labels: { color: '#e2e8f0', font: { size: 11 } } } }
+    }
+  });
+
+  // Status donut
+  const statuses = DATA.statuses;
+  const statusLabels = { unknown: '不明', open: '募集中', closed: '終了', upcoming: '近日公募', reviewing: '審査中', awarded: '決定済' };
+  const statusColors = { open: '#34d399', upcoming: '#fbbf24', closed: '#64748b', unknown: '#475569', reviewing: '#818cf8', awarded: '#38bdf8' };
+  new Chart(document.getElementById('chart-status'), {
+    type: 'doughnut',
+    data: {
+      labels: statuses.map(s => statusLabels[s.status] || s.status),
+      datasets: [{ data: statuses.map(s => s.count), backgroundColor: statuses.map(s => statusColors[s.status] || '#475569') }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { position: 'right', labels: { color: '#e2e8f0', font: { size: 11 } } } }
+    }
+  });
+
+  // Top amounts horizontal bar
+  const top = DATA.amounts_top.slice(0, 12);
+  new Chart(document.getElementById('chart-top-amounts'), {
+    type: 'bar',
+    data: {
+      labels: top.map(t => t.foundation.replace(/公益財団法人|一般財団法人/g, '').substring(0, 12)),
+      datasets: [{
+        data: top.map(t => t.amount / 10000),
+        backgroundColor: top.map((_, i) => COLORS[i % COLORS.length]),
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { label: ctx => fmt(ctx.raw * 10000) } }
+      },
+      scales: {
+        x: { ticks: { color: '#94a3b8', callback: v => v >= 10000 ? (v/10000)+'億' : v+'万' }, grid: { color: '#334155' } },
+        y: { ticks: { color: '#e2e8f0', font: { size: 10 } }, grid: { display: false } }
+      }
+    }
+  });
+}
+
+function renderBarCharts() {
+  // Program count ranking
+  const founds = DATA.foundations.slice(0, 20);
+  const maxProg = Math.max(...founds.map(f => f.programs));
+  document.getElementById('bar-programs').innerHTML = founds.map(f => `
+    <li class="bar-item">
+      <div class="bar-label">
+        <span>${f.name.replace(/公益財団法人|一般財団法人/g, '').substring(0, 20)}${f.corporate_parent ? ' <small style="color:var(--text-muted)">(' + f.corporate_parent + ')</small>' : ''}</span>
+        <span style="color:var(--accent)">${f.programs}</span>
+      </div>
+      <div class="bar-track"><div class="bar-fill" style="width:${(f.programs/maxProg*100)}%"></div></div>
+    </li>
+  `).join('');
+
+  // Doc richness
+  const docs = DATA.doc_richness.slice(0, 15);
+  const maxSec = Math.max(...docs.map(d => d.section_count + d.eval_count));
+  document.getElementById('bar-docs').innerHTML = docs.map(d => {
+    const total = d.section_count + d.eval_count;
+    return `<li class="bar-item">
+      <div class="bar-label">
+        <span>${d.foundation.replace(/公益財団法人|一般財団法人/g, '').substring(0, 20)}</span>
+        <span style="color:var(--accent3)">書類${d.doc_count} / セクション${d.section_count} / 審査${d.eval_count}</span>
+      </div>
+      <div class="bar-track"><div class="bar-fill" style="width:${(total/maxSec*100)}%;background:linear-gradient(90deg,var(--accent2),var(--accent3))"></div></div>
+    </li>`;
+  }).join('');
+}
+
+function renderTables() {
+  // All grants
+  let html = '<table><thead><tr><th>財団</th><th>親企業</th><th>プログラム</th><th>カテゴリ</th><th>年度</th><th>助成上限</th><th>締切</th><th>状態</th></tr></thead><tbody>';
+  const catLabels = { research:'研究', education:'教育', social:'社会', welfare:'福祉', environment:'環境', international:'国際', culture:'文化' };
+  DATA.all_grants.forEach(g => {
+    const amtClass = g.grant_amount_max > 10000000 ? 'amount amount-large' : 'amount';
+    html += `<tr class="grant-row" data-search="${(g.foundation+g.program+g.title+(g.corporate_parent||'')).toLowerCase()}">
+      <td>${g.foundation}</td>
+      <td>${g.corporate_parent || '-'}</td>
+      <td title="${g.title || ''}">${g.program}</td>
+      <td>${catLabels[g.category] || g.category || '-'}</td>
+      <td>${g.fiscal_year || '-'}</td>
+      <td class="${amtClass}">${fmt(g.grant_amount_max)}</td>
+      <td>${g.application_deadline || '-'}</td>
+      <td>${statusBadge(g.status)}</td>
+    </tr>`;
+  });
+  html += '</tbody></table>';
+  document.getElementById('all-table').innerHTML = html;
+
+  // Foundations
+  html = '<table><thead><tr><th>財団名</th><th>親企業</th><th>プログラム数</th><th>最大助成額</th><th>カテゴリ</th></tr></thead><tbody>';
+  DATA.foundations.forEach(f => {
+    html += `<tr class="found-row" data-search="${(f.name+(f.corporate_parent||'')+f.categories).toLowerCase()}">
+      <td>${f.name}</td>
+      <td>${f.corporate_parent || '-'}</td>
+      <td style="text-align:center">${f.programs}</td>
+      <td class="amount">${fmt(f.max_amount)}</td>
+      <td>${f.categories || '-'}</td>
+    </tr>`;
+  });
+  html += '</tbody></table>';
+  document.getElementById('foundations-table').innerHTML = html;
+
+  // Groups
+  html = '<table><thead><tr><th>企業グループ</th><th>財団数</th><th>プログラム数</th><th>最大助成額</th></tr></thead><tbody>';
+  DATA.corporate_groups.forEach(g => {
+    html += `<tr class="group-row" data-search="${g.name.toLowerCase()}">
+      <td>${g.name}</td>
+      <td style="text-align:center">${g.foundations}</td>
+      <td style="text-align:center">${g.programs}</td>
+      <td class="amount">${fmt(g.max_amount)}</td>
+    </tr>`;
+  });
+  html += '</tbody></table>';
+  document.getElementById('groups-table').innerHTML = html;
+}
+
+function setupTabs() {
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      tab.classList.add('active');
+      document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
+    });
+  });
+}
+
+function setupSearch() {
+  document.getElementById('table-search').addEventListener('input', (e) => {
+    const q = e.target.value.toLowerCase();
+    document.querySelectorAll('.grant-row, .found-row, .group-row').forEach(row => {
+      row.style.display = row.dataset.search.includes(q) ? '' : 'none';
+    });
+  });
+}
+
+init();
+</script>
+</body>
+</html>
