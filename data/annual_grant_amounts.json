@@ -1,0 +1,220 @@
+[
+  {
+    "name": "トヨタ財団",
+    "url": "https://www.toyotafound.or.jp/about/data/",
+    "estimated_annual_amount": null,
+    "amount_context": "",
+    "all_amounts": [],
+    "grant_counts": [],
+    "fiscal_years": [],
+    "has_annual_report": false,
+    "has_grant_results": false
+  },
+  {
+    "name": "三菱財団",
+    "url": "https://www.mitsubishi-zaidan.jp/support/",
+    "estimated_annual_amount": null,
+    "amount_context": "",
+    "all_amounts": [],
+    "grant_counts": [],
+    "fiscal_years": [
+      "2026年度"
+    ],
+    "has_annual_report": false,
+    "has_grant_results": false
+  },
+  {
+    "name": "武田科学振興財団",
+    "url": "https://www.takeda-sci.or.jp/business/",
+    "estimated_annual_amount": null,
+    "amount_context": "",
+    "all_amounts": [],
+    "grant_counts": [],
+    "fiscal_years": [
+      "2026年度",
+      "2025年度"
+    ],
+    "has_annual_report": false,
+    "has_grant_results": false
+  },
+  {
+    "name": "稲盛財団",
+    "url": "https://www.inamori-f.or.jp/research_grant/",
+    "estimated_annual_amount": null,
+    "amount_context": "",
+    "all_amounts": [],
+    "grant_counts": [],
+    "fiscal_years": [],
+    "has_annual_report": false,
+    "has_grant_results": false
+  },
+  {
+    "name": "住友財団",
+    "url": "https://www.sumitomo.or.jp/activities/",
+    "estimated_annual_amount": null,
+    "amount_context": "",
+    "all_amounts": [],
+    "grant_counts": [],
+    "fiscal_years": [],
+    "has_annual_report": false,
+    "has_grant_results": false
+  },
+  {
+    "name": "マツダ財団",
+    "url": "https://mzaidan.mazda.co.jp/results/",
+    "estimated_annual_amount": null,
+    "amount_context": "",
+    "all_amounts": [],
+    "grant_counts": [],
+    "fiscal_years": [
+      "2024年度",
+      "2023年度",
+      "2022年度",
+      "2021年度",
+      "2020年度"
+    ],
+    "has_annual_report": false,
+    "has_grant_results": true
+  },
+  {
+    "name": "花王芸術・科学財団",
+    "url": "https://www.kao-foundation.or.jp/assist/science/",
+    "estimated_annual_amount": null,
+    "amount_context": "",
+    "all_amounts": [],
+    "grant_counts": [],
+    "fiscal_years": [],
+    "has_annual_report": false,
+    "has_grant_results": true
+  },
+  {
+    "name": "ニッポンハム食の未来財団",
+    "url": "https://www.miraizaidan.or.jp/grant/",
+    "estimated_annual_amount": null,
+    "amount_context": "",
+    "all_amounts": [],
+    "grant_counts": [],
+    "fiscal_years": [],
+    "has_annual_report": false,
+    "has_grant_results": false
+  },
+  {
+    "name": "旭硝子財団",
+    "url": "https://www.af-info.or.jp/research/",
+    "estimated_annual_amount": null,
+    "amount_context": "",
+    "all_amounts": [],
+    "grant_counts": [],
+    "fiscal_years": [
+      "2026年度",
+      "2025年度"
+    ],
+    "has_annual_report": false,
+    "has_grant_results": false
+  },
+  {
+    "name": "ロッテ財団",
+    "url": "https://www.lotte-isf.or.jp/promotion/",
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lotte-isf.or.jp/promotion/\nCall log:\n  - navigating to \"https://www.lotte-isf.or.jp/promotion/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "野村財団",
+    "url": "https://www.nomurafoundation.or.jp/social/grant/",
+    "error": "Page.goto: Navigation to \"https://www.nomurafoundation.or.jp/social/grant/\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://www.nomurafoundation.or.jp/social/grant/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "日本生命財団",
+    "url": "https://www.nihonseimei-zaidan.or.jp/jyosei/",
+    "error": "Page.goto: Navigation to \"https://www.nihonseimei-zaidan.or.jp/jyosei/\" is interrupted by another navigation to \"https://www.nomurafoundation.or.jp/social/grant/\"\nCall log:\n  - navigating to \"https://www.nihonseimei-zaidan.or.jp/jyosei/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "電気通信普及財団",
+    "url": "https://www.taf.or.jp/grant/",
+    "error": "Page.goto: Navigation to \"https://www.taf.or.jp/grant/\" is interrupted by another navigation to \"https://www.nihonseimei-zaidan.or.jp/jyosei/\"\nCall log:\n  - navigating to \"https://www.taf.or.jp/grant/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "セコム科学技術振興財団",
+    "url": "https://www.secomzaidan.jp/grant/",
+    "error": "Page.goto: Navigation to \"https://www.secomzaidan.jp/grant/\" is interrupted by another navigation to \"https://www.taf.or.jp/grant/\"\nCall log:\n  - navigating to \"https://www.secomzaidan.jp/grant/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "大和証券福祉財団",
+    "url": "https://www.daiwa-grp.jp/dsf/grant/",
+    "error": "Page.goto: Navigation to \"https://www.daiwa-grp.jp/dsf/grant/\" is interrupted by another navigation to \"https://www.secomzaidan.jp/grant/\"\nCall log:\n  - navigating to \"https://www.daiwa-grp.jp/dsf/grant/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "パナソニック教育財団",
+    "url": "https://www.pef.or.jp/school/grant/",
+    "error": "Page.goto: Navigation to \"https://www.pef.or.jp/school/grant/\" is interrupted by another navigation to \"https://www.daiwa-grp.jp/dsf/grant/\"\nCall log:\n  - navigating to \"https://www.pef.or.jp/school/grant/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "三島海雲記念財団",
+    "url": "https://www.mishima-kaiun.or.jp/assist/",
+    "error": "Page.goto: Navigation to \"https://www.mishima-kaiun.or.jp/assist/\" is interrupted by another navigation to \"https://www.pef.or.jp/school/grant/\"\nCall log:\n  - navigating to \"https://www.mishima-kaiun.or.jp/assist/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "先進医薬研究振興財団",
+    "url": "https://www.smf.or.jp/",
+    "error": "Page.goto: Navigation to \"https://www.smf.or.jp/\" is interrupted by another navigation to \"https://www.mishima-kaiun.or.jp/works/works-284/\"\nCall log:\n  - navigating to \"https://www.smf.or.jp/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "ホソカワ粉体工学振興財団",
+    "url": "https://www.kona.or.jp/",
+    "error": "Page.goto: Navigation to \"https://www.kona.or.jp/\" is interrupted by another navigation to \"https://www.smf.or.jp/\"\nCall log:\n  - navigating to \"https://www.kona.or.jp/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "日立財団",
+    "url": "https://www.hitachi-zaidan.org/activities/",
+    "error": "Page.goto: Navigation to \"https://www.hitachi-zaidan.org/activities/\" is interrupted by another navigation to \"https://www.kona.or.jp/jp/\"\nCall log:\n  - navigating to \"https://www.hitachi-zaidan.org/activities/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "東レ科学振興会",
+    "url": "https://www.toray-sf.or.jp/grant/",
+    "error": "Page.goto: Navigation to \"https://www.toray-sf.or.jp/grant/\" is interrupted by another navigation to \"https://www.hitachi-zaidan.org/activities/\"\nCall log:\n  - navigating to \"https://www.toray-sf.or.jp/grant/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "カシオ科学振興財団",
+    "url": "https://www.casio.co.jp/csr/zaidan/",
+    "error": "Page.goto: Navigation to \"https://www.casio.co.jp/csr/zaidan/\" is interrupted by another navigation to \"https://www.toray-sf.or.jp/grant/\"\nCall log:\n  - navigating to \"https://www.casio.co.jp/csr/zaidan/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "岩谷直治記念財団",
+    "url": "https://www.iwatani-foundation.or.jp/",
+    "error": "Page.goto: Navigation to \"https://www.iwatani-foundation.or.jp/\" is interrupted by another navigation to \"https://www.casio.co.jp/csr/zaidan/\"\nCall log:\n  - navigating to \"https://www.iwatani-foundation.or.jp/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "コニカミノルタ科学技術振興財団",
+    "url": "https://www.konicaminolta.jp/about/csr/contribution/zaidan/",
+    "error": "Page.goto: Navigation to \"https://www.konicaminolta.jp/about/csr/contribution/zaidan/\" is interrupted by another navigation to \"https://www.iwatani-foundation.or.jp/\"\nCall log:\n  - navigating to \"https://www.konicaminolta.jp/about/csr/contribution/zaidan/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "サントリー文化財団",
+    "url": "https://www.suntory.co.jp/sfnd/research/",
+    "error": "Page.goto: Navigation to \"https://www.suntory.co.jp/sfnd/research/\" is interrupted by another navigation to \"https://www.konicaminolta.jp/about/csr/contribution/zaidan/\"\nCall log:\n  - navigating to \"https://www.suntory.co.jp/sfnd/research/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "中谷財団",
+    "url": "https://www.nakatani-foundation.jp/grant/",
+    "error": "Page.goto: Navigation to \"https://www.nakatani-foundation.jp/grant/\" is interrupted by another navigation to \"https://www.suntory.co.jp/sfnd/research/\"\nCall log:\n  - navigating to \"https://www.nakatani-foundation.jp/grant/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "アサヒグループ財団",
+    "url": "https://www.asahigroup-foundation.com/academic/",
+    "error": "Page.goto: Navigation to \"https://www.asahigroup-foundation.com/academic/\" is interrupted by another navigation to \"https://www.nakatani-foundation.jp/news/grantlist2019/\"\nCall log:\n  - navigating to \"https://www.asahigroup-foundation.com/academic/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "加藤記念バイオサイエンス振興財団",
+    "url": "https://www.katokinen.or.jp/",
+    "error": "Page.goto: Navigation to \"https://www.katokinen.or.jp/\" is interrupted by another navigation to \"https://www.asahigroup-foundation.com/\"\nCall log:\n  - navigating to \"https://www.katokinen.or.jp/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "村田学術振興・教育財団",
+    "url": "https://corporate.murata.com/ja-jp/group/zaidan",
+    "error": "Page.goto: Navigation to \"https://corporate.murata.com/ja-jp/group/zaidan\" is interrupted by another navigation to \"https://www.katokinen.or.jp/\"\nCall log:\n  - navigating to \"https://corporate.murata.com/ja-jp/group/zaidan\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "ソニー教育財団",
+    "url": "https://www.sony-ef.or.jp/",
+    "error": "Page.goto: Navigation to \"https://www.sony-ef.or.jp/\" is interrupted by another navigation to \"https://corporate.murata.com/ja-jp/group/zaidan\"\nCall log:\n  - navigating to \"https://www.sony-ef.or.jp/\", waiting until \"domcontentloaded\"\n"
+  }
+]
