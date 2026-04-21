@@ -273,27 +273,46 @@
     <!-- Domain cards -->
     <div class="field-grid" id="field-cards"></div>
 
-    <!-- Field charts -->
+    <!-- Field charts: Domain level -->
     <div class="grid-2 section">
       <div class="card">
         <h3>学術5分野 プログラム数比較</h3>
         <div class="chart-container"><canvas id="chart-field-count"></canvas></div>
       </div>
       <div class="card">
-        <h3>学術5分野 助成総額比較（万円）</h3>
+        <h3>学術5分野 助成総額・平均額比較（万円）</h3>
         <div class="chart-container"><canvas id="chart-field-amount"></canvas></div>
       </div>
     </div>
 
+    <!-- L1 Field level -->
     <div class="grid-2 section">
       <div class="card">
-        <h3>サブフィールド別 プログラム数</h3>
-        <div class="chart-container"><canvas id="chart-subfield-count"></canvas></div>
+        <h3>Level 1: 主要学術領域別 プログラム数（38領域）</h3>
+        <div class="chart-container" style="min-height:500px"><canvas id="chart-l1-count"></canvas></div>
       </div>
       <div class="card">
-        <h3>サブフィールド別 助成総額（万円）</h3>
-        <div class="chart-container"><canvas id="chart-subfield-amount"></canvas></div>
+        <h3>Level 1: 主要学術領域別 助成総額（万円）</h3>
+        <div class="chart-container" style="min-height:500px"><canvas id="chart-l1-amount"></canvas></div>
       </div>
+    </div>
+
+    <!-- L2 Subfield level -->
+    <div class="grid-2 section">
+      <div class="card">
+        <h3>Level 2: サブフィールド別 プログラム数 Top 25（57分野中）</h3>
+        <div class="chart-container" style="min-height:500px"><canvas id="chart-l2-count"></canvas></div>
+      </div>
+      <div class="card">
+        <h3>Level 2: サブフィールド別 助成総額 Top 25（万円）</h3>
+        <div class="chart-container" style="min-height:500px"><canvas id="chart-l2-amount"></canvas></div>
+      </div>
+    </div>
+
+    <!-- Hierarchy tree table -->
+    <div class="card section">
+      <h3>分野階層構造 ドメイン &gt; L1領域 &gt; L2サブフィールド</h3>
+      <div class="table-wrap" id="hierarchy-table" style="max-height:500px"></div>
     </div>
 
     <!-- Field-grant mapping table -->
@@ -462,18 +481,20 @@ function renderActiveGrants() {
 function renderFieldAnalysis() {
   const dd = FIELDS.domain_distribution.filter(d => d.domain !== 'unclassified');
   const total = dd.reduce((s,d) => s+d.count, 0);
-  const totalAmt = dd.reduce((s,d) => s+d.total_amount, 0);
+  const l1 = FIELDS.l1_distribution || [];
+  const l2 = FIELDS.l2_distribution || [];
+  const hierarchy = FIELDS.hierarchy || [];
 
   // Insight text
-  const top = dd[0];
-  const lowest = dd[dd.length - 1];
+  const top = dd.reduce((a,b) => a.count > b.count ? a : b);
+  const lowest = dd.reduce((a,b) => a.count < b.count ? a : b);
+  const topL1 = l1[0] || {};
+  const topL2 = l2[0] || {};
   document.getElementById('field-insight').innerHTML =
-    `258\u4ef6\u306e\u52a9\u6210\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u5b66\u8853\u77e5\u8b58DB\uff084,703\u6982\u5ff5\u30fb5\u5206\u91ce\uff09\u3068\u7167\u5408\u3057\u305f\u7d50\u679c\u3001` +
-    `<strong>${top.domain_name}</strong>\u304c${top.count}\u4ef6\uff08${(top.count/total*100).toFixed(0)}%\uff09\u3067\u6700\u591a\u3002` +
-    `\u52a9\u6210\u7dcf\u984d\u3067\u3082${fmt(top.total_amount)}\u3068\u7a81\u51fa\u3002` +
-    `\u4e00\u65b9\u3001<strong>${lowest.domain_name}</strong>\u306f${lowest.count}\u4ef6\u306e\u307f\u3067\u3001\u4f01\u696d\u8ca1\u56e3\u306b\u3088\u308b\u652f\u63f4\u304c\u8584\u3044\u9818\u57df\u3002` +
-    `\u5e73\u5747\u52a9\u6210\u984d\u306f\u5de5\u5b66\uff08${fmt(dd.find(d=>d.domain==='engineering_method')?.avg_amount||0)}\uff09\u304c\u6700\u3082\u9ad8\u304f\u3001` +
-    `\u6280\u8853\u7cfb\u8ca1\u56e3\u306e\u5927\u578b\u52a9\u6210\u304c\u7279\u5fb4\u7684\u3002`;
+    `258件の助成プログラムを学術知識DB（4,703概念）と照合し、<strong>5ドメイン・${l1.length}のL1領域・${l2.length}のL2サブフィールド</strong>にマッピング。` +
+    `<strong>${top.domain_name}</strong>が${top.count}件で最多、<strong>${lowest.domain_name}</strong>は${lowest.count}件で最少。` +
+    `L1では<strong>${topL1.name||''}</strong>（${topL1.count||0}件）、L2では<strong>${topL2.name||''}</strong>（${topL2.count||0}件）が最多。` +
+    `助成総額では政治学（${fmt(l1.find(f=>f.name==='政治学')?.total_amount||0)}）と環境科学（${fmt(l1.find(f=>f.name==='環境科学')?.total_amount||0)}）が突出。`;
 
   // Domain cards
   const cardColors = ['#2e7d32','#1565c0','#e65100','#7b1fa2','#c62828'];
@@ -481,37 +502,32 @@ function renderFieldAnalysis() {
     `<div class="field-card">
       <div class="field-name">${d.domain_name}</div>
       <div class="field-count">${d.count}</div>
-      <div class="field-amount">\u52a9\u6210\u7dcf\u984d ${fmt(d.total_amount)}</div>
-      <div class="field-amount">\u5e73\u5747 ${fmt(d.avg_amount)}</div>
+      <div class="field-amount">助成総額 ${fmt(d.total_amount)}</div>
+      <div class="field-amount">平均 ${fmt(d.avg_amount)}</div>
     </div>`
   ).join('');
 
-  // Domain count radar/bar
+  // Domain radar
   new Chart(document.getElementById('chart-field-count'), {
     type: 'radar',
     data: {
       labels: dd.map(d => d.domain_name),
       datasets: [{
-        label: '\u30d7\u30ed\u30b0\u30e9\u30e0\u6570',
+        label: 'プログラム数',
         data: dd.map(d => d.count),
         backgroundColor: 'rgba(120, 60, 40, .15)',
-        borderColor: '#783c28',
-        borderWidth: 2,
-        pointBackgroundColor: dd.map((_, i) => cardColors[i]),
-        pointRadius: 5,
+        borderColor: '#783c28', borderWidth: 2,
+        pointBackgroundColor: cardColors, pointRadius: 5,
       }]
     },
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: { legend: { display: false } },
-      scales: {
-        r: {
-          ticks: { color: '#6b5e54', font: { size: 10 } },
-          pointLabels: { color: '#1a1a1a', font: { size: 12, weight: 'bold' } },
-          grid: { color: '#e8ddd3' },
-          angleLines: { color: '#e8ddd3' },
-        }
-      }
+      scales: { r: {
+        ticks: { color: '#6b5e54', font: { size: 10 } },
+        pointLabels: { color: '#1a1a1a', font: { size: 12, weight: 'bold' } },
+        grid: { color: '#e8ddd3' }, angleLines: { color: '#e8ddd3' },
+      }}
     }
   });
 
@@ -521,20 +537,10 @@ function renderFieldAnalysis() {
     data: {
       labels: dd.map(d => d.domain_name),
       datasets: [
-        {
-          label: '\u52a9\u6210\u7dcf\u984d',
-          data: dd.map(d => d.total_amount / 10000),
-          backgroundColor: dd.map((_, i) => cardColors[i] + '99'),
-          borderColor: dd.map((_, i) => cardColors[i]),
-          borderWidth: 1, borderRadius: 4,
-        },
-        {
-          label: '\u5e73\u5747\u52a9\u6210\u984d',
-          data: dd.map(d => d.avg_amount / 10000),
-          backgroundColor: dd.map((_, i) => cardColors[i] + '44'),
-          borderColor: dd.map((_, i) => cardColors[i]),
-          borderWidth: 1, borderRadius: 4,
-        }
+        { label: '助成総額', data: dd.map(d => d.total_amount / 10000),
+          backgroundColor: cardColors.map(c => c + '99'), borderColor: cardColors, borderWidth: 1, borderRadius: 4 },
+        { label: '平均助成額', data: dd.map(d => d.avg_amount / 10000),
+          backgroundColor: cardColors.map(c => c + '44'), borderColor: cardColors, borderWidth: 1, borderRadius: 4 },
       ]
     },
     options: {
@@ -542,26 +548,30 @@ function renderFieldAnalysis() {
       plugins: { legend: { labels: { color: '#1a1a1a' } } },
       scales: {
         x: { ticks: { color: '#6b5e54' }, grid: { display: false } },
-        y: { ticks: { color: '#6b5e54', callback: v => v + '\u4e07' }, grid: { color: '#e8ddd3' } }
+        y: { ticks: { color: '#6b5e54', callback: v => v + '万' }, grid: { color: '#e8ddd3' } }
       }
     }
   });
 
-  // Subfield charts
-  const sfs = FIELDS.subfield_distribution.filter(s => s.name !== '\u672a\u5206\u985e');
-  new Chart(document.getElementById('chart-subfield-count'), {
+  // L1 charts
+  const domColorMap = { '自然科学':'#2e7d32', '社会科学':'#1565c0', '工学':'#e65100', '人文学':'#7b1fa2', '芸術':'#c62828' };
+  const l1Top = l1.slice(0, 25);
+  new Chart(document.getElementById('chart-l1-count'), {
     type: 'bar',
     data: {
-      labels: sfs.map(s => s.name),
+      labels: l1Top.map(f => f.name),
       datasets: [{
-        data: sfs.map(s => s.count),
-        backgroundColor: sfs.map((_, i) => MI_COLORS[i % MI_COLORS.length]),
-        borderRadius: 4,
+        data: l1Top.map(f => f.count),
+        backgroundColor: l1Top.map(f => (domColorMap[f.domain] || '#9e9e9e') + 'cc'),
+        borderColor: l1Top.map(f => domColorMap[f.domain] || '#9e9e9e'),
+        borderWidth: 1, borderRadius: 3,
       }]
     },
     options: {
       indexAxis: 'y', responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { display: false } },
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { afterLabel: ctx => l1Top[ctx.dataIndex].domain } }
+      },
       scales: {
         x: { ticks: { color: '#6b5e54' }, grid: { color: '#e8ddd3' } },
         y: { ticks: { color: '#1a1a1a', font: { size: 11 } }, grid: { display: false } }
@@ -569,27 +579,107 @@ function renderFieldAnalysis() {
     }
   });
 
-  new Chart(document.getElementById('chart-subfield-amount'), {
+  const l1ByAmt = [...l1].filter(f => f.total_amount > 0).sort((a,b) => b.total_amount - a.total_amount).slice(0, 25);
+  new Chart(document.getElementById('chart-l1-amount'), {
     type: 'bar',
     data: {
-      labels: sfs.map(s => s.name),
+      labels: l1ByAmt.map(f => f.name),
       datasets: [{
-        data: sfs.map(s => s.total_amount / 10000),
-        backgroundColor: sfs.map((_, i) => MI_COLORS[i % MI_COLORS.length]),
-        borderRadius: 4,
+        data: l1ByAmt.map(f => f.total_amount / 10000),
+        backgroundColor: l1ByAmt.map(f => (domColorMap[f.domain] || '#9e9e9e') + 'cc'),
+        borderColor: l1ByAmt.map(f => domColorMap[f.domain] || '#9e9e9e'),
+        borderWidth: 1, borderRadius: 3,
       }]
     },
     options: {
       indexAxis: 'y', responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => fmt(ctx.raw * 10000) } } },
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { label: ctx => fmt(ctx.raw * 10000), afterLabel: ctx => l1ByAmt[ctx.dataIndex].domain } }
+      },
       scales: {
-        x: { ticks: { color: '#6b5e54', callback: v => v + '\u4e07' }, grid: { color: '#e8ddd3' } },
+        x: { ticks: { color: '#6b5e54', callback: v => v >= 10000 ? (v/10000)+'億' : v+'万' }, grid: { color: '#e8ddd3' } },
         y: { ticks: { color: '#1a1a1a', font: { size: 11 } }, grid: { display: false } }
       }
     }
   });
 
-  // Field mapping table
+  // L2 charts
+  const l2Top = l2.slice(0, 25);
+  new Chart(document.getElementById('chart-l2-count'), {
+    type: 'bar',
+    data: {
+      labels: l2Top.map(f => f.name),
+      datasets: [{
+        data: l2Top.map(f => f.count),
+        backgroundColor: l2Top.map(f => (domColorMap[f.domain] || '#9e9e9e') + 'aa'),
+        borderColor: l2Top.map(f => domColorMap[f.domain] || '#9e9e9e'),
+        borderWidth: 1, borderRadius: 3,
+      }]
+    },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { afterLabel: ctx => `${l2Top[ctx.dataIndex].domain} > ${l2Top[ctx.dataIndex].l1_field}` } }
+      },
+      scales: {
+        x: { ticks: { color: '#6b5e54' }, grid: { color: '#e8ddd3' } },
+        y: { ticks: { color: '#1a1a1a', font: { size: 10 } }, grid: { display: false } }
+      }
+    }
+  });
+
+  const l2ByAmt = [...l2].filter(f => f.total_amount > 0).sort((a,b) => b.total_amount - a.total_amount).slice(0, 25);
+  new Chart(document.getElementById('chart-l2-amount'), {
+    type: 'bar',
+    data: {
+      labels: l2ByAmt.map(f => f.name),
+      datasets: [{
+        data: l2ByAmt.map(f => f.total_amount / 10000),
+        backgroundColor: l2ByAmt.map(f => (domColorMap[f.domain] || '#9e9e9e') + 'aa'),
+        borderColor: l2ByAmt.map(f => domColorMap[f.domain] || '#9e9e9e'),
+        borderWidth: 1, borderRadius: 3,
+      }]
+    },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { label: ctx => fmt(ctx.raw * 10000), afterLabel: ctx => `${l2ByAmt[ctx.dataIndex].domain} > ${l2ByAmt[ctx.dataIndex].l1_field}` } }
+      },
+      scales: {
+        x: { ticks: { color: '#6b5e54', callback: v => v >= 10000 ? (v/10000)+'億' : v+'万' }, grid: { color: '#e8ddd3' } },
+        y: { ticks: { color: '#1a1a1a', font: { size: 10 } }, grid: { display: false } }
+      }
+    }
+  });
+
+  // Hierarchy table
+  let hhtml = '<table><thead><tr><th>ドメイン</th><th>L1 領域</th><th>L2 サブフィールド</th><th>件数</th><th>助成総額</th></tr></thead><tbody>';
+  hierarchy.forEach(dom => {
+    const dc = domColorMap[dom.name] || '#9e9e9e';
+    let firstDom = true;
+    dom.children.forEach(l1c => {
+      let firstL1 = true;
+      l1c.children.forEach(l2c => {
+        hhtml += `<tr>`;
+        if (firstDom) {
+          hhtml += `<td rowspan="${dom.children.reduce((s,c) => s+c.children.length, 0)}" style="font-weight:700;color:${dc};vertical-align:top;border-right:3px solid ${dc}">${dom.name}<br><small style="color:var(--text-light)">${dom.count}件</small></td>`;
+          firstDom = false;
+        }
+        if (firstL1) {
+          hhtml += `<td rowspan="${l1c.children.length}" style="font-weight:600;vertical-align:top">${l1c.name}<br><small style="color:var(--text-light)">${l1c.count}件</small></td>`;
+          firstL1 = false;
+        }
+        hhtml += `<td>${l2c.name}</td>`;
+        hhtml += `<td style="text-align:center;font-weight:600">${l2c.count}</td>`;
+        hhtml += `<td class="amount">${fmt(l2c.amount)}</td>`;
+        hhtml += `</tr>`;
+      });
+    });
+  });
+  hhtml += '</tbody></table>';
+  document.getElementById('hierarchy-table').innerHTML = hhtml;
+
+  // Field mapping table + tabs
   renderFieldTable('all-fields');
   document.querySelectorAll('[data-ftab]').forEach(tab => {
     tab.addEventListener('click', () => {
@@ -609,21 +699,23 @@ function renderFieldAnalysis() {
 
 function renderFieldTable(filter) {
   const FILTER_MAP = {
-    'natural': '\u81ea\u7136\u79d1\u5b66', 'social': '\u793e\u4f1a\u79d1\u5b66',
-    'engineering': '\u5de5\u5b66', 'humanities': '\u4eba\u6587\u5b66', 'arts': '\u82b8\u8853'
+    'natural': '自然科学', 'social': '社会科学',
+    'engineering': '工学', 'humanities': '人文学', 'arts': '芸術'
   };
   let grants = FIELDS.grants_with_fields;
   if (filter !== 'all-fields') {
     const target = FILTER_MAP[filter];
     grants = grants.filter(g => g.domains.includes(target));
   }
-  let html = '<table><thead><tr><th>\u8ca1\u56e3</th><th>\u30d7\u30ed\u30b0\u30e9\u30e0</th><th>\u5b66\u8853\u5206\u91ce</th><th>\u30b5\u30d6\u30d5\u30a3\u30fc\u30eb\u30c9</th><th>\u52a9\u6210\u4e0a\u9650</th><th>\u72b6\u614b</th></tr></thead><tbody>';
+  let html = '<table><thead><tr><th>財団</th><th>プログラム</th><th>ドメイン</th><th>L1 領域</th><th>L2 サブフィールド</th><th>助成上限</th><th>状態</th></tr></thead><tbody>';
   grants.forEach(g => {
-    html += `<tr class="field-row" data-search="${(g.foundation+g.program+(g.corporate_parent||'')+g.domains.join('')+g.subfields.join('')).toLowerCase()}">
+    const searchText = [g.foundation, g.program, g.corporate_parent||'', ...g.domains, ...(g.l1_fields||[]), ...(g.l2_subfields||[])].join(' ').toLowerCase();
+    html += `<tr class="field-row" data-search="${searchText}">
       <td>${g.foundation}</td>
       <td>${g.program}</td>
       <td>${domainPills(g.domains)}</td>
-      <td style="font-size:.8rem">${g.subfields.join(', ') || '-'}</td>
+      <td style="font-size:.8rem">${(g.l1_fields||[]).join(', ') || '-'}</td>
+      <td style="font-size:.78rem">${(g.l2_subfields||[]).join(', ') || '-'}</td>
       <td class="amount">${fmt(g.amount)}</td>
       <td>${statusBadge(g.status)}</td>
     </tr>`;
