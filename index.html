@@ -87,6 +87,7 @@
   .kpi-card:nth-child(3) { border-top-color: var(--mi-camel); }
   .kpi-card:nth-child(4) { border-top-color: var(--mi-amber-brown); }
   .kpi-card:nth-child(5) { border-top-color: var(--mi-warm-brown); }
+  .kpi-card:nth-child(6) { border-top-color: var(--mi-deep-brown); }
   .kpi-card .value {
     font-size: 2.25rem; font-weight: 800; color: var(--accent);
   }
@@ -459,10 +460,15 @@ function renderKPI() {
     { value: s.program_count, label: '\u7814\u7a76\u52a9\u6210\u30d7\u30ed\u30b0\u30e9\u30e0' },
     { value: s.call_count, label: '\u516c\u52df\u6570' },
     { value: s.active_count, label: '\u73fe\u5728\u52df\u96c6\u4e2d/\u8fd1\u65e5' },
+    { value: fmt(s.total_amount), label: '\u52a9\u6210\u7dcf\u984d\uff08\u5224\u660e\u5206\uff09', raw: true },
   ];
   document.getElementById('kpi-grid').innerHTML = items.map(i =>
-    `<div class="kpi-card"><div class="value">${i.value}</div><div class="label">${i.label}</div></div>`
+    `<div class="kpi-card"><div class="value">${i.raw ? i.value : i.value}</div><div class="label">${i.label}</div></div>`
   ).join('');
+  // Adjust font for amount card
+  document.querySelectorAll('.kpi-card').forEach((card, idx) => {
+    if (idx === 5) card.querySelector('.value').style.fontSize = '1.5rem';
+  });
 }
 
 function renderActiveGrants() {
