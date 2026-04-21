@@ -51,7 +51,7 @@
     background: var(--surface);
     border-bottom: 3px solid var(--mi-terracotta);
     padding: 1.5rem 2rem;
-    display: flex; align-items: center; gap: 1.5rem;
+    display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;
   }
   .header-logo {
     display: flex; align-items: center; gap: .5rem;
@@ -79,7 +79,32 @@
     gap: 1rem; margin-bottom: 2rem;
   }
   @media (max-width: 900px) { .kpi-grid { grid-template-columns: repeat(3, 1fr); } }
-  @media (max-width: 560px) { .kpi-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 560px) {
+    .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+    .header { flex-direction: column !important; padding: 1rem; gap: .5rem; text-align: center; align-items: center; }
+    .header h1 { font-size: 1.15rem; }
+    .header p { font-size: .75rem; }
+    .container { padding: 1rem .75rem; }
+    .section-title { font-size: .95rem; }
+    .card { padding: 1rem; }
+    .card h3 { font-size: .8rem; }
+    .insight-box { padding: .8rem; }
+    .insight-box h4 { font-size: .85rem; }
+    .insight-box p { font-size: .8rem; }
+    table { font-size: .75rem; display: block; overflow-x: auto; }
+    th, td { padding: .35rem .4rem; white-space: nowrap; }
+    .bar-label { font-size: .78rem; }
+    .search-box { max-width: 100%; font-size: .85rem; }
+    .tabs { gap: .3rem; }
+    .tab { padding: .3rem .6rem; font-size: .78rem; }
+    .kpi-card .value { font-size: 1.6rem; }
+    .kpi-card .label { font-size: .72rem; }
+    .field-card .field-count { font-size: 1.5rem; }
+    .field-card .field-name { font-size: .78rem; }
+    .field-card .field-amount { font-size: .72rem; }
+    .chart-container canvas { max-height: 300px; }
+    .footer { font-size: .7rem; padding: 1.5rem .5rem; }
+  }
   .kpi-card {
     background: var(--surface); border: 1px solid var(--border);
     border-radius: 10px; padding: 1.25rem 1rem; text-align: center;

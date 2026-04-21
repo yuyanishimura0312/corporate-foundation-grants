@@ -117,11 +117,55 @@
     width: 8px; height: 8px; border-radius: 50%;
     background: var(--ci-9);
   }
-  @media (max-width: 700px) {
-    header h1 { font-size: 1.2rem; }
+  /* Responsive: Tablet */
+  @media (max-width: 768px) {
+    body { font-size: 14px; line-height: 1.8; }
+    header { padding: 2rem 1rem; }
+    header h1 { font-size: 1.25rem; letter-spacing: .04em; }
+    header .subtitle { font-size: .8rem; }
     .container { padding: 0 1rem; }
-    table { font-size: .8rem; }
-    th, td { padding: .4rem .5rem; }
+    section { margin: 2rem 0; }
+    h2 { font-size: 1.1rem; }
+    h3 { font-size: .95rem; }
+    .card { padding: 1rem; }
+    .highlight-box { padding: .8rem 1rem; }
+  }
+
+  /* Responsive: Mobile */
+  @media (max-width: 480px) {
+    body { font-size: 13.5px; }
+    header { padding: 1.5rem .75rem; }
+    header .logo { font-size: .9rem; letter-spacing: .2em; }
+    header h1 { font-size: 1.1rem; }
+    header .subtitle { font-size: .75rem; }
+    .container { padding: 0 .75rem; }
+    section { margin: 1.5rem 0; }
+    h2 { font-size: 1rem; margin-bottom: .8rem; }
+    h3 { font-size: .9rem; margin: 1rem 0 .5rem; }
+    p { text-align: left; font-size: .92em; }
+    .card { padding: .8rem; margin-bottom: 1rem; border-radius: 6px; }
+    .highlight-box { padding: .7rem .8rem; margin: .8rem 0; font-size: .9em; }
+
+    /* Tables: horizontal scroll */
+    table { font-size: .75rem; display: block; overflow-x: auto; white-space: nowrap; }
+    th, td { padding: .35rem .45rem; }
+
+    /* Charts: ensure they don't overflow */
+    .chart-wrap { margin: .5rem -.3rem; }
+    .chart-wrap canvas { max-height: 320px; }
+
+    /* Tags */
+    .tag { font-size: .7rem; padding: .15rem .4rem; margin: .1rem; }
+
+    /* TOC */
+    .toc a { font-size: .82rem; padding: .25rem 0; }
+
+    /* Evidence list */
+    .evidence-list li { font-size: .82rem; padding-left: 1rem; }
+    .evidence-list li::before { width: 6px; height: 6px; top: .6rem; }
+
+    /* Footer */
+    footer { padding: 1.5rem .5rem; font-size: .72rem; }
   }
 </style>
 </head>
