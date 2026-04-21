@@ -1,0 +1,817 @@
+{
+  "meta": {
+    "generated_at": "2026-04-21",
+    "data_sources": {
+      "companies": "matcher.db (3,872社)",
+      "collaborations": "matcher.db (140,104件の共著論文 + 98件の共同特許)",
+      "grants": "field_analysis.json (189財団)"
+    },
+    "analysis_note": "patents_companyテーブルは現時点で未収集のため、estimated_needsキーワード分析で技術注力領域を代替"
+  },
+  "corporate_priority_fields": [
+    {
+      "rank": 1,
+      "major_category": "新規事業創出・事業ポートフォリオ転換",
+      "theme": "プラットフォーム事業・エコシステム構築",
+      "narrative_count": 12804,
+      "company_count": 3676,
+      "avg_proximity": 0.8775
+    },
+    {
+      "rank": 2,
+      "major_category": "新規事業創出・事業ポートフォリオ転換",
+      "theme": "社会課題解決型事業・インパクト投資の事業化",
+      "narrative_count": 12437,
+      "company_count": 3658,
+      "avg_proximity": 0.8756
+    },
+    {
+      "rank": 3,
+      "major_category": "先端技術・素材・製造イノベーション",
+      "theme": "宇宙・海洋等フロンティア領域への事業参入",
+      "narrative_count": 10968,
+      "company_count": 3479,
+      "avg_proximity": 0.8745
+    },
+    {
+      "rank": 4,
+      "major_category": "先端技術・素材・製造イノベーション",
+      "theme": "半導体・電子部品・高機能素材の事業拡大",
+      "narrative_count": 10380,
+      "company_count": 3415,
+      "avg_proximity": 0.8727
+    },
+    {
+      "rank": 5,
+      "major_category": "地域・まちづくり・生活統合サービス",
+      "theme": "フランチャイズ・全国展開による新顧客層開拓",
+      "narrative_count": 10317,
+      "company_count": 3475,
+      "avg_proximity": 0.8708
+    },
+    {
+      "rank": 6,
+      "major_category": "モビリティ・物流・インフラ革新",
+      "theme": "物流デジタル化・自動化とサプライチェーン再構築",
+      "narrative_count": 10304,
+      "company_count": 3493,
+      "avg_proximity": 0.8729
+    },
+    {
+      "rank": 7,
+      "major_category": "新規事業創出・事業ポートフォリオ転換",
+      "theme": "M&A・オープンイノベーションによる事業領域拡大",
+      "narrative_count": 10222,
+      "company_count": 3516,
+      "avg_proximity": 0.8731
+    },
+    {
+      "rank": 8,
+      "major_category": "デジタル変革・DX推進",
+      "theme": "AI・生成AI活用による経営・営業革新",
+      "narrative_count": 9745,
+      "company_count": 3446,
+      "avg_proximity": 0.8751
+    },
+    {
+      "rank": 9,
+      "major_category": "グローバル展開・海外市場開拓",
+      "theme": "海外M&A・アライアンスによる事業ポートフォリオ拡張",
+      "narrative_count": 9701,
+      "company_count": 3493,
+      "avg_proximity": 0.873
+    },
+    {
+      "rank": 10,
+      "major_category": "デジタル変革・DX推進",
+      "theme": "DX人材育成・リスキリング体制構築",
+      "narrative_count": 9596,
+      "company_count": 3409,
+      "avg_proximity": 0.8756
+    },
+    {
+      "rank": 11,
+      "major_category": "先端技術・素材・製造イノベーション",
+      "theme": "経済安全保障対応・サプライチェーン強靭化",
+      "narrative_count": 9563,
+      "company_count": 3368,
+      "avg_proximity": 0.873
+    },
+    {
+      "rank": 12,
+      "major_category": "グリーン・脱炭素・サステナビリティ事業",
+      "theme": "再生可能エネルギー事業への参入・拡大",
+      "narrative_count": 9418,
+      "company_count": 3331,
+      "avg_proximity": 0.8724
+    },
+    {
+      "rank": 13,
+      "major_category": "新規事業創出・事業ポートフォリオ転換",
+      "theme": "既存事業の高付加価値化・ビジネスモデル転換",
+      "narrative_count": 9381,
+      "company_count": 3415,
+      "avg_proximity": 0.8699
+    },
+    {
+      "rank": 14,
+      "major_category": "グローバル展開・海外市場開拓",
+      "theme": "アジア・東南アジア市場への事業深化",
+      "narrative_count": 9099,
+      "company_count": 3381,
+      "avg_proximity": 0.8739
+    },
+    {
+      "rank": 15,
+      "major_category": "モビリティ・物流・インフラ革新",
+      "theme": "EV・次世代モビリティ関連事業",
+      "narrative_count": 8711,
+      "company_count": 3192,
+      "avg_proximity": 0.8682
+    },
+    {
+      "rank": 16,
+      "major_category": "デジタル変革・DX推進",
+      "theme": "データプラットフォーム・ビッグデータ事業化",
+      "narrative_count": 8648,
+      "company_count": 3251,
+      "avg_proximity": 0.8706
+    },
+    {
+      "rank": 17,
+      "major_category": "モビリティ・物流・インフラ革新",
+      "theme": "スマート農業・食料サプライチェーンの付加価値化",
+      "narrative_count": 8165,
+      "company_count": 3134,
+      "avg_proximity": 0.8677
+    },
+    {
+      "rank": 18,
+      "major_category": "人的資本経営・組織変革",
+      "theme": "後継者育成・人材シェアリングによる中小企業支援",
+      "narrative_count": 8106,
+      "company_count": 3213,
+      "avg_proximity": 0.8711
+    },
+    {
+      "rank": 19,
+      "major_category": "グリーン・脱炭素・サステナビリティ事業",
+      "theme": "脱炭素・環境配慮型製品・サービス開発",
+      "narrative_count": 8087,
+      "company_count": 3135,
+      "avg_proximity": 0.8713
+    },
+    {
+      "rank": 20,
+      "major_category": "モビリティ・物流・インフラ革新",
+      "theme": "社会インフラ点検・防災・レジリエンス事業",
+      "narrative_count": 7987,
+      "company_count": 3094,
+      "avg_proximity": 0.8669
+    }
+  ],
+  "tech_needs_breakdown": [
+    {
+      "type": "DX・データ活用",
+      "count": 5048
+    },
+    {
+      "type": "製品・サービス革新",
+      "count": 4239
+    },
+    {
+      "type": "コアR&D課題",
+      "count": 3061
+    },
+    {
+      "type": "安全・品質技術",
+      "count": 2669
+    },
+    {
+      "type": "環境・サステナビリティ技術",
+      "count": 2599
+    },
+    {
+      "type": "生産・効率化技術",
+      "count": 2533
+    },
+    {
+      "type": "素材・プロセス技術",
+      "count": 1319
+    },
+    {
+      "type": "フロンティア探索",
+      "count": 608
+    }
+  ],
+  "collaboration_hot_fields": {
+    "by_industry": [
+      {
+        "industry": "電気機器",
+        "co_authored_papers": 32401,
+        "joint_patents": 3,
+        "total": 32404
+      },
+      {
+        "industry": "精密機器",
+        "co_authored_papers": 28089,
+        "joint_patents": 4,
+        "total": 28093
+      },
+      {
+        "industry": "小売業",
+        "co_authored_papers": 28030,
+        "joint_patents": 0,
+        "total": 28030
+      },
+      {
+        "industry": "輸送用機器",
+        "co_authored_papers": 10572,
+        "joint_patents": 29,
+        "total": 10601
+      },
+      {
+        "industry": "情報・通信業",
+        "co_authored_papers": 7999,
+        "joint_patents": 0,
+        "total": 7999
+      },
+      {
+        "industry": "化学",
+        "co_authored_papers": 6989,
+        "joint_patents": 3,
+        "total": 6992
+      },
+      {
+        "industry": "機械",
+        "co_authored_papers": 6016,
+        "joint_patents": 5,
+        "total": 6021
+      },
+      {
+        "industry": "電気・ガス業",
+        "co_authored_papers": 4968,
+        "joint_patents": 0,
+        "total": 4968
+      },
+      {
+        "industry": "鉄鋼",
+        "co_authored_papers": 4564,
+        "joint_patents": 14,
+        "total": 4578
+      },
+      {
+        "industry": "空運業",
+        "co_authored_papers": 3395,
+        "joint_patents": 0,
+        "total": 3395
+      },
+      {
+        "industry": "建設業",
+        "co_authored_papers": 1890,
+        "joint_patents": 0,
+        "total": 1890
+      },
+      {
+        "industry": "医薬品",
+        "co_authored_papers": 1771,
+        "joint_patents": 22,
+        "total": 1793
+      },
+      {
+        "industry": "非鉄金属",
+        "co_authored_papers": 781,
+        "joint_patents": 0,
+        "total": 781
+      },
+      {
+        "industry": "卸売業",
+        "co_authored_papers": 388,
+        "joint_patents": 0,
+        "total": 388
+      },
+      {
+        "industry": "繊維製品",
+        "co_authored_papers": 379,
+        "joint_patents": 0,
+        "total": 379
+      }
+    ],
+    "top_universities": [
+      {
+        "university": "東京大学",
+        "co_authored_papers": 17072
+      },
+      {
+        "university": "京都大学",
+        "co_authored_papers": 14949
+      },
+      {
+        "university": "大阪大学",
+        "co_authored_papers": 11659
+      },
+      {
+        "university": "東北大学",
+        "co_authored_papers": 8787
+      },
+      {
+        "university": "九州大学",
+        "co_authored_papers": 8620
+      },
+      {
+        "university": "東京工業大学",
+        "co_authored_papers": 7571
+      },
+      {
+        "university": "名古屋大学",
+        "co_authored_papers": 7241
+      },
+      {
+        "university": "北海道大学",
+        "co_authored_papers": 6363
+      },
+      {
+        "university": "早稲田大学",
+        "co_authored_papers": 5978
+      },
+      {
+        "university": "慶應義塾大学",
+        "co_authored_papers": 4794
+      }
+    ]
+  },
+  "patent_focus_areas": [
+    {
+      "area": "DX・デジタル化",
+      "mention_count_in_needs": 8397,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "製造・プロセス技術",
+      "mention_count_in_needs": 7391,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "AI・機械学習",
+      "mention_count_in_needs": 6059,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "ロボット・自動化",
+      "mention_count_in_needs": 2932,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "材料工学",
+      "mention_count_in_needs": 2700,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "環境・脱炭素",
+      "mention_count_in_needs": 2300,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "バイオ・医療",
+      "mention_count_in_needs": 1979,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "データ解析",
+      "mention_count_in_needs": 1947,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "エネルギー",
+      "mention_count_in_needs": 1831,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "社会インフラ",
+      "mention_count_in_needs": 1600,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "サイバーセキュリティ",
+      "mention_count_in_needs": 1321,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    },
+    {
+      "area": "農業・食品",
+      "mention_count_in_needs": 1046,
+      "note": "IPC特許データ未収集のためestimated_needsキーワード頻度で代替"
+    }
+  ],
+  "grant_distribution": {
+    "by_domain": [
+      {
+        "domain": "未分類",
+        "amount_jpy": 12235090000,
+        "amount_oku": 122.4,
+        "foundation_count": 41,
+        "program_count": 68
+      },
+      {
+        "domain": "自然科学",
+        "amount_jpy": 7260000000,
+        "amount_oku": 72.6,
+        "foundation_count": 45,
+        "program_count": 87
+      },
+      {
+        "domain": "社会科学",
+        "amount_jpy": 5855000000,
+        "amount_oku": 58.5,
+        "foundation_count": 97,
+        "program_count": 120
+      },
+      {
+        "domain": "工学",
+        "amount_jpy": 3628000000,
+        "amount_oku": 36.3,
+        "foundation_count": 27,
+        "program_count": 49
+      },
+      {
+        "domain": "人文学",
+        "amount_jpy": 1387000000,
+        "amount_oku": 13.9,
+        "foundation_count": 29,
+        "program_count": 19
+      },
+      {
+        "domain": "芸術",
+        "amount_jpy": 814000000,
+        "amount_oku": 8.1,
+        "foundation_count": 16,
+        "program_count": 16
+      }
+    ],
+    "by_l1_field": [
+      {
+        "domain": "自然科学",
+        "field": "生物学",
+        "amount_jpy": 5753000000,
+        "amount_oku": 57.5,
+        "foundation_count": 16
+      },
+      {
+        "domain": "自然科学",
+        "field": "医学",
+        "amount_jpy": 5260000000,
+        "amount_oku": 52.6,
+        "foundation_count": 25
+      },
+      {
+        "domain": "社会科学",
+        "field": "教育学",
+        "amount_jpy": 3388000000,
+        "amount_oku": 33.9,
+        "foundation_count": 54
+      },
+      {
+        "domain": "社会科学",
+        "field": "国際関係",
+        "amount_jpy": 1957000000,
+        "amount_oku": 19.6,
+        "foundation_count": 24
+      },
+      {
+        "domain": "工学",
+        "field": "情報工学・コンピュータ科学",
+        "amount_jpy": 1086000000,
+        "amount_oku": 10.9,
+        "foundation_count": 8
+      },
+      {
+        "domain": "人文学",
+        "field": "美学・芸術哲学",
+        "amount_jpy": 1073000000,
+        "amount_oku": 10.7,
+        "foundation_count": 22
+      },
+      {
+        "domain": "工学",
+        "field": "建築・土木工学",
+        "amount_jpy": 1041000000,
+        "amount_oku": 10.4,
+        "foundation_count": 7
+      },
+      {
+        "domain": "社会科学",
+        "field": "社会福祉学",
+        "amount_jpy": 1036000000,
+        "amount_oku": 10.4,
+        "foundation_count": 26
+      },
+      {
+        "domain": "社会科学",
+        "field": "経済学",
+        "amount_jpy": 920000000,
+        "amount_oku": 9.2,
+        "foundation_count": 6
+      },
+      {
+        "domain": "工学",
+        "field": "機械工学",
+        "amount_jpy": 716000000,
+        "amount_oku": 7.2,
+        "foundation_count": 4
+      },
+      {
+        "domain": "工学",
+        "field": "イノベーション",
+        "amount_jpy": 492000000,
+        "amount_oku": 4.9,
+        "foundation_count": 3
+      },
+      {
+        "domain": "芸術",
+        "field": "美術・視覚芸術",
+        "amount_jpy": 470000000,
+        "amount_oku": 4.7,
+        "foundation_count": 6
+      },
+      {
+        "domain": "芸術",
+        "field": "音楽",
+        "amount_jpy": 344000000,
+        "amount_oku": 3.4,
+        "foundation_count": 10
+      },
+      {
+        "domain": "人文学",
+        "field": "文化研究",
+        "amount_jpy": 314000000,
+        "amount_oku": 3.1,
+        "foundation_count": 14
+      },
+      {
+        "domain": "工学",
+        "field": "材料工学",
+        "amount_jpy": 293000000,
+        "amount_oku": 2.9,
+        "foundation_count": 5
+      },
+      {
+        "domain": "自然科学",
+        "field": "農学・食品科学",
+        "amount_jpy": 285000000,
+        "amount_oku": 2.9,
+        "foundation_count": 5
+      },
+      {
+        "domain": "自然科学",
+        "field": "物理学",
+        "amount_jpy": 273000000,
+        "amount_oku": 2.7,
+        "foundation_count": 2
+      },
+      {
+        "domain": "社会科学",
+        "field": "地域研究",
+        "amount_jpy": 243000000,
+        "amount_oku": 2.4,
+        "foundation_count": 22
+      },
+      {
+        "domain": "工学",
+        "field": "電気・電子工学",
+        "amount_jpy": 192000000,
+        "amount_oku": 1.9,
+        "foundation_count": 3
+      },
+      {
+        "domain": "社会科学",
+        "field": "心理学",
+        "amount_jpy": 50000000,
+        "amount_oku": 0.5,
+        "foundation_count": 5
+      }
+    ]
+  },
+  "grant_vs_corporate_gap": [
+    {
+      "corporate_domain": "新規事業創出・事業ポートフォリオ転換",
+      "corporate_narrative_count": 44844,
+      "corporate_need_score": 100.0,
+      "mapped_grant_field": "（対応する助成金分野なし）",
+      "grant_amount_jpy": 0,
+      "grant_amount_oku": 0.0,
+      "grant_foundation_count": 0,
+      "grant_score": 0,
+      "gap_score": -100.0,
+      "gap_type": "不足支援"
+    },
+    {
+      "corporate_domain": "デジタル変革・DX推進",
+      "corporate_narrative_count": 39181,
+      "corporate_need_score": 87.4,
+      "mapped_grant_field": "工学: 情報工学・コンピュータ科学",
+      "grant_amount_jpy": 1086000000,
+      "grant_amount_oku": 10.9,
+      "grant_foundation_count": 8,
+      "grant_score": 9.9,
+      "gap_score": -77.5,
+      "gap_type": "不足支援"
+    },
+    {
+      "corporate_domain": "先端技術・素材・製造イノベーション",
+      "corporate_narrative_count": 34153,
+      "corporate_need_score": 76.2,
+      "mapped_grant_field": "工学: 材料工学 + 機械工学 + 電気・電子工学",
+      "grant_amount_jpy": 1201000000,
+      "grant_amount_oku": 12.0,
+      "grant_foundation_count": 12,
+      "grant_score": 10.9,
+      "gap_score": -65.3,
+      "gap_type": "不足支援"
+    },
+    {
+      "corporate_domain": "モビリティ・物流・インフラ革新",
+      "corporate_narrative_count": 35167,
+      "corporate_need_score": 78.4,
+      "mapped_grant_field": "工学: 建築・土木工学 + 機械工学",
+      "grant_amount_jpy": 1757000000,
+      "grant_amount_oku": 17.6,
+      "grant_foundation_count": 11,
+      "grant_score": 16.0,
+      "gap_score": -62.4,
+      "gap_type": "不足支援"
+    },
+    {
+      "corporate_domain": "グリーン・脱炭素・サステナビリティ事業",
+      "corporate_narrative_count": 25162,
+      "corporate_need_score": 56.1,
+      "mapped_grant_field": "自然科学: 環境科学 + 生態学",
+      "grant_amount_jpy": 0,
+      "grant_amount_oku": 0.0,
+      "grant_foundation_count": 9,
+      "grant_score": 0,
+      "gap_score": -56.1,
+      "gap_type": "不足支援"
+    },
+    {
+      "corporate_domain": "地域・まちづくり・生活統合サービス",
+      "corporate_narrative_count": 26529,
+      "corporate_need_score": 59.2,
+      "mapped_grant_field": "社会科学: 地域研究 + 社会福祉学",
+      "grant_amount_jpy": 1279000000,
+      "grant_amount_oku": 12.8,
+      "grant_foundation_count": 48,
+      "grant_score": 11.6,
+      "gap_score": -47.6,
+      "gap_type": "不足支援"
+    },
+    {
+      "corporate_domain": "グローバル展開・海外市場開拓",
+      "corporate_narrative_count": 23172,
+      "corporate_need_score": 51.7,
+      "mapped_grant_field": "社会科学: 国際関係",
+      "grant_amount_jpy": 1957000000,
+      "grant_amount_oku": 19.6,
+      "grant_foundation_count": 24,
+      "grant_score": 17.8,
+      "gap_score": -33.9,
+      "gap_type": "不足支援"
+    },
+    {
+      "corporate_domain": "人的資本経営・組織変革",
+      "corporate_narrative_count": 24863,
+      "corporate_need_score": 55.4,
+      "mapped_grant_field": "社会科学: 教育学",
+      "grant_amount_jpy": 3388000000,
+      "grant_amount_oku": 33.9,
+      "grant_foundation_count": 54,
+      "grant_score": 30.8,
+      "gap_score": -24.6,
+      "gap_type": "不足支援"
+    },
+    {
+      "corporate_domain": "金融・フィンテック・資本市場サービス",
+      "corporate_narrative_count": 11105,
+      "corporate_need_score": 24.8,
+      "mapped_grant_field": "社会科学: 経済学",
+      "grant_amount_jpy": 920000000,
+      "grant_amount_oku": 9.2,
+      "grant_foundation_count": 6,
+      "grant_score": 8.4,
+      "gap_score": -16.4,
+      "gap_type": "不足支援"
+    },
+    {
+      "corporate_domain": "ヘルスケア・医療・ライフサイエンス",
+      "corporate_narrative_count": 21217,
+      "corporate_need_score": 47.3,
+      "mapped_grant_field": "自然科学: 医学 + 生物学",
+      "grant_amount_jpy": 11013000000,
+      "grant_amount_oku": 110.1,
+      "grant_foundation_count": 41,
+      "grant_score": 100.0,
+      "gap_score": 52.7,
+      "gap_type": "過剰支援"
+    }
+  ],
+  "underserved_fields": [
+    {
+      "rank": 1,
+      "field": "AI・生成AI・機械学習",
+      "corporate_demand": {
+        "ambition_narratives_AI": 9745,
+        "estimated_needs_mentions": 6059,
+        "tech_needs_dx": 5048
+      },
+      "current_grant_field": "工学: 情報工学・コンピュータ科学",
+      "current_grant_amount_oku": 10.9,
+      "gap_assessment": "深刻な不足",
+      "reasoning": "3,676社がAI・生成AI活用を野心分野に挙げ(narratives: 9,745件)、estimated_needsで6,059回言及されるが、対応する情報工学助成金は10.9億円・8財団のみ。医学・生物学の1/12以下の支援水準。"
+    },
+    {
+      "rank": 2,
+      "field": "半導体・電子部品・高機能素材",
+      "corporate_demand": {
+        "ambition_narratives": 10380,
+        "estimated_needs_mentions": 580
+      },
+      "current_grant_field": "工学: 電気・電子工学 + 材料工学",
+      "current_grant_amount_oku": 4.8,
+      "gap_assessment": "深刻な不足",
+      "reasoning": "3,415社が半導体・高機能素材の事業拡大を野心に掲げ(narratives: 10,380件)。経済安保の観点でも重要だが、電気・電子工学+材料工学の助成金合計は8.1億円・11財団にとどまる。"
+    },
+    {
+      "rank": 3,
+      "field": "脱炭素・再生可能エネルギー・水素",
+      "corporate_demand": {
+        "ambition_narratives_green": 25162,
+        "estimated_needs_mentions": 2300
+      },
+      "current_grant_field": "自然科学: 環境科学",
+      "current_grant_amount_oku": 0,
+      "gap_assessment": "深刻な不足（金額ゼロ）",
+      "reasoning": "3,300社以上が脱炭素・再エネ事業を野心に掲げ(narratives: 28,000+件)、estimated_needsで4,319回言及されるが、環境科学の助成金額は報告ゼロ（財団数5でも実質無支援）。GHG削減・カーボンニュートラルの企業ニーズと助成金の最大ギャップ領域。"
+    },
+    {
+      "rank": 4,
+      "field": "ロボティクス・自動化・スマート製造",
+      "corporate_demand": {
+        "estimated_needs_mentions": 2932,
+        "tech_needs_automation": 2533
+      },
+      "current_grant_field": "工学: 機械工学",
+      "current_grant_amount_oku": 7.2,
+      "gap_assessment": "著しい不足",
+      "reasoning": "estimated_needsで2,932回言及・tech_needsで2,531社が生産・効率化技術を求める。物流デジタル化・スマートファクトリー化の需要が急増しているが、機械工学の助成金は7.2億円・7財団にとどまる。"
+    },
+    {
+      "rank": 5,
+      "field": "EV・次世代モビリティ",
+      "corporate_demand": {
+        "ambition_narratives": 8711,
+        "estimated_needs_mentions": 940
+      },
+      "current_grant_field": "（専用助成分野なし）",
+      "current_grant_amount_oku": 0,
+      "gap_assessment": "深刻な不足（専用助成なし）",
+      "reasoning": "8,711narratives・3,192社がEV・次世代モビリティを野心分野に掲げるが、モビリティ専門の助成金分野は存在しない。輸送機器産業（産学連携10,572件）は産学連携2位の分野でありながら、対応する助成金支援が著しく不足。"
+    },
+    {
+      "rank": 6,
+      "field": "新規事業創出・プラットフォーム・エコシステム",
+      "corporate_demand": {
+        "ambition_narratives_platform": 12804,
+        "ambition_narratives_social": 12437
+      },
+      "current_grant_field": "（対応分野なし）",
+      "current_grant_amount_oku": 0,
+      "gap_assessment": "構造的空白",
+      "reasoning": "企業の最優先野心は「プラットフォーム事業・エコシステム構築」(12,804narratives, 3,676社)と「社会課題解決型事業」(12,437narratives)だが、これらに直接対応する財団助成分野が存在しない。企業ニーズのトップ2が完全に助成の対象外。"
+    }
+  ],
+  "summary_insights": [
+    {
+      "insight_id": 1,
+      "title": "工学系助成金の絶対的不足",
+      "detail": "企業の技術ニーズの中心（DX、AI、先端製造）は工学領域に集中しているが、企業財団の工学助成金総額は36.3億円で、医学・生物学（自然科学72.6億円）の半分以下。特に情報工学は10.9億円・8財団のみで、3,600社以上が求めるAI・生成AI支援に対して構造的に不足。"
+    },
+    {
+      "insight_id": 2,
+      "title": "脱炭素・環境分野の著しいミスマッチ",
+      "detail": "3,300社以上がグリーン・脱炭素事業を中長期的野心に掲げ（総narratives: 28,000件以上）、estimated_needsでも4,319回言及されるが、環境科学分野の財団助成金額は事実上ゼロ（5財団で金額未報告）。企業の脱炭素ニーズと財団の支援構造が完全に乖離している。"
+    },
+    {
+      "insight_id": 3,
+      "title": "産学連携上位産業と助成金対象の不整合",
+      "detail": "産学連携論文数トップは電気機器（32,401件）・精密機器（28,089件）・輸送機器（10,572件）。これらの産業が注力するAI・半導体・EV領域への専用助成は乏しく、産業界の研究投資と財団支援の方向性が乖離している。"
+    },
+    {
+      "insight_id": 4,
+      "title": "医学・生物学への過剰集中",
+      "detail": "自然科学系助成金の医学（52.6億円）+生物学（57.5億円）が突出し、合計110億円超。企業の医療ニーズも高いが、他の工学・環境領域の不足と対比するとバランスの改善余地が大きい。全体的な助成ポートフォリオの再設計が必要。"
+    },
+    {
+      "insight_id": 5,
+      "title": "企業トップ野心（新規事業・エコシステム）の助成空白",
+      "detail": "企業の最優先野心は「プラットフォーム事業・エコシステム構築」（12,804narratives, 3,676社）と「社会課題解決型事業」（12,437narratives）だが、これらに直接対応する財団助成分野が存在しない。企業ニーズのトップ2が完全に助成の対象外という構造的空白がある。"
+    }
+  ]
+}

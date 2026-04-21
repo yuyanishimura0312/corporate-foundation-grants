@@ -1,0 +1,966 @@
+{
+  "meta": {
+    "generated_at": "2026-04-21",
+    "foresight_db_stats": {
+      "total_predictions_2030_2040": 1567,
+      "scenarios_analyzed": 2755,
+      "trends_analyzed": 40
+    },
+    "grant_db_stats": {
+      "total_grant_amount_yen": 25216000000,
+      "total_grant_amount_oku": 252.2
+    },
+    "methodology": {
+      "foresight_score": "予測件数×0.3 + 高信頼度予測×2.0 + 中信頼度予測×0.5 + シナリオ言及数×1.5",
+      "normalization": "log1p変換で突出値を緩和した上で0-100スケールに正規化",
+      "gap_score": "フォーサイトスコア正規化値 - 助成額正規化値（ともにlog正規化0-100スケール）",
+      "opportunity_score": "gap_score × foresight_score_normalized / 100"
+    }
+  },
+  "emerging_fields_2030": [
+    {
+      "rank": 1,
+      "code": "0101",
+      "field_ja": "AI・機械学習",
+      "foresight_score": 100.0,
+      "prediction_count_2030_2040": 653,
+      "high_confidence_predictions": 75,
+      "scenario_robustness": 719,
+      "current_grant_yen": 1086000000,
+      "current_grant_share_pct": 4.31
+    },
+    {
+      "rank": 2,
+      "code": "1102",
+      "field_ja": "地域紛争",
+      "foresight_score": 85.7,
+      "prediction_count_2030_2040": 120,
+      "high_confidence_predictions": 8,
+      "scenario_robustness": 308,
+      "current_grant_yen": 1957000000,
+      "current_grant_share_pct": 7.76
+    },
+    {
+      "rank": 3,
+      "code": "0401",
+      "field_ja": "気候変動",
+      "foresight_score": 71.8,
+      "prediction_count_2030_2040": 92,
+      "high_confidence_predictions": 17,
+      "scenario_robustness": 82,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0
+    },
+    {
+      "rank": 4,
+      "code": "0701",
+      "field_ja": "マクロ経済",
+      "foresight_score": 64.6,
+      "prediction_count_2030_2040": 106,
+      "high_confidence_predictions": 15,
+      "scenario_robustness": 27,
+      "current_grant_yen": 920000000,
+      "current_grant_share_pct": 3.65
+    },
+    {
+      "rank": 5,
+      "code": "0801",
+      "field_ja": "人口動態",
+      "foresight_score": 58.4,
+      "prediction_count_2030_2040": 29,
+      "high_confidence_predictions": 8,
+      "scenario_robustness": 29,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0
+    },
+    {
+      "rank": 6,
+      "code": "0702",
+      "field_ja": "金融イノベーション",
+      "foresight_score": 58.2,
+      "prediction_count_2030_2040": 80,
+      "high_confidence_predictions": 9,
+      "scenario_robustness": 16,
+      "current_grant_yen": 920000000,
+      "current_grant_share_pct": 3.65
+    },
+    {
+      "rank": 7,
+      "code": "0804",
+      "field_ja": "格差・不平等",
+      "foresight_score": 57.6,
+      "prediction_count_2030_2040": 36,
+      "high_confidence_predictions": 17,
+      "scenario_robustness": 12,
+      "current_grant_yen": 923000000,
+      "current_grant_share_pct": 3.66
+    },
+    {
+      "rank": 8,
+      "code": "0402",
+      "field_ja": "生物多様性",
+      "foresight_score": 55.0,
+      "prediction_count_2030_2040": 75,
+      "high_confidence_predictions": 12,
+      "scenario_robustness": 4,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0
+    },
+    {
+      "rank": 9,
+      "code": "0301",
+      "field_ja": "再生可能エネルギー",
+      "foresight_score": 54.2,
+      "prediction_count_2030_2040": 30,
+      "high_confidence_predictions": 16,
+      "scenario_robustness": 5,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0
+    },
+    {
+      "rank": 10,
+      "code": "0105",
+      "field_ja": "ロボティクス・自動化",
+      "foresight_score": 53.1,
+      "prediction_count_2030_2040": 27,
+      "high_confidence_predictions": 12,
+      "scenario_robustness": 7,
+      "current_grant_yen": 716000000,
+      "current_grant_share_pct": 2.84
+    },
+    {
+      "rank": 11,
+      "code": "0601",
+      "field_ja": "パンデミック・感染症",
+      "foresight_score": 49.5,
+      "prediction_count_2030_2040": 60,
+      "high_confidence_predictions": 5,
+      "scenario_robustness": 4,
+      "current_grant_yen": 40000000,
+      "current_grant_share_pct": 0.16
+    },
+    {
+      "rank": 12,
+      "code": "0102",
+      "field_ja": "デジタルインフラ",
+      "foresight_score": 48.9,
+      "prediction_count_2030_2040": 43,
+      "high_confidence_predictions": 7,
+      "scenario_robustness": 2,
+      "current_grant_yen": 1086000000,
+      "current_grant_share_pct": 4.31
+    },
+    {
+      "rank": 13,
+      "code": "1001",
+      "field_ja": "民主主義の未来",
+      "foresight_score": 48.7,
+      "prediction_count_2030_2040": 13,
+      "high_confidence_predictions": 8,
+      "scenario_robustness": 8,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0
+    },
+    {
+      "rank": 14,
+      "code": "0903",
+      "field_ja": "教育変革",
+      "foresight_score": 43.7,
+      "prediction_count_2030_2040": 17,
+      "high_confidence_predictions": 2,
+      "scenario_robustness": 9,
+      "current_grant_yen": 1929000000,
+      "current_grant_share_pct": 7.65
+    },
+    {
+      "rank": 15,
+      "code": "0104",
+      "field_ja": "サイバーセキュリティ",
+      "foresight_score": 43.1,
+      "prediction_count_2030_2040": 27,
+      "high_confidence_predictions": 4,
+      "scenario_robustness": 4,
+      "current_grant_yen": 292000000,
+      "current_grant_share_pct": 1.16
+    },
+    {
+      "rank": 16,
+      "code": "0103",
+      "field_ja": "量子技術",
+      "foresight_score": 43.0,
+      "prediction_count_2030_2040": 25,
+      "high_confidence_predictions": 2,
+      "scenario_robustness": 5,
+      "current_grant_yen": 273000000,
+      "current_grant_share_pct": 1.08
+    },
+    {
+      "rank": 17,
+      "code": "1101",
+      "field_ja": "大国間競争",
+      "foresight_score": 42.2,
+      "prediction_count_2030_2040": 9,
+      "high_confidence_predictions": 1,
+      "scenario_robustness": 10,
+      "current_grant_yen": 1957000000,
+      "current_grant_share_pct": 7.76
+    },
+    {
+      "rank": 18,
+      "code": "0704",
+      "field_ja": "グリーンファイナンス",
+      "foresight_score": 40.0,
+      "prediction_count_2030_2040": 23,
+      "high_confidence_predictions": 5,
+      "scenario_robustness": 0,
+      "current_grant_yen": 920000000,
+      "current_grant_share_pct": 3.65
+    },
+    {
+      "rank": 19,
+      "code": "0501",
+      "field_ja": "食料安全保障",
+      "foresight_score": 38.6,
+      "prediction_count_2030_2040": 14,
+      "high_confidence_predictions": 5,
+      "scenario_robustness": 1,
+      "current_grant_yen": 285000000,
+      "current_grant_share_pct": 1.13
+    },
+    {
+      "rank": 20,
+      "code": "0604",
+      "field_ja": "メンタルヘルス",
+      "foresight_score": 38.5,
+      "prediction_count_2030_2040": 15,
+      "high_confidence_predictions": 4,
+      "scenario_robustness": 1,
+      "current_grant_yen": 50000000,
+      "current_grant_share_pct": 0.2
+    }
+  ],
+  "accelerating_trends": [
+    {
+      "name": "Digital Transformation",
+      "name_ja": "デジタルトランスフォーメーション",
+      "type": "megatrend",
+      "domains": [
+        "technology",
+        "economy",
+        "society"
+      ],
+      "mention_count": 291,
+      "related_academic_fields": [
+        "経済学・経営学・金融工学",
+        "情報工学・AI研究",
+        "社会学・社会福祉学・人口学"
+      ]
+    },
+    {
+      "name": "World systems and global transformations",
+      "name_ja": "世界システムとグローバル変革",
+      "type": "megatrend",
+      "domains": [
+        "geopolitics",
+        "governance",
+        "economy"
+      ],
+      "mention_count": 140,
+      "related_academic_fields": [
+        "政治学・法学・行政学",
+        "経済学・経営学・金融工学",
+        "国際関係・地政学・安全保障"
+      ]
+    },
+    {
+      "name": "Planetary boundaries",
+      "name_ja": "惑星の境界",
+      "type": "megatrend",
+      "domains": [
+        "environment",
+        "science",
+        "governance"
+      ],
+      "mention_count": 18,
+      "related_academic_fields": [
+        "政治学・法学・行政学",
+        "環境科学・生態学・地球科学",
+        "自然科学全般（物理学・化学・生物学）"
+      ]
+    },
+    {
+      "name": "Demographic change",
+      "name_ja": "人口動態の変化",
+      "type": "megatrend",
+      "domains": [
+        "society",
+        "economy"
+      ],
+      "mention_count": 15,
+      "related_academic_fields": [
+        "経済学・経営学・金融工学",
+        "社会学・社会福祉学・人口学"
+      ]
+    },
+    {
+      "name": "Ambient intelligence",
+      "name_ja": "アンビエントインテリジェンス",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "society",
+        "governance"
+      ],
+      "mention_count": 4,
+      "related_academic_fields": [
+        "政治学・法学・行政学",
+        "社会学・社会福祉学・人口学",
+        "情報工学・コンピュータ科学、電気電子工学"
+      ]
+    },
+    {
+      "name": "Synthetic Biology & Biotech Revolution",
+      "name_ja": "合成生物学とバイオ革命",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "health",
+        "food"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "生命科学・バイオテクノロジー",
+        "医学・公衆衛生・生命科学",
+        "農学・食品科学・生態学"
+      ]
+    },
+    {
+      "name": "AI-driven misinformation and disinformation",
+      "name_ja": "AI駆動の誤情報・偽情報",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "governance"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "政治学・法学・行政学",
+        "情報工学・AI研究",
+        "情報工学・コンピュータ科学、電気電子工学"
+      ]
+    },
+    {
+      "name": "Adverse outcomes of AI technologies",
+      "name_ja": "AI技術の有害な結果",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "society"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "情報工学・AI研究",
+        "社会学・社会福祉学・人口学",
+        "情報工学・コンピュータ科学、電気電子工学"
+      ]
+    },
+    {
+      "name": "Quantum technology advancement",
+      "name_ja": "量子技術の進展",
+      "type": "emerging_trend",
+      "domains": [
+        "technology"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "量子物理学・量子情報科学",
+        "情報工学・コンピュータ科学、電気電子工学"
+      ]
+    },
+    {
+      "name": "Bio-digital convergence",
+      "name_ja": "バイオ・デジタル融合",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "health"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "生命科学・バイオテクノロジー",
+        "医学・公衆衛生・生命科学",
+        "情報工学・AI研究"
+      ]
+    },
+    {
+      "name": "Space economy expansion",
+      "name_ja": "宇宙経済の拡大",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "economy"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "経済学・経営学・金融工学",
+        "情報工学・コンピュータ科学、電気電子工学"
+      ]
+    },
+    {
+      "name": "Generative AI revolution",
+      "name_ja": "生成AI革命",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "economy"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "生命科学・バイオテクノロジー",
+        "経済学・経営学・金融工学",
+        "情報工学・AI研究"
+      ]
+    },
+    {
+      "name": "Longevity economy",
+      "name_ja": "長寿経済",
+      "type": "emerging_trend",
+      "domains": [
+        "economy",
+        "health",
+        "society"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "経済学・経営学・金融工学",
+        "医学・公衆衛生・生命科学",
+        "社会学・社会福祉学・人口学"
+      ]
+    },
+    {
+      "name": "Nature-based solutions mainstreaming",
+      "name_ja": "自然に基づく解決策の主流化",
+      "type": "emerging_trend",
+      "domains": [
+        "environment",
+        "economy"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "経済学・経営学・金融工学",
+        "情報工学・AI研究",
+        "環境科学・生態学・地球科学"
+      ]
+    },
+    {
+      "name": "Energy storage revolution",
+      "name_ja": "エネルギー貯蔵革命",
+      "type": "emerging_trend",
+      "domains": [
+        "energy",
+        "technology"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "工学・化学工学・物理学",
+        "情報工学・コンピュータ科学、電気電子工学"
+      ]
+    },
+    {
+      "name": "Democratization of biotechnology",
+      "name_ja": "バイオテクノロジーの民主化",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "health"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "生命科学・バイオテクノロジー",
+        "医学・公衆衛生・生命科学",
+        "情報工学・コンピュータ科学、電気電子工学"
+      ]
+    },
+    {
+      "name": "AI adverse outcomes",
+      "name_ja": "AIの悪影響",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "governance",
+        "society"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "政治学・法学・行政学",
+        "情報工学・AI研究",
+        "社会学・社会福祉学・人口学"
+      ]
+    },
+    {
+      "name": "Quantum computing commercialization",
+      "name_ja": "量子コンピューティングの実用化",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "economy",
+        "science"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "経済学・経営学・金融工学",
+        "量子物理学・量子情報科学",
+        "自然科学全般（物理学・化学・生物学）"
+      ]
+    },
+    {
+      "name": "Autonomous driving level 5",
+      "name_ja": "自動運転レベル5の実現",
+      "type": "emerging_trend",
+      "domains": [
+        "technology",
+        "society",
+        "economy"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "経済学・経営学・金融工学",
+        "社会学・社会福祉学・人口学",
+        "情報工学・コンピュータ科学、電気電子工学"
+      ]
+    },
+    {
+      "name": "Regenerative medicine advances",
+      "name_ja": "再生医療の進展",
+      "type": "emerging_trend",
+      "domains": [
+        "science",
+        "society",
+        "technology"
+      ],
+      "mention_count": 0,
+      "related_academic_fields": [
+        "情報工学・コンピュータ科学、電気電子工学",
+        "生命科学・バイオテクノロジー",
+        "社会学・社会福祉学・人口学"
+      ]
+    }
+  ],
+  "robust_fields": [
+    {
+      "code": "0101",
+      "field_ja": "AI・機械学習",
+      "scenario_mentions": 719,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 100.0,
+      "current_grant_yen": 1086000000
+    },
+    {
+      "code": "1102",
+      "field_ja": "地域紛争",
+      "scenario_mentions": 308,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 85.7,
+      "current_grant_yen": 1957000000
+    },
+    {
+      "code": "0401",
+      "field_ja": "気候変動",
+      "scenario_mentions": 82,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 71.8,
+      "current_grant_yen": 0
+    },
+    {
+      "code": "0801",
+      "field_ja": "人口動態",
+      "scenario_mentions": 29,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 58.4,
+      "current_grant_yen": 0
+    },
+    {
+      "code": "0701",
+      "field_ja": "マクロ経済",
+      "scenario_mentions": 27,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 64.6,
+      "current_grant_yen": 920000000
+    },
+    {
+      "code": "0702",
+      "field_ja": "金融イノベーション",
+      "scenario_mentions": 16,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 58.2,
+      "current_grant_yen": 920000000
+    },
+    {
+      "code": "0804",
+      "field_ja": "格差・不平等",
+      "scenario_mentions": 12,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 57.6,
+      "current_grant_yen": 923000000
+    },
+    {
+      "code": "1101",
+      "field_ja": "大国間競争",
+      "scenario_mentions": 10,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 42.2,
+      "current_grant_yen": 1957000000
+    },
+    {
+      "code": "0903",
+      "field_ja": "教育変革",
+      "scenario_mentions": 9,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 43.7,
+      "current_grant_yen": 1929000000
+    },
+    {
+      "code": "1001",
+      "field_ja": "民主主義の未来",
+      "scenario_mentions": 8,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 48.7,
+      "current_grant_yen": 0
+    },
+    {
+      "code": "0105",
+      "field_ja": "ロボティクス・自動化",
+      "scenario_mentions": 7,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 53.1,
+      "current_grant_yen": 716000000
+    },
+    {
+      "code": "0301",
+      "field_ja": "再生可能エネルギー",
+      "scenario_mentions": 5,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 54.2,
+      "current_grant_yen": 0
+    },
+    {
+      "code": "1201",
+      "field_ja": "宇宙経済",
+      "scenario_mentions": 5,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 36.2,
+      "current_grant_yen": 0
+    },
+    {
+      "code": "0603",
+      "field_ja": "高齢化・長寿",
+      "scenario_mentions": 5,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 38.1,
+      "current_grant_yen": 113000000
+    },
+    {
+      "code": "0103",
+      "field_ja": "量子技術",
+      "scenario_mentions": 5,
+      "interpretation": "シナリオ横断で普遍的に重要",
+      "foresight_score": 43.0,
+      "current_grant_yen": 273000000
+    }
+  ],
+  "future_vs_current_gap": [
+    {
+      "code": "0401",
+      "field_ja": "気候変動",
+      "foresight_importance": 71.8,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0,
+      "gap_score": 71.8,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "0801",
+      "field_ja": "人口動態",
+      "foresight_importance": 58.4,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0,
+      "gap_score": 58.4,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "0402",
+      "field_ja": "生物多様性",
+      "foresight_importance": 55.0,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0,
+      "gap_score": 55.0,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "0301",
+      "field_ja": "再生可能エネルギー",
+      "foresight_importance": 54.2,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0,
+      "gap_score": 54.2,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "1001",
+      "field_ja": "民主主義の未来",
+      "foresight_importance": 48.7,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0,
+      "gap_score": 48.7,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "0101",
+      "field_ja": "AI・機械学習",
+      "foresight_importance": 100.0,
+      "current_grant_yen": 1086000000,
+      "current_grant_share_pct": 4.31,
+      "gap_score": 47.1,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "0601",
+      "field_ja": "パンデミック・感染症",
+      "foresight_importance": 49.5,
+      "current_grant_yen": 40000000,
+      "current_grant_share_pct": 0.16,
+      "gap_score": 44.8,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "1201",
+      "field_ja": "宇宙経済",
+      "foresight_importance": 36.2,
+      "current_grant_yen": 0,
+      "current_grant_share_pct": 0.0,
+      "gap_score": 36.2,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "0302",
+      "field_ja": "エネルギー貯蔵・水素",
+      "foresight_importance": 36.5,
+      "current_grant_yen": 30000000,
+      "current_grant_share_pct": 0.12,
+      "gap_score": 32.9,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "0604",
+      "field_ja": "メンタルヘルス",
+      "foresight_importance": 38.5,
+      "current_grant_yen": 50000000,
+      "current_grant_share_pct": 0.2,
+      "gap_score": 32.7,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "0602",
+      "field_ja": "デジタルヘルス",
+      "foresight_importance": 34.8,
+      "current_grant_yen": 30000000,
+      "current_grant_share_pct": 0.12,
+      "gap_score": 31.2,
+      "interpretation": "未来重要度が高いが現在の助成は少ない"
+    },
+    {
+      "code": "0603",
+      "field_ja": "高齢化・長寿",
+      "foresight_importance": 38.1,
+      "current_grant_yen": 113000000,
+      "current_grant_share_pct": 0.45,
+      "gap_score": 26.3,
+      "interpretation": "中程度のギャップ"
+    },
+    {
+      "code": "0204",
+      "field_ja": "神経科学・ブレインテック",
+      "foresight_importance": 31.2,
+      "current_grant_yen": 100000000,
+      "current_grant_share_pct": 0.4,
+      "gap_score": 20.5,
+      "interpretation": "中程度のギャップ"
+    },
+    {
+      "code": "0103",
+      "field_ja": "量子技術",
+      "foresight_importance": 43.0,
+      "current_grant_yen": 273000000,
+      "current_grant_share_pct": 1.08,
+      "gap_score": 19.8,
+      "interpretation": "中程度のギャップ"
+    },
+    {
+      "code": "0104",
+      "field_ja": "サイバーセキュリティ",
+      "foresight_importance": 43.1,
+      "current_grant_yen": 292000000,
+      "current_grant_share_pct": 1.16,
+      "gap_score": 18.7,
+      "interpretation": "中程度のギャップ"
+    }
+  ],
+  "opportunity_fields": [
+    {
+      "code": "0401",
+      "field_ja": "気候変動",
+      "foresight_importance": 71.8,
+      "current_grant_yen": 0,
+      "gap_score": 71.8,
+      "opportunity_score": 51.6,
+      "rationale": "気候変動は全シナリオで最重要課題だが環境科学への助成実績がほぼゼロ",
+      "recommended_action": "新規設立を推奨",
+      "mapped_grant_fields": [
+        "環境科学（実績なし）"
+      ]
+    },
+    {
+      "code": "0101",
+      "field_ja": "AI・機械学習",
+      "foresight_importance": 100.0,
+      "current_grant_yen": 1086000000,
+      "gap_score": 47.1,
+      "opportunity_score": 47.1,
+      "rationale": "未来重要度(スコア100.0)に対し助成シェア(4.31%)が低い",
+      "recommended_action": "50-100%の増額",
+      "mapped_grant_fields": [
+        "情報工学・コンピュータ科学"
+      ]
+    },
+    {
+      "code": "0801",
+      "field_ja": "人口動態",
+      "foresight_importance": 58.4,
+      "current_grant_yen": 0,
+      "gap_score": 58.4,
+      "opportunity_score": 34.1,
+      "rationale": "人口動態変化は全予測に通底する基盤要因だが社会学助成は実績なし",
+      "recommended_action": "新規設立を推奨",
+      "mapped_grant_fields": [
+        "社会学（実績なし）"
+      ]
+    },
+    {
+      "code": "0402",
+      "field_ja": "生物多様性",
+      "foresight_importance": 55.0,
+      "current_grant_yen": 0,
+      "gap_score": 55.0,
+      "opportunity_score": 30.2,
+      "rationale": "生物多様性損失は惑星規模リスクだが生態学助成は実績なし",
+      "recommended_action": "新規設立を推奨",
+      "mapped_grant_fields": [
+        "生態学（実績なし）"
+      ]
+    },
+    {
+      "code": "0301",
+      "field_ja": "再生可能エネルギー",
+      "foresight_importance": 54.2,
+      "current_grant_yen": 0,
+      "gap_score": 54.2,
+      "opportunity_score": 29.4,
+      "rationale": "再生可能エネルギーは全エネルギーシナリオで必須だが工学系助成に含まれていない",
+      "recommended_action": "新規設立を推奨",
+      "mapped_grant_fields": [
+        "環境科学（実績なし）"
+      ]
+    },
+    {
+      "code": "1001",
+      "field_ja": "民主主義の未来",
+      "foresight_importance": 48.7,
+      "current_grant_yen": 0,
+      "gap_score": 48.7,
+      "opportunity_score": 23.7,
+      "rationale": "民主主義の危機は多数シナリオで言及されるが政治学助成なし",
+      "recommended_action": "新規設立を推奨",
+      "mapped_grant_fields": [
+        "政治学（実績なし）"
+      ]
+    },
+    {
+      "code": "0601",
+      "field_ja": "パンデミック・感染症",
+      "foresight_importance": 49.5,
+      "current_grant_yen": 40000000,
+      "gap_score": 44.8,
+      "opportunity_score": 22.2,
+      "rationale": "パンデミックは高信頼度予測上位だが公衆衛生助成は非常に少ない",
+      "recommended_action": "50-100%の増額",
+      "mapped_grant_fields": [
+        "公衆衛生"
+      ]
+    },
+    {
+      "code": "1102",
+      "field_ja": "地域紛争",
+      "foresight_importance": 85.7,
+      "current_grant_yen": 1957000000,
+      "gap_score": 16.9,
+      "opportunity_score": 14.5,
+      "rationale": "未来重要度(スコア85.7)に対し助成シェア(7.76%)が低い",
+      "recommended_action": "現状維持〜20%増額",
+      "mapped_grant_fields": [
+        "国際関係"
+      ]
+    },
+    {
+      "code": "1201",
+      "field_ja": "宇宙経済",
+      "foresight_importance": 36.2,
+      "current_grant_yen": 0,
+      "gap_score": 36.2,
+      "opportunity_score": 13.1,
+      "rationale": "未来重要度(スコア36.2)に対し助成シェア(0.0%)が低い",
+      "recommended_action": "新規設立を推奨",
+      "mapped_grant_fields": [
+        "(なし)"
+      ]
+    },
+    {
+      "code": "0604",
+      "field_ja": "メンタルヘルス",
+      "foresight_importance": 38.5,
+      "current_grant_yen": 50000000,
+      "gap_score": 32.7,
+      "opportunity_score": 12.6,
+      "rationale": "メンタルヘルスは全シナリオで社会課題として台頭するが助成少額",
+      "recommended_action": "50-100%の増額",
+      "mapped_grant_fields": [
+        "心理学"
+      ]
+    },
+    {
+      "code": "0302",
+      "field_ja": "エネルギー貯蔵・水素",
+      "foresight_importance": 36.5,
+      "current_grant_yen": 30000000,
+      "gap_score": 32.9,
+      "opportunity_score": 12.0,
+      "rationale": "エネルギー貯蔵・水素は脱炭素の鍵だが化学工学助成は微小",
+      "recommended_action": "50-100%の増額",
+      "mapped_grant_fields": [
+        "化学工学"
+      ]
+    },
+    {
+      "code": "0602",
+      "field_ja": "デジタルヘルス",
+      "foresight_importance": 34.8,
+      "current_grant_yen": 30000000,
+      "gap_score": 31.2,
+      "opportunity_score": 10.9,
+      "rationale": "未来重要度(スコア34.8)に対し助成シェア(0.12%)が低い",
+      "recommended_action": "50-100%の増額",
+      "mapped_grant_fields": [
+        "臨床医学"
+      ]
+    }
+  ]
+}

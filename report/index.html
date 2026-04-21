@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>民間助成最適配分仮説レポート - 189財団・284.1億円の企業財団研究助成分析</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #faf8f5;
+    --bg-card: #ffffff;
+    --accent: #783c28;
+    --accent-light: #a0593d;
+    --accent-bg: #f5ebe4;
+    --accent-bg-light: #faf3ee;
+    --text: #2d2520;
+    --text-secondary: #5c4f46;
+    --border: #e4dcd4;
+    --green: #4a7c59;
+    --red: #a04040;
+    --blue: #3d5a80;
+    --orange: #c27a3a;
+    --purple: #6b4c8a;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.85;
+    font-size: 15px;
+  }
+  .container { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+  header {
+    background: linear-gradient(135deg, var(--accent) 0%, #5a2a1a 100%);
+    color: #fff;
+    padding: 56px 0 48px;
+  }
+  header h1 { font-size: 28px; font-weight: 700; margin-bottom: 12px; letter-spacing: 0.02em; }
+  header .subtitle { font-size: 15px; opacity: 0.85; line-height: 1.7; }
+  header .meta { margin-top: 20px; font-size: 13px; opacity: 0.65; }
+
+  nav.toc {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px 32px;
+    margin: -28px 0 40px;
+    position: relative;
+    z-index: 10;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  }
+  nav.toc h2 { font-size: 14px; color: var(--accent); margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.08em; }
+  nav.toc ol { padding-left: 20px; }
+  nav.toc li { margin: 4px 0; }
+  nav.toc a { color: var(--text); text-decoration: none; font-size: 14px; }
+  nav.toc a:hover { color: var(--accent); text-decoration: underline; }
+
+  section { margin: 48px 0; }
+  h2 {
+    font-size: 22px; font-weight: 700;
+    color: var(--accent);
+    border-bottom: 3px solid var(--accent);
+    padding-bottom: 8px;
+    margin-bottom: 24px;
+  }
+  h3 {
+    font-size: 17px; font-weight: 700;
+    color: var(--text);
+    margin: 28px 0 12px;
+    padding-left: 12px;
+    border-left: 4px solid var(--accent);
+  }
+  h4 { font-size: 15px; font-weight: 700; color: var(--accent-light); margin: 20px 0 8px; }
+  p { margin: 10px 0; text-align: justify; }
+  .narrative { max-width: 780px; }
+
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px;
+    margin: 20px 0;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+  }
+  .highlight-card {
+    background: var(--accent-bg);
+    border-left: 4px solid var(--accent);
+    padding: 20px 24px;
+    border-radius: 0 8px 8px 0;
+    margin: 20px 0;
+  }
+  .highlight-card .label { font-size: 12px; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 6px; }
+
+  .chart-container {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  .chart-container canvas { max-height: 400px; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    margin: 16px 0;
+  }
+  th {
+    background: var(--accent-bg);
+    color: var(--accent);
+    font-weight: 700;
+    padding: 10px 12px;
+    text-align: left;
+    border-bottom: 2px solid var(--accent);
+    white-space: nowrap;
+  }
+  td {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  tr:hover td { background: var(--accent-bg-light); }
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+  @media (max-width: 768px) {
+    .grid-2, .grid-3 { grid-template-columns: 1fr; }
+    header h1 { font-size: 22px; }
+    .container { padding: 0 16px; }
+    nav.toc { padding: 16px 20px; }
+  }
+
+  .stat-box { text-align: center; padding: 16px; }
+  .stat-box .value { font-size: 32px; font-weight: 700; color: var(--accent); }
+  .stat-box .unit { font-size: 14px; color: var(--text-secondary); }
+  .stat-box .desc { font-size: 12px; color: var(--text-secondary); margin-top: 4px; }
+
+  .badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-right: 4px;
+  }
+  .badge-red { background: #fde8e8; color: var(--red); }
+  .badge-green { background: #e8f5e9; color: var(--green); }
+  .badge-blue { background: #e3edf7; color: var(--blue); }
+  .badge-orange { background: #fef3e0; color: var(--orange); }
+  .badge-purple { background: #f0e8f7; color: var(--purple); }
+
+  .score-bar {
+    display: inline-block;
+    height: 8px;
+    border-radius: 4px;
+    background: var(--accent);
+    vertical-align: middle;
+  }
+
+  footer {
+    background: var(--accent);
+    color: rgba(255,255,255,0.8);
+    padding: 32px 0;
+    margin-top: 60px;
+    font-size: 13px;
+    text-align: center;
+  }
+
+  .hypothesis-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px 24px;
+    margin: 16px 0;
+  }
+  .hypothesis-card .h-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .hypothesis-card .evidence { font-size: 13px; color: var(--text-secondary); margin-top: 8px; }
+  .hypothesis-card .evidence li { margin: 3px 0; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>民間助成最適配分仮説レポート</h1>
+    <div class="subtitle">
+      189財団・284.1億円の企業財団研究助成を4つの分析軸で検証し、<br>
+      「どの分野に助成を配分すれば最もインパクトが大きいか」を導出する
+    </div>
+    <div class="meta">NPO法人ミラツク | 2026年4月21日 | 分析: 学術構造 + 企業R&D + 未来洞察 + 公的資金</div>
+  </div>
+</header>
+
+<div class="container">
+
+<nav class="toc">
+  <h2>目次</h2>
+  <ol>
+    <li><a href="#exec">エグゼクティブサマリー</a></li>
+    <li><a href="#current">現状分析：企業財団研究助成の学術分野別配分</a></li>
+    <li><a href="#gap">4つの視点からのギャップ分析</a>
+      <ol>
+        <li><a href="#gap-corp">企業R&Dニーズとのギャップ</a></li>
+        <li><a href="#gap-future">未来洞察とのギャップ</a></li>
+        <li><a href="#gap-public">公的資金とのギャップ</a></li>
+        <li><a href="#gap-academic">学術構造とのギャップ</a></li>
+      </ol>
+    </li>
+    <li><a href="#matrix">統合分析：最適配分マトリクス</a></li>
+    <li><a href="#hypothesis">仮説と提言</a></li>
+    <li><a href="#method">方法論と限界</a></li>
+  </ol>
+</nav>
+
+<!-- ======================= 1. EXECUTIVE SUMMARY ======================= -->
+<section id="exec">
+<h2>1. エグゼクティブサマリー</h2>
+
+<div class="grid-3">
+  <div class="card stat-box">
+    <div class="value">189</div>
+    <div class="unit">財団</div>
+    <div class="desc">分析対象の企業財団</div>
+  </div>
+  <div class="card stat-box">
+    <div class="value">284.1</div>
+    <div class="unit">億円</div>
+    <div class="desc">年間研究助成総額</div>
+  </div>
+  <div class="card stat-box">
+    <div class="value">352</div>
+    <div class="unit">プログラム</div>
+    <div class="desc">助成プログラム数</div>
+  </div>
+</div>
+
+<div class="narrative">
+<p>
+本レポートは、日本の企業財団による研究助成の全容を定量的に把握し、その配分が社会的インパクトを最大化しているかどうかを4つの独立した視点から検証した結果をまとめたものである。分析対象は189の企業財団が運営する352の助成プログラム、年間総額284.1億円の研究助成金である。
+</p>
+<p>
+分析の結果、現在の助成配分には顕著な偏りが存在することが明らかになった。自然科学、とりわけ医学・生物学への助成が110.1億円（全体の38.8%）と突出して大きい一方で、企業が最も注力するDX・AI分野や、2030-2040年に重要度が急上昇する気候変動・再生可能エネルギー分野への助成はほぼ皆無であった。また、科研費でも構造的に不利な人文学系分野（文化人類学、哲学・倫理学など）は、政府資金と民間助成の「二重の空白」に置かれていることが判明した。
+</p>
+<p>
+4軸の統合スコアリングにより、民間助成のインパクトが最大となる分野を導出した結果、以下の5分野が最優先の配分先として浮上した。
+</p>
+</div>
+
+<div class="highlight-card">
+<div class="label">トップ5推奨分野</div>
+<table>
+<tr><th>順位</th><th>分野</th><th>統合スコア</th><th>核心理由</th></tr>
+<tr><td>1</td><td><strong>気候変動・環境人文学</strong></td><td class="num">33.5 / 40</td><td>未来重要度最高 + 公的資金ゼロ + 企業グリーン需要急増</td></tr>
+<tr><td>2</td><td><strong>AI倫理・テクノロジーガバナンス</strong></td><td class="num">32.0 / 40</td><td>企業ニーズ最大 + 未来洞察1位 + 哲学側の資金空白</td></tr>
+<tr><td>3</td><td><strong>人口動態・コミュニティ研究</strong></td><td class="num">30.0 / 40</td><td>全シナリオ共通課題 + 科研費手薄 + 農村過疎の構造的空白</td></tr>
+<tr><td>4</td><td><strong>生物多様性・保全生態学</strong></td><td class="num">29.0 / 40</td><td>惑星リスク + 概念密度最高 + 企業NbS需要</td></tr>
+<tr><td>5</td><td><strong>再生可能エネルギー・水素</strong></td><td class="num">28.5 / 40</td><td>企業脱炭素投資 + 助成金ゼロ + 公的資金は技術側のみ</td></tr>
+</table>
+</div>
+
+<div class="narrative">
+<p>
+これらの分野に共通するのは、「企業ニーズは高いが現在の助成がほぼゼロ」「未来洞察で重要性が確認されている」「公的資金がカバーしていない」「学術的に活発な研究領域であるにもかかわらず資金がない」という4条件を同時に満たしている点である。民間助成は、政府の科学技術政策が構造的にカバーできない領域に投入してこそ、その代替不可能性（additionality）が最大化される。
+</p>
+</div>
+</section>
+
+<!-- ======================= 2. CURRENT STATE ======================= -->
+<section id="current">
+<h2>2. 現状分析：企業財団研究助成の学術分野別配分</h2>
+
+<div class="narrative">
+<p>
+189財団の助成プログラムを学術5ドメイン（自然科学・社会科学・工学・人文学・芸術）に分類した結果、配分額の構成は以下のとおりであった。なお、総額284.1億円のうち122.4億円（43.1%）は特定分野に分類できない「分野横断・未分類」に該当し、分野別配分の分析対象は161.7億円となる。
+</p>
+</div>
+
+<div class="chart-container">
+  <canvas id="domainChart"></canvas>
+</div>
+
+<div class="grid-2">
+  <div class="card">
+    <h4>ドメイン別配分額</h4>
+    <table>
+      <tr><th>ドメイン</th><th class="num">助成額（億円）</th><th class="num">財団数</th><th class="num">プログラム数</th></tr>
+      <tr><td><span class="badge badge-blue">自然科学</span></td><td class="num">72.6</td><td class="num">45</td><td class="num">87</td></tr>
+      <tr><td><span class="badge badge-green">社会科学</span></td><td class="num">58.5</td><td class="num">97</td><td class="num">120</td></tr>
+      <tr><td><span class="badge badge-orange">工学</span></td><td class="num">36.3</td><td class="num">27</td><td class="num">49</td></tr>
+      <tr><td><span class="badge badge-purple">人文学</span></td><td class="num">13.9</td><td class="num">29</td><td class="num">19</td></tr>
+      <tr><td><span class="badge badge-red">芸術</span></td><td class="num">8.1</td><td class="num">16</td><td class="num">16</td></tr>
+      <tr style="font-weight:700"><td>未分類</td><td class="num">122.4</td><td class="num">41</td><td class="num">68</td></tr>
+    </table>
+  </div>
+  <div class="card">
+    <h4>L1分野別 配分額トップ10</h4>
+    <table>
+      <tr><th>分野</th><th class="num">億円</th><th>ドメイン</th></tr>
+      <tr><td>生物学</td><td class="num">57.5</td><td><span class="badge badge-blue">自然科学</span></td></tr>
+      <tr><td>医学</td><td class="num">52.6</td><td><span class="badge badge-blue">自然科学</span></td></tr>
+      <tr><td>教育学</td><td class="num">33.9</td><td><span class="badge badge-green">社会科学</span></td></tr>
+      <tr><td>国際関係</td><td class="num">19.6</td><td><span class="badge badge-green">社会科学</span></td></tr>
+      <tr><td>情報工学</td><td class="num">10.9</td><td><span class="badge badge-orange">工学</span></td></tr>
+      <tr><td>美学・芸術哲学</td><td class="num">10.7</td><td><span class="badge badge-purple">人文学</span></td></tr>
+      <tr><td>建築・土木工学</td><td class="num">10.4</td><td><span class="badge badge-orange">工学</span></td></tr>
+      <tr><td>社会福祉学</td><td class="num">10.4</td><td><span class="badge badge-green">社会科学</span></td></tr>
+      <tr><td>経済学</td><td class="num">9.2</td><td><span class="badge badge-green">社会科学</span></td></tr>
+      <tr><td>機械工学</td><td class="num">7.2</td><td><span class="badge badge-orange">工学</span></td></tr>
+    </table>
+  </div>
+</div>
+
+<div class="narrative">
+<p>
+注目すべきは、医学・生物学の2分野だけで110.1億円を占め、分野別配分額全体の68.1%に達している点である。社会科学は財団数（97）が最も多いが、1財団あたりの平均助成額は2.4億円で自然科学（3.8億円）の約6割にとどまる。工学は27財団で36.3億円を配分しているが、後述するように企業のDX・AI需要に対しては構造的に不足している。人文学（13.9億円）と芸術（8.1億円）は、両方を合わせても医学単独の約4分の1にすぎない。
+</p>
+</div>
+
+<h3>概念密度あたりの助成額：過剰・不足の指標</h3>
+
+<div class="narrative">
+<p>
+学術知識データベース（5分野・1,602概念）から各ドメインの概念数を取得し、「概念密度あたりの助成額」を算出した。この指標は、ある分野の学術的な広がり（研究テーマの多様性）に対して、助成金がどの程度行き渡っているかを示す。
+</p>
+</div>
+
+<div class="chart-container">
+  <canvas id="densityChart"></canvas>
+</div>
+
+<div class="narrative">
+<p>
+自然科学は1,062概念に対して72.6億円（1概念あたり684万円）と相対的に手厚い一方、芸術ドメインは145概念に対して8.1億円（1概念あたり559万円）しかない。しかし最も重要なのは、underfunded_ratio（概念数に対する助成額の不足度）が芸術（0.18）と自然科学（0.15）で高い点であり、特に生態学（1,049概念・助成実質ゼロ）が突出した資金不足分野であることが浮き彫りになった。
+</p>
+</div>
+</section>
+
+<!-- ======================= 3. GAP ANALYSIS ======================= -->
+<section id="gap">
+<h2>3. 4つの視点からのギャップ分析</h2>
+
+<!-- 3a Corporate -->
+<div id="gap-corp">
+<h3>3a. 企業R&Dニーズとのギャップ</h3>
+
+<div class="narrative">
+<p>
+sangaku-matcher DBに収録された3,872社の企業データから、中長期経営計画における野心分野（ambition narratives）と技術ニーズ（estimated_needs）を分析し、現在の企業財団研究助成との対応関係を検証した。産学連携の実態は140,104件の共著論文と98件の共同特許のデータに基づく。
+</p>
+<p>
+分析の結果、企業の最優先ニーズと助成金配分の間には深刻な乖離が存在することが判明した。企業が最も注力する「プラットフォーム事業・エコシステム構築」（12,804ナラティブ・3,676社）と「社会課題解決型事業」（12,437ナラティブ）には、対応する助成金分野自体が存在しない。これは、企業財団が設立母体企業のR&D戦略と連動していないことを示唆する構造的な問題である。
+</p>
+</div>
+
+<div class="chart-container">
+  <canvas id="corpGapChart"></canvas>
+</div>
+
+<div class="narrative">
+<p>
+唯一、助成が企業ニーズを上回る「過剰支援」領域は「ヘルスケア・医療・ライフサイエンス」であった。企業ニーズスコア47.3に対して助成スコアは100.0（110.1億円）で、ギャップスコアは+52.7と大幅な黒字である。一方で、DX推進（ギャップ-77.5）、先端技術・素材（ギャップ-65.3）、モビリティ・物流（ギャップ-62.4）、グリーン・脱炭素（ギャップ-56.1）はいずれも深刻な不足支援の状態にある。
+</p>
+<p>
+技術分野別では、DX・データ活用（5,048社）、AI・機械学習（6,059回言及）、ロボット・自動化（2,932回言及）が企業の中核ニーズであるが、これらに対応する情報工学の助成金は10.9億円・8財団にとどまり、医学・生物学の10分の1以下にすぎない。
+</p>
+</div>
+</div>
+
+<!-- 3b Foresight -->
+<div id="gap-future">
+<h3>3b. 未来洞察とのギャップ</h3>
+
+<div class="narrative">
+<p>
+未来洞察データベース（1,567の2030-2040年予測、2,755のシナリオ、40のトレンド）を用いて、今後10-15年で重要度が急上昇する分野を特定し、現在の助成配分との乖離を分析した。フォーサイトスコアは「予測件数 x 0.3 + 高信頼度予測 x 2.0 + シナリオ堅牢性 x 1.5」の加重式で算出している。
+</p>
+<p>
+結果は明確であった。未来重要度が最も高いAI・機械学習（スコア100.0）は、653件の予測と75件の高信頼度予測に支えられ、あらゆるシナリオで普遍的に重要とされている。しかし、助成シェアは4.31%に過ぎない。さらに注目すべきは、気候変動（スコア71.8）、人口動態（スコア58.4）、生物多様性（スコア55.0）、再生可能エネルギー（スコア54.2）が上位に並ぶにもかかわらず、これらの助成額がいずれもゼロであるという事実である。
+</p>
+</div>
+
+<div class="chart-container">
+  <canvas id="foresightChart"></canvas>
+</div>
+
+<div class="narrative">
+<p>
+未来洞察と助成配分のギャップが最大の分野は、気候変動（ギャップスコア71.8）、人口動態（58.4）、生物多様性（55.0）、再生可能エネルギー（54.2）、民主主義の未来（48.7）であった。これらはすべて、フォーサイトスコアが高いにもかかわらず助成金がゼロの「完全な空白地帯」である。一方、現在最大の助成分野である教育変革は、未来重要度（スコア43.7）に対して助成シェア（7.65%）が比較的充実しており、追加投資の効果は小さい。
+</p>
+<p>
+加速するメガトレンドとして「デジタルトランスフォーメーション」（291シナリオ言及）と「惑星の境界」（18シナリオ言及）が特定されており、これらに対応する分野への先行投資が、2030年代に向けた戦略的配分として重要である。
+</p>
+</div>
+</div>
+
+<!-- 3c Public Funding -->
+<div id="gap-public">
+<h3>3c. 公的資金とのギャップ</h3>
+
+<div class="narrative">
+<p>
+文部科学省・日本学術振興会の科研費データ（令和6年度・総額2,217億円）および内閣府の統合イノベーション戦略を分析し、公的資金が手薄な分野を特定した。科研費においては、人文学・社会科学関連が採択件数で23.0%を占めるにもかかわらず、配分額では14.5%（321億円）にとどまるという構造的な不平等が存在する。つまり、同じ採択数でも理系の研究者は人文系の数倍の資金を得ている。
+</p>
+</div>
+
+<div class="chart-container">
+  <canvas id="publicChart"></canvas>
+</div>
+
+<div class="narrative">
+<p>
+政府の科学技術投資はAI・量子・バイオ・グリーン・半導体に極端に集中しており、それぞれ数百億円から数千億円規模の予算が充当されている。こうした「最重点分野」への民間助成の追加は限界効果が低い。一方、科研費で構造的に不利な以下の分野は、民間助成の代替不可能性が最も高い。
+</p>
+</div>
+
+<div class="grid-2">
+  <div class="card">
+    <h4>科研費が手薄 x 民間助成も手薄な「二重の空白」</h4>
+    <table>
+      <tr><th>分野</th><th>深刻度</th><th>理由</th></tr>
+      <tr><td>文化人類学・地域研究</td><td><span class="badge badge-red">高</span></td><td>フィールドワーク経費が計上しにくい</td></tr>
+      <tr><td>哲学・倫理学</td><td><span class="badge badge-red">高</span></td><td>社会的インパクトが評価されにくい</td></tr>
+      <tr><td>芸術学・美学</td><td><span class="badge badge-red">高</span></td><td>論文数・引用数の指標に合わない</td></tr>
+      <tr><td>環境人文学</td><td><span class="badge badge-red">高</span></td><td>審査区分が未整備の新興分野</td></tr>
+      <tr><td>社会福祉学・障害学</td><td><span class="badge badge-orange">中高</span></td><td>縦割り行政の隙間に落ちる</td></tr>
+    </table>
+  </div>
+  <div class="card">
+    <h4>政府重点分野（民間の追加効果が小さい）</h4>
+    <table>
+      <tr><th>分野</th><th>政府投資</th><th>担当機関</th></tr>
+      <tr><td>AI・データ科学</td><td>数千億円規模</td><td>JST, NEDO</td></tr>
+      <tr><td>量子技術</td><td>数百億円規模</td><td>JST, NICT</td></tr>
+      <tr><td>バイオ・ライフサイエンス</td><td>数百億円規模</td><td>AMED</td></tr>
+      <tr><td>グリーンイノベーション</td><td>2,000億円以上/年</td><td>NEDO</td></tr>
+      <tr><td>半導体</td><td>数千億円規模</td><td>NEDO, 経産省</td></tr>
+    </table>
+  </div>
+</div>
+
+<div class="narrative">
+<p>
+この分析から導かれる最も重要な示唆は、民間助成は政府の重点分野に重ねて投資するのではなく、「政府が構造的にカバーできない分野」に集中すべきだということである。科研費では人文学・社会科学の1件あたり助成額が150万円と低く（理系の3分の1以下）、長期フィールドワークや当事者参加型研究を支えるには不十分である。この構造的な配分格差を民間助成が補完することこそ、最大の追加性（additionality）を生む。
+</p>
+</div>
+</div>
+
+<!-- 3d Academic Structure -->
+<div id="gap-academic">
+<h3>3d. 学術構造とのギャップ</h3>
+
+<div class="narrative">
+<p>
+学術知識データベース（5ドメイン・37 L1分野・103 L2サブフィールド・1,602概念）の構造データを用いて、学術的な研究の広がり（概念数・サブフィールド数）と助成配分の対応関係を分析した。概念数が多いにもかかわらず助成が少ない分野は「研究のフロンティアでありながら資金がない領域」と解釈できる。
+</p>
+</div>
+
+<div class="chart-container">
+  <canvas id="academicChart"></canvas>
+</div>
+
+<div class="narrative">
+<p>
+最も顕著な不均衡は生態学に見られる。生態学は1,049概念を擁する最大の知識領域であり、5つのL2サブフィールド（生態系生態学・群集生態学・個体群生態学・進化生態学・保全生態学）にわたる活発な研究が行われている。しかし、企業財団の助成は実質ゼロに近い。心理学（273概念・11 L2サブフィールド）も、助成額0.5億円と概念数に対して著しく不足している。
+</p>
+<p>
+芸術ドメイン全体の概念密度あたり助成額は17.8概念/億円で、全ドメイン中最も「薄い」資金配分となっている。デザイン（73概念・3 L2）、音楽（72概念・4 L2）は一定の概念数を持つが、助成は音楽3.4億円、デザインはゼロである。
+</p>
+<p>
+人文学では、文化人類学が44概念・6つのL2サブフィールド（医療人類学・象徴人類学・経済人類学・政治人類学・感覚物質文化研究・宗教人類学）を持つ、極めて豊かな知識体系であるにもかかわらず、専門の助成プログラムがほとんどないことが確認された。哲学も46概念・6 L2を擁するが、同様の状況にある。
+</p>
+</div>
+</div>
+</section>
+
+<!-- ======================= 4. INTEGRATED MATRIX ======================= -->
+<section id="matrix">
+<h2>4. 統合分析：最適配分マトリクス</h2>
+
+<div class="narrative">
+<p>
+4つの分析視点を統合するため、主要分野を以下の4軸でスコアリングした。各軸は0-10点で評価し、合計40点満点のランキングを作成した。スコアリング基準は以下のとおりである。
+</p>
+<ul style="margin: 12px 0 12px 24px; font-size: 14px;">
+<li><strong>企業ニーズ</strong>（0-10）: 産学連携データにおけるナラティブ数・言及数から正規化</li>
+<li><strong>未来重要度</strong>（0-10）: フォーサイトスコアを0-10スケールに変換</li>
+<li><strong>公的資金の空白</strong>（0-10）: 科研費配分の少なさ + 政府重点外の度合い</li>
+<li><strong>学術的成長性</strong>（0-10）: 概念密度 x underfunded_ratio（概念数に対する資金不足度）</li>
+</ul>
+</div>
+
+<div class="chart-container">
+  <canvas id="radarChart"></canvas>
+</div>
+
+<div class="card" style="overflow-x:auto">
+<h4>最適配分スコア 総合ランキング</h4>
+<table>
+<tr>
+<th>順位</th><th>分野</th>
+<th class="num">企業ニーズ</th><th class="num">未来重要度</th><th class="num">公的空白</th><th class="num">学術成長性</th>
+<th class="num">合計</th><th>判定</th>
+</tr>
+<tr><td>1</td><td><strong>気候変動・環境人文学</strong></td><td class="num">7.0</td><td class="num">9.0</td><td class="num">9.5</td><td class="num">8.0</td><td class="num"><strong>33.5</strong></td><td><span class="badge badge-red">最優先増額</span></td></tr>
+<tr><td>2</td><td><strong>AI倫理・テクノロジーガバナンス</strong></td><td class="num">9.5</td><td class="num">10.0</td><td class="num">6.5</td><td class="num">6.0</td><td class="num"><strong>32.0</strong></td><td><span class="badge badge-red">最優先増額</span></td></tr>
+<tr><td>3</td><td><strong>人口動態・コミュニティ研究</strong></td><td class="num">6.5</td><td class="num">7.5</td><td class="num">8.5</td><td class="num">7.5</td><td class="num"><strong>30.0</strong></td><td><span class="badge badge-red">最優先増額</span></td></tr>
+<tr><td>4</td><td><strong>生物多様性・保全生態学</strong></td><td class="num">5.5</td><td class="num">7.0</td><td class="num">8.0</td><td class="num">8.5</td><td class="num"><strong>29.0</strong></td><td><span class="badge badge-red">最優先増額</span></td></tr>
+<tr><td>5</td><td><strong>再生可能エネルギー・水素</strong></td><td class="num">8.0</td><td class="num">7.0</td><td class="num">5.0</td><td class="num">8.5</td><td class="num"><strong>28.5</strong></td><td><span class="badge badge-orange">優先増額</span></td></tr>
+<tr><td>6</td><td><strong>文化人類学・民族誌研究</strong></td><td class="num">3.0</td><td class="num">5.0</td><td class="num">10.0</td><td class="num">9.0</td><td class="num"><strong>27.0</strong></td><td><span class="badge badge-orange">優先増額</span></td></tr>
+<tr><td>7</td><td><strong>障害学・インクルーシブ研究</strong></td><td class="num">4.5</td><td class="num">5.5</td><td class="num">9.0</td><td class="num">7.0</td><td class="num"><strong>26.0</strong></td><td><span class="badge badge-orange">優先増額</span></td></tr>
+<tr><td>8</td><td><strong>メンタルヘルス・ウェルビーイング</strong></td><td class="num">5.0</td><td class="num">5.0</td><td class="num">7.5</td><td class="num">7.5</td><td class="num"><strong>25.0</strong></td><td><span class="badge badge-orange">優先増額</span></td></tr>
+<tr><td>9</td><td><strong>ロボティクス・自動化</strong></td><td class="num">8.5</td><td class="num">6.5</td><td class="num">3.5</td><td class="num">5.0</td><td class="num"><strong>23.5</strong></td><td><span class="badge badge-blue">増額検討</span></td></tr>
+<tr><td>10</td><td><strong>宇宙経済</strong></td><td class="num">7.0</td><td class="num">5.0</td><td class="num">5.5</td><td class="num">4.0</td><td class="num"><strong>21.5</strong></td><td><span class="badge badge-blue">増額検討</span></td></tr>
+<tr><td>--</td><td style="color:var(--text-secondary)">教育学（現状33.9億円）</td><td class="num">5.5</td><td class="num">5.5</td><td class="num">3.0</td><td class="num">3.0</td><td class="num">17.0</td><td><span class="badge badge-green">現状維持</span></td></tr>
+<tr><td>--</td><td style="color:var(--text-secondary)">医学・生物学（現状110.1億円）</td><td class="num">6.0</td><td class="num">5.0</td><td class="num">1.0</td><td class="num">4.0</td><td class="num">16.0</td><td><span class="badge badge-green">現状維持~減額</span></td></tr>
+</table>
+</div>
+
+<div class="chart-container">
+  <canvas id="scatterChart"></canvas>
+</div>
+
+<div class="narrative">
+<p>
+散布図は横軸に「現在の助成額」、縦軸に「統合スコア」をプロットしたものであり、左上の象限（助成額が少なく統合スコアが高い）に位置する分野が最も投資効果の高い領域である。気候変動・環境人文学、AI倫理、人口動態の3分野はいずれも助成額がゼロ近辺でありながら統合スコア30以上であり、民間助成のインパクトが最大となる。対照的に、医学・生物学は右下（助成額は大きいが統合スコアは中程度）に位置し、追加投資の限界効果が低いことが示されている。
+</p>
+</div>
+</section>
+
+<!-- ======================= 5. HYPOTHESES ======================= -->
+<section id="hypothesis">
+<h2>5. 仮説と提言</h2>
+
+<div class="narrative">
+<p>
+4つの分析視点の統合に基づき、以下の5つの仮説を提示する。各仮説は、企業ニーズ・未来洞察・公的資金の空白・学術的成長性の4つのエビデンスによって裏付けられている。
+</p>
+</div>
+
+<div class="hypothesis-card">
+<div class="h-title">仮説1：気候変動・環境人文学は民間助成の最優先投資先である</div>
+<p>
+気候変動は2030-2040年のあらゆる未来シナリオで最重要課題として繰り返し言及される（フォーサイトスコア71.8・82シナリオ言及）。しかし、技術的な脱炭素ソリューションには政府が年間2,000億円以上を投じる一方で、気候変動の社会文化的影響、人間行動の変容、制度設計に関する人文社会科学的研究への公的資金はほぼゼロであり、民間助成も同様にゼロである。企業側では3,300社以上がグリーン・脱炭素を中長期的野心に掲げ、25,162のナラティブが確認されている。技術だけでは社会変容は起きない。行動変容・文化変容・制度設計の研究こそ、民間助成が「唯一の資金源」となりうる分野である。
+</p>
+<div class="evidence">
+<strong>4つのエビデンス:</strong>
+<ul>
+<li>企業ニーズ: グリーン・脱炭素ナラティブ25,162件（3,300社以上）</li>
+<li>未来洞察: フォーサイトスコア71.8（3位）、ギャップスコア71.8（1位）</li>
+<li>公的資金: グリーンイノベーション基金2兆円は技術側のみ。人文側はゼロ</li>
+<li>学術構造: 生態学1,049概念（最大の知識領域）に対し助成実質ゼロ</li>
+</ul>
+</div>
+</div>
+
+<div class="hypothesis-card">
+<div class="h-title">仮説2：AI倫理・テクノロジーガバナンス研究への投資は企業の長期競争力に直結する</div>
+<p>
+AI・機械学習はフォーサイトスコア100.0で未来重要度の頂点に立ち、719のシナリオで横断的に言及される。企業側でも9,745のナラティブ（3,446社）がAI活用を野心分野に掲げている。しかし、現在の助成10.9億円は技術開発そのものに向けられており、AIがもたらす倫理的・社会的課題（偽情報、雇用置換、監視、バイアス）を研究する哲学・倫理学への資金は実質的に存在しない。政府はAI戦略に数千億円を投じるが、その大半は技術実装側であり、哲学・倫理学研究者への配分は限定的である。科研費でも哲学・倫理学は「社会的インパクトが見えにくい」として採択されにくい。この分野への民間助成は、企業のAIガバナンス体制構築とも直接的に結びつくため、企業財団にとって戦略的意義が高い。
+</p>
+<div class="evidence">
+<strong>4つのエビデンス:</strong>
+<ul>
+<li>企業ニーズ: AI関連ナラティブ9,745件、estimated_needs言及6,059回</li>
+<li>未来洞察: フォーサイトスコア100.0（1位）、AI有害結果・偽情報もトレンド入り</li>
+<li>公的資金: AI戦略数千億円はほぼ技術側。哲学・倫理学への配分は「構造的に少ない」</li>
+<li>学術構造: 倫理学54概念・認識論13概念が存在するが専門助成なし</li>
+</ul>
+</div>
+</div>
+
+<div class="hypothesis-card">
+<div class="h-title">仮説3：人口動態・農村コミュニティ研究は日本固有の「先取り」投資先である</div>
+<p>
+人口動態はフォーサイトスコア58.4で5位に位置し、29の2030-2040年予測と8件の高信頼度予測に支えられている。日本は世界に先駆けて人口減少・超高齢化・集落消滅に直面しており、その社会科学的研究は国際的にも貴重な知見を生む可能性がある。しかし、人口動態研究への助成金はゼロであり、科研費でも農村社会学・地域コミュニティ研究は「区分が曖昧」「大型化しにくい」として手薄である。企業側では「地域・まちづくり・生活統合サービス」に26,529のナラティブが確認され、フランチャイズ・全国展開（10,317ナラティブ）への関心も高い。地域の人口動態研究は、企業の地域事業戦略にも直結する実践的知見を提供する。
+</p>
+<div class="evidence">
+<strong>4つのエビデンス:</strong>
+<ul>
+<li>企業ニーズ: 地域・まちづくりナラティブ26,529件、後継者育成8,106件</li>
+<li>未来洞察: フォーサイトスコア58.4（5位）、全シナリオ共通の基盤要因</li>
+<li>公的資金: 地方創生は実践優先。学術的研究への配分は少ない</li>
+<li>学術構造: 心理学273概念に対し助成0.5億円、社会学は概念・助成ともに不足</li>
+</ul>
+</div>
+</div>
+
+<div class="hypothesis-card">
+<div class="h-title">仮説4：生物多様性・保全生態学は「惑星リスク」に対応する唯一の知識基盤である</div>
+<p>
+生物多様性はフォーサイトスコア55.0（8位）であり、75件の予測と12件の高信頼度予測に支えられている。学術知識データベースにおいて生態学は1,049概念を擁する最大の知識領域であり、生態系生態学（104概念）、群集生態学（172概念）、進化生態学（148概念）、保全生態学（74概念）と多様なサブフィールドが活発に展開されている。にもかかわらず、企業財団の助成は実質ゼロである。企業側では「自然に基づく解決策（NbS）の主流化」が加速トレンドとして認識されており、食料安全保障（フォーサイトスコア38.6）やスマート農業（8,165ナラティブ）との接続性も高い。
+</p>
+<div class="evidence">
+<strong>4つのエビデンス:</strong>
+<ul>
+<li>企業ニーズ: スマート農業8,165ナラティブ、食料サプライチェーン関連3,134社</li>
+<li>未来洞察: フォーサイトスコア55.0、「惑星の境界」メガトレンド、NbSトレンド</li>
+<li>公的資金: 環境科学の助成実績ゼロ。グリーンイノベーション基金は技術のみ</li>
+<li>学術構造: 1,049概念（5ドメイン中最大の単一分野）。underfunded_ratio 0.15</li>
+</ul>
+</div>
+</div>
+
+<div class="hypothesis-card">
+<div class="h-title">仮説5：再生可能エネルギー・水素・エネルギー貯蔵研究は技術実装の隙間を埋める</div>
+<p>
+再生可能エネルギーはフォーサイトスコア54.2（9位）であり、16件の高信頼度予測に支えられている。助成金は完全にゼロであり、「エネルギー貯蔵・水素」もわずか3,000万円にとどまる。政府のグリーンイノベーション基金（2兆円規模）は大規模な技術実証に焦点を当てているが、基礎研究段階の再生可能エネルギー研究や、社会実装に必要なコミュニティ受容性研究には資金が回っていない。企業側では再エネ事業参入（9,418ナラティブ・3,331社）と脱炭素製品開発（8,087ナラティブ）が上位に位置しており、基礎研究と社会実装のギャップを埋める民間助成の役割は大きい。
+</p>
+<div class="evidence">
+<strong>4つのエビデンス:</strong>
+<ul>
+<li>企業ニーズ: 再エネ事業参入9,418ナラティブ、脱炭素製品8,087ナラティブ</li>
+<li>未来洞察: フォーサイトスコア54.2、エネルギー貯蔵革命がトレンド入り</li>
+<li>公的資金: GI基金は技術実証中心。基礎研究・社会受容性研究は手薄</li>
+<li>学術構造: 環境・エネルギー工学に再生可能エネルギー（L2・3概念）あり</li>
+</ul>
+</div>
+</div>
+
+<h3>現在の配分で適切な分野</h3>
+<div class="narrative">
+<p>
+以下の分野は、現在の助成配分水準が4軸スコアに照らして妥当であると判断される。
+</p>
+<ul style="margin: 8px 0 8px 24px;">
+<li><strong>教育学</strong>（33.9億円・54財団）: 企業の人的資本経営ニーズ（ギャップスコア-24.6）とも一定の対応関係があり、未来洞察でも教育変革は上位に位置する。ただし、追加投資の限界効果は小さくなりつつある。</li>
+<li><strong>国際関係</strong>（19.6億円・24財団）: 地政学的緊張（フォーサイトスコア85.7・42.2）への対応として適切な水準。</li>
+<li><strong>経済学</strong>（9.2億円・6財団）: 金融イノベーション・マクロ経済の未来重要度に対して概ね適切。</li>
+</ul>
+</div>
+
+<h3>過剰配分の可能性がある分野</h3>
+<div class="narrative">
+<p>
+<strong>医学・生物学</strong>（合計110.1億円）は、4軸スコアが16.0と相対的に低い。これは、公的資金（科研費23.5%・521億円 + AMED 1,000億円以上）が極めて手厚いため、民間助成の追加性が低いことに起因する。企業ニーズスコア（47.3）は決して低くないが、助成スコア（100.0）との間に+52.7の過剰支援ギャップが存在する。全助成を医学・生物学から引き剥がす必要はないが、10-20%（11-22億円）を上記の空白分野にリバランスすることで、全体のインパクトは大幅に向上する可能性がある。
+</p>
+</div>
+</section>
+
+<!-- ======================= 6. METHODOLOGY ======================= -->
+<section id="method">
+<h2>6. 方法論と限界</h2>
+
+<div class="narrative">
+<h3>データソース</h3>
+<p>
+本レポートは以下の4つの分析データを統合して作成された。
+</p>
+<ul style="margin: 8px 0 8px 24px; font-size: 14px;">
+<li><strong>学術分野構造分析</strong>: 学術知識データベース（5ドメイン・37 L1分野・103 L2分野・1,602概念）による分野構造マッピング</li>
+<li><strong>企業R&Dニーズ分析</strong>: sangaku-matcher DB（3,872社・140,104共著論文・98共同特許）によるニーズ-助成ギャップ算出</li>
+<li><strong>未来洞察分析</strong>: 未来予測データベース（1,567予測・2,755シナリオ・40トレンド）によるフォーサイトスコアリング</li>
+<li><strong>公的資金分析</strong>: 科研費（R6年度・2,217億円）、統合イノベーション戦略2024、ムーンショット目標、GI基金等</li>
+<li><strong>助成金分析</strong>: 189企業財団・352プログラム・284.1億円の学術分野別マッピング</li>
+</ul>
+
+<h3>統合スコアリング手法</h3>
+<p>
+4軸の各スコアは、元データの正規化値（多くの場合0-100スケール）を0-10に線形変換して算出した。ただし、公的資金の空白スコアは定量データと定性評価（科研費の採択構造、政府戦略リストへの掲載有無）を組み合わせた半定量的な評価である。各軸の重みは均等（各10点・合計40点）としたが、政策目的によっては企業ニーズや公的空白に重みを付ける設計も考えられる。
+</p>
+
+<h3>主要な限界</h3>
+<ul style="margin: 8px 0 8px 24px; font-size: 14px;">
+<li><strong>未分類助成金の大きさ</strong>: 284.1億円のうち122.4億円（43.1%）は特定分野に分類できず、分野別分析は161.7億円を対象としている。未分類の内訳次第で結論が変わる可能性がある。</li>
+<li><strong>特許データの不在</strong>: 企業の技術ニーズ分析はIPC特許データが未収集のため、estimated_needsキーワード頻度で代替している。特許分析が加わることで、より精密な技術ニーズマッピングが可能になる。</li>
+<li><strong>概念数の偏り</strong>: 学術知識DBの概念数は分野によって収集進捗が異なる。生態学1,049概念に対し工学の多くの分野は概念数ゼロであり、これはデータ未収集を反映している。</li>
+<li><strong>因果関係の限界</strong>: 助成配分のギャップと研究成果の関係は相関であり、「ここに投資すれば成果が出る」という因果を直接示すものではない。</li>
+<li><strong>フォーサイトの不確実性</strong>: 未来予測は本質的に不確実であり、高信頼度予測であっても実現しない可能性がある。シナリオ堅牢性（複数シナリオでの言及頻度）で一定の補正を行っているが、限界がある。</li>
+</ul>
+</div>
+</section>
+
+</div><!-- /container -->
+
+<footer>
+<div class="container">
+NPO法人ミラツク | 民間助成最適配分仮説レポート | 2026年4月21日<br>
+データソース: 学術知識DB, sangaku-matcher DB, 未来予測DB, 科研費公開データ, 助成金DB（189財団）
+</div>
+</footer>
+
+<script>
+// Color palette
+const COLORS = {
+  accent: '#783c28',
+  accentLight: '#a0593d',
+  blue: '#3d5a80',
+  green: '#4a7c59',
+  orange: '#c27a3a',
+  purple: '#6b4c8a',
+  red: '#a04040',
+  grey: '#999',
+};
+const DOMAIN_COLORS = ['#3d5a80','#4a7c59','#c27a3a','#6b4c8a','#a04040','#999'];
+
+// Chart defaults
+Chart.defaults.font.family = '"Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif';
+Chart.defaults.font.size = 12;
+Chart.defaults.color = '#5c4f46';
+
+// 1. Domain Distribution Bar Chart
+new Chart(document.getElementById('domainChart'), {
+  type: 'bar',
+  data: {
+    labels: ['自然科学', '社会科学', '工学', '人文学', '芸術', '未分類'],
+    datasets: [{
+      label: '助成額（億円）',
+      data: [72.6, 58.5, 36.3, 13.9, 8.1, 122.4],
+      backgroundColor: DOMAIN_COLORS,
+      borderRadius: 4,
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { display: false },
+      title: { display: true, text: '企業財団研究助成 ドメイン別配分額（億円）', font: { size: 14, weight: 'bold' }, color: '#2d2520' }
+    },
+    scales: {
+      y: { title: { display: true, text: '億円' }, grid: { color: '#e4dcd4' } },
+      x: { grid: { display: false } }
+    }
+  }
+});
+
+// 2. Concept Density Chart
+new Chart(document.getElementById('densityChart'), {
+  type: 'bar',
+  data: {
+    labels: ['自然科学\n(1,062概念)', '社会科学\n(279概念)', '芸術\n(145概念)', '人文学\n(116概念)', '工学\n(0概念*)'],
+    datasets: [
+      {
+        label: '助成額（億円）',
+        data: [72.6, 58.5, 8.1, 13.9, 36.3],
+        backgroundColor: '#3d5a80',
+        borderRadius: 4,
+        yAxisID: 'y'
+      },
+      {
+        label: '概念密度（概念/億円）',
+        data: [14.6, 4.8, 17.8, 8.4, 0],
+        backgroundColor: '#c27a3a',
+        borderRadius: 4,
+        yAxisID: 'y1'
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      title: { display: true, text: '概念密度あたりの助成額（*工学は概念データ未収集）', font: { size: 14, weight: 'bold' }, color: '#2d2520' }
+    },
+    scales: {
+      y: { position: 'left', title: { display: true, text: '億円' }, grid: { color: '#e4dcd4' } },
+      y1: { position: 'right', title: { display: true, text: '概念/億円' }, grid: { display: false } },
+      x: { grid: { display: false } }
+    }
+  }
+});
+
+// 3. Corporate Gap Chart
+new Chart(document.getElementById('corpGapChart'), {
+  type: 'bar',
+  data: {
+    labels: [
+      '新規事業創出', 'DX推進', '先端技術・素材', 'モビリティ・物流',
+      'グリーン・脱炭素', '地域・まちづくり', 'グローバル展開',
+      '人的資本', '金融・Fintech', 'ヘルスケア・医療'
+    ],
+    datasets: [
+      {
+        label: '企業ニーズスコア',
+        data: [100, 87.4, 76.2, 78.4, 56.1, 59.2, 51.7, 55.4, 24.8, 47.3],
+        backgroundColor: '#783c28',
+        borderRadius: 4,
+      },
+      {
+        label: '助成スコア',
+        data: [0, 9.9, 10.9, 16.0, 0, 11.6, 17.8, 30.8, 8.4, 100],
+        backgroundColor: '#3d5a80',
+        borderRadius: 4,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    indexAxis: 'y',
+    plugins: {
+      title: { display: true, text: '企業ニーズ vs 助成配分スコア（正規化0-100）', font: { size: 14, weight: 'bold' }, color: '#2d2520' }
+    },
+    scales: {
+      x: { title: { display: true, text: 'スコア（0-100）' }, grid: { color: '#e4dcd4' } },
+      y: { grid: { display: false } }
+    }
+  }
+});
+
+// 4. Foresight Gap Chart
+new Chart(document.getElementById('foresightChart'), {
+  type: 'bar',
+  data: {
+    labels: [
+      '気候変動', '人口動態', '生物多様性', '再エネ', '民主主義',
+      'AI・ML', 'パンデミック', '宇宙経済', 'エネルギー貯蔵', 'メンタルヘルス'
+    ],
+    datasets: [
+      {
+        label: 'フォーサイト重要度',
+        data: [71.8, 58.4, 55.0, 54.2, 48.7, 100.0, 49.5, 36.2, 36.5, 38.5],
+        backgroundColor: '#783c28',
+        borderRadius: 4,
+      },
+      {
+        label: '助成シェア(%)',
+        data: [0, 0, 0, 0, 0, 4.31, 0.16, 0, 0.12, 0.20],
+        backgroundColor: '#3d5a80',
+        borderRadius: 4,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      title: { display: true, text: '未来重要度 vs 現在の助成シェア（ギャップが大きい順）', font: { size: 14, weight: 'bold' }, color: '#2d2520' }
+    },
+    scales: {
+      y: { title: { display: true, text: 'スコア / %' }, grid: { color: '#e4dcd4' } },
+      x: { grid: { display: false } }
+    }
+  }
+});
+
+// 5. Public Funding Chart
+new Chart(document.getElementById('publicChart'), {
+  type: 'bar',
+  data: {
+    labels: ['医・歯学', '人文・社会', '数物系', '工学', '化学', '総合工学', '生物学', '農学', '獣医・薬学', '複合新領域'],
+    datasets: [
+      {
+        label: '科研費配分シェア(%)',
+        data: [23.5, 14.5, 10.3, null, null, null, null, null, null, null],
+        backgroundColor: '#3d5a80',
+        borderRadius: 4,
+      },
+      {
+        label: '採択件数シェア(%)',
+        data: [33.0, 23.0, null, 7.4, null, null, null, null, null, null],
+        backgroundColor: '#c27a3a',
+        borderRadius: 4,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      title: { display: true, text: '科研費の分野別配分（令和6年度・2,217億円）', font: { size: 14, weight: 'bold' }, color: '#2d2520' },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            if (ctx.raw === null) return ctx.dataset.label + ': データなし';
+            return ctx.dataset.label + ': ' + ctx.raw + '%';
+          }
+        }
+      }
+    },
+    scales: {
+      y: { title: { display: true, text: '%' }, grid: { color: '#e4dcd4' } },
+      x: { grid: { display: false } }
+    }
+  }
+});
+
+// 6. Academic Structure Chart
+new Chart(document.getElementById('academicChart'), {
+  type: 'bubble',
+  data: {
+    datasets: [
+      {
+        label: '生態学',
+        data: [{ x: 0, y: 1049, r: 20 }],
+        backgroundColor: 'rgba(74,124,89,0.6)',
+        borderColor: '#4a7c59'
+      },
+      {
+        label: '心理学',
+        data: [{ x: 0.5, y: 273, r: 14 }],
+        backgroundColor: 'rgba(107,76,138,0.6)',
+        borderColor: '#6b4c8a'
+      },
+      {
+        label: '音楽',
+        data: [{ x: 3.4, y: 72, r: 8 }],
+        backgroundColor: 'rgba(160,64,64,0.6)',
+        borderColor: '#a04040'
+      },
+      {
+        label: 'デザイン',
+        data: [{ x: 0, y: 73, r: 8 }],
+        backgroundColor: 'rgba(194,122,58,0.6)',
+        borderColor: '#c27a3a'
+      },
+      {
+        label: '哲学',
+        data: [{ x: 0, y: 46, r: 7 }],
+        backgroundColor: 'rgba(120,60,40,0.6)',
+        borderColor: '#783c28'
+      },
+      {
+        label: '文化人類学',
+        data: [{ x: 0, y: 44, r: 7 }],
+        backgroundColor: 'rgba(61,90,128,0.6)',
+        borderColor: '#3d5a80'
+      },
+      {
+        label: '言語学',
+        data: [{ x: 0, y: 26, r: 6 }],
+        backgroundColor: 'rgba(150,150,150,0.6)',
+        borderColor: '#999'
+      },
+      {
+        label: '物理学',
+        data: [{ x: 2.7, y: 13, r: 5 }],
+        backgroundColor: 'rgba(61,90,128,0.4)',
+        borderColor: '#3d5a80'
+      },
+      {
+        label: '医学',
+        data: [{ x: 52.6, y: 0, r: 18 }],
+        backgroundColor: 'rgba(61,90,128,0.3)',
+        borderColor: '#3d5a80'
+      },
+      {
+        label: '生物学',
+        data: [{ x: 57.5, y: 15, r: 16 }],
+        backgroundColor: 'rgba(74,124,89,0.3)',
+        borderColor: '#4a7c59'
+      },
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      title: { display: true, text: '概念数 vs 助成額（バブルサイズ=相対的規模）', font: { size: 14, weight: 'bold' }, color: '#2d2520' },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            return ctx.dataset.label + ': 助成' + ctx.raw.x + '億円, ' + ctx.raw.y + '概念';
+          }
+        }
+      }
+    },
+    scales: {
+      x: { title: { display: true, text: '助成額（億円）' }, grid: { color: '#e4dcd4' } },
+      y: { title: { display: true, text: '概念数' }, grid: { color: '#e4dcd4' } }
+    }
+  }
+});
+
+// 7. Radar Chart for top 5 fields
+new Chart(document.getElementById('radarChart'), {
+  type: 'radar',
+  data: {
+    labels: ['企業ニーズ', '未来重要度', '公的資金の空白', '学術的成長性'],
+    datasets: [
+      {
+        label: '気候変動・環境人文学',
+        data: [7.0, 9.0, 9.5, 8.0],
+        borderColor: '#4a7c59',
+        backgroundColor: 'rgba(74,124,89,0.15)',
+        borderWidth: 2,
+        pointRadius: 4,
+      },
+      {
+        label: 'AI倫理・テクノロジーガバナンス',
+        data: [9.5, 10.0, 6.5, 6.0],
+        borderColor: '#3d5a80',
+        backgroundColor: 'rgba(61,90,128,0.15)',
+        borderWidth: 2,
+        pointRadius: 4,
+      },
+      {
+        label: '人口動態・コミュニティ研究',
+        data: [6.5, 7.5, 8.5, 7.5],
+        borderColor: '#c27a3a',
+        backgroundColor: 'rgba(194,122,58,0.15)',
+        borderWidth: 2,
+        pointRadius: 4,
+      },
+      {
+        label: '生物多様性・保全生態学',
+        data: [5.5, 7.0, 8.0, 8.5],
+        borderColor: '#6b4c8a',
+        backgroundColor: 'rgba(107,76,138,0.15)',
+        borderWidth: 2,
+        pointRadius: 4,
+      },
+      {
+        label: '再生可能エネルギー・水素',
+        data: [8.0, 7.0, 5.0, 8.5],
+        borderColor: '#a04040',
+        backgroundColor: 'rgba(160,64,64,0.15)',
+        borderWidth: 2,
+        pointRadius: 4,
+      },
+      {
+        label: '医学・生物学（参考: 現状110億円）',
+        data: [6.0, 5.0, 1.0, 4.0],
+        borderColor: '#999',
+        backgroundColor: 'rgba(150,150,150,0.08)',
+        borderWidth: 1,
+        borderDash: [5, 5],
+        pointRadius: 3,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      title: { display: true, text: 'トップ5推奨分野の4軸プロファイル', font: { size: 14, weight: 'bold' }, color: '#2d2520' }
+    },
+    scales: {
+      r: {
+        min: 0, max: 10,
+        ticks: { stepSize: 2 },
+        grid: { color: '#e4dcd4' },
+        pointLabels: { font: { size: 13, weight: 'bold' } }
+      }
+    }
+  }
+});
+
+// 8. Scatter Chart (grant amount vs integrated score)
+new Chart(document.getElementById('scatterChart'), {
+  type: 'scatter',
+  data: {
+    datasets: [
+      {
+        label: '最優先増額',
+        data: [
+          { x: 0, y: 33.5, label: '気候変動・環境人文学' },
+          { x: 0, y: 32.0, label: 'AI倫理' },
+          { x: 0, y: 30.0, label: '人口動態' },
+          { x: 0, y: 29.0, label: '生物多様性' },
+          { x: 0, y: 28.5, label: '再生可能エネルギー' },
+        ],
+        backgroundColor: '#a04040',
+        pointRadius: 8,
+        pointHoverRadius: 10,
+      },
+      {
+        label: '優先増額',
+        data: [
+          { x: 0, y: 27.0, label: '文化人類学' },
+          { x: 0, y: 26.0, label: '障害学' },
+          { x: 0.5, y: 25.0, label: 'メンタルヘルス' },
+        ],
+        backgroundColor: '#c27a3a',
+        pointRadius: 7,
+        pointHoverRadius: 9,
+      },
+      {
+        label: '増額検討',
+        data: [
+          { x: 7.2, y: 23.5, label: 'ロボティクス' },
+          { x: 0, y: 21.5, label: '宇宙経済' },
+        ],
+        backgroundColor: '#3d5a80',
+        pointRadius: 6,
+        pointHoverRadius: 8,
+      },
+      {
+        label: '現状維持~減額',
+        data: [
+          { x: 33.9, y: 17.0, label: '教育学' },
+          { x: 110.1, y: 16.0, label: '医学・生物学' },
+          { x: 19.6, y: 17.5, label: '国際関係' },
+        ],
+        backgroundColor: '#4a7c59',
+        pointRadius: 6,
+        pointHoverRadius: 8,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      title: { display: true, text: '現在の助成額 vs 統合スコア（左上=投資効果最大）', font: { size: 14, weight: 'bold' }, color: '#2d2520' },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            const d = ctx.raw;
+            return (d.label || '') + ': 助成' + d.x + '億円, スコア' + d.y;
+          }
+        }
+      }
+    },
+    scales: {
+      x: { title: { display: true, text: '現在の助成額（億円）' }, grid: { color: '#e4dcd4' }, min: -5 },
+      y: { title: { display: true, text: '統合スコア（40点満点）' }, grid: { color: '#e4dcd4' }, min: 10, max: 40 }
+    }
+  }
+});
+</script>
+
+</body>
+</html>

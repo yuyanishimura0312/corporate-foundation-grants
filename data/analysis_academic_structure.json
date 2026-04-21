@@ -1,0 +1,995 @@
+{
+  "fields": [
+    {
+      "name": "デザイン",
+      "name_en": "Design",
+      "domain": "arts_question",
+      "concepts": 73,
+      "subfield_count": 3,
+      "subfields": [
+        {
+          "name": "インタラクション・UXデザイン",
+          "name_en": "Interaction & UX Design",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "社会デザイン・トランジションデザイン",
+          "name_en": "Social & Transition Design",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "グラフィック・タイポグラフィ",
+          "name_en": "Graphic Design & Typography",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "メディアアート・デジタル表現",
+      "name_en": "Media Art & Digital Expression",
+      "domain": "arts_question",
+      "concepts": 0,
+      "subfield_count": 2,
+      "subfields": [
+        {
+          "name": "インタラクティブアート・ネットアート",
+          "name_en": "Interactive & Net Art",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "ニューメディア理論",
+          "name_en": "New Media Theory",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "建築デザイン",
+      "name_en": "Architectural Design",
+      "domain": "arts_question",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "映像・映画",
+      "name_en": "Film & Moving Image",
+      "domain": "arts_question",
+      "concepts": 0,
+      "subfield_count": 2,
+      "subfields": [
+        {
+          "name": "映画理論・批評",
+          "name_en": "Film Theory & Criticism",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "アニメーション・ゲーム研究",
+          "name_en": "Animation & Game Studies",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "演劇・パフォーマンス",
+      "name_en": "Theatre & Performance",
+      "domain": "arts_question",
+      "concepts": 0,
+      "subfield_count": 2,
+      "subfields": [
+        {
+          "name": "パフォーマンス理論",
+          "name_en": "Performance Theory",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "ダンス・動作研究",
+          "name_en": "Dance & Movement Studies",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "美術・視覚芸術",
+      "name_en": "Visual Arts",
+      "domain": "arts_question",
+      "concepts": 0,
+      "subfield_count": 4,
+      "subfields": [
+        {
+          "name": "現代美術",
+          "name_en": "Contemporary Art",
+          "concepts": 0,
+          "l3_count": 4
+        },
+        {
+          "name": "写真・映像アート",
+          "name_en": "Photography & Video Art",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "絵画・版画",
+          "name_en": "Painting & Printmaking",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "彫刻・立体造形",
+          "name_en": "Sculpture & 3D Arts",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "芸術理論・批評",
+      "name_en": "Art Theory & Criticism",
+      "domain": "arts_question",
+      "concepts": 0,
+      "subfield_count": 3,
+      "subfields": [
+        {
+          "name": "ポスト構造主義・批判理論的批評",
+          "name_en": "Post-Structuralist & Critical Theory",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "フェミニスト・クィア・批評",
+          "name_en": "Feminist & Queer Art Criticism",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "マテリアル・感覚的転回",
+          "name_en": "Material & Sensory Turn",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "音楽",
+      "name_en": "Music",
+      "domain": "arts_question",
+      "concepts": 72,
+      "subfield_count": 4,
+      "subfields": [
+        {
+          "name": "音楽理論・作曲",
+          "name_en": "Music Theory & Composition",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "音楽学・音楽史",
+          "name_en": "Musicology & Music History",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "民族音楽学・世界音楽",
+          "name_en": "Ethnomusicology & World Music",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "ポピュラー音楽研究",
+          "name_en": "Popular Music Studies",
+          "concepts": 0,
+          "l3_count": 3
+        }
+      ]
+    },
+    {
+      "name": "システム工学・制御工学",
+      "name_en": "Systems & Control Engineering",
+      "domain": "engineering_method",
+      "concepts": 0,
+      "subfield_count": 3,
+      "subfields": [
+        {
+          "name": "制御理論",
+          "name_en": "Control Theory",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "ロボティクス・自律システム",
+          "name_en": "Robotics & Autonomous Systems",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "オペレーションズ・リサーチ",
+          "name_en": "Operations Research",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "バイオエンジニアリング",
+      "name_en": "Bioengineering",
+      "domain": "engineering_method",
+      "concepts": 0,
+      "subfield_count": 3,
+      "subfields": [
+        {
+          "name": "合成生物学",
+          "name_en": "Synthetic Biology",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "バイオインフォマティクス",
+          "name_en": "Bioinformatics",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "組織工学・再生医療",
+          "name_en": "Tissue Engineering & Regenerative Medicine",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "化学工学",
+      "name_en": "Chemical Engineering",
+      "domain": "engineering_method",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "建築・土木工学",
+      "name_en": "Architecture & Civil Engineering",
+      "domain": "engineering_method",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "情報工学・コンピュータ科学",
+      "name_en": "Computer Science & Engineering",
+      "domain": "engineering_method",
+      "concepts": 0,
+      "subfield_count": 7,
+      "subfields": [
+        {
+          "name": "機械学習・AI",
+          "name_en": "Machine Learning & AI",
+          "concepts": 0,
+          "l3_count": 6
+        },
+        {
+          "name": "アルゴリズム・計算理論",
+          "name_en": "Algorithms & Theory",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "ソフトウェア工学",
+          "name_en": "Software Engineering",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "データベース・情報検索",
+          "name_en": "Databases & Information Retrieval",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "HCI・インタラクション設計",
+          "name_en": "HCI & Interaction Design",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "セキュリティ・暗号理論",
+          "name_en": "Security & Cryptography",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "ネットワーク・分散システム",
+          "name_en": "Networks & Distributed Systems",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "機械工学",
+      "name_en": "Mechanical Engineering",
+      "domain": "engineering_method",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "環境・エネルギー工学",
+      "name_en": "Environmental & Energy Engineering",
+      "domain": "engineering_method",
+      "concepts": 0,
+      "subfield_count": 2,
+      "subfields": [
+        {
+          "name": "再生可能エネルギー",
+          "name_en": "Renewable Energy",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "廃水・廃棄物処理",
+          "name_en": "Water & Waste Treatment",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "電気・電子工学",
+      "name_en": "Electrical & Electronic Engineering",
+      "domain": "engineering_method",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "哲学",
+      "name_en": "Philosophy",
+      "domain": "humanities_concept",
+      "concepts": 46,
+      "subfield_count": 6,
+      "subfields": [
+        {
+          "name": "存在論・形而上学",
+          "name_en": "Ontology & Metaphysics",
+          "concepts": 0,
+          "l3_count": 4
+        },
+        {
+          "name": "認識論",
+          "name_en": "Epistemology",
+          "concepts": 13,
+          "l3_count": 4
+        },
+        {
+          "name": "倫理学",
+          "name_en": "Ethics",
+          "concepts": 54,
+          "l3_count": 5
+        },
+        {
+          "name": "言語哲学",
+          "name_en": "Philosophy of Language",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "政治哲学",
+          "name_en": "Political Philosophy",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "大陸哲学",
+          "name_en": "Continental Philosophy",
+          "concepts": 0,
+          "l3_count": 3
+        }
+      ]
+    },
+    {
+      "name": "宗教学・宗教哲学",
+      "name_en": "Religious Studies",
+      "domain": "humanities_concept",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "文化人類学",
+      "name_en": "Cultural Anthropology",
+      "domain": "humanities_concept",
+      "concepts": 44,
+      "subfield_count": 6,
+      "subfields": [
+        {
+          "name": "医療人類学",
+          "name_en": "Medical Anthropology",
+          "concepts": 37,
+          "l3_count": 3
+        },
+        {
+          "name": "象徴人類学",
+          "name_en": "Symbolic Anthropology",
+          "concepts": 0,
+          "l3_count": 31
+        },
+        {
+          "name": "経済人類学",
+          "name_en": "Economic Anthropology",
+          "concepts": 27,
+          "l3_count": 13
+        },
+        {
+          "name": "政治人類学",
+          "name_en": "Political Anthropology",
+          "concepts": 24,
+          "l3_count": 14
+        },
+        {
+          "name": "感覚・物質文化研究",
+          "name_en": "Sensory & Material Culture Studies",
+          "concepts": 0,
+          "l3_count": 13
+        },
+        {
+          "name": "宗教人類学",
+          "name_en": "Anthropology of Religion",
+          "concepts": 13,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "文学・文芸批評",
+      "name_en": "Literary Studies",
+      "domain": "humanities_concept",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "歴史学",
+      "name_en": "History",
+      "domain": "humanities_concept",
+      "concepts": 0,
+      "subfield_count": 4,
+      "subfields": [
+        {
+          "name": "社会史・文化史",
+          "name_en": "Social & Cultural History",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "グローバル史・世界史",
+          "name_en": "Global & World History",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "歴史理論・史学史",
+          "name_en": "Theory of History & Historiography",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "ポストコロニアル史",
+          "name_en": "Postcolonial History",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "美学・芸術哲学",
+      "name_en": "Aesthetics & Philosophy of Art",
+      "domain": "humanities_concept",
+      "concepts": 0,
+      "subfield_count": 3,
+      "subfields": [
+        {
+          "name": "美と崇高の美学",
+          "name_en": "Aesthetics of Beauty & Sublime",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "芸術定義・批評理論",
+          "name_en": "Definition of Art & Critical Theory",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "身体・パフォーマンスの美学",
+          "name_en": "Aesthetics of Body & Performance",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "考古学・先史学",
+      "name_en": "Archaeology & Prehistory",
+      "domain": "humanities_concept",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "言語学",
+      "name_en": "Linguistics",
+      "domain": "humanities_concept",
+      "concepts": 26,
+      "subfield_count": 5,
+      "subfields": [
+        {
+          "name": "統語論・形式言語学",
+          "name_en": "Syntax & Formal Linguistics",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "意味論・語用論",
+          "name_en": "Semantics & Pragmatics",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "社会言語学",
+          "name_en": "Sociolinguistics",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "認知言語学",
+          "name_en": "Cognitive Linguistics",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "歴史言語学・類型論",
+          "name_en": "Historical Linguistics & Typology",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "化学",
+      "name_en": "Chemistry",
+      "domain": "natural_discovery",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "地球科学",
+      "name_en": "Earth Sciences",
+      "domain": "natural_discovery",
+      "concepts": 0,
+      "subfield_count": 2,
+      "subfields": [
+        {
+          "name": "気候科学",
+          "name_en": "Climate Science",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "地質学・構造地質学",
+          "name_en": "Geology & Tectonics",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "天文学・宇宙物理学",
+      "name_en": "Astronomy & Astrophysics",
+      "domain": "natural_discovery",
+      "concepts": 0,
+      "subfield_count": 2,
+      "subfields": [
+        {
+          "name": "宇宙論・ダークエネルギー",
+          "name_en": "Cosmology & Dark Energy",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "恒星物理・銀河天文学",
+          "name_en": "Stellar Physics & Galactic Astronomy",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "数学",
+      "name_en": "Mathematics",
+      "domain": "natural_discovery",
+      "concepts": 0,
+      "subfield_count": 4,
+      "subfields": [
+        {
+          "name": "代数学・数論",
+          "name_en": "Algebra & Number Theory",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "確率論・統計学",
+          "name_en": "Probability & Statistics",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "位相幾何学・幾何学",
+          "name_en": "Topology & Geometry",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "最適化・応用数学",
+          "name_en": "Optimization & Applied Mathematics",
+          "concepts": 0,
+          "l3_count": 3
+        }
+      ]
+    },
+    {
+      "name": "物理学",
+      "name_en": "Physics",
+      "domain": "natural_discovery",
+      "concepts": 13,
+      "subfield_count": 6,
+      "subfields": [
+        {
+          "name": "量子力学・量子情報",
+          "name_en": "Quantum Mechanics & Quantum Information",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "凝縮系物理学",
+          "name_en": "Condensed Matter Physics",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "素粒子物理学",
+          "name_en": "Particle Physics",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "非線形物理学・複雑系",
+          "name_en": "Nonlinear Physics & Complex Systems",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "相対性理論・重力",
+          "name_en": "Relativity & Gravity",
+          "concepts": 14,
+          "l3_count": 2
+        },
+        {
+          "name": "統計力学・熱力学",
+          "name_en": "Statistical Mechanics & Thermodynamics",
+          "concepts": 0,
+          "l3_count": 1
+        }
+      ]
+    },
+    {
+      "name": "生態学",
+      "name_en": "Ecology",
+      "domain": "natural_discovery",
+      "concepts": 1049,
+      "subfield_count": 5,
+      "subfields": [
+        {
+          "name": "生態系生態学",
+          "name_en": "Ecosystem Ecology",
+          "concepts": 104,
+          "l3_count": 0
+        },
+        {
+          "name": "群集生態学",
+          "name_en": "Community Ecology",
+          "concepts": 172,
+          "l3_count": 0
+        },
+        {
+          "name": "個体群生態学",
+          "name_en": "Population Ecology",
+          "concepts": 134,
+          "l3_count": 0
+        },
+        {
+          "name": "進化生態学",
+          "name_en": "Evolutionary Ecology",
+          "concepts": 148,
+          "l3_count": 0
+        },
+        {
+          "name": "保全生態学",
+          "name_en": "Conservation Ecology",
+          "concepts": 74,
+          "l3_count": 0
+        }
+      ]
+    },
+    {
+      "name": "生物学",
+      "name_en": "Biology",
+      "domain": "natural_discovery",
+      "concepts": 0,
+      "subfield_count": 5,
+      "subfields": [
+        {
+          "name": "分子生物学・ゲノミクス",
+          "name_en": "Molecular Biology & Genomics",
+          "concepts": 0,
+          "l3_count": 3
+        },
+        {
+          "name": "神経科学",
+          "name_en": "Neuroscience",
+          "concepts": 15,
+          "l3_count": 4
+        },
+        {
+          "name": "進化生物学",
+          "name_en": "Evolutionary Biology",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "細胞生物学",
+          "name_en": "Cell Biology",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "免疫学",
+          "name_en": "Immunology",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "コミュニケーション論",
+      "name_en": "Communication Studies",
+      "domain": "social_theory",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "心理学",
+      "name_en": "Psychology",
+      "domain": "social_theory",
+      "concepts": 273,
+      "subfield_count": 11,
+      "subfields": [
+        {
+          "name": "認知心理学",
+          "name_en": "Cognitive Psychology",
+          "concepts": 7,
+          "l3_count": 5
+        },
+        {
+          "name": "社会心理学",
+          "name_en": "Social Psychology",
+          "concepts": 18,
+          "l3_count": 9
+        },
+        {
+          "name": "発達心理学",
+          "name_en": "Developmental Psychology",
+          "concepts": 13,
+          "l3_count": 5
+        },
+        {
+          "name": "臨床・異常心理学",
+          "name_en": "Clinical & Abnormal Psychology",
+          "concepts": 0,
+          "l3_count": 5
+        },
+        {
+          "name": "パーソナリティ心理学",
+          "name_en": "Personality Psychology",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "神経心理学",
+          "name_en": "Neuropsychology",
+          "concepts": 10,
+          "l3_count": 0
+        },
+        {
+          "name": "産業・組織心理学",
+          "name_en": "Industrial-Organizational Psychology",
+          "concepts": 34,
+          "l3_count": 0
+        },
+        {
+          "name": "健康心理学",
+          "name_en": "Health Psychology",
+          "concepts": 23,
+          "l3_count": 4
+        },
+        {
+          "name": "教育心理学",
+          "name_en": "Educational Psychology",
+          "concepts": 27,
+          "l3_count": 0
+        },
+        {
+          "name": "法・犯罪心理学",
+          "name_en": "Forensic & Criminal Psychology",
+          "concepts": 14,
+          "l3_count": 0
+        },
+        {
+          "name": "コミュニケーション心理学",
+          "name_en": "Communication Psychology",
+          "concepts": 1,
+          "l3_count": 1
+        }
+      ]
+    },
+    {
+      "name": "政治学",
+      "name_en": "Political Science",
+      "domain": "social_theory",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "教育学",
+      "name_en": "Education Studies",
+      "domain": "social_theory",
+      "concepts": 0,
+      "subfield_count": 0,
+      "subfields": []
+    },
+    {
+      "name": "社会学",
+      "name_en": "Sociology",
+      "domain": "social_theory",
+      "concepts": 2,
+      "subfield_count": 5,
+      "subfields": [
+        {
+          "name": "社会構造・階層論",
+          "name_en": "Social Stratification",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "文化社会学",
+          "name_en": "Cultural Sociology",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "科学・技術社会学 (STS)",
+          "name_en": "Science & Technology Studies",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "組織社会学",
+          "name_en": "Organizational Sociology",
+          "concepts": 0,
+          "l3_count": 1
+        },
+        {
+          "name": "ネットワーク社会学",
+          "name_en": "Network Sociology",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    },
+    {
+      "name": "経済学",
+      "name_en": "Economics",
+      "domain": "social_theory",
+      "concepts": 4,
+      "subfield_count": 4,
+      "subfields": [
+        {
+          "name": "行動経済学",
+          "name_en": "Behavioral Economics",
+          "concepts": 3,
+          "l3_count": 3
+        },
+        {
+          "name": "制度経済学",
+          "name_en": "Institutional Economics",
+          "concepts": 1,
+          "l3_count": 2
+        },
+        {
+          "name": "開発経済学",
+          "name_en": "Development Economics",
+          "concepts": 0,
+          "l3_count": 2
+        },
+        {
+          "name": "情報・ゲーム理論",
+          "name_en": "Information & Game Theory",
+          "concepts": 0,
+          "l3_count": 2
+        }
+      ]
+    }
+  ],
+  "domain_analysis": [
+    {
+      "domain": "人文学",
+      "l1_count": 8,
+      "l2_count": 24,
+      "concepts": 116,
+      "grant_foundations": 29,
+      "grant_amount_oku": 13.9,
+      "concept_density_per_oku": 8.4,
+      "underfunded_ratio": 0.08
+    },
+    {
+      "domain": "社会科学",
+      "l1_count": 6,
+      "l2_count": 20,
+      "concepts": 279,
+      "grant_foundations": 97,
+      "grant_amount_oku": 58.5,
+      "concept_density_per_oku": 4.8,
+      "underfunded_ratio": 0.05
+    },
+    {
+      "domain": "自然科学",
+      "l1_count": 7,
+      "l2_count": 24,
+      "concepts": 1062,
+      "grant_foundations": 45,
+      "grant_amount_oku": 72.6,
+      "concept_density_per_oku": 14.6,
+      "underfunded_ratio": 0.15
+    },
+    {
+      "domain": "工学",
+      "l1_count": 8,
+      "l2_count": 15,
+      "concepts": 0,
+      "grant_foundations": 27,
+      "grant_amount_oku": 36.3,
+      "concept_density_per_oku": 0.0,
+      "underfunded_ratio": 0.0
+    },
+    {
+      "domain": "芸術",
+      "l1_count": 8,
+      "l2_count": 20,
+      "concepts": 145,
+      "grant_foundations": 16,
+      "grant_amount_oku": 8.1,
+      "concept_density_per_oku": 17.8,
+      "underfunded_ratio": 0.18
+    }
+  ]
+}

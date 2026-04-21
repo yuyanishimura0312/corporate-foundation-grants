@@ -1,0 +1,526 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-21",
+    "data_sources": [
+      "文部科学省「令和6年度科学研究費助成事業の配分について」(2024年12月)",
+      "日本学術振興会「令和6(2024)年度科研費の審査に係る総括」(2024年11月14日)",
+      "内閣府「統合イノベーション戦略2024」",
+      "内閣府「ムーンショット型研究開発制度 目標一覧」",
+      "第6期科学技術・イノベーション基本計画（2021-2025年）",
+      "内閣府「令和6年度競争的研究費制度一覧」"
+    ],
+    "fiscal_year": "令和6年度（2024年度）",
+    "notes": "科研費の大区分別データは文科省・学振の公開資料から取得。配分額のパーセンテージは総配分額2,217億円（直接経費1,705億円＋間接経費512億円）に対する割合。"
+  },
+
+  "kaken_overview": {
+    "total_budget_billion_yen": 221.7,
+    "total_budget_direct_billion_yen": 170.5,
+    "total_budget_indirect_billion_yen": 51.2,
+    "total_active_projects": 80328,
+    "new_applications": 92136,
+    "new_adoptions": 25470,
+    "overall_adoption_rate_percent": 27.6
+  },
+
+  "kaken_distribution": [
+    {
+      "category_code": "A",
+      "category_name": "人文学・社会科学関連",
+      "subcategories": ["文学・言語学・哲学・倫理学", "史学・考古学・文化人類学", "法学・政治学・経済学・経営学", "社会学・教育学・心理学・地域研究"],
+      "adoption_share_percent": 23.0,
+      "budget_share_percent": 14.5,
+      "estimated_budget_billion_yen": 32.1,
+      "typical_grant_per_project_million_yen": 1.5,
+      "notes": "採択件数シェアが高いが配分額シェアは低い。1件あたりの助成額が理系より低い構造。"
+    },
+    {
+      "category_code": "B",
+      "category_name": "数物系科学関連",
+      "subcategories": ["数学・統計学", "物理学・天文学", "地球惑星科学"],
+      "adoption_share_percent": null,
+      "budget_share_percent": 10.3,
+      "estimated_budget_billion_yen": 22.8,
+      "typical_grant_per_project_million_yen": null,
+      "notes": "宇宙・素粒子・数理分野を含む"
+    },
+    {
+      "category_code": "C",
+      "category_name": "工学関連（機械・電気電子・土木等）",
+      "subcategories": ["機械工学", "電気・電子工学", "土木・建築工学", "情報工学・計算機科学"],
+      "adoption_share_percent": 7.4,
+      "budget_share_percent": null,
+      "estimated_budget_billion_yen": null,
+      "typical_grant_per_project_million_yen": null,
+      "notes": "採択件数シェアが低いが1件あたりの助成額は高め"
+    },
+    {
+      "category_code": "D",
+      "category_name": "化学関連",
+      "subcategories": ["物質化学", "材料科学", "複合化学"],
+      "adoption_share_percent": null,
+      "budget_share_percent": null,
+      "estimated_budget_billion_yen": null,
+      "typical_grant_per_project_million_yen": null,
+      "notes": "素材・マテリアル研究を含む"
+    },
+    {
+      "category_code": "E",
+      "category_name": "総合工学・生活科学関連",
+      "subcategories": ["原子力・プラズマ・エネルギー工学", "環境工学・生活科学"],
+      "adoption_share_percent": null,
+      "budget_share_percent": null,
+      "estimated_budget_billion_yen": null,
+      "typical_grant_per_project_million_yen": null,
+      "notes": ""
+    },
+    {
+      "category_code": "F",
+      "category_name": "生物学関連",
+      "subcategories": ["基礎生物学", "生命科学一般"],
+      "adoption_share_percent": null,
+      "budget_share_percent": null,
+      "estimated_budget_billion_yen": null,
+      "typical_grant_per_project_million_yen": null,
+      "notes": ""
+    },
+    {
+      "category_code": "G",
+      "category_name": "農学関連",
+      "subcategories": ["農芸化学", "農業・食料科学", "境界農学"],
+      "adoption_share_percent": null,
+      "budget_share_percent": null,
+      "estimated_budget_billion_yen": null,
+      "typical_grant_per_project_million_yen": null,
+      "notes": ""
+    },
+    {
+      "category_code": "H",
+      "category_name": "獣医学・薬学関連",
+      "subcategories": ["獣医学", "薬学"],
+      "adoption_share_percent": null,
+      "budget_share_percent": null,
+      "estimated_budget_billion_yen": null,
+      "typical_grant_per_project_million_yen": null,
+      "notes": ""
+    },
+    {
+      "category_code": "I",
+      "category_name": "医・歯学関連",
+      "subcategories": ["基礎医学", "臨床医学", "境界医学・社会医学", "歯科学"],
+      "adoption_share_percent": 33.0,
+      "budget_share_percent": 23.5,
+      "estimated_budget_billion_yen": 52.1,
+      "typical_grant_per_project_million_yen": null,
+      "notes": "採択件数・配分額ともに最大の分野。医療系研究が圧倒的に多い。"
+    },
+    {
+      "category_code": "J",
+      "category_name": "複合新領域関連",
+      "subcategories": ["情報科学", "人間情報学", "環境学", "科学社会学・科学技術史"],
+      "adoption_share_percent": null,
+      "budget_share_percent": null,
+      "estimated_budget_billion_yen": null,
+      "typical_grant_per_project_million_yen": null,
+      "notes": "文理融合・学際研究を含む"
+    }
+  ],
+
+  "kaken_adoption_by_type": [
+    {
+      "type": "基盤研究（S）",
+      "max_budget_million_yen": 500,
+      "duration_years": "5",
+      "adoption_rate_percent": 11.9,
+      "notes": "最も競争率が高い。卓越した研究者向け。"
+    },
+    {
+      "type": "基盤研究（A）",
+      "max_budget_million_yen": 50,
+      "duration_years": "3-5",
+      "adoption_rate_percent": 27.2,
+      "notes": ""
+    },
+    {
+      "type": "基盤研究（B）",
+      "max_budget_million_yen": 20,
+      "duration_years": "3-5",
+      "adoption_rate_percent": 28.0,
+      "notes": ""
+    },
+    {
+      "type": "基盤研究（C）",
+      "max_budget_million_yen": 5,
+      "duration_years": "3-5",
+      "adoption_rate_percent": 27.5,
+      "notes": "最も応募数が多い。若手・中堅研究者の中心的種目。"
+    },
+    {
+      "type": "若手研究",
+      "max_budget_million_yen": 5,
+      "duration_years": "2-4",
+      "adoption_rate_percent": 40.1,
+      "notes": "採択率が比較的高い。39歳以下が対象。"
+    },
+    {
+      "type": "挑戦的研究（開拓）",
+      "max_budget_million_yen": 20,
+      "duration_years": "3-6",
+      "adoption_rate_percent": null,
+      "notes": "革新的・萌芽的研究向け。採択率は低め。"
+    },
+    {
+      "type": "挑戦的研究（萌芽）",
+      "max_budget_million_yen": 5,
+      "duration_years": "2-3",
+      "adoption_rate_percent": null,
+      "notes": "アイデア段階の研究向け。"
+    }
+  ],
+
+  "low_acceptance_fields": [
+    {
+      "field": "文化人類学・地域研究",
+      "reason": "応募数に対して予算枠が少なく、1件あたりの助成額が低い。フィールドワーク経費が計上しにくい。",
+      "adoption_challenge": "採択後も少額（基盤C相当）が多く、長期フィールドワークに不十分",
+      "severity": "高"
+    },
+    {
+      "field": "哲学・倫理学・宗教学",
+      "reason": "社会的インパクトが見えにくく、競争的資金では評価されにくい。理系分野と比べ予算規模が小さい。",
+      "adoption_challenge": "研究の性質上、大型研究費を取りにくい構造的問題",
+      "severity": "高"
+    },
+    {
+      "field": "芸術学・美学・音楽学",
+      "reason": "科研費の審査基準が自然科学的指標（論文数・引用数）に偏り、芸術系研究の評価が困難",
+      "adoption_challenge": "大学の芸術系学部の研究基盤が弱い",
+      "severity": "高"
+    },
+    {
+      "field": "社会福祉学・障害学",
+      "reason": "医学系（AMED）でも教育系（文科省）でも中途半端な位置づけ。実践的研究と学術研究の境界が曖昧。",
+      "adoption_challenge": "学際性が高いため、単一審査区分に収まらない",
+      "severity": "中〜高"
+    },
+    {
+      "field": "環境人文学・エコクリティシズム",
+      "reason": "新興分野のため審査区分が未整備。文理融合だが文系扱いで予算が少ない。",
+      "adoption_challenge": "複合新領域だが、既存の審査委員の専門知識と合わない",
+      "severity": "高"
+    },
+    {
+      "field": "民俗学・文化遺産学",
+      "reason": "研究者コミュニティが小さく、応募数自体が少ない。地方の無形文化遺産研究は特に手薄。",
+      "adoption_challenge": "フィールド調査と記録保存の費用が科研費では賄いにくい",
+      "severity": "中"
+    },
+    {
+      "field": "教育社会学・教育格差研究",
+      "reason": "文科省管轄だが政策研究優先。格差・差別などセンシティブなテーマは採択されにくい傾向。",
+      "adoption_challenge": "政策的に都合の悪い結果が出る可能性のある研究への資金制約",
+      "severity": "中〜高"
+    },
+    {
+      "field": "農村社会学・地域コミュニティ研究",
+      "reason": "農学とも社会科学とも区分が曖昧。大型プロジェクト化しにくいテーマ。",
+      "adoption_challenge": "地域密着型研究は評価基準の国際化になじみにくい",
+      "severity": "中"
+    }
+  ],
+
+  "government_priority_fields": [
+    {
+      "field": "人工知能（AI）・データ科学",
+      "program": "統合イノベーション戦略2024、AI戦略",
+      "annual_budget_estimate": "数千億円規模（国家プロジェクト含む）",
+      "key_agencies": ["JST", "NEDO", "産総研"],
+      "moonshot_target": "目標3（AIとロボットの共進化）",
+      "priority_level": "最重点"
+    },
+    {
+      "field": "量子技術（量子コンピュータ・量子通信）",
+      "program": "量子技術イノベーション戦略、統合イノベーション戦略2024",
+      "annual_budget_estimate": "数百億円規模",
+      "key_agencies": ["JST", "NICT", "産総研"],
+      "moonshot_target": "目標6（誤り耐性型汎用量子コンピュータ）",
+      "priority_level": "最重点"
+    },
+    {
+      "field": "バイオテクノロジー・ライフサイエンス",
+      "program": "バイオ戦略2020、統合イノベーション戦略2024",
+      "annual_budget_estimate": "数百億円規模（AMED含む）",
+      "key_agencies": ["AMED", "JST", "農研機構"],
+      "moonshot_target": "目標2（疾患予測・予防）、目標5（食料生産）、目標7（医療・介護）",
+      "priority_level": "最重点"
+    },
+    {
+      "field": "グリーンイノベーション・脱炭素",
+      "program": "グリーンイノベーション基金（2兆円規模）、GX推進",
+      "annual_budget_estimate": "2000億円以上/年",
+      "key_agencies": ["NEDO", "JST"],
+      "moonshot_target": "目標4（資源循環）",
+      "priority_level": "最重点"
+    },
+    {
+      "field": "半導体・電子デバイス",
+      "program": "半導体・デジタル産業戦略、LSTC設立",
+      "annual_budget_estimate": "数千億円規模（CHIPS法対応含む）",
+      "key_agencies": ["NEDO", "JST", "経産省"],
+      "moonshot_target": null,
+      "priority_level": "最重点"
+    },
+    {
+      "field": "宇宙・海洋",
+      "program": "宇宙基本計画、海洋基本計画",
+      "annual_budget_estimate": "数百億円規模",
+      "key_agencies": ["JAXA", "JAMSTEC"],
+      "moonshot_target": null,
+      "priority_level": "重点"
+    },
+    {
+      "field": "医療・創薬・ゲノム医療",
+      "program": "AMED各プログラム、健康・医療戦略",
+      "annual_budget_estimate": "1000億円以上/年",
+      "key_agencies": ["AMED"],
+      "moonshot_target": "目標2、目標7",
+      "priority_level": "重点"
+    },
+    {
+      "field": "マテリアル科学（マテリアルズインフォマティクス）",
+      "program": "マテリアル革新力強化戦略",
+      "annual_budget_estimate": "数百億円規模",
+      "key_agencies": ["JST", "物質・材料研究機構（NIMS）"],
+      "moonshot_target": null,
+      "priority_level": "重点"
+    },
+    {
+      "field": "フュージョンエネルギー（核融合）",
+      "program": "フュージョンエネルギー・イノベーション戦略",
+      "annual_budget_estimate": "数百億円規模",
+      "key_agencies": ["量子科学技術研究開発機構（QST）"],
+      "moonshot_target": null,
+      "priority_level": "重点"
+    }
+  ],
+
+  "moonshot_targets": [
+    {
+      "target_number": 1,
+      "title": "身体・脳・空間・時間の制約からの解放",
+      "theme": "サイバネティック・アバター、身体拡張技術",
+      "target_year": 2050
+    },
+    {
+      "target_number": 2,
+      "title": "超早期疾患予測・予防社会の実現",
+      "theme": "予防医療、ゲノム・バイオマーカー",
+      "target_year": 2050
+    },
+    {
+      "target_number": 3,
+      "title": "AIとロボットの共進化",
+      "theme": "自律学習ロボット、人機共生",
+      "target_year": 2050
+    },
+    {
+      "target_number": 4,
+      "title": "地球環境再生のための資源循環",
+      "theme": "カーボンリサイクル、廃棄物ゼロ社会",
+      "target_year": 2050
+    },
+    {
+      "target_number": 5,
+      "title": "地球規模の持続的食料供給産業の創出",
+      "theme": "未利用生物機能、次世代農業技術",
+      "target_year": 2050
+    },
+    {
+      "target_number": 6,
+      "title": "誤り耐性型汎用量子コンピュータの実現",
+      "theme": "量子誤り訂正、量子ソフトウェア",
+      "target_year": 2050
+    },
+    {
+      "target_number": 7,
+      "title": "100歳まで健康不安なく生きる医療・介護システム",
+      "theme": "サステイナブル医療・介護、予防・早期治療",
+      "target_year": 2040
+    },
+    {
+      "target_number": 8,
+      "title": "台風・豪雨制御による極端風水害からの解放",
+      "theme": "気象制御技術、防災・減災",
+      "target_year": 2050
+    },
+    {
+      "target_number": 9,
+      "title": "こころの安らぎ・活力増大による精神的豊かさの実現",
+      "theme": "精神衛生、ウェルビーイング向上技術",
+      "target_year": 2050
+    }
+  ],
+
+  "government_gap_fields": [
+    {
+      "field": "文化人類学・民族誌研究",
+      "gap_reason": "政府の科学技術政策の優先リストに全く登場しない。長期フィールドワークを要するため競争的資金との相性が悪い。",
+      "academic_importance": "高。多様性理解・異文化共生・社会変動の人間的側面を記述する唯一の方法論。",
+      "current_funding_level": "極めて低い",
+      "impact_potential": "非常に高"
+    },
+    {
+      "field": "哲学・倫理学（AI倫理・生命倫理含む）",
+      "gap_reason": "技術政策ではAI倫理を口にするが、哲学・倫理学研究者への資金配分は限定的。技術実装側の資金が圧倒的。",
+      "academic_importance": "高。技術社会の規範的基盤を問う研究。AIガバナンス・バイオ倫理の議論に不可欠。",
+      "current_funding_level": "低い",
+      "impact_potential": "非常に高"
+    },
+    {
+      "field": "地域研究・地誌学（東南アジア・アフリカ・中東等）",
+      "gap_reason": "外交・安保関連以外の地域研究への資金が少ない。経済合理性と結びつかない地域の文化・社会研究は特に手薄。",
+      "academic_importance": "高。グローバル社会の文脈理解・多元的知識体系の保全。",
+      "current_funding_level": "低い",
+      "impact_potential": "高"
+    },
+    {
+      "field": "障害学・インクルーシブ研究",
+      "gap_reason": "厚労省の福祉予算では研究費として計上されにくい。当事者参加型研究は評価基準が合わない。",
+      "academic_importance": "高。インクルーシブ社会設計に不可欠。障害者の主体的研究参加の促進。",
+      "current_funding_level": "低い",
+      "impact_potential": "高"
+    },
+    {
+      "field": "環境人文学・気候変動の人文社会的影響",
+      "gap_reason": "気候変動研究はグリーンイノベーション（技術・自然科学側）に集中。人文・社会科学側の研究は極めて資金が少ない。",
+      "academic_importance": "高。技術的解決策だけでは変容しない行動・文化・制度変化の研究に必要。",
+      "current_funding_level": "非常に低い",
+      "impact_potential": "非常に高"
+    },
+    {
+      "field": "アート・デザイン研究（アーツベースリサーチ）",
+      "gap_reason": "文化庁は芸術活動支援が主。学術的アート研究への配分は科研費でも少額。論文評価指標になじまない。",
+      "academic_importance": "中〜高。人間の創造性・表現・共感の研究。社会変容のプロトタイプとしての芸術。",
+      "current_funding_level": "低い",
+      "impact_potential": "中〜高"
+    },
+    {
+      "field": "ジェンダー研究・フェミニスト科学論",
+      "gap_reason": "政治的に敏感なテーマのため公的資金では採択されにくい傾向。",
+      "academic_importance": "高。社会構造・知識生産の権力関係を問い直す基盤的研究。",
+      "current_funding_level": "低い",
+      "impact_potential": "高"
+    },
+    {
+      "field": "農村・過疎地域研究（人口減少社会論）",
+      "gap_reason": "地方創生政策はあるが、学術的な農村研究・コミュニティ研究への資金は少ない。実践と研究の分離。",
+      "academic_importance": "高。日本固有の人口減少・集落消滅問題に対する社会科学的応答。",
+      "current_funding_level": "低い",
+      "impact_potential": "高"
+    },
+    {
+      "field": "精神的ウェルビーイング・幸福学（ポジティブ心理学含む）",
+      "gap_reason": "ムーンショット目標9に含まれるが実際の予算は工学・医学系に偏重。質的・人文的アプローチへの資金は少ない。",
+      "academic_importance": "高。個人・社会の幸福度向上に向けた基礎研究。",
+      "current_funding_level": "低〜中",
+      "impact_potential": "高"
+    },
+    {
+      "field": "宗教学・宗教社会学",
+      "gap_reason": "政教分離の原則から政府が関与しにくい。宗教の社会的機能・精神性の研究は完全に民間・学術独自領域。",
+      "academic_importance": "中〜高。コミュニティ紐帯・意味形成・死生観など人間存在の核心。",
+      "current_funding_level": "非常に低い",
+      "impact_potential": "中〜高"
+    }
+  ],
+
+  "private_impact_fields": [
+    {
+      "rank": 1,
+      "field": "文化人類学・民族誌研究",
+      "rationale": "政府完全不在×学術的重要性最高×民間助成の実績あり（サントリー文化財団等）",
+      "recommended_grant_size": "100〜500万円/件",
+      "recommended_duration": "2〜3年",
+      "target_recipients": ["大学院生・若手研究者", "フィールドワーク実践者", "少数民族・マイノリティコミュニティとの協働研究"],
+      "gap_type": "構造的空白（政府が関与する仕組みがない）",
+      "examples_of_existing_private_funders": ["サントリー文化財団", "三菱財団（人文）", "トヨタ財団"]
+    },
+    {
+      "rank": 2,
+      "field": "AI・テクノロジー倫理・哲学的基盤研究",
+      "rationale": "AI政策に倫理専門家の声が必要だが予算が技術側に偏重。民間が哲学・倫理学研究を支援することで政策議論に深みが出る。",
+      "recommended_grant_size": "50〜300万円/件",
+      "recommended_duration": "1〜2年",
+      "target_recipients": ["哲学研究者", "AIガバナンス研究者", "学際チーム（哲学×情報科学）"],
+      "gap_type": "政策優先と資金配分の乖離",
+      "examples_of_existing_private_funders": ["野村財団", "ロボット・AI倫理研究系財団（新興）"]
+    },
+    {
+      "rank": 3,
+      "field": "環境人文学・気候変動の社会文化的応答",
+      "rationale": "気候変動対策の技術面には政府・企業資金が豊富。人間行動・文化変容・社会制度の研究は完全な空白地帯。",
+      "recommended_grant_size": "100〜500万円/件",
+      "recommended_duration": "2〜3年",
+      "target_recipients": ["社会学者・人類学者×環境研究者の学際チーム", "NGO連携研究"],
+      "gap_type": "政府の技術偏重による人文側の空白",
+      "examples_of_existing_private_funders": ["トヨタ財団（地球環境）", "地球環境財団"]
+    },
+    {
+      "rank": 4,
+      "field": "過疎・農村・コミュニティ消滅研究",
+      "rationale": "政府の地方創生は実践（政策・事業）優先。学術的な農村研究・記録・理論化は民間助成なしには難しい。",
+      "recommended_grant_size": "50〜300万円/件",
+      "recommended_duration": "2〜3年",
+      "target_recipients": ["地方大学の研究者", "NPO・地域研究者の協働", "集落アーカイブプロジェクト"],
+      "gap_type": "政策と学術の分離による研究空白",
+      "examples_of_existing_private_funders": ["トヨタ財団（地域社会）", "セブン-イレブン記念財団"]
+    },
+    {
+      "rank": 5,
+      "field": "障害学・インクルーシブ研究（当事者研究含む）",
+      "rationale": "社会的意義が高いが縦割り行政の隙間に落ちる。民間助成が当事者主体の研究を支援できる唯一の資金源になりうる。",
+      "recommended_grant_size": "50〜200万円/件",
+      "recommended_duration": "1〜2年",
+      "target_recipients": ["当事者研究者", "障害学・福祉学研究者", "NPO×大学の連携研究"],
+      "gap_type": "行政縦割りによる制度的空白",
+      "examples_of_existing_private_funders": ["日本財団", "ゆうちょ財団"]
+    },
+    {
+      "rank": 6,
+      "field": "アーツベースリサーチ・創造性の社会的機能",
+      "rationale": "文化庁は創作活動支援が主。学術的アート研究・創造性の社会科学的研究は資金の空白地帯。",
+      "recommended_grant_size": "50〜200万円/件",
+      "recommended_duration": "1〜2年",
+      "target_recipients": ["アーティスト×研究者のコラボ", "美術・音楽・演劇の学術研究者"],
+      "gap_type": "支援対象の定義ミスマッチ",
+      "examples_of_existing_private_funders": ["アサヒグループ芸術文化財団", "花王芸術・科学財団"]
+    },
+    {
+      "rank": 7,
+      "field": "宗教学・精神性・死生学研究",
+      "rationale": "政教分離原則から政府が距離を置く分野。しかし超高齢社会において死生観・スピリチュアルケアの研究需要は急増。",
+      "recommended_grant_size": "50〜200万円/件",
+      "recommended_duration": "1〜2年",
+      "target_recipients": ["宗教学者・哲学者", "緩和ケア×宗教学の学際研究", "死生学研究者"],
+      "gap_type": "政府関与不可能な分野",
+      "examples_of_existing_private_funders": ["本願寺文化財団", "キリスト教系財団"]
+    },
+    {
+      "rank": 8,
+      "field": "ジェンダー研究・フェミニスト視点の学術研究",
+      "rationale": "政治的センシティビティから政府助成では採択されにくい。民間財団が学術的自由を保証できる。",
+      "recommended_grant_size": "50〜300万円/件",
+      "recommended_duration": "1〜3年",
+      "target_recipients": ["ジェンダー研究者", "フェミニスト科学論研究者", "当事者コミュニティ連携研究"],
+      "gap_type": "政治的制約による自己検閲的空白",
+      "examples_of_existing_private_funders": ["大同生命地域研究奨励賞", "女性研究者支援系財団"]
+    }
+  ],
+
+  "strategic_recommendations": {
+    "summary": "政府の科学技術投資はAI・量子・バイオ・グリーン・半導体に極端に集中している。これらの技術的・自然科学的分野への追加的民間助成は限界効果が低い。一方で、文化人類学、哲学・倫理学、環境人文学、障害学、農村研究などの人文社会系分野は、科研費でも配分額が少なく（1件あたりの助成額が低い）、かつ政府の戦略的優先分野からも外れており、民間助成の代替不可能性が最も高い。",
+    "key_insight": "科研費では人文学・社会科学が採択件数で23%を占めるが、配分額では14.5%にとどまる。つまり同じ採択数でも理系より少ない資金しか得られない構造的不平等が存在する。民間助成はこの配分格差を補完できる。",
+    "priority_strategy": "民間法人助成は（1）政府が関与しない分野、（2）1件あたりの助成額が少ない人文系分野、（3）学際・文理融合で審査区分に収まらない新興分野、を集中的に支援することで最大のインパクトを生む。",
+    "caution": "医療・AI・グリーンは既に政府・企業資金が豊富。これらへの民間助成は『追加性』が低く、民間財団としての差別化にもなりにくい。"
+  }
+}
