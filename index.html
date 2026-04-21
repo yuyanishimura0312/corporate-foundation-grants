@@ -260,7 +260,22 @@
   <!-- Market Context -->
   <div class="insight-box" style="margin-bottom:2rem">
     <h4>カバレッジ</h4>
-    <p>日本の企業財団による研究助成は推定 <strong>200〜300億円/年</strong>。本DBは公益法人information（5,700法人）のスクレイピングにより<strong>174財団</strong>（61企業グループ）を特定。258プログラム・助成総額<strong>約4.4億円</strong>（判明分73件）を収録。金額未判明の185件・プログラム未収集の92財団を含めると実カバレッジは大幅に拡大見込み。</p>
+    <p id="coverage-text"></p>
+  </div>
+
+  <!-- Annual Grant Ranking -->
+  <div class="section">
+    <div class="section-title">年間助成額ランキング（助成財団センター Top 100 / 2022年度）</div>
+    <div class="grid-2">
+      <div class="card">
+        <h3>年間助成額 上位財団</h3>
+        <div class="chart-container" style="min-height:400px"><canvas id="chart-annual"></canvas></div>
+      </div>
+      <div class="card">
+        <h3>年間助成額一覧</h3>
+        <div class="table-wrap" id="annual-table" style="max-height:400px"></div>
+      </div>
+    </div>
   </div>
 
   <!-- Active Grants -->
@@ -407,8 +422,8 @@
 
 <div class="footer">
   <strong>MIRA TUKU</strong> &mdash; Corporate Foundation Research Grants Dashboard<br>
-  82 foundations &middot; 258 programs &middot; 38 L1 fields &middot; 57 L2 subfields<br>
-  Source: Grant DB + Academic Knowledge DB (4,703 concepts) &mdash; Updated 2026-04-21
+  174 foundations &middot; 258 programs &middot; 162.7B yen annual &middot; 38 L1 fields &middot; 57 L2 subfields<br>
+  Source: Grant DB + Academic Knowledge DB + koeki-info.go.jp + JFC Top 100 &mdash; Updated 2026-04-21
 </div>
 
 <script>
@@ -433,6 +448,8 @@ async function init() {
   DATA = await r1.json();
   FIELDS = await r2.json();
   renderKPI();
+  renderCoverage();
+  renderAnnualRanking();
   renderActiveGrants();
   renderFieldAnalysis();
   renderCharts();
@@ -470,11 +487,66 @@ function renderKPI() {
     { value: s.program_count, label: '\u7814\u7a76\u52a9\u6210\u30d7\u30ed\u30b0\u30e9\u30e0' },
     { value: s.call_count, label: '\u516c\u52df\u6570' },
     { value: s.active_count, label: '募集中 / 近日' },
-    { value: fmt(s.total_amount), label: '助成総額（判明分）' },
+    { value: fmt(s.annual_amount_total || s.total_amount), label: '年間助成額（JFC公式）' },
   ];
   document.getElementById('kpi-grid').innerHTML = items.map(i =>
     `<div class="kpi-card"><div class="value">${i.value}</div><div class="label">${i.label}</div></div>`
   ).join('');
+}
+
+function renderCoverage() {
+  const s = DATA.stats;
+  const annual = s.annual_amount_total || 0;
+  const covLow = (annual / 30000000000 * 100).toFixed(0);
+  const covHigh = (annual / 20000000000 * 100).toFixed(0);
+  document.getElementById('coverage-text').innerHTML =
+    `日本の企業財団による研究助成は推定 <strong>200〜300億円/年</strong>。` +
+    `本DBは公益法人information（5,700法人）のスクレイピングと助成財団センターTop 100ランキングの統合により、` +
+    `<strong>${s.foundation_count}財団</strong>（${s.corporate_group_count}企業グループ）を収録。` +
+    `年間助成額（JFC公式）<strong>${fmt(annual)}</strong>（${s.annual_amount_count || 0}財団分）を捕捉し、` +
+    `推定市場の<strong>${covLow}〜${covHigh}%</strong>をカバー。`;
+}
+
+function renderAnnualRanking() {
+  const ranking = DATA.annual_ranking || [];
+  if (!ranking.length) return;
+
+  // Chart
+  new Chart(document.getElementById('chart-annual'), {
+    type: 'bar',
+    data: {
+      labels: ranking.map(r => r.name.replace(/公益財団法人|一般財団法人/g, '').substring(0, 14)),
+      datasets: [{
+        data: ranking.map(r => r.annual_grant_amount / 100000000),
+        backgroundColor: MI_COLORS.concat(MI_COLORS),
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { label: ctx => fmt(ctx.raw * 100000000) } }
+      },
+      scales: {
+        x: { ticks: { color: '#6b5e54', callback: v => v + '\u5104\u5186' }, grid: { color: '#e8ddd3' } },
+        y: { ticks: { color: '#1a1a1a', font: { size: 11 } }, grid: { display: false } }
+      }
+    }
+  });
+
+  // Table
+  let html = '<table><thead><tr><th>#</th><th>\u8ca1\u56e3</th><th>\u89aa\u4f01\u696d</th><th>\u5e74\u9593\u52a9\u6210\u984d</th></tr></thead><tbody>';
+  ranking.forEach(r => {
+    html += `<tr>
+      <td style="text-align:center;color:var(--mi-terracotta);font-weight:700">${r.jfc_rank || '-'}</td>
+      <td>${r.name.replace(/公益財団法人|一般財団法人/g, '').trim()}</td>
+      <td>${r.corporate_parent || '-'}</td>
+      <td class="amount">${fmt(r.annual_grant_amount)}</td>
+    </tr>`;
+  });
+  html += '</tbody></table>';
+  document.getElementById('annual-table').innerHTML = html;
 }
 
 function renderActiveGrants() {
