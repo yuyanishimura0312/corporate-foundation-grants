@@ -263,7 +263,9 @@ def run(limit: int, dry_run: bool = False):
         SELECT id, name, metadata
         FROM organizations
         WHERE (url IS NULL OR url = '')
-        ORDER BY name
+          AND legal_form IN ('公益財団法人','一般財団法人','公益社団法人','一般社団法人')
+          AND name LIKE '%財団%'
+        ORDER BY annual_grant_amount DESC NULLS LAST, name
         """
     )
     all_rows = cur.fetchall()

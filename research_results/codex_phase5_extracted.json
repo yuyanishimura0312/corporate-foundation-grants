@@ -1,0 +1,3861 @@
+{
+  "extracted_count": 190,
+  "foundations": {
+    "SGH財団": {
+      "name": "公益財団法人SGH財団",
+      "name_core": "SGH財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.sgh-foundation.or.jp/",
+        "https://www.sgh-foundation.or.jp/info/1500/",
+        "https://www.jsbba.or.jp/",
+        "https://www.jsbba.or.jp/info/news/news_20170901.html",
+        "https://tokachi"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        ".asahigroup-japan.co.jp/news/2023/0331_1.html | | 公益財団法人佐川がん研究振興財団等 | 2015-04-01、佐川系3財団が合併しSGH財団へ | 公益財団法人SGH財団 https://www.sgh-foundation.or.jp/ | https://www.sgh-foundation.or.jp/info/1500/ | | 公益財団",
+        ".asahigroup-japan.co.jp/news/2023/0331_1.html | | 公益財団法人佐川がん研究振興財団等 | 2015-04-01、佐川系3財団が合併しSGH財団へ | 公益財団法人SGH財団 https://www.sgh-foundation.or.jp/ | https://www.sgh-foundation.or.jp/info/1500/ | | 公益財団"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "。1969年9月11日設立、2010年11月公益財団": {
+      "name": "公益財団法人。1969年9月11日設立、2010年11月公益財団",
+      "name_core": "。1969年9月11日設立、2010年11月公益財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/index.html",
+        "https://www.mitsubishi-zaidan",
+        "https://jp.foundation.canon/"
+      ],
+      "amounts": [
+        290000000
+      ],
+      "context_snippets": [
+        "://www.takeda-sci.or.jp/about/outline/ | | 三菱財団 | https://www.mitsubishi-zaidan.jp/ | 2025 | 法人種別 | 公益財団法人。1969年9月11日設立、2010年11月公益財団法人へ移行 | https://www.mitsubishi-zaidan.jp/about/index.html | | 稲盛財団 |",
+        "://www.takeda-sci.or.jp/about/outline/ | | 三菱財団 | https://www.mitsubishi-zaidan.jp/ | 2025 | 法人種別 | 公益財団法人。1969年9月11日設立、2010年11月公益財団法人へ移行 | https://www.mitsubishi-zaidan.jp/about/index.html | | 稲盛財団 |"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "。公益認定なしとして扱う。特定公益増進法人は公益財団": {
+      "name": "一般財団法人。公益認定なしとして扱う。特定公益増進法人は公益財団",
+      "name_core": "。公益認定なしとして扱う。特定公益増進法人は公益財団",
+      "legal_form": "一般財団法人",
+      "urls": [
+        "https://jp.foundation.canon/",
+        "https://www.nomurafoundation.or.jp/",
+        "https://www.taf.or.jp/",
+        "https://www.suzukifound.jp/"
+      ],
+      "amounts": [
+        290000000,
+        192000000
+      ],
+      "context_snippets": [
+        "財団法人キヤノン財団 | https://jp.foundation.canon/ | 2022 | JFC上位100では67位、年間助成額290百万円。所在地、設立、基本財産を公式サイトで確認 | 一般財団法人。公益認定なしとして扱う。特定公益増進法人は公益財団ではないため原則非該当 | | 公益財団法人 野村財団 | https://www.nomurafoundation.or.jp/ | ",
+        "財団法人キヤノン財団 | https://jp.foundation.canon/ | 2022 | JFC上位100では67位、年間助成額290百万円。所在地、設立、基本財産を公式サイトで確認 | 一般財団法人。公益認定なしとして扱う。特定公益増進法人は公益財団ではないため原則非該当 | | 公益財団法人 野村財団 | https://www.nomurafoundation.or.jp/ | "
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "」「一般財団": {
+      "name": "公益財団法人」「一般財団",
+      "name_core": "」「一般財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [
+        14740000
+      ],
+      "context_snippets": [
+        "採択17件、助成額1,474万円。申請期間は毎年9月、対象期間は翌年4月から1年間。 ./report/hss_foundation_research_2026.md:64:- 法人格表記の揺れ: 「公益財団法人」「一般財団法人」を外した略称がJFCや大学公募情報で使われる。例: 「公益財団法人トヨタ財団」=「トヨタ財団」。 ./report/hss_foundation_research_202"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "とかち財団": {
+      "name": "公益財団法人とかち財団",
+      "name_core": "とかち財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jsbba.or.jp/info/news/news_20170901.html",
+        "https://tokachi-zaidan.jp/",
+        "https://tokachi-zaidan.jp/tp_detail.php?id=48",
+        "https://www.kose-cosmetology.or.jp/",
+        "https://prtimes.jp/main/html/rd/p/000000048.000041232.html",
+        "https://www.sgkz.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " | https://www.jsbba.or.jp/info/news/news_20170901.html | | 公益財団法人起業家支援財団 | 2018-04-01、とかち財団が吸収合併 | 公益財団法人とかち財団 https://tokachi-zaidan.jp/ | https://tokachi-zaidan.jp/tp_detail.php?id=48 | | 公益財団法人コスメ",
+        " | https://www.jsbba.or.jp/info/news/news_20170901.html | | 公益財団法人起業家支援財団 | 2018-04-01、とかち財団が吸収合併 | 公益財団法人とかち財団 https://tokachi-zaidan.jp/ | https://tokachi-zaidan.jp/tp_detail.php?id=48 | | 公益財団法人コスメ"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "は、一般社団・財団": {
+      "name": "一般財団法人は、一般社団・財団",
+      "name_core": "は、一般社団・財団",
+      "legal_form": "一般財団法人",
+      "urls": [
+        "https://www.koeki-info.go.jp/corporations/index.html",
+        "https://www.moj.go.jp/MINJI/minji81.html",
+        "https://www.japaneselawtranslation.go.jp/ja/laws/view/4354/ja"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ps://www.koeki-info.go.jp/) / [事業報告等の公開情報案内](https://www.koeki-info.go.jp/corporations/index.html)  一般財団法人は、一般社団・財団法人法上、貸借対照表公告が基本です。法務省は、一般社団法人・一般財団法人の決算公告について、貸借対照表、大規模法人では貸借対照表および損益計算書の公告対象と説明しています",
+        "ps://www.koeki-info.go.jp/) / [事業報告等の公開情報案内](https://www.koeki-info.go.jp/corporations/index.html)  一般財団法人は、一般社団・財団法人法上、貸借対照表公告が基本です。法務省は、一般社団法人・一般財団法人の決算公告について、貸借対照表、大規模法人では貸借対照表および損益計算書の公告対象と説明しています"
+      ],
+      "sources": [
+        "team15.txt"
+      ]
+    },
+    "みずほ国際交流奨学財団": {
+      "name": "公益財団法人みずほ国際交流奨学財団",
+      "name_core": "みずほ国際交流奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人みずほ国際交流奨学財団\", \"corporate_parent\": \"みずほFG\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "福祉\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人みずほ国際交流奨学財団\", \"corporate_parent\": \"みずほFG\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_f"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "みずほ学術振興財団": {
+      "name": "公益財団法人みずほ学術振興財団",
+      "name_core": "みずほ学術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人みずほ学術振興財団\", \"corporate_parent\": \"みずほFG\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progr",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人みずほ学術振興財団\", \"corporate_parent\": \"みずほFG\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fie"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "みずほ教育福祉財団": {
+      "name": "公益財団法人みずほ教育福祉財団",
+      "name_core": "みずほ教育福祉財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人みずほ教育福祉財団\", \"corporate_parent\": \"みずほFG\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progr",
+        ", \"amount\": 427000000, \"deadline\": null, \"status\": \"active\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人みずほ教育福祉財団\", \"corporate_parent\": \"みずほFG\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fie"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "みずほ農場教育財団": {
+      "name": "公益財団法人みずほ農場教育財団",
+      "name_core": "みずほ農場教育財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人みずほ農場教育財団\", \"corporate_parent\": \"みずほFG\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progr",
+        "教育\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人みずほ農場教育財団\", \"corporate_parent\": \"みずほFG\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\", "
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "むつ小川原地域・産業振興財団": {
+      "name": "公益財団法人むつ小川原地域・産業振興財団",
+      "name_core": "むつ小川原地域・産業振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jomon.ne.jp/~mozaidan/",
+        "https://www.mitsubishi-zaidan.jp/"
+      ],
+      "amounts": [
+        650000000,
+        640000000,
+        608000000
+      ],
+      "context_snippets": [
+        "|日台交流、研究・奨学|JFC 6.50億円|東京都港区|国際交流| ./research_results/foundation_coverage_supplement_2026.md:49:|25|公益財団法人 むつ小川原地域・産業振興財団|https://www.jomon.ne.jp/~mozaidan/|地域産業、技術開発、地域振興|JFC 6.40億円|青森県上北郡|地方外郭・産業| ."
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "りそな中小企業振興財団": {
+      "name": "公益財団法人りそな中小企業振興財団",
+      "name_core": "りそな中小企業振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人りそな中小企業振興財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"progra",
+        "福祉\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人りそな中小企業振興財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"工学\"], \"l1_fields"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "りそな未来財団": {
+      "name": "公益財団法人りそな未来財団",
+      "name_core": "りそな未来財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人りそな未来財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\":",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人りそな未来財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fields\":"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "アサヒグループ学術振興財団": {
+      "name": "公益財団法人アサヒグループ学術振興財団",
+      "name_core": "アサヒグループ学術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.asahigroup-foundation.com/",
+        "https://www.asahigroup-japan.co.jp/news/2023/0331_1.html",
+        "https://www.sgh-foundation.or.jp/",
+        "https://www.sgh-foundatio"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        ".cc/docs |  **実例: 合併・名称変更で旧URLが見つからないケース**  | 旧団体・旧名 | 事象 | 承継・現名称 / URL | 根拠 | |---|---|---|---| | 公益財団法人アサヒグループ学術振興財団 | 2023-04-01、アサヒグループ芸術文化財団が吸収合併、名称を「アサヒグループ財団」へ | 公益財団法人アサヒグループ財団 https://www.as",
+        ".cc/docs |  **実例: 合併・名称変更で旧URLが見つからないケース**  | 旧団体・旧名 | 事象 | 承継・現名称 / URL | 根拠 | |---|---|---|---| | 公益財団法人アサヒグループ学術振興財団 | 2023-04-01、アサヒグループ芸術文化財団が吸収合併、名称を「アサヒグループ財団」へ | 公益財団法人アサヒグループ財団 https://www.as"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "アサヒグループ財団": {
+      "name": "公益財団法人アサヒグループ財団",
+      "name_core": "アサヒグループ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.asahigroup-foundation.com/",
+        "https://www.asahigroup-japan.co.jp/news/2023/0331_1.html",
+        "https://www.sgh-foundation.or.jp/",
+        "https://www.sgh-foundation.or.jp/info/1500/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人アサヒグループ財団\", \"corporate_parent\": \"アサヒグループHD\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"p",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人アサヒグループ財団\", \"corporate_parent\": \"アサヒグループHD\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team4.txt",
+        "team7.txt"
+      ]
+    },
+    "アステラス病態代謝研究会": {
+      "name": "公益財団法人アステラス病態代謝研究会",
+      "name_core": "アステラス病態代謝研究会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mochidazaidan.or.jp/kenkyu.html",
+        "https://www.astellas-foundation.or.jp/",
+        "https://www.naito-f.or.jp/"
+      ],
+      "amounts": [
+        300000000,
+        5660000,
+        4530000,
+        1480000,
+        240000000,
+        100000000
+      ],
+      "context_snippets": [
+        "興財団 | 医学・薬学・創薬 | 3億円 | 3億円規模 | 3億円規模 | 毎年100件 | https://www.mochidazaidan.or.jp/kenkyu.html | | 6 | 公益財団法人 アステラス病態代謝研究会 | 疾患解明・治療法開発 | 約2億5,566万円 | 約2億4,453万円 | 約2億5,148万円 | 毎年約101件 | https://www.aste",
+        "興財団 | 医学・薬学・創薬 | 3億円 | 3億円規模 | 3億円規模 | 毎年100件 | https://www.mochidazaidan.or.jp/kenkyu.html | | 6 | 公益財団法人 アステラス病態代謝研究会 | 疾患解明・治療法開発 | 約2億5,566万円 | 約2億4,453万円 | 約2億5,148万円 | 毎年約101件 | https://www.aste"
+      ],
+      "sources": [
+        "team11.txt"
+      ]
+    },
+    "イサム・ノグチ日本財団": {
+      "name": "公益財団法人イサム・ノグチ日本財団",
+      "name_core": "イサム・ノグチ日本財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "address\": \"京都府京都市下京区烏丸通四条下る水銀屋町６２０番地\",   \"is_corporate\": true,   \"research_score\": 2 } {   \"name\": \"公益財団法人イサム・ノグチ日本財団\",   \"purpose\": \"20世紀を代表する彫刻イサム・ノグチが遺したアトリエ空間における彫刻、展示場、住居、庭園等を保存し、一般に公開するなど、イサム・ノグ"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "カシオ科学振興財団": {
+      "name": "公益財団法人カシオ科学振興財団",
+      "name_core": "カシオ科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人カシオ科学振興財団\", \"corporate_parent\": \"カシオ計算機\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"prog"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "キヤノン財団": {
+      "name": "公益財団法人キヤノン財団",
+      "name_core": "キヤノン財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.marubeni.or.jp",
+        "https://culfun.mecenat.or.jp/grant/sompo/point.html",
+        "https://www.tateisi-f.org/category/research/",
+        "https://jp.foundation.canon/",
+        "https://www.sice.jp/info/inf"
+      ],
+      "amounts": [
+        290000000,
+        30000000,
+        20000000
+      ],
+      "context_snippets": [
+        "電機\",,307000000,2022,,corporate \"丸紅基金\",\"丸紅\",https://www.marubeni.or.jp,300000000,2024est,,corporate \"公益財団法人キヤノン財団\",\"キヤノン\",,290000000,2022,,corporate \"公益財団法人天田財団\",\"アマダ\",,273000000,2022,,corporate \"公益財団法"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "コスメトロジー研究振興財団": {
+      "name": "公益財団法人コスメトロジー研究振興財団",
+      "name_core": "コスメトロジー研究振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://tokachi-zaidan.jp/",
+        "https://tokachi-zaidan.jp/tp_detail.php?id=48",
+        "https://www.kose-cosmetology.or.jp/",
+        "https://prtimes.jp/main/html/rd/p/000000048.000041232.html",
+        "https://www.sgkz.or.jp/",
+        "https://www.sgkz.or.jp/outline/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "団が吸収合併 | 公益財団法人とかち財団 https://tokachi-zaidan.jp/ | https://tokachi-zaidan.jp/tp_detail.php?id=48 | | 公益財団法人コスメトロジー研究振興財団 | 2019年、名称をコーセーコスメトロジー研究財団へ変更 | https://www.kose-cosmetology.or.jp/ | https://pr",
+        "団が吸収合併 | 公益財団法人とかち財団 https://tokachi-zaidan.jp/ | https://tokachi-zaidan.jp/tp_detail.php?id=48 | | 公益財団法人コスメトロジー研究振興財団 | 2019年、名称をコーセーコスメトロジー研究財団へ変更 | https://www.kose-cosmetology.or.jp/ | https://pr"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "コニカミノルタ科学技術振興財団": {
+      "name": "公益財団法人コニカミノルタ科学技術振興財団",
+      "name_core": "コニカミノルタ科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人コニカミノルタ科学技術振興財団\", \"corporate_parent\": \"コニカミノルタ\", \"annual_grant_amount\": null, \"jfc_rank\": null",
+        "amount\": 2750000, \"deadline\": \"2025-11-10\", \"status\": \"closed\", \"type\": \"program\"}, {\"foundation\": \"公益財団法人コニカミノルタ科学技術振興財団\", \"corporate_parent\": \"コニカミノルタ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"],"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "コーセーコスメトロジー研究財団": {
+      "name": "公益財団法人コーセーコスメトロジー研究財団",
+      "name_core": "コーセーコスメトロジー研究財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人コーセーコスメトロジー研究財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"pr",
+        "テム\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人コーセーコスメトロジー研究財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "サントリー文化財団": {
+      "name": "公益財団法人サントリー文化財団",
+      "name_core": "サントリー文化財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.suntory.co.jp/sfnd"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "c_rank\": null, \"programs\": 1, \"calls\": 1, \"max_amount\": 300000, \"categories\": \"welfare\"}, {\"name\": \"公益財団法人サントリー文化財団\", \"corporate_parent\": \"サントリーHD\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "ubsidy/%e9%87%8e%e5%8f%a3%e9%81%b5%e7%a0%94%e7%a9%b6%e5%8a%a9%e6%88%90%e9%87%91/\"}, {\"foundation\": \"公益財団法人サントリー文化財団\", \"corporate_parent\": \"サントリーHD\", \"program\": \"研究助成\", \"category\": \"research\", \"title\":"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "サントリー生命科学財団": {
+      "name": "公益財団法人サントリー生命科学財団",
+      "name_core": "サントリー生命科学財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [
+        100000000
+      ],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人サントリー生命科学財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"progra",
+        "教育\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人サントリー生命科学財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"], "
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt",
+        "team9.txt"
+      ]
+    },
+    "サントリー芸術財団": {
+      "name": "公益財団法人サントリー芸術財団",
+      "name_core": "サントリー芸術財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人サントリー芸術財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人サントリー芸術財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"人文学\", \"芸術\"], \"l1_f"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "スズキ財団": {
+      "name": "公益財団法人スズキ財団",
+      "name_core": "スズキ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "http://www.green.or.jp/",
+        "https://www.nomurafoundation.or.jp",
+        "https://www.taf.or.jp/grant-c/03/",
+        "http://www.vecof.or.jp/news/2017/06/292.html",
+        "https://www.taf.or.jp/",
+        "https://www.suzukifound.jp/",
+        "https://www.suzukifound.jp/02program/program03.html"
+      ],
+      "amounts": [
+        192000000,
+        194000000,
+        264720000,
+        173010000,
+        49200000,
+        3000000
+      ],
+      "context_snippets": [
+        ",corporate \"公益財団法人小田急財団\",\"小田急電鉄\",,223000000,2022,,corporate \"公益財団法人日本科学協会\",,,209000000,,,corporate \"公益財団法人スズキ財団\",\"スズキ\",,194000000,2022,,corporate \"社団法人国土緑化推進機構\",,http://www.green.or.jp/,190000000,,,co"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "セコム科学技術振興財団": {
+      "name": "公益財団法人セコム科学技術振興財団",
+      "name_core": "セコム科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/",
+        "https://www.secomzaidan.jp/",
+        "https://www.ueharazaidan.or.jp/",
+        "https://www.ueharazaidan.or.jp/c/grant/",
+        "https://www.nakatani-foun",
+        "https://www.jra-umanushi-hukushi.or.jp/",
+        "https://www.secomzaidan.jp/info_oubo.html"
+      ],
+      "amounts": [
+        551000000,
+        547000000,
+        534000000,
+        50000000,
+        5000000,
+        15000000
+      ],
+      "context_snippets": [
+        "https://www.toyotafound.or.jp/ | 助成プログラム、研究助成、プロジェクト紹介を掲載（[公式](https://www.toyotafound.or.jp/)） | | 公益財団法人セコム科学技術振興財団 | https://www.secomzaidan.jp/ | 安全安心をテーマにした研究助成を掲載（[公式](https://www.secomzaidan.jp",
+        "https://www.toyotafound.or.jp/ | 助成プログラム、研究助成、プロジェクト紹介を掲載（[公式](https://www.toyotafound.or.jp/)） | | 公益財団法人セコム科学技術振興財団 | https://www.secomzaidan.jp/ | 安全安心をテーマにした研究助成を掲載（[公式](https://www.secomzaidan.jp"
+      ],
+      "sources": [
+        "team3.txt",
+        "team7.txt"
+      ]
+    },
+    "セゾン文化財団": {
+      "name": "公益財団法人セゾン文化財団",
+      "name_core": "セゾン文化財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人セゾン文化財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\":",
+        "教育\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人セゾン文化財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"人文学\"], \"l1_fields\": "
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "ソニー教育財団": {
+      "name": "公益財団法人ソニー教育財団",
+      "name_core": "ソニー教育財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人ソニー教育財団\", \"corporate_parent\": \"ソニーグループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progr",
+        "教育\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人ソニー教育財団\", \"corporate_parent\": \"ソニーグループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fie"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "ソロプチミスト日本財団": {
+      "name": "公益財団法人ソロプチミスト日本財団",
+      "name_core": "ソロプチミスト日本財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "\",   \"address\": \"香川県高松市牟礼町牟礼３５２４番地１\",   \"is_corporate\": false,   \"research_score\": 1 } {   \"name\": \"公益財団法人ソロプチミスト日本財団\",   \"purpose\": \"女性の地位向上、不当な差別偏見の抑止、男女共同参画社会の推進、青少年児童の健全育成、自然環境保護、国際協力など、さまざまな奉仕活動等"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "タカタ財団": {
+      "name": "公益財団法人タカタ財団",
+      "name_core": "タカタ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.hirose-isf.or.jp/",
+        "https://www.takatafound.or.jp/news/detail.php?id=120",
+        "https://nanbyo.or.jp/information/20250317/",
+        "https://www.jpcnma.or.jp/project/jyosei/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "sf.or.jp/ | https://www.hirose-isf.or.jp/ |  **実例: 法人は現存するが助成休止**  | 団体 | 状態 | 判定 | |---|---|---| | 公益財団法人タカタ財団 | 2026年度研究助成・寄附講座助成の公募休止 | `GRANT_SUSPENDED`。URL不存在ではない。https://www.takatafound.or.jp/ne",
+        "sf.or.jp/ | https://www.hirose-isf.or.jp/ |  **実例: 法人は現存するが助成休止**  | 団体 | 状態 | 判定 | |---|---|---| | 公益財団法人タカタ財団 | 2026年度研究助成・寄附講座助成の公募休止 | `GRANT_SUSPENDED`。URL不存在ではない。https://www.takatafound.or.jp/ne"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "テルモ生命科学振興財団": {
+      "name": "公益財団法人テルモ生命科学振興財団",
+      "name_core": "テルモ生命科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nakatani-foundation.jp/",
+        "https://www.terumozaidan.or.jp/",
+        "https://www.mochidazaidan.or.jp/kenkyu.html"
+      ],
+      "amounts": [
+        6850000,
+        9000000,
+        7000000,
+        300000000,
+        5660000,
+        4530000,
+        1480000
+      ],
+      "context_snippets": [
+        "000万円、新規総額は要事業報告確認 | 5億8,060万円 | 2億8,685万円 | 2023年56件 | https://www.nakatani-foundation.jp/ | | 4 | 公益財団法人 テルモ生命科学振興財団 | 医療機器・再生医療・医工学 | 研究開発助成3億3,900万円 | 3億2,100万円 | 3億2,700万円 | 2024年139件 | https://w",
+        "000万円、新規総額は要事業報告確認 | 5億8,060万円 | 2億8,685万円 | 2023年56件 | https://www.nakatani-foundation.jp/ | | 4 | 公益財団法人 テルモ生命科学振興財団 | 医療機器・再生医療・医工学 | 研究開発助成3億3,900万円 | 3億2,100万円 | 3億2,700万円 | 2024年139件 | https://w"
+      ],
+      "sources": [
+        "team11.txt",
+        "team7.txt"
+      ]
+    },
+    "トヨタ・モビリティ基金": {
+      "name": "公益財団法人トヨタ・モビリティ基金",
+      "name_core": "トヨタ・モビリティ基金",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp",
+        "https://www.af-info.or.jp",
+        "https://www.spf.org",
+        "https://www.koryu.or.jp/business/subsidy/",
+        "https://www.mi",
+        "https://toyotamobilityfoundation.org/",
+        "https://www.nakatani-foundation.jp/",
+        "https://www.toyotafound.or.jp/english/grant/research/",
+        "https://hojo.keirin-autorace.or.jp/"
+      ],
+      "amounts": [
+        731000000,
+        716000000,
+        712000000,
+        6238000000
+      ],
+      "context_snippets": [
+        "財団\",\"三菱グループ\",,744000000,2022,,corporate \"公益財団法人業務スーパージャパンドリーム財団\",\"神戸物産\",,741000000,2022,,corporate \"公益財団法人トヨタ・モビリティ基金\",\"トヨタ自動車\",,716000000,2022,,corporate \"公益財団法人中谷財団\",\"中谷医工計測技術振興\",,712000000,2022,,co"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "トヨタ財団": {
+      "name": "公益財団法人トヨタ財団",
+      "name_core": "トヨタ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/",
+        "https://www.toyotafound.or.jp/grant/research/",
+        "https://www.toyotafound.or.jp/grant/res",
+        "https://fields.canpan.info/grant/detail/2336",
+        "https://www",
+        "https://www.af-info.or.jp/research/",
+        "https://www.af-info.or.jp/research/awardees.html",
+        "https://www.secomzaidan.jp/",
+        "https://www.ueharazaidan.or.jp/",
+        "https://www.public.or.jp/project/f0176",
+        "https://www.sumitomo.or.jp/",
+        "https://www.jss.or.jp/ikusei/sasakawa/index.html",
+        "https://www.toyotafound.or.jp/english/grant/research/",
+        "https://www.toyotafound.or.jp/english/grant/res"
+      ],
+      "amounts": [
+        367000000,
+        60000000
+      ],
+      "context_snippets": [
+        "te \"公益財団法人ヒロセ財団\",\"ヒロセ電機\",,373000000,2022,,corporate \"テルモ生命科学振興財団\",\"テルモ\",,371000000,2022,,corporate \"公益財団法人トヨタ財団\",\"トヨタ自動車\",https://www.toyotafound.or.jp/,367000000,2022,,corporate \"トヨタ財団\",\"トヨタ自動車\",http"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team3.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "パナソニック教育財団": {
+      "name": "公益財団法人パナソニック教育財団",
+      "name_core": "パナソニック教育財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.pef.or.jp",
+        "https://www.pef.or.jp/kokoro-forum/project/?utm_source",
+        "https://www.pef.or.jp/school/grant/",
+        "https://www.pef.or.jp/school/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "noto_recruitment.html,40000000,2024est,,corporate \"太陽生命厚生財団\",\"太陽生命保険\",,30000000,2024est,,corporate \"公益財団法人パナソニック教育財団\",\"パナソニック\",https://www.pef.or.jp,30000000,2024est,,corporate \"ＳＯＭＰＯ福祉財団\",\"SOMPOホールディ"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "ヒロセ国際奨学財団": {
+      "name": "公益財団法人ヒロセ国際奨学財団",
+      "name_core": "ヒロセ国際奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.fbm-zaidan.or.jp/",
+        "https://www.fbm-zaidan.or.jp/about/overview.html",
+        "https://www.hirose-isf.or.jp/",
+        "https://www.takatafound.or.jp/news/detail.php?id=120"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ランスベッド・ホームケア財団 https://www.fbm-zaidan.or.jp/ | https://www.fbm-zaidan.or.jp/about/overview.html | | 公益財団法人ヒロセ国際奨学財団 | 名称をヒロセ財団へ変更 | 公益財団法人ヒロセ財団 https://www.hirose-isf.or.jp/ | https://www.hirose-isf.o",
+        "ランスベッド・ホームケア財団 https://www.fbm-zaidan.or.jp/ | https://www.fbm-zaidan.or.jp/about/overview.html | | 公益財団法人ヒロセ国際奨学財団 | 名称をヒロセ財団へ変更 | 公益財団法人ヒロセ財団 https://www.hirose-isf.or.jp/ | https://www.hirose-isf.o"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "ヒロセ財団": {
+      "name": "公益財団法人ヒロセ財団",
+      "name_core": "ヒロセ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/",
+        "https://www.toyotafound.or.jp/grant/research/",
+        "https://www.fbm-zaidan.or.jp/about/overview.html",
+        "https://www.hirose-isf.or.jp/",
+        "https://www.takatafound.or.jp/news/detail.php?id=120"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " \"公益財団法人小林財団\",\"小林製薬\",,375000000,2022,,corporate \"公益財団法人中外創薬科学財団\",\"中外製薬\",,373000000,2022,,corporate \"公益財団法人ヒロセ財団\",\"ヒロセ電機\",,373000000,2022,,corporate \"テルモ生命科学振興財団\",\"テルモ\",,371000000,2022,,corporate \"公益財団"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team4.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "フランスベッド・ホームケア財団": {
+      "name": "公益財団法人フランスベッド・ホームケア財団",
+      "name_core": "フランスベッド・ホームケア財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.sgkz.or.jp/outline/",
+        "https://www.fbm-zaidan.or.jp/",
+        "https://www.fbm-zaidan.or.jp/about/overview.html",
+        "https://www.hirose-isf.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "kz.or.jp/ | https://www.sgkz.or.jp/outline/ | | 公益財団法人フランスベッド・メディカルホームケア研究・助成財団 | 2023-04-01、名称変更 | 公益財団法人フランスベッド・ホームケア財団 https://www.fbm-zaidan.or.jp/ | https://www.fbm-zaidan.or.jp/about/overview.ht",
+        "kz.or.jp/ | https://www.sgkz.or.jp/outline/ | | 公益財団法人フランスベッド・メディカルホームケア研究・助成財団 | 2023-04-01、名称変更 | 公益財団法人フランスベッド・ホームケア財団 https://www.fbm-zaidan.or.jp/ | https://www.fbm-zaidan.or.jp/about/overview.ht"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "フランスベッド・メディカルホームケア研究・助成財団": {
+      "name": "公益財団法人フランスベッド・メディカルホームケア研究・助成財団",
+      "name_core": "フランスベッド・メディカルホームケア研究・助成財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.sgkz.or.jp/",
+        "https://www.sgkz.or.jp/outline/",
+        "https://www.fbm-zaidan.or.jp/",
+        "https://www.fbm-zaidan.or.jp/about/overview.html",
+        "https://www.hirose-isf.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "人新技術開発財団 | 2018-04-01、市村清新技術財団へ名称変更 | https://www.sgkz.or.jp/ | https://www.sgkz.or.jp/outline/ | | 公益財団法人フランスベッド・メディカルホームケア研究・助成財団 | 2023-04-01、名称変更 | 公益財団法人フランスベッド・ホームケア財団 https://www.fbm-zaidan.or.",
+        "人新技術開発財団 | 2018-04-01、市村清新技術財団へ名称変更 | https://www.sgkz.or.jp/ | https://www.sgkz.or.jp/outline/ | | 公益財団法人フランスベッド・メディカルホームケア研究・助成財団 | 2023-04-01、名称変更 | 公益財団法人フランスベッド・ホームケア財団 https://www.fbm-zaidan.or."
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "ホンダカーズ博多財団": {
+      "name": "公益財団法人ホンダカーズ博多財団",
+      "name_core": "ホンダカーズ博多財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人ホンダカーズ博多財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"program",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人ホンダカーズ博多財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"工学\"], \"l1"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "メニコン芸術文化記念財団": {
+      "name": "公益財団法人メニコン芸術文化記念財団",
+      "name_core": "メニコン芸術文化記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人メニコン芸術文化記念財団\", \"corporate_parent\": \"ニコン\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"prog",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人メニコン芸術文化記念財団\", \"corporate_parent\": \"ニコン\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"人文学\", "
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "ヤマハ発動機スポーツ振興財団": {
+      "name": "公益財団法人ヤマハ発動機スポーツ振興財団",
+      "name_core": "ヤマハ発動機スポーツ振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人ヤマハ発動機スポーツ振興財団\", \"corporate_parent\": \"ヤマハ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pr",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人ヤマハ発動機スポーツ振興財団\", \"corporate_parent\": \"ヤマハ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "ライオンズ日本財団": {
+      "name": "公益財団法人ライオンズ日本財団",
+      "name_core": "ライオンズ日本財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "府京都市下京区塩小路通烏丸西入東塩小路町６１４番地関電不動産京都ビル内\",   \"is_corporate\": false,   \"research_score\": 1 } {   \"name\": \"公益財団法人ライオンズ日本財団\",   \"purpose\": \"人間全体における生活・社会・国際・福祉・及び自然の5つの環境改善を推進するための奉仕事業、並びに同種の事業を行う者への支援を\",   \""
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "ロータリー日本財団": {
+      "name": "公益財団法人ロータリー日本財団",
+      "name_core": "ロータリー日本財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "\",   \"address\": \"東京都港区赤坂1-2-2日本財団ビル\",   \"is_corporate\": false,   \"research_score\": 2 } {   \"name\": \"公益財団法人ロータリー日本財団\",   \"purpose\": \"個人が海外留学するためもしくは海外から日本へ留学するための奨学金及びロータリー平和フェローシップの付与、及び、非営利財団法人である国際ロ"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "ロータリー米山記念奨学会": {
+      "name": "公益財団法人ロータリー米山記念奨学会",
+      "name_core": "ロータリー米山記念奨学会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.rotary-yoneyama.or.jp/",
+        "https://akaihane-fukuoka.or.jp/"
+      ],
+      "amounts": [
+        1241000000,
+        1222000000,
+        1066000000
+      ],
+      "context_snippets": [
+        "・国際教育支援|JFC 12.41億円|東京都目黒区|海外受入・奨学| ./research_results/foundation_coverage_supplement_2026.md:33:|9|公益財団法人 ロータリー米山記念奨学会|https://www.rotary-yoneyama.or.jp/|外国人留学生奨学|JFC 12.22億円|東京都港区|留学生受入型| ./research"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "・一般財団": {
+      "name": "一般社団法人・一般財団",
+      "name_core": "・一般財団",
+      "legal_form": "一般社団法人",
+      "urls": [
+        "https://www.koeki-info.go.jp/corporations/index.html",
+        "https://www.moj.go.jp/MINJI/minji81.html",
+        "https://www.japaneselawtranslation.go.jp/ja/laws/view/4354/ja"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "開情報案内](https://www.koeki-info.go.jp/corporations/index.html)  一般財団法人は、一般社団・財団法人法上、貸借対照表公告が基本です。法務省は、一般社団法人・一般財団法人の決算公告について、貸借対照表、大規模法人では貸借対照表および損益計算書の公告対象と説明しています。   URL: [法務省 電子公告制度](https://www.moj.",
+        "開情報案内](https://www.koeki-info.go.jp/corporations/index.html)  一般財団法人は、一般社団・財団法人法上、貸借対照表公告が基本です。法務省は、一般社団法人・一般財団法人の決算公告について、貸借対照表、大規模法人では貸借対照表および損益計算書の公告対象と説明しています。   URL: [法務省 電子公告制度](https://www.moj."
+      ],
+      "sources": [
+        "team15.txt"
+      ]
+    },
+    "三井住友銀行国際協力財団": {
+      "name": "公益財団法人三井住友銀行国際協力財団",
+      "name_core": "三井住友銀行国際協力財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://skzaidan.or.jp/",
+        "http://www.skzaidan.or.jp/pdf/sports_youkou_201908.pdf"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人三井住友銀行国際協力財団\", \"corporate_parent\": \"三井グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"p",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人三井住友銀行国際協力財団\", \"corporate_parent\": \"三井グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "三井物産貿易奨励会": {
+      "name": "公益財団法人三井物産貿易奨励会",
+      "name_core": "三井物産貿易奨励会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人三井物産貿易奨励会\", \"corporate_parent\": \"三井グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"prog",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人三井物産貿易奨励会\", \"corporate_parent\": \"三井グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fi"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "三井金型振興財団": {
+      "name": "公益財団法人三井金型振興財団",
+      "name_core": "三井金型振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人三井金型振興財団\", \"corporate_parent\": \"三井グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progr",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人三井金型振興財団\", \"corporate_parent\": \"三井グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"工学\"], \""
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "三菱UFJ信託奨学財団": {
+      "name": "公益財団法人三菱UFJ信託奨学財団",
+      "name_core": "三菱UFJ信託奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/news_subsidy/2026%e5%b9%b4%e5%ba%a6-%e5%85%ac%e7%9b%8a%e8%b2%a",
+        "https://www.jfc.or.jp/news_subsidy/2026%e5%b9%b4%e5%ba%a6-%e5%85%ac%e7%9b%8a%e8%b2%a1%e5%9b%a3%e6%b3%95%e4%ba%ba%e4%b8%89%e8%8f%b1ufj%e4%bf%a1%e8%a8%97%"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "om/psearch/Search\"}, {\"foundation\": \"三菱UFJ信託奨学財団\", \"corporate_parent\": \"三菱グループ\", \"program\": \"2026年度 公益財団法人三菱UFJ信託奨学財団 研究助成金\", \"category\": \"education\", \"title\": \"2026年度 公益財団法人三菱UFJ信託奨学財団 研究助成金\", \"fisca",
+        "\": \"三菱グループ\", \"program\": \"2026年度 公益財団法人三菱UFJ信託奨学財団 研究助成金\", \"category\": \"education\", \"title\": \"2026年度 公益財団法人三菱UFJ信託奨学財団 研究助成金\", \"fiscal_year\": null, \"grant_amount_min\": null, \"grant_amount_max\": null, \""
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "三菱みらい育成財団": {
+      "name": "公益財団法人三菱みらい育成財団",
+      "name_core": "三菱みらい育成財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp",
+        "https://www.inamori-f.or.jp",
+        "https://www.spf.org",
+        "https://www.koryu.or.jp/business/subsidy/",
+        "https://www.mitsubishi-za",
+        "https://www.mmfe.or.jp/",
+        "https://www.kobebussan.or.jp/"
+      ],
+      "amounts": [
+        788000000,
+        744000000,
+        741000000
+      ],
+      "context_snippets": [
+        "w.inamori-f.or.jp,1533349483,,138911979536,corporate \"稲盛財団\",\"京セラ（稲盛和夫）\",,987000000,2022,,corporate \"公益財団法人三菱みらい育成財団\",\"三菱グループ\",,744000000,2022,,corporate \"公益財団法人業務スーパージャパンドリーム財団\",\"神戸物産\",,741000000,2022"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "三菱ガス化学記念財団": {
+      "name": "公益財団法人三菱ガス化学記念財団",
+      "name_core": "三菱ガス化学記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人三菱ガス化学記念財団\", \"corporate_parent\": \"三菱グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人三菱ガス化学記念財団\", \"corporate_parent\": \"三菱グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\""
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "三菱財団": {
+      "name": "公益財団法人三菱財団",
+      "name_core": "三菱財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.takeda-sci.or.jp",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.inamori-f.or.jp",
+        "https://fields.canpan.info/grant/detail/2399",
+        "https://www.mitsubishi-zaidan.jp/support/inde",
+        "https://fields.canpan.info/grant/detail/2383",
+        "https://www.mitsubishi-zaidan.jp/suppor",
+        "https://fields.canpan.info/grant/detail/2341",
+        "https://www.mitsubishi-zaidan.jp/support/hum",
+        "https://www.mitsubishi-zaidan.jp/about/index.html",
+        "https://www.mitsubishi-zaidan.jp/about/financial.html",
+        "https://www.sumitomo.or.jp/",
+        "https://www.sumitom",
+        "https://www.mitsubishi-zaidan.jp",
+        "https://kirin-npo.com/grant/",
+        "https://www.mitsubishi-zaidan.jp/support/humanities.html",
+        "https://www.toyotafound.or.jp",
+        "https://www.takeda-sci.or.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/ind",
+        "https://www.mitsu",
+        "https://www.kotsuiji.com/",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4120005014293",
+        "https://www.takeda-sci.or.jp/about/o",
+        "https://af-info.or.jp/en/research/about.html",
+        "https://grant-search.com/grant/571/",
+        "https://jspp.org/information/p",
+        "https://www.to"
+      ],
+      "amounts": [
+        608000000,
+        95000000,
+        47000000,
+        179000000,
+        1064000000,
+        177000000,
+        6104000000,
+        640000000,
+        598000000,
+        20000000,
+        390000000,
+        4000000
+      ],
+      "context_snippets": [
+        "0000,,,corporate \"公益財団法人武田科学振興財団\",\"武田薬品工業\",https://www.takeda-sci.or.jp,2708000000,2022,,corporate \"公益財団法人三菱財団\",\"三菱グループ\",https://www.mitsubishi-zaidan.jp/,1563238635,,35922195659,corporate \"公益財団法人稲盛財団"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team3.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "三菱養和会": {
+      "name": "公益財団法人三菱養和会",
+      "name_core": "三菱養和会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人三菱養和会\", \"corporate_parent\": \"三菱グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人三菱養和会\", \"corporate_parent\": \"三菱グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fields"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "上原教育振興財団": {
+      "name": "公益財団法人上原教育振興財団",
+      "name_core": "上原教育振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "address\": \"東京都新宿区西新宿二丁目１番１号新宿三井ビル３７階\",   \"is_corporate\": true,   \"research_score\": 4 } {   \"name\": \"公益財団法人上原教育振興財団\",   \"purpose\": \"千葉県野田市及び流山市の小学校、中学校、高等学校及び特別支援学校に対し、図書､教育機材その他学校教育に必要な各種の機器を給付し、当該学校に"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "上原記念生命科学財団": {
+      "name": "公益財団法人上原記念生命科学財団",
+      "name_core": "上原記念生命科学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.takeda-sci.or.jp/research/list.php",
+        "https://www.ueharazaidan.or.jp/",
+        "https://www.nakatani-foundation.jp/",
+        "https://www.secomzaidan.jp/",
+        "https://www.ueharazaidan.or.jp/c/grant/",
+        "https://www.nakatani-foundation.jp/business/",
+        "https://www.nakat",
+        "https://www.takeda-sci.or.jp",
+        "https://www.inamori-f.or.jp",
+        "https://www.marubeni.or.jp",
+        "https://culfun.mecenat.or.jp/grant/sompo/point.html",
+        "https://www.jees.or.jp/",
+        "https://www.taisho.co.jp/company/news/2026/20260401002026/"
+      ],
+      "amounts": [
+        4000000,
+        7050000,
+        60000000,
+        6850000,
+        2703000000,
+        1463000000,
+        100000000,
+        1241000000,
+        8000000
+      ],
+      "context_snippets": [
+        "00万円 | 21億8,400万円 | 21億6,070万円 | 2024年562件 | https://www.takeda-sci.or.jp/research/list.php | | 2 | 公益財団法人 上原記念生命科学財団 | 生命科学・医学・薬学 | 13億5,075万円 | 12億9,705万円 | 14億90万円 | 2024年335件 | https://www.ueharaz",
+        "00万円 | 21億8,400万円 | 21億6,070万円 | 2024年562件 | https://www.takeda-sci.or.jp/research/list.php | | 2 | 公益財団法人 上原記念生命科学財団 | 生命科学・医学・薬学 | 13億5,075万円 | 12億9,705万円 | 14億90万円 | 2024年335件 | https://www.ueharaz"
+      ],
+      "sources": [
+        "team11.txt",
+        "team17.txt",
+        "team3.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "上田記念財団": {
+      "name": "一般財団法人上田記念財団",
+      "name_core": "上田記念財団",
+      "legal_form": "一般財団法人",
+      "urls": [
+        "https://www.takahashi-f.or.jp/",
+        "https://www.iizuka-takeshi-ikue"
+      ],
+      "amounts": [
+        524000000,
+        523000000,
+        521000000
+      ],
+      "context_snippets": [
+        "ニティ助成|JFC 5.24億円|東京都渋谷区|社会起業・地域実装| ./research_results/foundation_coverage_supplement_2026.md:58:|34|一般財団法人 上田記念財団|URL要確認|奨学・公益|JFC 5.23億円|要確認|追加確認対象| ./research_results/foundation_coverage_supplement_"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "中外創薬科学財団": {
+      "name": "公益財団法人中外創薬科学財団",
+      "name_core": "中外創薬科学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/",
+        "https://www.toyotafound.or.jp/grant/research/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "orporate \"住友財団\",\"住友グループ\",,409000000,2022,,corporate \"公益財団法人小林財団\",\"小林製薬\",,375000000,2022,,corporate \"公益財団法人中外創薬科学財団\",\"中外製薬\",,373000000,2022,,corporate \"公益財団法人ヒロセ財団\",\"ヒロセ電機\",,373000000,2022,,corporate \""
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "中央競馬馬主社会": {
+      "name": "公益財団法人中央競馬馬主社会",
+      "name_core": "中央競馬馬主社会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jra-umanushi-hukushi.or.jp/",
+        "https://musubie.org/"
+      ],
+      "amounts": [
+        547000000,
+        534000000,
+        524000000
+      ],
+      "context_snippets": [
+        "防災、医療|JFC 5.47億円|東京都渋谷区|社会安全・実装研究| ./research_results/foundation_coverage_supplement_2026.md:56:|32|公益財団法人 中央競馬馬主社会福祉財団|https://www.jra-umanushi-hukushi.or.jp/|社会福祉助成|JFC 5.34億円|東京都港区|福祉実装| ./research"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "中村積善会": {
+      "name": "公益財団法人中村積善会",
+      "name_core": "中村積善会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nakamura-sekizenkai.or.jp/",
+        "https://www.shizuoka-akaihane.or.jp/"
+      ],
+      "amounts": [
+        488000000,
+        480999999,
+        472000000
+      ],
+      "context_snippets": [
+        ".jp/|奨学金|JFC 4.88億円|鹿児島県鹿児島市|地域奨学| ./research_results/foundation_coverage_supplement_2026.md:64:|40|公益財団法人 中村積善会|https://www.nakamura-sekizenkai.or.jp/|奨学・教育助成|JFC 4.81億円|東京都|奨学中心| ./research_results/"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "中谷医工計測技術振興財団": {
+      "name": "公益財団法人中谷医工計測技術振興財団",
+      "name_core": "中谷医工計測技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.ueharazaidan.or.jp/",
+        "https://www.nakatani-foundation.jp/",
+        "https://www.terumozaidan.or.jp/",
+        "https://www.ueharazaidan.or.jp/c/grant/",
+        "https://www.nakatani-foundation.jp/business/",
+        "https://www.nakatani-foundation.jp/grant_tech/",
+        "https://www.shimadzu.co.jp/ssf/",
+        "https://www.shimadzu.co.jp/SSF/"
+      ],
+      "amounts": [
+        100000000,
+        7050000,
+        60000000,
+        6850000,
+        9000000,
+        7000000,
+        300000000
+      ],
+      "context_snippets": [
+        "024年度 助成金 採択 件数 総額 web search:  web search: テルモ生命科学振興財団 2024年度 助成 採択 総額 件数 web search:  web search: 公益財団法人 中谷医工計測技術振興財団 2024年度 助成 採択 総額 web search:  web search: 武田科学振興財団 2023年度 研究助成対象 総額 件数 codex **調査"
+      ],
+      "sources": [
+        "team10.txt",
+        "team11.txt",
+        "team3.txt"
+      ]
+    },
+    "中谷財団": {
+      "name": "公益財団法人中谷財団",
+      "name_core": "中谷財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp",
+        "https://www.af-info.or.jp",
+        "https://www.spf.org",
+        "https://www.koryu.or.jp/business/subsidy/",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.nakatani-foundation.jp/",
+        "https://www.kobe-yamabuki.or.jp/",
+        "https://www.nakatani-foundation.jp/en/",
+        "https://www.jss.or.jp/iku"
+      ],
+      "amounts": [
+        716000000,
+        712000000,
+        702000000
+      ],
+      "context_snippets": [
+        "ンドリーム財団\",\"神戸物産\",,741000000,2022,,corporate \"公益財団法人トヨタ・モビリティ基金\",\"トヨタ自動車\",,716000000,2022,,corporate \"公益財団法人中谷財団\",\"中谷医工計測技術振興\",,712000000,2022,,corporate \"三菱財団\",\"三菱グループ\",https://www.mitsubishi-zaidan.jp"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team2.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "交通遺児育英会": {
+      "name": "公益財団法人交通遺児育英会",
+      "name_core": "交通遺児育英会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.kotsuiji.com/",
+        "https://www.akaihane-osaka.or.jp/",
+        "https://www.nai"
+      ],
+      "amounts": [
+        608000000,
+        598000000,
+        590000000
+      ],
+      "context_snippets": [
+        "祉、文化財|JFC 6.08億円|東京都千代田区|大型汎用研究助成| ./research_results/foundation_coverage_supplement_2026.md:51:|27|公益財団法人 交通遺児育英会|https://www.kotsuiji.com/|奨学金|JFC 5.98億円|東京都千代田区|奨学中心| ./research_results/foundation_"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "京都オムロン地域協力基金": {
+      "name": "公益財団法人京都オムロン地域協力基金",
+      "name_core": "京都オムロン地域協力基金",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人京都オムロン地域協力基金\", \"corporate_parent\": \"オムロン\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人京都オムロン地域協力基金\", \"corporate_parent\": \"オムロン\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_f"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "住友財団": {
+      "name": "公益財団法人住友財団",
+      "name_core": "住友財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/news_subsidy/%e5%85%ac%e7%9b%8a%e8%b2%a1%e5%9b%a3%e",
+        "https://www.jfc.or.jp/news_subsidy/%e5%85%ac%e7%9b%8a%e8%b2%a1%e5%9b%a3%e6%b3%95%e4%ba%ba%e4%bd%8f%e5%8f%8b%e8%b2%a1%e5%9b%a3%e3%80%802",
+        "https://www.sumitomo.or.jp/",
+        "https://www.jfc.or.jp",
+        "https://www.jfc.or.jp/news_subsidy/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E4",
+        "https://jsfs.jp/topics/240409/",
+        "https://r",
+        "https://www.sumitomo.o",
+        "https://www.sumitomo.or.jp/zaimu.htm",
+        "https://www.mitsubishi-zaidan.jp/about/financial.html",
+        "https://www.af-info.or.jp/",
+        "https://www.af-info.or.jp/research/",
+        "https://www.af-info.or.jp/research/awardees.html",
+        "https://www",
+        "https://www.nomurafoundation.or.jp/social/",
+        "https://www.shimizu-kikin.or.jp/",
+        "https://www.taf.or.jp/grant-a/"
+      ],
+      "amounts": [
+        409000000,
+        200000000,
+        5000000,
+        150000000,
+        100000000,
+        250000000,
+        177000000,
+        418000000,
+        382000000,
+        192000000
+      ],
+      "context_snippets": [
+        "%8c%e3%83%87%e3%82%b6%e3%82%a4/\"}, {\"foundation\": \"住友財団\", \"corporate_parent\": \"住友グループ\", \"program\": \"公益財団法人住友財団　2025年度基礎科学研究助成\", \"category\": \"research\", \"title\": \"公益財団法人住友財団　2025年度基礎科学研究助成\", \"fiscal_ye",
+        "porate_parent\": \"住友グループ\", \"program\": \"公益財団法人住友財団　2025年度基礎科学研究助成\", \"category\": \"research\", \"title\": \"公益財団法人住友財団　2025年度基礎科学研究助成\", \"fiscal_year\": null, \"grant_amount_min\": null, \"grant_amount_max\": null,"
+      ],
+      "sources": [
+        "team17.txt",
+        "team3.txt",
+        "team7.txt"
+      ]
+    },
+    "住友電工グループ社会": {
+      "name": "公益財団法人住友電工グループ社会",
+      "name_core": "住友電工グループ社会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://skzaidan.or.jp/",
+        "http://www.skzaidan.or.jp/pdf/sports_youkou_201908.pdf"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人住友電工グループ社会貢献基金\", \"corporate_parent\": \"住友電気工業\", \"annual_grant_amount\": null, \"jfc_rank\": null, ",
+        "理学\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人住友電工グループ社会貢献基金\", \"corporate_parent\": \"住友電気工業\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \""
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "佐川がん研究振興財団": {
+      "name": "公益財団法人佐川がん研究振興財団",
+      "name_core": "佐川がん研究振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.asahigroup-japan.co.jp/news/2023/0331_1.html",
+        "https://www.sgh-foundation.or.jp/",
+        "https://www.sgh-foundation.or.jp/info/1500/",
+        "https://www.jsbba.or.jp/",
+        "https://www.jsbba.or.jp/info/news/news_20170901.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "w.asahigroup-foundation.com/ | アサヒ公式発表 https://www.asahigroup-japan.co.jp/news/2023/0331_1.html | | 公益財団法人佐川がん研究振興財団等 | 2015-04-01、佐川系3財団が合併しSGH財団へ | 公益財団法人SGH財団 https://www.sgh-foundation.or.jp/ | ht",
+        "w.asahigroup-foundation.com/ | アサヒ公式発表 https://www.asahigroup-japan.co.jp/news/2023/0331_1.html | | 公益財団法人佐川がん研究振興財団等 | 2015-04-01、佐川系3財団が合併しSGH財団へ | 公益財団法人SGH財団 https://www.sgh-foundation.or.jp/ | ht"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "先進医薬研究振興財団": {
+      "name": "公益財団法人先進医薬研究振興財団",
+      "name_core": "先進医薬研究振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.taisho.co.jp/company/news/2023/20231213001469/",
+        "https://www.terumozaidan.or.jp/support_past/",
+        "https://www.naito-f.or.jp/",
+        "https://www.smrf.or.jp/"
+      ],
+      "amounts": [
+        240000000,
+        100000000,
+        4000000
+      ],
+      "context_snippets": [
+        "報 助成 総額 採択件数 PDF web search:  web search: アステラス病態代謝研究会 2024 年度 助成金 総額 採択件数 web search:  web search: 公益財団法人 先進医薬研究振興財団 2024 助成金 総額 採択件数 web search:  web search: 武田科学振興財団 2023年度 研究助成 総額 件数 web search:  ",
+        "科学振興財団 | 健康増進に資する自然科学 | 研究助成だけで2.4億円以上 | 同規模推定 | 同規模推定 | 80件以上 | https://www.naito-f.or.jp/ | | 8 | 公益財団法人 先進医薬研究振興財団 | 精神薬療・血液・循環・先進医薬 | 1億円超規模 | 1億円超規模 | 1億円超規模 | 分野横断で多数 | https://www.smrf.or.jp/ |"
+      ],
+      "sources": [
+        "team11.txt",
+        "team2.txt"
+      ]
+    },
+    "全国銀行学術研究振興財団": {
+      "name": "公益財団法人全国銀行学術研究振興財団",
+      "name_core": "全国銀行学術研究振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "益財団法人先進医薬研究振興財団 web search:  web search: 公益財団法人コニカミノルタ科学技術振興財団 公式 所在地 法人番号 web search:  web search: 公益財団法人全国銀行学術研究振興財団 法人番号 codex **調査報告** 2026年5月8日 JST時点。ローカルDB [corporate_research_grants.sqlite](/Us"
+      ],
+      "sources": [
+        "team2.txt"
+      ]
+    },
+    "公益推進協会": {
+      "name": "公益財団法人公益推進協会",
+      "name_core": "公益推進協会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [
+        47000000,
+        179000000,
+        1064000000,
+        177000000,
+        6104000000,
+        10872000000,
+        3000000,
+        184000000,
+        21547000000,
+        188000000,
+        24583000000
+      ],
+      "context_snippets": [
+        "47百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,064百万円 | 1971 | 内閣府 | JFC | | 99 | 公益財団法人 公益推進協会 | 177百万円 | 6,104百万円 | 2010 | 内閣府 | JFC | | 100 | 公益財団法人 野村財団 | 177百万円 | 10,872百万円 | 20",
+        "47百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,064百万円 | 1971 | 内閣府 | JFC | | 99 | 公益財団法人 公益推進協会 | 177百万円 | 6,104百万円 | 2010 | 内閣府 | JFC | | 100 | 公益財団法人 野村財団 | 177百万円 | 10,872百万円 | 20"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "内藤記念科学振興財団": {
+      "name": "公益財団法人内藤記念科学振興財団",
+      "name_core": "内藤記念科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.astellas-foundation.or.jp/",
+        "https://www.naito-f.or.jp/",
+        "https://www.smrf.or.jp/",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://kirin-npo.com/grant/",
+        "https://www.af-info.or.jp",
+        "https://www.koryu.or.jp/business/subsidy/",
+        "https://www.mitsubishi-zaidan.jp",
+        "https://corporate.murata.com/ja-jp/group/zaidan"
+      ],
+      "amounts": [
+        5660000,
+        4530000,
+        1480000,
+        240000000,
+        100000000,
+        4000000,
+        590000000,
+        583000000,
+        551000000
+      ],
+      "context_snippets": [
+        "発 | 約2億5,566万円 | 約2億4,453万円 | 約2億5,148万円 | 毎年約101件 | https://www.astellas-foundation.or.jp/ | | 7 | 公益財団法人 内藤記念科学振興財団 | 健康増進に資する自然科学 | 研究助成だけで2.4億円以上 | 同規模推定 | 同規模推定 | 80件以上 | https://www.naito-f.or.j",
+        "発 | 約2億5,566万円 | 約2億4,453万円 | 約2億5,148万円 | 毎年約101件 | https://www.astellas-foundation.or.jp/ | | 7 | 公益財団法人 内藤記念科学振興財団 | 健康増進に資する自然科学 | 研究助成だけで2.4億円以上 | 同規模推定 | 同規模推定 | 80件以上 | https://www.naito-f.or.j"
+      ],
+      "sources": [
+        "team11.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "加藤山崎教育基金": {
+      "name": "公益財団法人加藤山崎教育基金",
+      "name_core": "加藤山崎教育基金",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人加藤山崎教育基金\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\"",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人加藤山崎教育基金\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"人文学\"], \"l1_"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "加藤庸子国際基金": {
+      "name": "公益財団法人加藤庸子国際基金",
+      "name_core": "加藤庸子国際基金",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人加藤庸子国際基金\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\"",
+        "研究\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人加藤庸子国際基金\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"], \"l1"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "加藤朝雄国際奨学財団": {
+      "name": "公益財団法人加藤朝雄国際奨学財団",
+      "name_core": "加藤朝雄国際奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人加藤朝雄国際奨学財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"program",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人加藤朝雄国際奨学財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_field"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "加藤科学振興会": {
+      "name": "公益財団法人加藤科学振興会",
+      "name_core": "加藤科学振興会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人加藤科学振興会\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\":",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人加藤科学振興会\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"工学\"], \"l1_fi"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "助成財団": {
+      "name": "公益財団法人助成財団",
+      "name_core": "助成財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/",
+        "https://www.jfc.or.jp/bunseki-top/rank_asset/rank_asset2022/",
+        "https://www.jfc.or.jp/bunseki-t",
+        "https://jyosei-navi.jfc.or.jp/",
+        "https://www.jfc.or.jp/whatis/content/",
+        "https://www.jfc.or.jp/search_page/",
+        "https://www.jfc.or.jp/wp-content/uploads/2026/04/JFCVIEWS_117-2.pdf",
+        "https://www.jfc.or.jp/jfcreport2025/",
+        "https://www.koeki-info.go.jp/corporations/"
+      ],
+      "amounts": [
+        119500000000,
+        100000000
+      ],
+      "context_snippets": [
+        "定復元する設計が妥当です。  **主要一次資料**  | 資料・ページ | 著者・機関 | 内容 | URL | |---|---|---|---| | 年間助成額上位100財団（2022年度） | 公益財団法人 助成財団センター（JFC） | 財団名、年間助成額、資産総額、設立年、行政庁 | https://www.jfc.or.jp/bunseki-top/rank_grant/rank_gr",
+        "定復元する設計が妥当です。  **主要一次資料**  | 資料・ページ | 著者・機関 | 内容 | URL | |---|---|---|---| | 年間助成額上位100財団（2022年度） | 公益財団法人 助成財団センター（JFC） | 財団名、年間助成額、資産総額、設立年、行政庁 | https://www.jfc.or.jp/bunseki-top/rank_grant/rank_gr"
+      ],
+      "sources": [
+        "team6.txt",
+        "team7.txt",
+        "team8.txt"
+      ]
+    },
+    "北海道さけ・ます増殖事業協会": {
+      "name": "公益社団法人北海道さけ・ます増殖事業協会",
+      "name_core": "北海道さけ・ます増殖事業協会",
+      "legal_form": "公益社団法人",
+      "urls": [
+        "https://www.sake-masu.or.jp/",
+        "https://www.sif.or.jp/",
+        "https://www"
+      ],
+      "amounts": [
+        846000000,
+        824000000,
+        788000000
+      ],
+      "context_snippets": [
+        "O助成|JFC 8.46億円|東京都千代田区|社会起業・NPO連携| ./research_results/foundation_coverage_supplement_2026.md:39:|15|公益社団法人 北海道さけ・ます増殖事業協会|https://www.sake-masu.or.jp/|水産資源・増殖事業|JFC 8.24億円|北海道札幌市|農林水産系| ./research_res"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "博報堂教育財団": {
+      "name": "公益財団法人博報堂教育財団",
+      "name_core": "博報堂教育財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.marubeni.or.jp",
+        "https://www.public.or.jp/project/f0176"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "jp/grant/research/,367000000,,,corporate \"公益財団法人喫煙科学研究財団\",\"JT（日本たばこ産業）\",,362000000,2022,,corporate \"公益財団法人博報堂教育財団\",\"博報堂\",,352000000,2022,,corporate \"公益財団法人ロームミュージックファンデーション\",\"ローム\",,314000000,,,corpora"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "及び一般財団": {
+      "name": "一般社団法人及び一般財団",
+      "name_core": "及び一般財団",
+      "legal_form": "一般社団法人",
+      "urls": [
+        "https://journals.sagepub.com/doi/abs/10.1177/0899764016654281"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "務諸表 セコム科学技術振興財団 web search:  web search: 企業財団 基金 会計報告 任意団体 財務諸表 公開 義務 研究助成 web search:  web search: 一般社団法人及び一般財団法人に関する法律 貸借対照表 公告 計算書類 閲覧 web search:  web search: 公益法人information API 財務諸表 CSV 法人検索 web"
+      ],
+      "sources": [
+        "team15.txt",
+        "team7.txt"
+      ]
+    },
+    "古河記念基金": {
+      "name": "公益財団法人古河記念基金",
+      "name_core": "古河記念基金",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人古河記念基金\", \"corporate_parent\": \"古河電気工業\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"program",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人古河記念基金\", \"corporate_parent\": \"古河電気工業\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_field"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "喫煙科学研究財団": {
+      "name": "公益財団法人喫煙科学研究財団",
+      "name_core": "喫煙科学研究財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/grant/research/",
+        "https://www.marubeni.or.jp",
+        "https://www.public.or.jp/project/f0176",
+        "https://www.toyotafound.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "22,,corporate \"トヨタ財団\",\"トヨタ自動車\",https://www.toyotafound.or.jp/grant/research/,367000000,,,corporate \"公益財団法人喫煙科学研究財団\",\"JT（日本たばこ産業）\",,362000000,2022,,corporate \"公益財団法人博報堂教育財団\",\"博報堂\",,352000000,2022,,corp"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "埼玉りそな産業経済振興財団": {
+      "name": "公益財団法人埼玉りそな産業経済振興財団",
+      "name_core": "埼玉りそな産業経済振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人埼玉りそな産業経済振興財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"prog",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人埼玉りそな産業経済振興財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fi"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "大同生命厚生事業団": {
+      "name": "公益財団法人大同生命厚生事業団",
+      "name_core": "大同生命厚生事業団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.daido-life-welfare.or.jp",
+        "https://www.rohm.co.jp/rd/offer?utm_source=fields.canpan.info&utm_medium=cpc&utm_campaign=JP_BA_kenkyukobo_2026",
+        "https://skzaidan.or.jp/",
+        "https://www.jfc.or.jp/news_subsidy/kona%e8%b3%9e-2/",
+        "https://www.daido-life-welfare.or.jp/chiiki.htm"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "//www.smf.or.jp/kok/,30000000,2024est,,corporate \"大同生命厚生事業団\",\"大同生命保険\",,20000000,2024est,,corporate \"公益財団法人大同生命厚生事業団\",\"大同生命保険\",https://www.daido-life-welfare.or.jp,20000000,2024est,,corporate \"ローム株式会社　"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "大同生命国際文化基金": {
+      "name": "公益財団法人大同生命国際文化基金",
+      "name_core": "大同生命国際文化基金",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人大同生命国際文化基金\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"program",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人大同生命国際文化基金\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\", \"人"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "大和証券福祉財団": {
+      "name": "公益財団法人大和証券福祉財団",
+      "name_core": "大和証券福祉財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.takeda-sci.or.jp/fellowship/study-abroad.php",
+        "https://www.daiwa-grp.jp/dsz/grant/re"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "rank\": null, \"programs\": 1, \"calls\": 1, \"max_amount\": null, \"categories\": \"environment\"}, {\"name\": \"公益財団法人大和証券福祉財団\", \"corporate_parent\": \"大和証券グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "nknown\", \"source_url\": \"https://www.takeda-sci.or.jp/fellowship/study-abroad.php\"}, {\"foundation\": \"公益財団法人大和証券福祉財団\", \"corporate_parent\": \"大和証券グループ\", \"program\": \"調査研究助成のご案内\", \"category\": \"welfare\", \"ti"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "大和証券財団": {
+      "name": "公益財団法人大和証券財団",
+      "name_core": "大和証券財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人大和証券財団\", \"corporate_parent\": \"大和証券グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progr",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人大和証券財団\", \"corporate_parent\": \"大和証券グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"],"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "大塚敏美育英奨学財団": {
+      "name": "公益財団法人大塚敏美育英奨学財団",
+      "name_core": "大塚敏美育英奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/about/data/",
+        "https://www.taf.or.jp/grant-c/03/",
+        "http://www.green.or.jp/",
+        "http://www.vecof.or.jp/news/2017/06/292.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ame': '公益財団法人日揮・実吉奨学会', 'amount': 204000000}, {'rank': 89, 'top100_name': '大塚敏美育英奨学財団', 'db_name': '公益財団法人大塚敏美育英奨学財団', 'amount': 198000000}, {'rank': 90, 'top100_name': '三菱UFJ信託奨学財団', 'db_name': '三菱UF",
+        "実吉奨学会\",204000000,,,2022 87,\"公益財団法人池谷科学技術振興財団\",203000000,,,2022 88,\"公益財団法人本庄国際奨学財団\",202000000,,, 89,\"公益財団法人大塚敏美育英奨学財団\",198000000,,, 90,\"三菱UFJ信託奨学財団\",194000000,,, 91,\"公益財団法人スズキ財団\",194000000,,,2022 93,\"電"
+      ],
+      "sources": [
+        "team6.txt"
+      ]
+    },
+    "大塚芳満記念財団": {
+      "name": "公益財団法人大塚芳満記念財団",
+      "name_core": "大塚芳満記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人大塚芳満記念財団\", \"corporate_parent\": \"大塚グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progr",
+        ", \"amount\": 712000000, \"deadline\": null, \"status\": \"active\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人大塚芳満記念財団\", \"corporate_parent\": \"大塚グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"],"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "大川情報通信基金": {
+      "name": "公益財団法人大川情報通信基金",
+      "name_core": "大川情報通信基金",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://journals.sagepub.com/doi/abs/10.1177/0899764016654281"
+      ],
+      "amounts": [
+        188000000,
+        24583000000
+      ],
+      "context_snippets": [
+        "liations' in https://journals.sagepub.com/doi/abs/10.1177/0899764016654281 web search:  web search: 公益財団法人 大川情報通信基金 研究助成 2022 助成額 web search:  web search: 大川情報通信基金 研究助成 2022 公式 web search:  web search",
+        "22 助成額 web search:  web search: 大川情報通信基金 研究助成 2022 公式 web search:  web search: 公益法人information 法人検索 公益財団法人 大川情報通信基金 codex **調査結果要約**  トラックBの中核は「JFC年間助成額ランキング2022年度版の101-300位を母集団化し、各財団が研究助成財団DBに入るべきか、ま"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "大林財団": {
+      "name": "公益財団法人大林財団",
+      "name_core": "大林財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人大林財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\": 0,",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人大林財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fields\": [\""
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "大阪府育英会": {
+      "name": "公益財団法人大阪府育英会",
+      "name_core": "大阪府育英会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.fu-ikuei.or.jp/",
+        "https://www.ueharazaidan.or.jp/"
+      ],
+      "amounts": [
+        2383500000,
+        2703000000,
+        1463000000,
+        100000000
+      ],
+      "context_snippets": [
+        "025年度595件23.835億円|大阪府大阪市|生命科学大型の筆頭| ./research_results/foundation_coverage_supplement_2026.md:30:|6|公益財団法人 大阪府育英会|https://www.fu-ikuei.or.jp/|奨学金|JFC 27.03億円|大阪府大阪市|奨学中心| ./research_results/foundation"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "大阪難病研究財団": {
+      "name": "公益財団法人大阪難病研究財団",
+      "name_core": "大阪難病研究財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.takatafound.or.jp/news/detail.php?id=120",
+        "https://nanbyo.or.jp/information/20250317/",
+        "https://www.jpcnma.or.jp/project/jyosei/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "寄附講座助成の公募休止 | `GRANT_SUSPENDED`。URL不存在ではない。https://www.takatafound.or.jp/news/detail.php?id=120 | | 公益財団法人大阪難病研究財団 | 2025年度助成事業を休止 | `GRANT_SUSPENDED`。https://nanbyo.or.jp/information/20250317/ | | 公益",
+        "寄附講座助成の公募休止 | `GRANT_SUSPENDED`。URL不存在ではない。https://www.takatafound.or.jp/news/detail.php?id=120 | | 公益財団法人大阪難病研究財団 | 2025年度助成事業を休止 | `GRANT_SUSPENDED`。https://nanbyo.or.jp/information/20250317/ | | 公益"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "天田財団": {
+      "name": "公益財団法人天田財団",
+      "name_core": "天田財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://culfun.mecenat.or.jp/grant/sompo/point.html",
+        "https://www.amada-f.or.jp/",
+        "https://www.takeda-sci.or.jp/research/"
+      ],
+      "amounts": [
+        273000000,
+        2708000000,
+        3500000
+      ],
+      "context_snippets": [
+        "//www.marubeni.or.jp,300000000,2024est,,corporate \"公益財団法人キヤノン財団\",\"キヤノン\",,290000000,2022,,corporate \"公益財団法人天田財団\",\"アマダ\",,273000000,2022,,corporate \"公益財団法人鉄道弘済会\",JR,,265000000,2022,,corporate \"日本生命財団(ニッセ"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "太陽生命厚生財団": {
+      "name": "公益財団法人太陽生命厚生財団",
+      "name_core": "太陽生命厚生財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "大阪市北区中崎西２丁目４番１２号\" \"公益財団法人電通育英会\",\"公益財団法人\",\"東京都\",,,\"東京都中央区銀座７丁目４番１７号電通銀座ビル\"  web search:  web search: 公益財団法人太陽生命厚生財団 公式 所在地 法人番号 web search:  web search: site:houjin-bangou.nta.go.jp 2120005014493 公益財団法"
+      ],
+      "sources": [
+        "team2.txt"
+      ]
+    },
+    "富山第一銀行奨学財団": {
+      "name": "公益財団法人富山第一銀行奨学財団",
+      "name_core": "富山第一銀行奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ess\": \"富山県富山市新根塚町二丁目8番地２\",     \"is_corporate\": false,     \"research_score\": 9   },   {     \"name\": \"公益財団法人富山第一銀行奨学財団\",     \"purpose\": \"次の時代を担う優れた学徒・人材への育成支援と学術・科学技術の振興のため高等教育機関等の研究活動・設備等への助成・顕彰を行い、富山県"
+      ],
+      "sources": [
+        "team2.txt",
+        "team6.txt"
+      ]
+    },
+    "寺岡記念育英会": {
+      "name": "公益財団法人寺岡記念育英会",
+      "name_core": "寺岡記念育英会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ddress\": \"富山県富山市掛尾町６２６番地\",     \"is_corporate\": false,     \"research_score\": 8   },   {     \"name\": \"公益財団法人寺岡記念育英会\",     \"purpose\": \"医学・学術振興の発展及び医療技術向上に寄与することを目的とし、医学研究者への研究費の助成、医学者及び医療従事者が海外技術を学ぶための留学"
+      ],
+      "sources": [
+        "team2.txt",
+        "team6.txt"
+      ]
+    },
+    "小林財団": {
+      "name": "公益財団法人小林財団",
+      "name_core": "小林財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/",
+        "https://www.toyotafo",
+        "https://www.toyotafound.or.jp/grant/research/",
+        "https://www.kobayashi-foundation.or.jp/"
+      ],
+      "amounts": [
+        382000000,
+        375000000
+      ],
+      "context_snippets": [
+        " \"公益財団法人持田記念医学薬学振興財団\",\"持田製薬\",,446000000,2022,,corporate \"住友財団\",\"住友グループ\",,409000000,2022,,corporate \"公益財団法人小林財団\",\"小林製薬\",,375000000,2022,,corporate \"公益財団法人中外創薬科学財団\",\"中外製薬\",,373000000,2022,,corporate \"公益"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "小田急財団": {
+      "name": "公益財団法人小田急財団",
+      "name_core": "小田急財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "http://www.green.or.jp/",
+        "https://www"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "団)\",\"日本生命保険\",,229000000,2022,,corporate \"公益財団法人飯島藤十郎記念食品科学振興財団\",\"山崎製パン\",,225000000,2022,,corporate \"公益財団法人小田急財団\",\"小田急電鉄\",,223000000,2022,,corporate \"公益財団法人日本科学協会\",,,209000000,,,corporate \"公益財団法人スズキ財団\""
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "小笠原敏晶記念財団": {
+      "name": "公益財団法人小笠原敏晶記念財団",
+      "name_core": "小笠原敏晶記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.public.or.jp/project/f0176",
+        "https://culfun.mecenat.or.jp/grant/sompo/point.html",
+        "https://www.marubeni.or.jp",
+        "https://culfun.mece"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "0000, \"jfc_rank\": 58, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人小笠原敏晶記念財団\", \"corporate_parent\": null, \"annual_grant_amount\": 326000000, \"jfc_rank\": 61, \"progr",
+        "\": \"博報堂\", \"annual_grant_amount\": 352000000, \"jfc_rank\": 58, \"annual_grant_year\": \"2022\"}, {\"name\": \"公益財団法人小笠原敏晶記念財団\", \"corporate_parent\": null, \"annual_grant_amount\": 326000000, \"jfc_rank\": 61, \"annua"
+      ],
+      "sources": [
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "小野奨学会": {
+      "name": "公益財団法人小野奨学会",
+      "name_core": "小野奨学会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://ono-syougakukai.or.jp/",
+        "https://toyotamobilityfoundation.org/"
+      ],
+      "amounts": [
+        741000000,
+        731000000,
+        716000000
+      ],
+      "context_snippets": [
+        "|奨学、国際交流|JFC 7.41億円|兵庫県加古郡|食品系親会社| ./research_results/foundation_coverage_supplement_2026.md:43:|19|公益財団法人 小野奨学会|https://ono-syougakukai.or.jp/|奨学金|JFC 7.31億円|大阪府大阪市|奨学中心| ./research_results/foundatio"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "岡三加藤文化振興財団": {
+      "name": "公益財団法人岡三加藤文化振興財団",
+      "name_core": "岡三加藤文化振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人岡三加藤文化振興財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"program",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人岡三加藤文化振興財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"人文学\"], \"l1_fields"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "岩手県市町村振興協会": {
+      "name": "公益財団法人岩手県市町村振興協会",
+      "name_core": "岩手県市町村振興協会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.iwate-shichousonkai.or.jp/",
+        "https://www.af-info.or.jp/"
+      ],
+      "amounts": [
+        518000000,
+        513999999,
+        499000000
+      ],
+      "context_snippets": [
+        "r.jp/|奨学金|JFC 5.18億円|栃木県宇都宮市|奨学中心| ./research_results/foundation_coverage_supplement_2026.md:61:|37|公益財団法人 岩手県市町村振興協会|https://www.iwate-shichousonkai.or.jp/|地域振興|JFC 5.14億円|岩手県盛岡市|地方外郭| ./research_res"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "岩谷時子音楽文化振興財団": {
+      "name": "公益財団法人岩谷時子音楽文化振興財団",
+      "name_core": "岩谷時子音楽文化振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人岩谷時子音楽文化振興財団\", \"corporate_parent\": \"岩谷産業\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "福祉\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人岩谷時子音楽文化振興財団\", \"corporate_parent\": \"岩谷産業\", \"program\": \"(事業目的から推定)\", \"domains\": [\"人文学\", \"芸術\"], "
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "岩谷直治記念財団": {
+      "name": "公益財団法人岩谷直治記念財団",
+      "name_core": "岩谷直治記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "http://www.green.or.jp/",
+        "https://www.nomurafoundation.or.jp",
+        "http://htt",
+        "http://www.vecof.or.jp/news/2017/06/292.html",
+        "https://fields.canpan.info/organization/detail/1607134168",
+        "https://www.taf.or.jp/grant-c/03/"
+      ],
+      "amounts": [
+        188000000,
+        24583000000,
+        184000000,
+        21547000000,
+        179000000
+      ],
+      "context_snippets": [
+        "財団\",\"スズキ\",,194000000,2022,,corporate \"社団法人国土緑化推進機構\",,http://www.green.or.jp/,190000000,,,corporate \"公益財団法人岩谷直治記念財団\",\"岩谷産業\",,188000000,2022,,corporate \"公益財団法人立石科学技術振興財団\",\"オムロン\",,184000000,2022,,corpora"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team2.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "島津科学技術振興財団": {
+      "name": "公益財団法人島津科学技術振興財団",
+      "name_core": "島津科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nakatani-foundation.jp/grant_tech/",
+        "https://www.shimadzu.co.jp/ssf/",
+        "https://www.shimadzu.co.jp/SSF/",
+        "https://www.shimadzu.co.jp/aboutus/ssf/about/profile.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "//www.nakatani-foundation.jp/business/)、[研究助成](https://www.nakatani-foundation.jp/grant_tech/)） | | 公益財団法人島津科学技術振興財団 | https://www.shimadzu.co.jp/ssf/ | 財団概要、内閣府公益認定、所在地、研究開発助成を掲載（[公式](https://www.shi",
+        "//www.nakatani-foundation.jp/business/)、[研究助成](https://www.nakatani-foundation.jp/grant_tech/)） | | 公益財団法人島津科学技術振興財団 | https://www.shimadzu.co.jp/ssf/ | 財団概要、内閣府公益認定、所在地、研究開発助成を掲載（[公式](https://www.shi"
+      ],
+      "sources": [
+        "team3.txt",
+        "team7.txt"
+      ]
+    },
+    "市村清新技術財団": {
+      "name": "公益財団法人市村清新技術財団",
+      "name_core": "市村清新技術財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.sgkz.or.jp/prize/science/",
+        "https://www.sumitomo.or.jp/",
+        "https://www.sgkz.or.jp/",
+        "https://www.mochida.co.jp/zaidan/",
+        "https://www.sgkz.or.jp/project/newtech/download/outline.html",
+        "https://www.sgkz.or.jp/project/newt"
+      ],
+      "amounts": [
+        409000000,
+        150000000,
+        470000000,
+        462000000,
+        446000000,
+        24000000
+      ],
+      "context_snippets": [
+        "学奨学会, 住友電工グループ社会貢献基金 → 要手動確認 ./research_results/02_awards_prizes_foundations.md:26:| S | 市村清新技術財団 | 公益財団法人市村清新技術財団 | 東京都 | (i)(p) | 市村賞、市村学術賞、市村産業賞、地球環境研究助成 | 市村学術賞は功績賞・貢献賞等。金額は募集要項で確認 | 実用化可能性のある大学・研"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "帝人奨学会": {
+      "name": "公益財団法人帝人奨学会",
+      "name_core": "帝人奨学会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人帝人奨学会\", \"corporate_parent\": \"帝人\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\": 0",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人帝人奨学会\", \"corporate_parent\": \"帝人\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fields\": ["
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "平和中島財団": {
+      "name": "公益財団法人平和中島財団",
+      "name_core": "平和中島財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://culfun.mecenat.or.jp/grant/sompo/point.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "78000000,,https://culfun.mecenat.or.jp/grant/sompo/point.html, 71,\"公益財団法人天田財団\",273000000,,,2022 72,\"公益財団法人平和中島財団\",272000000,,, 73,\"化学及血清療法研究所\",268000000,,, 74,\"公益財団法人鉄道弘済会\",265000000,,,2022 77,\"日本生命財団",
+        "協議会\",278000000,,70,https://culfun.mecenat.or.jp/grant/sompo/point.html \"公益財団法人天田財団\",273000000,,71, \"公益財団法人平和中島財団\",272000000,,72, \"化学及血清療法研究所\",268000000,,73, \"公益財団法人鉄道弘済会\",265000000,,74, \"日本生命財団(ニッセイ財団"
+      ],
+      "sources": [
+        "team6.txt"
+      ]
+    },
+    "持田記念医学薬学振興財団": {
+      "name": "公益財団法人持田記念医学薬学振興財団",
+      "name_core": "持田記念医学薬学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.terumozaidan.or.jp/",
+        "https://www.mochidazaidan.or.jp/kenkyu.html",
+        "https://www.astellas-foundation.or.jp/",
+        "https://www.af-info.or.jp",
+        "https://www.toyotafound.or.jp/",
+        "https://www",
+        "https://www.mochida.co.jp/zaidan/",
+        "https://www.dentsu-ikueikai.or.jp/"
+      ],
+      "amounts": [
+        9000000,
+        7000000,
+        300000000,
+        5660000,
+        4530000,
+        1480000,
+        240000000,
+        462000000,
+        446000000,
+        426999999
+      ],
+      "context_snippets": [
+        "医工学 | 研究開発助成3億3,900万円 | 3億2,100万円 | 3億2,700万円 | 2024年139件 | https://www.terumozaidan.or.jp/ | | 5 | 公益財団法人 持田記念医学薬学振興財団 | 医学・薬学・創薬 | 3億円 | 3億円規模 | 3億円規模 | 毎年100件 | https://www.mochidazaidan.or.jp/kenk",
+        "医工学 | 研究開発助成3億3,900万円 | 3億2,100万円 | 3億2,700万円 | 2024年139件 | https://www.terumozaidan.or.jp/ | | 5 | 公益財団法人 持田記念医学薬学振興財団 | 医学・薬学・創薬 | 3億円 | 3億円規模 | 3億円規模 | 毎年100件 | https://www.mochidazaidan.or.jp/kenk"
+      ],
+      "sources": [
+        "team11.txt",
+        "team14.txt",
+        "team17.txt",
+        "team2.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "新技術開発財団": {
+      "name": "公益財団法人新技術開発財団",
+      "name_core": "新技術開発財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000048.000041232.html",
+        "https://www.sgkz.or.jp/",
+        "https://www.sgkz.or.jp/outline/",
+        "https://www.fbm-zaidan.or.jp/",
+        "https://www.fbm-zaidan.or.jp/about/overview.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ttps://www.kose-cosmetology.or.jp/ | https://prtimes.jp/main/html/rd/p/000000048.000041232.html | | 公益財団法人新技術開発財団 | 2018-04-01、市村清新技術財団へ名称変更 | https://www.sgkz.or.jp/ | https://www.sgkz.or.jp/outline/",
+        "ttps://www.kose-cosmetology.or.jp/ | https://prtimes.jp/main/html/rd/p/000000048.000041232.html | | 公益財団法人新技術開発財団 | 2018-04-01、市村清新技術財団へ名称変更 | https://www.sgkz.or.jp/ | https://www.sgkz.or.jp/outline/"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "新潟医学振興会": {
+      "name": "公益財団法人新潟医学振興会",
+      "name_core": "新潟医学振興会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        " 'updated_history': False}}  ### data/koeki_research_foundations.json <class 'list'> 4212 {'name': '公益財団法人新潟医学振興会', 'purpose': '医学・医療の教育研究環境の整備及び先端的医療技術の向上を図り、もって地域社会への医療の安定供給に寄与するため、修学資金の貸与、奨励金・奨学金の交"
+      ],
+      "sources": [
+        "team14.txt",
+        "team2.txt",
+        "team6.txt"
+      ]
+    },
+    "日中医学協会": {
+      "name": "公益財団法人日中医学協会",
+      "name_core": "日中医学協会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://nanbyo.or.jp/information/20250317/",
+        "https://www.jpcnma.or.jp/project/jyosei/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "| 公益財団法人大阪難病研究財団 | 2025年度助成事業を休止 | `GRANT_SUSPENDED`。https://nanbyo.or.jp/information/20250317/ | | 公益財団法人日中医学協会 | 研究助成の一部を当面休止 | `GRANT_SUSPENDED`。https://www.jpcnma.or.jp/project/jyosei/ |  **推奨ワークフ",
+        "| 公益財団法人大阪難病研究財団 | 2025年度助成事業を休止 | `GRANT_SUSPENDED`。https://nanbyo.or.jp/information/20250317/ | | 公益財団法人日中医学協会 | 研究助成の一部を当面休止 | `GRANT_SUSPENDED`。https://www.jpcnma.or.jp/project/jyosei/ |  **推奨ワークフ"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "日揮・実吉奨学会": {
+      "name": "公益財団法人日揮・実吉奨学会",
+      "name_core": "日揮・実吉奨学会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.taf.or.jp/grant-c/03/",
+        "http://www.green",
+        "http://www.green.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "0000, \"jfc_rank\": 79, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日揮・実吉奨学会\", \"corporate_parent\": null, \"annual_grant_amount\": 204000000, \"jfc_rank\": 86, \"progra",
+        " \"小田急電鉄\", \"annual_grant_amount\": 223000000, \"jfc_rank\": 79, \"annual_grant_year\": \"2022\"}, {\"name\": \"公益財団法人日揮・実吉奨学会\", \"corporate_parent\": null, \"annual_grant_amount\": 204000000, \"jfc_rank\": 86, \"annual"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "日揮社会": {
+      "name": "公益財団法人日揮社会",
+      "name_core": "日揮社会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日揮社会福祉財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\"",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日揮社会福祉財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fields\""
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "日本フィランソロピック財団": {
+      "name": "公益財団法人日本フィランソロピック財団",
+      "name_core": "日本フィランソロピック財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.np-foundation.o",
+        "https://www.np-foundation.or",
+        "https://www.np-foundation.or.jp/",
+        "https://jssf.or.j",
+        "https://jssf.or.jp/researchgrant.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "tps://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010705001797 | 2022/2024 | JFC掲載名、現商号、法人番号、認定情報 | | 公益財団法人 日本フィランソロピック財団 | 公益財団法人日本フィランソロピック財団 | 基金型助成財団として公式サイトで公益財団法人を明記 | https://www.np-foundation.o",
+        "ojin/ichiran?hojinBango=7010705001797 | 2022/2024 | JFC掲載名、現商号、法人番号、認定情報 | | 公益財団法人 日本フィランソロピック財団 | 公益財団法人日本フィランソロピック財団 | 基金型助成財団として公式サイトで公益財団法人を明記 | https://www.np-foundation.o\", ./research_results/c"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "日本台湾交流協会": {
+      "name": "公益財団法人日本台湾交流協会",
+      "name_core": "日本台湾交流協会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.spf.org",
+        "https://www.koryu.or.jp/business/subsidy/",
+        "https://www.mitsubishi-zaidan.jp",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.af-info.or.jp",
+        "https://www.koryu.or.jp/",
+        "https://www.jomon.ne.jp/~mozaidan/"
+      ],
+      "amounts": [
+        699000000,
+        650000000,
+        640000000
+      ],
+      "context_snippets": [
+        " 21,\"公益財団法人中谷財団\",723034171,123362305344,,2022 23,\"公益財団法人笹川平和財団\",699000000,,https://www.spf.org, 24,\"公益財団法人日本台湾交流協会\",650000000,,https://www.koryu.or.jp/business/subsidy/, 26,\"三菱財団\",608000000,,https://w",
+        "3362305344,21, \"公益財団法人トヨタ・モビリティ基金\",716000000,,20, \"公益財団法人笹川平和財団\",699000000,,23,https://www.spf.org \"公益財団法人日本台湾交流協会\",650000000,,24,https://www.koryu.or.jp/business/subsidy/ \"三菱財団\",608000000,,26,https:/"
+      ],
+      "sources": [
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "日本国際教育支援協会": {
+      "name": "公益財団法人日本国際教育支援協会",
+      "name_core": "日本国際教育支援協会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jees.or.jp/",
+        "https://www.rotary-yoneyama.or.jp/"
+      ],
+      "amounts": [
+        1463000000,
+        100000000,
+        1241000000,
+        1222000000
+      ],
+      "context_snippets": [
+        "JFC 14.63億円。上原賞1億円へ改訂|東京都豊島区|製薬系大型| ./research_results/foundation_coverage_supplement_2026.md:32:|8|公益財団法人 日本国際教育支援協会|https://www.jees.or.jp/|留学生・国際教育支援|JFC 12.41億円|東京都目黒区|海外受入・奨学| ./research_results/"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "日本教育公務員弘済会": {
+      "name": "公益財団法人日本教育公務員弘済会",
+      "name_core": "日本教育公務員弘済会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nikkyoko.or.jp/business/education.html#menu-title08",
+        "https://www.takeda-sci.or.jp",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.i",
+        "https://www.nippon-foundation.or.jp/",
+        "https://www.inamori-f.or.jp",
+        "https://www.nikkyoko.or.jp/",
+        "https://www.takeda-sci.or.jp/"
+      ],
+      "amounts": [
+        6238000000,
+        3619000000,
+        2708000000,
+        2383500000
+      ],
+      "context_snippets": [
+        "nual_grant_year,total_assets,foundation_subtype \"ＪＫＡ\",\"JKA（競輪・オートレース）\",,6238000000,2022,,corporate \"公益財団法人日本教育公務員弘済会\",,https://www.nikkyoko.or.jp/business/education.html#menu-title08,3619000000,,,corp"
+      ],
+      "sources": [
+        "team14.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "日本生命済生会": {
+      "name": "公益財団法人日本生命済生会",
+      "name_core": "日本生命済生会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日本生命済生会\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\":",
+        "福祉\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日本生命済生会\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"], \"l1_"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "日本科学協会": {
+      "name": "公益財団法人日本科学協会",
+      "name_core": "日本科学協会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "http://www.green.or.jp/",
+        "https://www.nomurafoundation.or.jp",
+        "https://www.taf.or.jp/gra",
+        "https://www.taf.or.jp/grant-c/03/",
+        "https://www.nakatani-foundation.jp/en/",
+        "https://www.jss.or.jp/ikusei/sasakawa/index.html",
+        "https://www.t"
+      ],
+      "amounts": [
+        209000000
+      ],
+      "context_snippets": [
+        "藤十郎記念食品科学振興財団\",\"山崎製パン\",,225000000,2022,,corporate \"公益財団法人小田急財団\",\"小田急電鉄\",,223000000,2022,,corporate \"公益財団法人日本科学協会\",,,209000000,,,corporate \"公益財団法人スズキ財団\",\"スズキ\",,194000000,2022,,corporate \"社団法人国土緑化推進機構\","
+      ],
+      "sources": [
+        "team14.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "日本製鉄文化財団": {
+      "name": "公益財団法人日本製鉄文化財団",
+      "name_core": "日本製鉄文化財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日本製鉄文化財団\", \"corporate_parent\": \"日本製鉄\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"program",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日本製鉄文化財団\", \"corporate_parent\": \"日本製鉄\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"人文学\", \"芸術"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "日本証券奨学財団": {
+      "name": "公益財団法人日本証券奨学財団",
+      "name_core": "日本証券奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://jssf.or.jp/researchgrant.html",
+        "https://jssf.or.jp/researchgrant.h",
+        "https://www.jfc.or.jp/bunseki-top/rank_"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "onfidence、last_checked、分類者メモ |  **分類例**  | 財団名 | URL | 年度 | 判定 | 根拠データ項目 | |---|---|---:|---|---| | 公益財団法人 日本証券奨学財団 | https://jssf.or.jp/researchgrant.html | 2022 | 研究助成該当 | JFC募集ニュースで「学術の研究」「社会科学」「1件",
+        "onfidence、last_checked、分類者メモ |  **分類例**  | 財団名 | URL | 年度 | 判定 | 根拠データ項目 | |---|---|---:|---|---| | 公益財団法人 日本証券奨学財団 | https://jssf.or.jp/researchgrant.html | 2022 | 研究助成該当 | JFC募集ニュースで「学術の研究」「社会科学」「1件"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "日本財団": {
+      "name": "公益財団法人日本財団",
+      "name_core": "日本財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nippon-foundation.or.jp/",
+        "https://www.spf.org/",
+        "https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/",
+        "https://www.jfc.or.jp/bunseki-top/",
+        "https://www.japanplatform.org/"
+      ],
+      "amounts": [
+        65619000000,
+        699000000,
+        8660000000
+      ],
+      "context_snippets": [
+        "所在都道府県,公益性ステータス,年間助成額・規模,主要プログラム名,対象分野キーワード,必要書類概要,締切・時期 ./data/hss_foundation_priority_table.csv:2:公益財団法人日本財団,https://www.nippon-foundation.or.jp/,笹川良一・ボートレース公益資金,東京,公益財団法人,\"65,619百万円（JFC 2022年度1位）\",",
+        "ータス | 年間助成額・根拠 | 主要プログラム名 | 対象分野キーワード | 応募資格・必要書類概要 | ./report/hss_foundation_research_2026.md:20:| 公益財団法人日本財団 | https://www.nippon-foundation.or.jp/ | 笹川良一・ボートレース公益資金 | 東京 | 公益財団法人 | 65,619百万円（JFC 20"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "日本農芸化学会": {
+      "name": "公益社団法人日本農芸化学会",
+      "name_core": "日本農芸化学会",
+      "legal_form": "公益社団法人",
+      "urls": [
+        "https://www.sgh-foundation.or.jp/info/1500/",
+        "https://www.jsbba.or.jp/",
+        "https://www.jsbba.or.jp/info/news/news_20170901.html",
+        "https://tokachi-zaidan.jp/",
+        "https://tokachi-zaidan.jp/tp_detail.php?id=48",
+        "https://www.kose-cosmetology.or",
+        "https://www.kose-cosmetology.or"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "| https://www.sgh-foundation.or.jp/info/1500/ | | 公益財団法人農芸化学研究奨励会 | 2017年、日本農芸化学会が吸収合併、研究奨励金事業を承継 | 公益社団法人日本農芸化学会 https://www.jsbba.or.jp/ | https://www.jsbba.or.jp/info/news/news_20170901.html | | 公益",
+        "| https://www.sgh-foundation.or.jp/info/1500/ | | 公益財団法人農芸化学研究奨励会 | 2017年、日本農芸化学会が吸収合併、研究奨励金事業を承継 | 公益社団法人日本農芸化学会 https://www.jsbba.or.jp/ | https://www.jsbba.or.jp/info/news/news_20170901.html | | 公益"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "日産厚生会": {
+      "name": "公益財団法人日産厚生会",
+      "name_core": "日産厚生会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日産厚生会\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\": 0",
+        "開発\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日産厚生会\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"], \"l1_fi"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "日産財団": {
+      "name": "公益財団法人日産財団",
+      "name_core": "日産財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日産財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\": 0,",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日産財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fields\": [\""
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "日立メディカルセンター": {
+      "name": "公益財団法人日立メディカルセンター",
+      "name_core": "日立メディカルセンター",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日立メディカルセンター\", \"corporate_parent\": \"日立製作所\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日立メディカルセンター\", \"corporate_parent\": \"日立製作所\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\""
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "日立地区産業支援センター": {
+      "name": "公益財団法人日立地区産業支援センター",
+      "name_core": "日立地区産業支援センター",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日立地区産業支援センター\", \"corporate_parent\": \"日立製作所\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pr",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日立地区産業支援センター\", \"corporate_parent\": \"日立製作所\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"工学\"]"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "日立市スポーツ協会": {
+      "name": "公益財団法人日立市スポーツ協会",
+      "name_core": "日立市スポーツ協会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日立市スポーツ協会\", \"corporate_parent\": \"日立製作所\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progr",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日立市スポーツ協会\", \"corporate_parent\": \"日立製作所\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"],"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "日立市民科学文化財団": {
+      "name": "公益財団法人日立市民科学文化財団",
+      "name_core": "日立市民科学文化財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日立市民科学文化財団\", \"corporate_parent\": \"日立製作所\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"prog",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日立市民科学文化財団\", \"corporate_parent\": \"日立製作所\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"人文学\"],"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "日立財団": {
+      "name": "公益財団法人日立財団",
+      "name_core": "日立財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人日立財団\", \"corporate_parent\": \"日立製作所\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\":",
+        ", \"amount\": 188000000, \"deadline\": null, \"status\": \"active\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人日立財団\", \"corporate_parent\": \"日立製作所\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"], \"l1_"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "旭化成ひむか文化財団": {
+      "name": "公益財団法人旭化成ひむか文化財団",
+      "name_core": "旭化成ひむか文化財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人旭化成ひむか文化財団\", \"corporate_parent\": \"旭化成\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progra",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人旭化成ひむか文化財団\", \"corporate_parent\": \"旭化成\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"人文学\"], \""
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "旭硝子財団": {
+      "name": "公益財団法人旭硝子財団",
+      "name_core": "旭硝子財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp",
+        "https://www.af-info.or.jp",
+        "https://fields.canpan.info/grant/detail/1995",
+        "https://www.af-info.or.jp/research/about.html",
+        "https://www.af-info.or.jp/research/",
+        "https://www",
+        "https://www.cao.go.jp/others/koeki_npo/koeki",
+        "https://www.cao.go.jp/others/koeki_npo/koeki_npo_seido.html",
+        "https://www.sumitomo.or.jp/",
+        "https://www.af-info.or.jp/",
+        "https://www.af-info.or.jp/research/awardees.html",
+        "https://www.toyotafound.or.jp/",
+        "https://ww",
+        "https://kirin-npo.com/grant/",
+        "https://www.pwc.com/jp/ja/about-us/member/pwc-foundation.html",
+        "https://www.af-inf",
+        "https://www.kagoshima-ikuei.jp/",
+        "https://www.inamori-f.or.jp/",
+        "https://corporate.murata.com/ja-jp/group/zaidan",
+        "https://www.takeda-sci.or.jp/",
+        "https://www.takeda-sci.or.jp/about/outline/",
+        "https://www.taf.or.jp/grant",
+        "https://www.suzukifound.jp/02program/program02.html",
+        "https://af-info.or.jp/research/index.html",
+        "https://af-info.or.jp/rese"
+      ],
+      "amounts": [
+        513999999,
+        499000000,
+        488000000
+      ],
+      "context_snippets": [
+        "2000000,2022,,corporate \"三菱財団\",\"三菱グループ\",https://www.mitsubishi-zaidan.jp,608000000,2022,,corporate \"公益財団法人旭硝子財団\",AGC,https://www.af-info.or.jp,567100000,2022,37998969948,corporate \"村田学術振興・教育財団\",\"村田製作所"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team3.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "明治安田クオリティオブライフ文化財団": {
+      "name": "公益財団法人明治安田クオリティオブライフ文化財団",
+      "name_core": "明治安田クオリティオブライフ文化財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人明治安田クオリティオブライフ文化財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, ",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人明治安田クオリティオブライフ文化財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"人"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "明治安田厚生事業団": {
+      "name": "公益財団法人明治安田厚生事業団",
+      "name_core": "明治安田厚生事業団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人明治安田厚生事業団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人明治安田厚生事業団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"], \"l"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "朝鮮奨学会": {
+      "name": "公益財団法人朝鮮奨学会",
+      "name_core": "朝鮮奨学会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/grant/research/",
+        "https://www.public.or.jp/project/f0176",
+        "https://www.mar"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ww.toyotafound.or.jp/,2022 54,\"トヨタ財団\",367000000,,https://www.toyotafound.or.jp/grant/research/, 55,\"公益財団法人朝鮮奨学会\",362000000,,, 56,\"公益財団法人喫煙科学研究財団\",362000000,,,2022 58,\"公益財団法人博報堂教育財団\",352000000,,,2022 5",
+        "トヨタ財団\",367000000,,54,https://www.toyotafound.or.jp/grant/research/ \"公益財団法人喫煙科学研究財団\",362000000,,56, \"公益財団法人朝鮮奨学会\",362000000,,55, \"公益財団法人博報堂教育財団\",352000000,,58, \"パブリックリソース財団\",349000000,,59,https://www.p"
+      ],
+      "sources": [
+        "team6.txt"
+      ]
+    },
+    "本庄国際奨学財団": {
+      "name": "公益財団法人本庄国際奨学財団",
+      "name_core": "本庄国際奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.taf.or.jp/grant-c/03/",
+        "http://www.green.or.jp/",
+        "http://www.vecof.or.jp/news/2017/",
+        "http://www.v"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "子記念財団\",205000000,,, 86,\"公益財団法人日揮・実吉奨学会\",204000000,,,2022 87,\"公益財団法人池谷科学技術振興財団\",203000000,,,2022 88,\"公益財団法人本庄国際奨学財団\",202000000,,, 89,\"公益財団法人大塚敏美育英奨学財団\",198000000,,, 90,\"三菱UFJ信託奨学財団\",194000000,,, 91,\"公益",
+        "0,,83, \"篠原欣子記念財団\",205000000,,85, \"公益財団法人日揮・実吉奨学会\",204000000,,86, \"公益財団法人池谷科学技術振興財団\",203000000,,87, \"公益財団法人本庄国際奨学財団\",202000000,,88, \"公益財団法人大塚敏美育英奨学財団\",198000000,,89, \"公益財団法人スズキ財団\",194000000,,91, \"三菱UFJ"
+      ],
+      "sources": [
+        "team6.txt"
+      ]
+    },
+    "杉浦記念財団": {
+      "name": "公益財団法人杉浦記念財団",
+      "name_core": "杉浦記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人杉浦記念財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\": ",
+        ", \"amount\": 204000000, \"deadline\": null, \"status\": \"active\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人杉浦記念財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\"], \"l1_f"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "村田学術振興・教育財団": {
+      "name": "公益財団法人村田学術振興・教育財団",
+      "name_core": "村田学術振興・教育財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.af-info.or.jp/",
+        "https://corporate.murata.co",
+        "https://corporate.murata.com/ja-jp/group/zaidan",
+        "https://www.secomzaidan.jp/",
+        "https://www.secomzaidan.jp/info_oubo.html",
+        "https://corporate.murata.com/ja-jp/group/zaidan/requirement/grant-target"
+      ],
+      "amounts": [
+        583000000,
+        551000000,
+        547000000,
+        5000000,
+        35000000
+      ],
+      "context_snippets": [
+        "keda-sci.or.jp/research/ |  **推奨ワークフロー** 1. 欠損財団名を正規化   `公益財団法人`、`一般財団法人`、全角半角、旧称、略称、冠企業名を分離します。例: `公益財団法人 村田学術振興・教育財団` と `村田学術振興財団` を同一候補に寄せる。  2. 大学・研究機関サイトから候補URLを収集   検索クエリ例: ```text site:ac.jp \"公",
+        "keda-sci.or.jp/research/ |  **推奨ワークフロー** 1. 欠損財団名を正規化   `公益財団法人`、`一般財団法人`、全角半角、旧称、略称、冠企業名を分離します。例: `公益財団法人 村田学術振興・教育財団` と `村田学術振興財団` を同一候補に寄せる。  2. 大学・研究機関サイトから候補URLを収集   検索クエリ例: ```text site:ac.jp \"公"
+      ],
+      "sources": [
+        "team5.txt",
+        "team7.txt"
+      ]
+    },
+    "村田学術振興財団": {
+      "name": "公益財団法人村田学術振興財団",
+      "name_core": "村田学術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.af-info.or.jp/",
+        "https://corporate.murata.co"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 企業名はAGCに変わったが財団正式名称は旭硝子財団のまま | https://www.af-info.or.jp/ | 2026 | 名称維持、表記注意、研究助成、奨学、ブループラネット賞 | | 公益財団法人 村田学術振興財団等の旧表記候補 | 公益財団法人 村田学術振興・教育財団 | 公式サイト上の現名称は「村田学術振興・教育財団」 | https://corporate.murata.co",
+        " 企業名はAGCに変わったが財団正式名称は旭硝子財団のまま | https://www.af-info.or.jp/ | 2026 | 名称維持、表記注意、研究助成、奨学、ブループラネット賞 | | 公益財団法人 村田学術振興財団等の旧表記候補 | 公益財団法人 村田学術振興・教育財団 | 公式サイト上の現名称は「村田学術振興・教育財団」 | https://corporate.murata.co"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "東レ科学振興会": {
+      "name": "公益財団法人東レ科学振興会",
+      "name_core": "東レ科学振興会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人東レ科学振興会\", \"corporate_parent\": \"東レ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\":"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "東芝国際交流財団": {
+      "name": "公益財団法人東芝国際交流財団",
+      "name_core": "東芝国際交流財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人東芝国際交流財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\"",
+        "済学\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人東芝国際交流財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fields\""
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "業務スーパージャパンドリーム財団": {
+      "name": "公益財団法人業務スーパージャパンドリーム財団",
+      "name_core": "業務スーパージャパンドリーム財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp",
+        "https://www.af-info.or.jp",
+        "https://www.inamori-f.or.jp",
+        "https://www.spf.org",
+        "https://www.koryu.or.jp/business/subsidy/",
+        "https://www.kobebussan.or.jp/",
+        "https://ono-syougakukai.or.jp/",
+        "https://toyota"
+      ],
+      "amounts": [
+        744000000,
+        741000000,
+        731000000
+      ],
+      "context_snippets": [
+        "稲盛財団\",\"京セラ（稲盛和夫）\",,987000000,2022,,corporate \"公益財団法人三菱みらい育成財団\",\"三菱グループ\",,744000000,2022,,corporate \"公益財団法人業務スーパージャパンドリーム財団\",\"神戸物産\",,741000000,2022,,corporate \"公益財団法人トヨタ・モビリティ基金\",\"トヨタ自動車\",,716000000,20"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "武田太加志記念能楽振興財団": {
+      "name": "公益財団法人武田太加志記念能楽振興財団",
+      "name_core": "武田太加志記念能楽振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "rank\": null, \"programs\": 1, \"calls\": 1, \"max_amount\": 1000000, \"categories\": \"research\"}, {\"name\": \"公益財団法人武田太加志記念能楽振興財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"prog",
+        "福祉\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人武田太加志記念能楽振興財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"人文学\"], \"l1_fie"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "武田科学振興財団": {
+      "name": "公益財団法人武田科学振興財団",
+      "name_core": "武田科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.takeda-sci.or.jp/research/list.php",
+        "https://www.ueharazaidan.or.jp/",
+        "https://www.nikkyoko.or.jp/business/education.html#menu-title08",
+        "https://www.takeda-sci.or.jp",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.inamori-f.or.jp",
+        "https://www.toyotafound.or.jp/grant/research/index.html",
+        "https://www.takeda-sci.or.jp/fellowship/ab",
+        "https://www.takeda-sci.or.jp/fellowship/abroad.php",
+        "https://www.takeda-sci.or.jp/fellowship",
+        "https://www.jfc.or.jp/news_subsidy/%e5%87%ba%e7%89%88%e5%8a%a9%e6%88%90-2/",
+        "https://www.takeda-sci.or.jp/research/",
+        "https://www.toyotafound.or.jp/service/topics/research/2026-0326-1338-16.html",
+        "https://www.takeda-sci.or.jp/fellowship/doct",
+        "https://www.takeda-sci.or.jp/fellowship/",
+        "https://www.takeda-sci.or.jp/",
+        "https://www.takeda-sci.or.jp/about/out",
+        "https://www.taked",
+        "https://www.fu-ikuei.or.jp/",
+        "https://www.takeda-sci.or.jp/about/outline/",
+        "https://www.inamori-f.or.jp/",
+        "https://www.pwc.com/jp/ja/about-us/member/pwc-foundation.html",
+        "https://www.af-info.or.jp/",
+        "https://corporate.mur",
+        "https://www.takeda-sci.or.jp/business/prize.html"
+      ],
+      "amounts": [
+        4000000,
+        7050000,
+        60000000,
+        47000000,
+        179000000,
+        1064000000,
+        3000000,
+        184000000,
+        21547000000,
+        3619000000,
+        2708000000,
+        2383500000,
+        2703000000,
+        3500000,
+        30000000
+      ],
+      "context_snippets": [
+        " 2024年度助成額 | 2023年度助成額 | 2022年度助成額 | 採択件数の目安 | 主要URL | |---:|---|---|---:|---:|---:|---:|---| | 1 | 公益財団法人 武田科学振興財団 | 医学・生命科学 | 23億1,400万円 | 21億8,400万円 | 21億6,070万円 | 2024年562件 | https://www.takeda-sc",
+        " 2024年度助成額 | 2023年度助成額 | 2022年度助成額 | 採択件数の目安 | 主要URL | |---:|---|---|---:|---:|---:|---:|---| | 1 | 公益財団法人 武田科学振興財団 | 医学・生命科学 | 23億1,400万円 | 21億8,400万円 | 21億6,070万円 | 2024年562件 | https://www.takeda-sc"
+      ],
+      "sources": [
+        "team11.txt",
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "江副記念リクルート財団": {
+      "name": "公益財団法人江副記念リクルート財団",
+      "name_core": "江副記念リクルート財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人江副記念リクルート財団\", \"corporate_parent\": \"リクルートHD\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"p",
+        "教育\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人江副記念リクルート財団\", \"corporate_parent\": \"リクルートHD\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"人文学"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "池谷科学技術振興財団": {
+      "name": "公益財団法人池谷科学技術振興財団",
+      "name_core": "池谷科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.taf.or.jp/grant-c/03/",
+        "http://www.green.or.jp/",
+        "https://www.iketani-zaidan.or.jp/",
+        "https://www.amada-f.or.jp/"
+      ],
+      "amounts": [
+        203000000,
+        273000000
+      ],
+      "context_snippets": [
+        "0000, \"jfc_rank\": 86, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人池谷科学技術振興財団\", \"corporate_parent\": null, \"annual_grant_amount\": 203000000, \"jfc_rank\": 87, \"prog",
+        "t\": null, \"annual_grant_amount\": 204000000, \"jfc_rank\": 86, \"annual_grant_year\": \"2022\"}, {\"name\": \"公益財団法人池谷科学技術振興財団\", \"corporate_parent\": null, \"annual_grant_amount\": 203000000, \"jfc_rank\": 87, \"annu"
+      ],
+      "sources": [
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "海外子女教育振興財団": {
+      "name": "公益財団法人海外子女教育振興財団",
+      "name_core": "海外子女教育振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [
+        47000000,
+        179000000,
+        1064000000,
+        177000000,
+        6104000000,
+        10872000000,
+        3000000,
+        184000000,
+        21547000000,
+        188000000,
+        24583000000
+      ],
+      "context_snippets": [
+        " web\" ./research_results/codex_phase4_extracted.json:544:        \"47百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,064百万円 | 1971 | 内閣府 | JFC | | 99 | 公益財団法人 公益推進協会 | 177百万円 | 6,104百万円 ",
+        " 20\", ./research_results/codex_phase4_extracted.json:545:        \"47百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,064百万円 | 1971 | 内閣府 | JFC | | 99 | 公益財団法人 公益推進協会 | 177百万円 | 6,104百万円 "
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "田村科学技術振興財団": {
+      "name": "公益財団法人田村科学技術振興財団",
+      "name_core": "田村科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        ": '内閣府', 'address': '東京都新宿区四谷本塩町３番１号四谷ワイズビル', 'is_corporate': False, 'research_score': 9} {'name': '公益財団法人田村科学技術振興財団', 'purpose': '医学、薬学をはじめとした生命科学に関する領域の教育・研究を奨励する助成事業と、事務所等の賃貸の収益事業を行う', 'admin': '富山"
+      ],
+      "sources": [
+        "team14.txt",
+        "team2.txt",
+        "team6.txt"
+      ]
+    },
+    "石橋財団": {
+      "name": "公益財団法人石橋財団",
+      "name_core": "石橋財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.af-info.or.jp",
+        "https://kirin-npo.com/grant/",
+        "https://www.ishibashi-foundation.or.jp/",
+        "https://www.sgkz.or.jp/"
+      ],
+      "amounts": [
+        472000000,
+        470000000,
+        462000000
+      ],
+      "context_snippets": [
+        "te \"村田学術振興・教育財団\",\"村田製作所\",,551000000,2022,,corporate \"セコム科学技術振興財団\",\"セコム\",,547000000,2022,,corporate \"公益財団法人石橋財団\",\"ブリヂストン\",,470000000,2022,,corporate \"公益財団法人持田記念医学薬学振興財団\",\"持田製薬\",,446000000,2022,,corpora"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "社団法人国土緑化推進機構": {
+      "name": "社団法人国土緑化推進機構",
+      "name_core": "国土緑化推進機構",
+      "legal_form": "社団法人",
+      "urls": [
+        "http://www.green.or.jp/",
+        "https://www.nomurafoundation.or.jp",
+        "https://www.taf.or.jp/grant-c/03/",
+        "http://www.vecof.or.jp/news/2017/06/292.html",
+        "https://fields.canpan.info/organization/detail/1607134168",
+        "https://fields.canpan.info/o"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "2,,corporate \"公益財団法人日本科学協会\",,,209000000,,,corporate \"公益財団法人スズキ財団\",\"スズキ\",,194000000,2022,,corporate \"社団法人国土緑化推進機構\",,http://www.green.or.jp/,190000000,,,corporate \"公益財団法人岩谷直治記念財団\",\"岩谷産業\",,188000000,2022"
+      ],
+      "sources": [
+        "team14.txt",
+        "team6.txt"
+      ]
+    },
+    "神戸やまぶき財団": {
+      "name": "公益財団法人神戸やまぶき財団",
+      "name_core": "神戸やまぶき財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.kobe-yamabuki.or.jp/",
+        "https://www.spf.org/"
+      ],
+      "amounts": [
+        712000000,
+        702000000,
+        699000000
+      ],
+      "context_snippets": [
+        "研究助成、留学|JFC 7.12億円|東京都品川区|医療機器・計測| ./research_results/foundation_coverage_supplement_2026.md:46:|22|公益財団法人 神戸やまぶき財団|https://www.kobe-yamabuki.or.jp/|奨学、社会福祉等|JFC 7.02億円|兵庫県神戸市|地域公益| ./research_results"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "秋田県育英会": {
+      "name": "公益財団法人秋田県育英会",
+      "name_core": "秋田県育英会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.akita-ikuei.jp/",
+        "https://www.akaihane.or.jp/"
+      ],
+      "amounts": [
+        8700000000,
+        100000000,
+        939000000,
+        846000000
+      ],
+      "context_snippets": [
+        "87億円。InaRIS総額1億円/人|京都府京都市|個人創業者大型| ./research_results/foundation_coverage_supplement_2026.md:37:|13|公益財団法人 秋田県育英会|https://www.akita-ikuei.jp/|奨学金|JFC 9.39億円|秋田県秋田市|地域奨学| ./research_results/foundation_"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "稲盛財団": {
+      "name": "公益財団法人稲盛財団",
+      "name_core": "稲盛財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.inamori-f.or.jp",
+        "https://www.toyotafound.or.jp/grant/",
+        "https://www.inamori-f.or.jp/resear",
+        "https://www.spf.org",
+        "https://www.inamori-f.or.jp/",
+        "https://www.akita-ikuei.jp/",
+        "https://www.inamori-f.or.jp/research_grants/",
+        "https://www.inamori-f.or.jp/inaris",
+        "https://www.inamori-f.or.jp/en/r"
+      ],
+      "amounts": [
+        989000000,
+        986999999,
+        100000000,
+        939000000,
+        987000000,
+        2000000,
+        10000000
+      ],
+      "context_snippets": [
+        "orporate \"公益財団法人三菱財団\",\"三菱グループ\",https://www.mitsubishi-zaidan.jp/,1563238635,,35922195659,corporate \"公益財団法人稲盛財団\",\"京セラ（稲盛和夫）\",https://www.inamori-f.or.jp,1533349483,,138911979536,corporate \"稲盛財団\",\"京セラ（稲"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team2.txt",
+        "team6.txt",
+        "team7.txt",
+        "team9.txt"
+      ]
+    },
+    "立石科学技術振興財団": {
+      "name": "公益財団法人立石科学技術振興財団",
+      "name_core": "立石科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "http://www.green.or.jp/",
+        "https://www.nomurafoundation.or.jp",
+        "http://https",
+        "http://www.vecof.or.jp/news/2017/06/292.html",
+        "https://fields.canpan.info/organization/detail/1607134168",
+        "https://np-foundation.or.jp/information/000369.html",
+        "https://www.np-foundation.o",
+        "https://www.tateisi-f.org/research/application.html"
+      ],
+      "amounts": [
+        188000000,
+        24583000000,
+        184000000,
+        3000000,
+        21547000000,
+        179000000,
+        1064000000,
+        177000000,
+        6104000000,
+        189240000,
+        7910000,
+        6000000,
+        1800000
+      ],
+      "context_snippets": [
+        ",,http://www.green.or.jp/,190000000,,,corporate \"公益財団法人岩谷直治記念財団\",\"岩谷産業\",,188000000,2022,,corporate \"公益財団法人立石科学技術振興財団\",\"オムロン\",,184000000,2022,,corporate \"公益財団法人野村財団\",\"野村グループ\",https://www.nomurafoundati"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "竹中育英会": {
+      "name": "公益財団法人竹中育英会",
+      "name_core": "竹中育英会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人竹中育英会\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\": 0",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人竹中育英会\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"人文学\"], \"l1_fie"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team7.txt"
+      ]
+    },
+    "竹中養源会": {
+      "name": "公益財団法人竹中養源会",
+      "name_core": "竹中養源会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人竹中養源会\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\": 0"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "笹川平和財団": {
+      "name": "公益財団法人笹川平和財団",
+      "name_core": "笹川平和財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.spf.org",
+        "https://www.koryu.or.jp/business/subsidy/",
+        "https://www.mitsubishi-zaidan.jp",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.af-info.or.jp",
+        "https://www.spf.org/",
+        "https://www.mitsubishi-zaidan.j",
+        "https://www.koryu.or.jp/"
+      ],
+      "amounts": [
+        699000000,
+        702000000,
+        650000000
+      ],
+      "context_snippets": [
+        "000,,,2022 20,\"公益財団法人トヨタ・モビリティ基金\",716000000,,,2022 21,\"公益財団法人中谷財団\",723034171,123362305344,,2022 23,\"公益財団法人笹川平和財団\",699000000,,https://www.spf.org, 24,\"公益財団法人日本台湾交流協会\",650000000,,https://www.koryu.or.jp",
+        "ンドリーム財団\",741000000,,18, \"公益財団法人中谷財団\",723034171,123362305344,21, \"公益財団法人トヨタ・モビリティ基金\",716000000,,20, \"公益財団法人笹川平和財団\",699000000,,23,https://www.spf.org \"公益財団法人日本台湾交流協会\",650000000,,24,https://www.koryu.or."
+      ],
+      "sources": [
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "精神分析武田こころの健康財団": {
+      "name": "公益財団法人精神分析武田こころの健康財団",
+      "name_core": "精神分析武田こころの健康財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人精神分析武田こころの健康財団\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人精神分析武田こころの健康財団\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\""
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "船井情報科学振興財団": {
+      "name": "公益財団法人船井情報科学振興財団",
+      "name_core": "船井情報科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.marubeni.or.jp",
+        "https://culfun.mecenat.or.jp/grant/sompo/point.html",
+        "https://funaifoundation.jp/",
+        "https://research-miyacology.tmu.a"
+      ],
+      "amounts": [
+        307000000,
+        3000000,
+        1500000
+      ],
+      "context_snippets": [
+        "ァンデーション\",\"ローム\",,314000000,,,corporate \"公益財団法人ローム ミュージック ファンデーション\",\"ローム\",,314000000,2022,,corporate \"公益財団法人船井情報科学振興財団\",\"船井電機\",,307000000,2022,,corporate \"丸紅基金\",\"丸紅\",https://www.marubeni.or.jp,300000000"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "花王芸術・科学財団": {
+      "name": "公益財団法人花王芸術・科学財団",
+      "name_core": "花王芸術・科学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://fields.canpan.info/organization/detail/1499403820",
+        "https://www.kao-foundation.or.jp",
+        "http://https",
+        "https://www.kao-foundation.or.jp/science/assistresult/"
+      ],
+      "amounts": [
+        608000000
+      ],
+      "context_snippets": [
+        "未来財団\",\"日本ハム\",https://fields.canpan.info/organization/detail/1499403820,60000000,2024est,,corporate \"公益財団法人花王芸術・科学財団\",\"花王\",https://www.kao-foundation.or.jp,50000000,2024est,,corporate \"PwC財団\",PwC,,5000"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "豊田地域医療センター": {
+      "name": "公益財団法人豊田地域医療センター",
+      "name_core": "豊田地域医療センター",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人豊田地域医療センター\", \"corporate_parent\": \"トヨタグループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pr",
+        "態学\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人豊田地域医療センター\", \"corporate_parent\": \"トヨタグループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "豊田奨学財団": {
+      "name": "公益財団法人豊田奨学財団",
+      "name_core": "豊田奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人豊田奨学財団\", \"corporate_parent\": \"トヨタグループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"progra",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人豊田奨学財団\", \"corporate_parent\": \"トヨタグループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fiel"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "豊田市スポーツ協会": {
+      "name": "公益財団法人豊田市スポーツ協会",
+      "name_core": "豊田市スポーツ協会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人豊田市スポーツ協会\", \"corporate_parent\": \"トヨタグループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人豊田市スポーツ協会\", \"corporate_parent\": \"トヨタグループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"自然科学\", \"社会科学\""
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "豊田市文化振興財団": {
+      "name": "公益財団法人豊田市文化振興財団",
+      "name_core": "豊田市文化振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人豊田市文化振興財団\", \"corporate_parent\": \"トヨタグループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人豊田市文化振興財団\", \"corporate_parent\": \"トヨタグループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\", \"人文学\"]"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "財団法人である国際ロータリーのロータリー財団": {
+      "name": "財団法人である国際ロータリーのロータリー財団",
+      "name_core": "である国際ロータリーのロータリー財団",
+      "legal_form": "財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        " \"name\": \"公益財団法人ロータリー日本財団\",   \"purpose\": \"個人が海外留学するためもしくは海外から日本へ留学するための奨学金及びロータリー平和フェローシップの付与、及び、非営利財団法人である国際ロータリーのロータリー財団の活動を支援するための、寄付金の提供\",   \"admin\": \"内閣府\",   \"address\": \"東京都港区三田１丁目４番２８号三田国際ビルディング"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "財団法人キヤノン財団": {
+      "name": "財団法人キヤノン財団",
+      "name_core": "キヤノン財団",
+      "legal_form": "財団法人",
+      "urls": [
+        "https://jp.foundation.canon/",
+        "https://www.nomurafoundation.or.jp/",
+        "https://www.taf.or.jp/"
+      ],
+      "amounts": [
+        290000000
+      ],
+      "context_snippets": [
+        "-zaidan.jp/about/index.html | | 稲盛財団 |\" ./research_results/codex_phase4_extracted.json:210:        \"財団法人キヤノン財団 | https://jp.foundation.canon/ | 2022 | JFC上位100では67位、年間助成額290百万円。所在地、設立、基本財産を公式サイトで確認 | ",
+        "ttps://www.nomurafoundation.or.jp/ | \", ./research_results/codex_phase4_extracted.json:211:        \"財団法人キヤノン財団 | https://jp.foundation.canon/ | 2022 | JFC上位100では67位、年間助成額290百万円。所在地、設立、基本財産を公式サイトで確認 | "
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "財団法人三菱財団": {
+      "name": "財団法人三菱財団",
+      "name_core": "三菱財団",
+      "legal_form": "財団法人",
+      "urls": [
+        "https://www.m",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/ind",
+        "https://www.mitsubishi-zaidan.jp/about/index.html",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010005016003"
+      ],
+      "amounts": [
+        179000000
+      ],
+      "context_snippets": [
+        " | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,06\" ./research_results/codex_phase4_extracted.json:1130:    \"財団法人三菱財団\": { ./research_results/codex_phase4_extracted.json:1131:      \"name\": \"財団法人三菱財団\", ./researc",
+        "cted.json:1130:    \"財団法人三菱財団\": { ./research_results/codex_phase4_extracted.json:1131:      \"name\": \"財団法人三菱財団\", ./research_results/codex_phase4_extracted.json:1132:      \"name_core\": \"三菱財団\", ./research"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "財団法人日本顕彰会": {
+      "name": "財団法人日本顕彰会",
+      "name_core": "日本顕彰会",
+      "legal_form": "財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "略称 | 「公益財団法人助成財団センター」⇔「JFC」 | alias_nameに格納 | | 旧民法法人名 | 「財団法人○○」⇔「公益財団法人○○」 | 旧名称として履歴管理 | | 改称 | 「財団法人日本顕彰会」→「社会貢献支援財団」 | 公式沿革で確認 | | 英文略称 | 「サントリー生命科学財団」⇔「SUNBOR」 | English/abbrev別名テーブル | | 所在地変更 |"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "財団法人武田科学振興財団": {
+      "name": "財団法人武田科学振興財団",
+      "name_core": "武田科学振興財団",
+      "legal_form": "財団法人",
+      "urls": [
+        "https://www.takeda-sci.or.jp/",
+        "https://www.takeda-sci.or.jp/about/out",
+        "https://www.takeda-sci.or.jp/about/outline/",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4120005014293",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/index.htm"
+      ],
+      "amounts": [
+        177000000
+      ],
+      "context_snippets": [
+        "UNBOR」 | English/abbrev別名テーブル | | 所在地変更 |\" ./research_results/codex_phase4_extracted.json:1170:    \"財団法人武田科学振興財団\": { ./research_results/codex_phase4_extracted.json:1171:      \"name\": \"財団法人武田科学振興財団\", .",
+        ".json:1170:    \"財団法人武田科学振興財団\": { ./research_results/codex_phase4_extracted.json:1171:      \"name\": \"財団法人武田科学振興財団\", ./research_results/codex_phase4_extracted.json:1172:      \"name_core\": \"武田科学振興財団\", ./"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "資本市場振興財団": {
+      "name": "公益財団法人資本市場振興財団",
+      "name_core": "資本市場振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.sif.or.jp/",
+        "https://www.mmfe.or.jp/"
+      ],
+      "amounts": [
+        824000000,
+        788000000,
+        744000000
+      ],
+      "context_snippets": [
+        "水産資源・増殖事業|JFC 8.24億円|北海道札幌市|農林水産系| ./research_results/foundation_coverage_supplement_2026.md:40:|16|公益財団法人 資本市場振興財団|https://www.sif.or.jp/|金融・資本市場研究、奨学|JFC 7.88億円|東京都中央区|金融系研究| ./research_results/foun"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "資生堂子ども財団": {
+      "name": "公益財団法人資生堂子ども財団",
+      "name_core": "資生堂子ども財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人資生堂子ども財団\", \"corporate_parent\": \"資生堂\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人資生堂子ども財団\", \"corporate_parent\": \"資生堂\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fields"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "起業家支援財団": {
+      "name": "公益財団法人起業家支援財団",
+      "name_core": "起業家支援財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jsbba.or.jp/",
+        "https://www.jsbba.or.jp/info/news/news_20170901.html",
+        "https://tokachi-zaidan.jp/",
+        "https://tokachi-zaidan.jp/tp_detail.php?id=48",
+        "https://www.kose-cosmetology.or.jp/",
+        "https://prtimes.jp/main/html/rd/p/000000048.000041232.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "| 公益社団法人日本農芸化学会 https://www.jsbba.or.jp/ | https://www.jsbba.or.jp/info/news/news_20170901.html | | 公益財団法人起業家支援財団 | 2018-04-01、とかち財団が吸収合併 | 公益財団法人とかち財団 https://tokachi-zaidan.jp/ | https://tokachi-zai",
+        "| 公益社団法人日本農芸化学会 https://www.jsbba.or.jp/ | https://www.jsbba.or.jp/info/news/news_20170901.html | | 公益財団法人起業家支援財団 | 2018-04-01、とかち財団が吸収合併 | 公益財団法人とかち財団 https://tokachi-zaidan.jp/ | https://tokachi-zai"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "車両競技公益資金記念財団": {
+      "name": "公益財団法人車両競技公益資金記念財団",
+      "name_core": "車両競技公益資金記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.taf.or.jp/grant-c/03/",
+        "http://www.green.or.jp/",
+        "http://www.vecof.or.jp/news/2017/06/292.html",
+        "https://fields.canpan.info/organization/detail/1607134168",
+        "https://www.nomurafoundation.or.jp",
+        "https://n"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "0,,https://www.taf.or.jp/grant-c/03/,2022 94,\"社団法人国土緑化推進機構\",190000000,,http://www.green.or.jp/, 95,\"公益財団法人車両競技公益資金記念財団\",188000000,,http://www.vecof.or.jp/news/2017/06/292.html, 96,\"公益財団法人岩谷直治記念財団\",188",
+        "p/grant-c/03/ \"社団法人国土緑化推進機構\",190000000,,94,http://www.green.or.jp/ \"公益財団法人岩谷直治記念財団\",188000000,,96, \"公益財団法人車両競技公益資金記念財団\",188000000,,95,http://www.vecof.or.jp/news/2017/06/292.html \"公益財団法人立石科学技術振興財団\",18"
+      ],
+      "sources": [
+        "team6.txt"
+      ]
+    },
+    "農芸化学研究奨励会": {
+      "name": "公益財団法人農芸化学研究奨励会",
+      "name_core": "農芸化学研究奨励会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.sgh-foundation.or.jp/",
+        "https://www.sgh-foundation.or.jp/info/1500/",
+        "https://www.jsbba.or.jp/",
+        "https://www.jsbba.or.jp/info/news/news_20170901.html",
+        "https://tokachi-zaidan.jp/",
+        "https://tokachi-zaidan.jp/tp_detail.php?id=48"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "へ | 公益財団法人SGH財団 https://www.sgh-foundation.or.jp/ | https://www.sgh-foundation.or.jp/info/1500/ | | 公益財団法人農芸化学研究奨励会 | 2017年、日本農芸化学会が吸収合併、研究奨励金事業を承継 | 公益社団法人日本農芸化学会 https://www.jsbba.or.jp/ | https://w",
+        "へ | 公益財団法人SGH財団 https://www.sgh-foundation.or.jp/ | https://www.sgh-foundation.or.jp/info/1500/ | | 公益財団法人農芸化学研究奨励会 | 2017年、日本農芸化学会が吸収合併、研究奨励金事業を承継 | 公益社団法人日本農芸化学会 https://www.jsbba.or.jp/ | https://w"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "野村学芸財団": {
+      "name": "公益財団法人野村学芸財団",
+      "name_core": "野村学芸財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人野村学芸財団\", \"corporate_parent\": \"野村グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"program"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "野村文華財団": {
+      "name": "公益財団法人野村文華財団",
+      "name_core": "野村文華財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人野村文華財団\", \"corporate_parent\": \"野村グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"program",
+        "福祉\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人野村文華財団\", \"corporate_parent\": \"野村グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"人文学\", \"芸術\"], \"l1_"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "野村生涯教育センター": {
+      "name": "公益財団法人野村生涯教育センター",
+      "name_core": "野村生涯教育センター",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人野村生涯教育センター\", \"corporate_parent\": \"野村グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"pro",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人野村生涯教育センター\", \"corporate_parent\": \"野村グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_f"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "野村芳光財団": {
+      "name": "公益財団法人野村芳光財団",
+      "name_core": "野村芳光財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人野村芳光財団\", \"corporate_parent\": \"野村グループ\", \"annual_grant_amount\": null, \"jfc_rank\": null, \"program",
+        "般）\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人野村芳光財団\", \"corporate_parent\": \"野村グループ\", \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_field"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "野村財団": {
+      "name": "公益財団法人野村財団",
+      "name_core": "野村財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nomurafoundation.or.jp",
+        "http://https",
+        "https://fields.canpan.info/organization/",
+        "https://www.nomurafoundation.or.jp/scholar/guideline.html",
+        "https://www.nomurafoundation.or.jp/culture/music.h",
+        "https://www.nomurafoundation.or.jp/culture/art.htm",
+        "https://fields.canpan.info/organization/detail/1607134168",
+        "http://www.vecof.or.jp/news/2017/06/292.html",
+        "https://np-foundation.or.jp/information/000369.html",
+        "https://www.nomurafoundation.or.jp/social/",
+        "https://www.taf.or.jp/grant-a/",
+        "https://www.nomurafoundation.or.jp/",
+        "https://jp.foundation.canon/",
+        "https://www.taf.or.jp/",
+        "https://www.suzukifound.jp/"
+      ],
+      "amounts": [
+        177000000,
+        192000000,
+        290000000,
+        194000000,
+        1064000000,
+        6104000000,
+        10872000000,
+        47000000,
+        179000000
+      ],
+      "context_snippets": [
+        "法人岩谷直治記念財団\",\"岩谷産業\",,188000000,2022,,corporate \"公益財団法人立石科学技術振興財団\",\"オムロン\",,184000000,2022,,corporate \"公益財団法人野村財団\",\"野村グループ\",https://www.nomurafoundation.or.jp,177000000,2022,,corporate \"ロッテ財団\",\"ロッテ\",,100"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "鉄道弘済会": {
+      "name": "公益財団法人鉄道弘済会",
+      "name_core": "鉄道弘済会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ate \"公益財団法人キヤノン財団\",\"キヤノン\",,290000000,2022,,corporate \"公益財団法人天田財団\",\"アマダ\",,273000000,2022,,corporate \"公益財団法人鉄道弘済会\",JR,,265000000,2022,,corporate \"日本生命財団(ニッセイ財団)\",\"日本生命保険\",,229000000,2022,,corporate \"公益財"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "鉄鋼環境基金": {
+      "name": "一般社団法人鉄鋼環境基金",
+      "name_core": "鉄鋼環境基金",
+      "legal_form": "一般社団法人",
+      "urls": [
+        "https://www.inamori-f.or.jp/research_grants/",
+        "http://www.sept.or.jp/02jyoseijigyou/02sinn"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "fc_rank\": null, \"programs\": 1, \"calls\": 1, \"max_amount\": null, \"categories\": \"research\"}, {\"name\": \"一般社団法人鉄鋼環境基金\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\": ",
+        "\"status\": \"unknown\", \"source_url\": \"https://www.inamori-f.or.jp/research_grants/\"}, {\"foundation\": \"一般社団法人鉄鋼環境基金\", \"corporate_parent\": null, \"program\": \"鉄鋼環境基金 環境助成研究\", \"category\": \"environment\", \"tit"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "電気通信普及財団": {
+      "name": "公益財団法人電気通信普及財団",
+      "name_core": "電気通信普及財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.taf.or.jp/grant-a/",
+        "https://www.taf.or.jp/grant-a/adoption/30212664969a91ceac3a1b20260305150426.htm"
+      ],
+      "amounts": [
+        192000000,
+        3000000
+      ],
+      "context_snippets": [
+        "融、資本市場\",\"Webマイページ、申請書PDF\",\"2025-11-28 17:00（2026年度研究助成）\" ./data/hss_foundation_priority_table.csv:8:公益財団法人電気通信普及財団,https://www.taf.or.jp/grant-a/,通信関係,東京,公益財団法人,\"192百万円（JFC 2022年度93位）\",\"研究調査助成、テレコム社会科",
+        "ー | 日本の大学等の常勤研究者または代表者。Webマイページ、申請書PDF等。研究助成上限100万円 | ./report/hss_foundation_research_2026.md:26:| 公益財団法人電気通信普及財団 | https://www.taf.or.jp/grant-a/ | 旧電電公社・通信関係 | 東京 | 公益財団法人 | 192百万円（JFC 2022年度93位） |"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "電通宮崎・育英会": {
+      "name": "公益財団法人電通宮崎・育英会",
+      "name_core": "電通宮崎・育英会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "ll, \"jfc_rank\": null, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人電通宮崎・育英会\", \"corporate_parent\": null, \"annual_grant_amount\": null, \"jfc_rank\": null, \"programs\"",
+        "教育\"], \"amount\": null, \"deadline\": null, \"status\": \"unknown\", \"type\": \"foundation\"}, {\"foundation\": \"公益財団法人電通宮崎・育英会\", \"corporate_parent\": null, \"program\": \"(事業目的から推定)\", \"domains\": [\"社会科学\"], \"l1_fields\""
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    },
+    "電通育英会": {
+      "name": "公益財団法人電通育英会",
+      "name_core": "電通育英会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/",
+        "https://www.toyotafound.or.jp/grant/rese",
+        "https://www.dentsu-ikueikai.or.jp/",
+        "https://www.ifo.or.jp/"
+      ],
+      "amounts": [
+        446000000,
+        426999999,
+        418000000
+      ],
+      "context_snippets": [
+        "0000, \"jfc_rank\": 44, \"programs\": 0, \"calls\": 0, \"max_amount\": null, \"categories\": null}, {\"name\": \"公益財団法人電通育英会\", \"corporate_parent\": null, \"annual_grant_amount\": 427000000, \"jfc_rank\": 45, \"programs\"",
+        ": \"持田製薬\", \"annual_grant_amount\": 446000000, \"jfc_rank\": 44, \"annual_grant_year\": \"2022\"}, {\"name\": \"公益財団法人電通育英会\", \"corporate_parent\": null, \"annual_grant_amount\": 427000000, \"jfc_rank\": 45, \"annual_gr"
+      ],
+      "sources": [
+        "team17.txt",
+        "team2.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "飯塚毅育英会": {
+      "name": "公益財団法人飯塚毅育英会",
+      "name_core": "飯塚毅育英会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://kirin-npo.com/grant/",
+        "https://www.af-info.or.jp",
+        "https://www.iizuka-takeshi-ikuei.or.jp/",
+        "https://www.iwate-shichousonkai.or.jp/"
+      ],
+      "amounts": [
+        521000000,
+        518000000,
+        513999999
+      ],
+      "context_snippets": [
+        "も食堂支援センター・むすびえ\",524000000,,https://kirin-npo.com/grant/, 35,\"公益財団法人高橋産業経済研究財団\",521000000,,,2022 36,\"公益財団法人飯塚毅育英会\",518000000,,, 38,\"公益財団法人旭硝子財団\",567100000,37998969948,https://www.af-info.or.jp,2022 42,",
+        " \"全国こども食堂支援センター・むすびえ\",524000000,,33,https://kirin-npo.com/grant/ \"公益財団法人高橋産業経済研究財団\",521000000,,35, \"公益財団法人飯塚毅育英会\",518000000,,36, \"公益財団法人石橋財団\",470000000,,42, \"市村清新技術財団\",462000000,,43, \"公益財団法人持田記念医学薬学振興"
+      ],
+      "sources": [
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "飯島藤十郎記念食品科学振興財団": {
+      "name": "公益財団法人飯島藤十郎記念食品科学振興財団",
+      "name_core": "飯島藤十郎記念食品科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "http://www.green.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "e \"公益財団法人鉄道弘済会\",JR,,265000000,2022,,corporate \"日本生命財団(ニッセイ財団)\",\"日本生命保険\",,229000000,2022,,corporate \"公益財団法人飯島藤十郎記念食品科学振興財団\",\"山崎製パン\",,225000000,2022,,corporate \"公益財団法人小田急財団\",\"小田急電鉄\",,223000000,2022,,cor"
+      ],
+      "sources": [
+        "team14.txt",
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "高橋産業経済研究財団": {
+      "name": "公益財団法人高橋産業経済研究財団",
+      "name_core": "高橋産業経済研究財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://kirin-npo.com/grant/",
+        "https://www.af-info.or.jp",
+        "https://www.takahashi-f.or.jp/",
+        "https://www.iizuka-takeshi-ikuei.or.jp/"
+      ],
+      "amounts": [
+        523000000,
+        521000000,
+        518000000
+      ],
+      "context_snippets": [
+        "\"jfc_rank\": 31, \"programs\": 2, \"calls\": 2, \"max_amount\": null, \"categories\": \"research\"}, {\"name\": \"公益財団法人高橋産業経済研究財団\", \"corporate_parent\": null, \"annual_grant_amount\": 521000000, \"jfc_rank\": 35, \"prog",
+        "\": \"セコム\", \"annual_grant_amount\": 547000000, \"jfc_rank\": 31, \"annual_grant_year\": \"2022\"}, {\"name\": \"公益財団法人高橋産業経済研究財団\", \"corporate_parent\": null, \"annual_grant_amount\": 521000000, \"jfc_rank\": 35, \"annu"
+      ],
+      "sources": [
+        "team17.txt",
+        "team6.txt",
+        "team7.txt"
+      ]
+    },
+    "鹿児島県育英財団": {
+      "name": "公益財団法人鹿児島県育英財団",
+      "name_core": "鹿児島県育英財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.kagoshima-ikuei.jp/",
+        "https://www.nakamura-sekizenkai.or.jp/",
+        "https://ww"
+      ],
+      "amounts": [
+        499000000,
+        488000000,
+        480999999
+      ],
+      "context_snippets": [
+        "・都市、環境|JFC 4.99億円|東京都千代田区|化学・環境大型| ./research_results/foundation_coverage_supplement_2026.md:63:|39|公益財団法人 鹿児島県育英財団|https://www.kagoshima-ikuei.jp/|奨学金|JFC 4.88億円|鹿児島県鹿児島市|地域奨学| ./research_results/fou"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "齋藤茂昭記念財団": {
+      "name": "公益財団法人齋藤茂昭記念財団",
+      "name_core": "齋藤茂昭記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/news_subsidy/2025%e5%b9%b4%e5%ba%a6-%e5%8a%a9%e6%88%90%e4%ba%8b%e6%",
+        "https://www.jfc.or.jp/news_subsidy/2025%e5%b9%b4%e5%ba%a6-%e5%8a%a9%e6%88%90%e4%ba%8b%e6%a5%ad/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "a1%93%e9%96%8b%e7%99%ba/\"}, {\"foundation\": \"齋藤茂昭記念財団\", \"corporate_parent\": null, \"program\": \"2025年度 公益財団法人 齋藤茂昭記念財団 助成事業\", \"category\": \"research\", \"title\": \"2025年度 公益財団法人 齋藤茂昭記念財団 助成事業\", \"fiscal_year\"",
+        "e_parent\": null, \"program\": \"2025年度 公益財団法人 齋藤茂昭記念財団 助成事業\", \"category\": \"research\", \"title\": \"2025年度 公益財団法人 齋藤茂昭記念財団 助成事業\", \"fiscal_year\": null, \"grant_amount_min\": null, \"grant_amount_max\": null, \"app"
+      ],
+      "sources": [
+        "team17.txt",
+        "team7.txt"
+      ]
+    }
+  }
+}

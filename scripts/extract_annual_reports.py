@@ -30,7 +30,7 @@ import re
 import sqlite3
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -83,7 +83,11 @@ TARGETS: list[dict] = [
         "slug": "mitsubishi-zaidan",
         "db_name": "三菱財団",
         "disclosure": "https://www.mitsubishi-zaidan.jp/about/financial.html",
-        "pdf_template": "https://www.mitsubishi.com/ja/about/financial/data/{year}-business.pdf",
+        "pdf_templates": [
+            "https://www.mitsubishi-zaidan.jp/about/data/{year}-business.pdf",
+            "https://www.mitsubishi-zaidan.jp/about/data/{year}-networth.pdf",
+            "https://www.mitsubishi-zaidan.jp/about/data/{year}-balance.pdf",
+        ],
         "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
@@ -118,8 +122,15 @@ TARGETS: list[dict] = [
         "slug": "secom",
         "db_name": "セコム科学技術振興財団",
         "disclosure": "https://www.secomzaidan.jp/joho.html",
-        "pdf_template": "https://www.secomzaidan.jp/joho/jigo_hokoku.pdf",
-        "years": [2024],  # only latest is published
+        # Reiwa-numbered subdirs: r06 = 令和6年度 = 2024年度
+        "pdf_urls": {
+            2024: ["https://www.secomzaidan.jp/joho/r06/joho/jigo_hokoku.pdf"],
+            2023: ["https://www.secomzaidan.jp/joho/r05/joho/jigo_hokoku.pdf"],
+            2022: ["https://www.secomzaidan.jp/joho/r04/joho/jigo_hokoku.pdf"],
+            2021: ["https://www.secomzaidan.jp/joho/r03/joho/jigo_hokoku.pdf"],
+            2020: ["https://www.secomzaidan.jp/joho/r02/joho/jigo_hokoku.pdf"],
+        },
+        "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
         "slug": "uehara",
@@ -134,21 +145,37 @@ TARGETS: list[dict] = [
     },
     {
         "slug": "nakatani",
-        "db_name": "中谷医工計測技術振興財団",
+        "db_name": "中谷財団",  # full legal name 中谷医工計測技術振興財団, DB stores short form
         "disclosure": "https://www.nakatani-foundation.jp/about/public_notice/",
         "pdf_urls": {
-            2024: "https://storage.nakatani-foundation.jp/main/p/uploads/06jigyouhoukoku.pdf",
-            2023: "https://storage.nakatani-foundation.jp/main/p/uploads/05jigyouhoukoku.pdf",
-            2022: "https://storage.nakatani-foundation.jp/main/p/uploads/04jigyouhoukoku.pdf",
-            2021: "https://storage.nakatani-foundation.jp/main/p/uploads/03jigyouhoukoku.pdf",
-            2020: "https://www.nakatani-foundation.jp/wp-content/uploads/02jigyouhoukoku.pdf",
+            2024: [
+                "https://storage.nakatani-foundation.jp/main/p/uploads/06jigyouhoukoku.pdf",
+                "https://storage.nakatani-foundation.jp/main/p/uploads/06kessan.pdf",
+            ],
+            2023: [
+                "https://storage.nakatani-foundation.jp/main/p/uploads/05jigyouhoukoku.pdf",
+                "https://storage.nakatani-foundation.jp/main/p/uploads/05kessan.pdf",
+            ],
+            2022: [
+                "https://storage.nakatani-foundation.jp/main/p/uploads/04jigyouhoukoku.pdf",
+                "https://storage.nakatani-foundation.jp/main/p/uploads/04kessan.pdf",
+            ],
+            2021: [
+                "https://storage.nakatani-foundation.jp/main/p/uploads/03jigyouhoukoku.pdf",
+                "https://storage.nakatani-foundation.jp/main/p/uploads/03kessan.pdf",
+            ],
+            2020: [
+                "https://www.nakatani-foundation.jp/wp-content/uploads/02jigyouhoukoku.pdf",
+                "https://www.nakatani-foundation.jp/wp-content/uploads/02kessan.pdf",
+            ],
         },
         "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
         "slug": "terumo",
         "db_name": "テルモ生命科学振興財団",
-        "disclosure": "https://terumo-lsf.org/disclosure/",
+        "disclosure": "https://www.terumozaidan.or.jp/disclosure/",
+        "pdf_template": "https://www.terumozaidan.or.jp/disclosure/pdf/fy{year}_01_note.pdf",
         "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
@@ -357,6 +384,7 @@ GRANT_LINE_KEYWORDS_STRICT = (
     "助成金支出",
     "事業費計",
     "研究助成事業",
+    "事業費",  # generic but only at line start
     "助成事業",  # generic fallback; still requires line-start
 )
 # Narrative-tolerant fallback patterns (last resort).
@@ -454,27 +482,41 @@ def parse_pdf(path: Path) -> dict:
         return out
 
     out["extractable"] = True
-    lines = full.split("\n")
+
+    # Many Japanese financial PDFs render labels as wide-spaced characters,
+    # e.g.「研 究 助 成 事 業」. Normalize a SECOND copy with internal Japanese
+    # whitespace squeezed, and search BOTH versions per line so numbers stay
+    # intact while keyword matching succeeds.
+    raw_lines = full.split("\n")
+    lines = []  # (raw, condensed)
+    for raw in raw_lines:
+        # Squeeze whitespace between Japanese-script characters only,
+        # leaving number/ASCII whitespace intact.
+        condensed = re.sub(
+            r"([一-龯ぁ-ゟァ-ヿ々])[ 　\t]+(?=[一-龯ぁ-ゟァ-ヿ々])",
+            r"\1",
+            raw,
+        )
+        lines.append((raw, condensed))
 
     # ---- annual_grant_amount ----------------------------------------
     # Strategy:
     #  (1) STRICT line-start keyword match on P&L items.
     #  (2) Fallback: narrative pattern "研究助成金の支払総額は X億Y万円".
     grant_candidates: list[tuple[int, str, str]] = []
-    for line in lines:
+    for raw, condensed in lines:
+        # Use condensed form for keyword matching, raw form for number extraction.
         for kw in GRANT_LINE_KEYWORDS_STRICT:
-            if _starts_with_keyword(line, kw):
-                # Take the rightmost large number on the line (合計 column in
-                # multi-column tables typically appears last).
-                nums = _line_numbers(line, floor=10_000_000)
+            if _starts_with_keyword(condensed, kw):
+                nums = _line_numbers(raw, floor=10_000_000)
                 if nums:
-                    v = nums[-1]
-                    grant_candidates.append((v, kw, line.strip()))
+                    # Largest number on the line — works for both two-column
+                    # 当年度/前年度 and multi-column 内訳/合計 layouts.
+                    v = max(nums)
+                    grant_candidates.append((v, kw, raw.strip()))
                 break
     if grant_candidates:
-        # Pick the smallest-keyword-priority (most specific). The list is
-        # already in priority order, but multiple lines may match different
-        # keywords. Prefer the one matching the highest-priority keyword.
+        # Prefer the highest-priority keyword first; ties broken by larger sum.
         priority = {kw: i for i, kw in enumerate(GRANT_LINE_KEYWORDS_STRICT)}
         grant_candidates.sort(key=lambda x: (priority.get(x[1], 99), -x[0]))
         best = grant_candidates[0]
@@ -482,13 +524,13 @@ def parse_pdf(path: Path) -> dict:
         out["snippets"]["grant"] = f"[{best[1]}] {best[2][:160]}"
     else:
         # Narrative fallback
-        for line in lines:
-            m = GRANT_NARRATIVE_RE.search(line)
+        for raw, condensed in lines:
+            m = GRANT_NARRATIVE_RE.search(condensed)
             if m:
                 v = _parse_oku_man_yen(m.group(1))
                 if v:
                     out["annual_grant_amount"] = v
-                    out["snippets"]["grant"] = f"[narrative] {line.strip()[:160]}"
+                    out["snippets"]["grant"] = f"[narrative] {raw.strip()[:160]}"
                     break
 
     # ---- total_assets ------------------------------------------------
@@ -497,26 +539,26 @@ def parse_pdf(path: Path) -> dict:
     asset_value: Optional[int] = None
     asset_label: str = ""
     asset_line: str = ""
-    for line in lines:
+    for raw, condensed in lines:
         for kw in ASSET_LINE_PRIMARY:
-            if _starts_with_keyword(line, kw):
-                nums = _line_numbers(line, floor=10_000_000)
+            if _starts_with_keyword(condensed, kw):
+                nums = _line_numbers(raw, floor=10_000_000)
                 if nums:
                     if asset_value is None or nums[0] > asset_value:
                         asset_value = nums[0]
                         asset_label = kw
-                        asset_line = line.strip()
+                        asset_line = raw.strip()
                 break
     if asset_value is None:
-        for line in lines:
+        for raw, condensed in lines:
             for kw in ASSET_LINE_FALLBACK:
-                if _starts_with_keyword(line, kw):
-                    nums = _line_numbers(line, floor=10_000_000)
+                if _starts_with_keyword(condensed, kw):
+                    nums = _line_numbers(raw, floor=10_000_000)
                     if nums:
                         if asset_value is None or nums[0] > asset_value:
                             asset_value = nums[0]
                             asset_label = kw
-                            asset_line = line.strip()
+                            asset_line = raw.strip()
                     break
     if asset_value:
         out["total_assets"] = asset_value
@@ -588,7 +630,7 @@ def update_org(
 
     if sets and not dry_run:
         sets.append("updated_at = ?")
-        params.append(datetime.utcnow().isoformat())
+        params.append(datetime.now(timezone.utc).replace(tzinfo=None).isoformat())
         params.append(org_id)
         conn.execute(
             f"UPDATE organizations SET {', '.join(sets)} WHERE id = ?",
@@ -706,8 +748,10 @@ def main() -> int:
     results: list[dict] = []
     for t in targets:
         # Open & close per target — pdfplumber's internal mmap/IO can interact
-        # poorly with long-lived sqlite connections on macOS.
-        conn = sqlite3.connect(DB_PATH)
+        # poorly with long-lived sqlite connections on macOS. Use a 30 s busy
+        # timeout to tolerate concurrent readers/writers on the DB.
+        conn = sqlite3.connect(DB_PATH, timeout=30.0)
+        conn.execute("PRAGMA busy_timeout = 30000")
         try:
             results.append(process_target(t, conn, args.dry_run))
         except Exception as e:
