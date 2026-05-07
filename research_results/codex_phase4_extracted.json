@@ -1,0 +1,1349 @@
+{
+  "extracted_count": 63,
+  "by_team": {
+    "team1.txt": 1,
+    "team10.txt": 14,
+    "team11.txt": 7,
+    "team12.txt": 15,
+    "team13.txt": 2,
+    "team14.txt": 3,
+    "team15.txt": 5,
+    "team16.txt": 6,
+    "team17.txt": 8,
+    "team18.txt": 2,
+    "team19.txt": 4,
+    "team2.txt": 12,
+    "team3.txt": 11,
+    "team4.txt": 0,
+    "team5.txt": 5,
+    "team6.txt": 2,
+    "team7.txt": 6,
+    "team8.txt": 4,
+    "team9.txt": 0
+  },
+  "foundations": {
+    "JFE21世紀財団": {
+      "name": "公益財団法人JFE21世紀財団",
+      "name_core": "JFE21世紀財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "/rank_grant2022/ web search:  web search: 公益財団法人 マツダ財団 研究助成 対象分野 応募資格 2022 web search:  web search: 公益財団法人 JFE21世紀財団 技術研究助成 2022 応募資格 対象分野 web search:  web search: 公益財団法人 池谷科学技術振興財団 研究助成 応募資格 対象分野 202"
+      ],
+      "sources": [
+        "team16.txt"
+      ]
+    },
+    "KDDI財団": {
+      "name": "公益財団法人KDDI財団",
+      "name_core": "KDDI財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.kddi-foundation.or.jp/",
+        "https://www.pwc.com/jp/ja/about-us/member/pwc-foundation.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "://www.jfc.or.jp/jfcreport2025/ web search:  web search: \"公益財団法人中谷財団\" 法人番号 web search:  web search: 公益財団法人KDDI財団 名称変更 国際コミュニケーション基金 web search:  web search: \"日本の助成財団の状況2022\" \"高等教育段階の奨学金制度\" 著者 web sear",
+        "oundation.or.jp/ | 2016 | 旧称、新称、生命科学研究助成、国際交流助成 | | 財団法人KDDIエンジニアリング・アンド・コンサルティング / 国際コミュニケーション基金 | 公益財団法人KDDI財団 | 2009年合併、2012年公益認定 | https://www.kddi-foundation.or.jp/ | 2012 | 合併、公益認定、ICT研究助成、国際協力 "
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "MSD生命科学財団": {
+      "name": "公益財団法人MSD生命科学財団",
+      "name_core": "MSD生命科学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.k-matsushita.jp/",
+        "https://www.msd-life-science-foundation.or.jp/",
+        "https://www.kddi-foundation.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "両法人が合併し発足 | https://www.k-matsushita.jp/ | 2019 | 合併、承継名称、所在地、研究助成・人材育成 | | 公益財団法人 万有生命科学振興国際交流財団 | 公益財団法人MSD生命科学財団 | 2016年10月、MSD生命科学財団に名称変更 | https://www.msd-life-science-foundation.or.jp/ | 2016 | ",
+        "両法人が合併し発足 | https://www.k-matsushita.jp/ | 2019 | 合併、承継名称、所在地、研究助成・人材育成 | | 公益財団法人 万有生命科学振興国際交流財団 | 公益財団法人MSD生命科学財団 | 2016年10月、MSD生命科学財団に名称変更 | https://www.msd-life-science-foundation.or.jp/ | 2016 | "
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "NIRA総合研究開発機構": {
+      "name": "公益財団法人NIRA総合研究開発機構",
+      "name_core": "NIRA総合研究開発機構",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://foundation.nojima.co.jp/about-us/overview",
+        "https://nira.or.jp/",
+        "https://nira.or.jp/about/overview/",
+        "https://www.refost-hq.jp/",
+        "https://www.ref"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "横浜タワー25F | 代表理事 温盛元 | 2016年4月 | 公式問い合わせ導線あり | https://foundation.nojima.co.jp/about-us/overview | | 公益財団法人 NIRA総合研究開発機構 | https://nira.or.jp/ | 〒150-6034 東京都渋谷区恵比寿4-20-3 恵比寿ガーデンプレイスタワー34F | 代表理事 金丸恭文、",
+        "横浜タワー25F | 代表理事 温盛元 | 2016年4月 | 公式問い合わせ導線あり | https://foundation.nojima.co.jp/about-us/overview | | 公益財団法人 NIRA総合研究開発機構 | https://nira.or.jp/ | 〒150-6034 東京都渋谷区恵比寿4-20-3 恵比寿ガーデンプレイスタワー34F | 代表理事 金丸恭文、"
+      ],
+      "sources": [
+        "team10.txt"
+      ]
+    },
+    "PwC財団": {
+      "name": "一般財団法人PwC財団",
+      "name_core": "PwC財団",
+      "legal_form": "一般財団法人",
+      "urls": [
+        "https://www.kddi-foundation.or.jp/",
+        "https://www.pwc.com/jp/ja/about-us/member/pwc-foundation.html",
+        "https://www.af-info.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "法人KDDI財団 | 2009年合併、2012年公益認定 | https://www.kddi-foundation.or.jp/ | 2012 | 合併、公益認定、ICT研究助成、国際協力 | | 一般財団法人PwC財団 | 公益財団法人PwC財団 | 2021年5月1日に公益財団法人へ移行 | https://www.pwc.com/jp/ja/about-us/member/pwc-foun",
+        "9年合併、2012年公益認定 | https://www.kddi-foundation.or.jp/ | 2012 | 合併、公益認定、ICT研究助成、国際協力 | | 一般財団法人PwC財団 | 公益財団法人PwC財団 | 2021年5月1日に公益財団法人へ移行 | https://www.pwc.com/jp/ja/about-us/member/pwc-foundation.html | "
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "SOMPO福祉財団": {
+      "name": "公益財団法人SOMPO福祉財団",
+      "name_core": "SOMPO福祉財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.sompo-wf.org/",
+        "https://www.k-matsushita.jp/",
+        "https://www.jfc.or.jp/wp-content/uploads/2022/06/ookawa-1.pdf",
+        "https://www.sompo-wf.org/katsudou/index.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "www.nakatani-foundation.jp/ | 2024 | 旧称、新称、法人番号7010705001797、名称変更日、研究助成 | | 公益財団法人 損保ジャパン日本興亜福祉財団 | 公益財団法人SOMPO福祉財団 | 2020年4月にSOMPO福祉財団へ名称変更 | https://www.sompo-wf.org/ | 2020 | 旧称、新称、法人番号101110500495",
+        "www.nakatani-foundation.jp/ | 2024 | 旧称、新称、法人番号7010705001797、名称変更日、研究助成 | | 公益財団法人 損保ジャパン日本興亜福祉財団 | 公益財団法人SOMPO福祉財団 | 2020年4月にSOMPO福祉財団へ名称変更 | https://www.sompo-wf.org/ | 2020 | 旧称、新称、法人番号101110500495"
+      ],
+      "sources": [
+        "team12.txt",
+        "team19.txt"
+      ]
+    },
+    "、一般財団": {
+      "name": "公益財団法人、一般財団",
+      "name_core": "、一般財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nomurafoundation.or.jp/other/map.html",
+        "https://www.takeda-sci.or.jp/",
+        "https://www.takeda-sci.or"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "394900205 |  **トラックAの10サブテーマ** | No. | サブテーマ | 目的 | 主データ項目 | |---:|---|---|---| | A1 | 法人格接頭辞の正規化 | 公益財団法人、一般財団法人、財団法人等の揺れ吸収 | 入力名、正規化名 | | A2 | 旧称・改称履歴照合 | 旧財団名から現正式名称へ接続 | 旧称、現名称、変更日 | | A3 | 法人番号照合",
+        "394900205 |  **トラックAの10サブテーマ** | No. | サブテーマ | 目的 | 主データ項目 | |---:|---|---|---| | A1 | 法人格接頭辞の正規化 | 公益財団法人、一般財団法人、財団法人等の揺れ吸収 | 入力名、正規化名 | | A2 | 旧称・改称履歴照合 | 旧財団名から現正式名称へ接続 | 旧称、現名称、変更日 | | A3 | 法人番号照合"
+      ],
+      "sources": [
+        "team1.txt",
+        "team11.txt",
+        "team15.txt",
+        "team17.txt",
+        "team2.txt",
+        "team5.txt"
+      ]
+    },
+    "。1969年9月11日設立、2010年11月公益財団": {
+      "name": "公益財団法人。1969年9月11日設立、2010年11月公益財団",
+      "name_core": "。1969年9月11日設立、2010年11月公益財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/index.html",
+        "https://www.inamori-f.or.jp/",
+        "https://www.inamori-f.or.jp/about/outline",
+        "https://www.toyotafound.or.jp/",
+        "https://www.t"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "://www.takeda-sci.or.jp/about/outline/ | | 三菱財団 | https://www.mitsubishi-zaidan.jp/ | 2025 | 法人種別 | 公益財団法人。1969年9月11日設立、2010年11月公益財団法人へ移行 | https://www.mitsubishi-zaidan.jp/about/index.html | | 稲盛財団 |",
+        "://www.takeda-sci.or.jp/about/outline/ | | 三菱財団 | https://www.mitsubishi-zaidan.jp/ | 2025 | 法人種別 | 公益財団法人。1969年9月11日設立、2010年11月公益財団法人へ移行 | https://www.mitsubishi-zaidan.jp/about/index.html | | 稲盛財団 |"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "。1974年10月15日設立、2010年4月1日公益財団": {
+      "name": "公益財団法人。1974年10月15日設立、2010年4月1日公益財団",
+      "name_core": "。1974年10月15日設立、2010年4月1日公益財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/",
+        "https://www.toyotafound.or.jp/about/",
+        "https://www.jfc.or.jp/",
+        "https://www.jfc.or.jp/whatis/overview/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ttps://www.inamori-f.or.jp/about/outline | | トヨタ財団 | https://www.toyotafound.or.jp/ | 2025 | 法人種別 | 公益財団法人。1974年10月15日設立、2010年4月1日公益財団法人へ移行 | https://www.toyotafound.or.jp/about/ | | 助成財団センター | https:",
+        "ttps://www.inamori-f.or.jp/about/outline | | トヨタ財団 | https://www.toyotafound.or.jp/ | 2025 | 法人種別 | 公益財団法人。1974年10月15日設立、2010年4月1日公益財団法人へ移行 | https://www.toyotafound.or.jp/about/ | | 助成財団センター | https:"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "。公益認定なしとして扱う。特定公益増進法人は公益財団": {
+      "name": "一般財団法人。公益認定なしとして扱う。特定公益増進法人は公益財団",
+      "name_core": "。公益認定なしとして扱う。特定公益増進法人は公益財団",
+      "legal_form": "一般財団法人",
+      "urls": [
+        "https://jp.foundation.canon/",
+        "https://www.nomurafoundation.or.jp/",
+        "https://www.taf.or.jp/",
+        "https://www.suzukifound.jp/"
+      ],
+      "amounts": [
+        290000000,
+        177000000,
+        192000000
+      ],
+      "context_snippets": [
+        "財団法人キヤノン財団 | https://jp.foundation.canon/ | 2022 | JFC上位100では67位、年間助成額290百万円。所在地、設立、基本財産を公式サイトで確認 | 一般財団法人。公益認定なしとして扱う。特定公益増進法人は公益財団ではないため原則非該当 | | 公益財団法人 野村財団 | https://www.nomurafoundation.or.jp/ | ",
+        "財団法人キヤノン財団 | https://jp.foundation.canon/ | 2022 | JFC上位100では67位、年間助成額290百万円。所在地、設立、基本財産を公式サイトで確認 | 一般財団法人。公益認定なしとして扱う。特定公益増進法人は公益財団ではないため原則非該当 | | 公益財団法人 野村財団 | https://www.nomurafoundation.or.jp/ | "
+      ],
+      "sources": [
+        "team17.txt"
+      ]
+    },
+    "」「一般財団": {
+      "name": "公益財団法人」「一般財団",
+      "name_core": "」「一般財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "webapi/index.html  **同一団体確認の標準フロー**  | Step | 処理 | 判定基準 | 出力項目 | |---|---|---|---| | 1 | 財団名の正規化 | 「公益財団法人」「一般財団法人」「財団法人」、全角半角、空白、記号を標準化 | normalized_name | | 2 | 法人番号検索 | 国税庁・Gビズインフォで名称検索 | corporate",
+        "webapi/index.html  **同一団体確認の標準フロー**  | Step | 処理 | 判定基準 | 出力項目 | |---|---|---|---| | 1 | 財団名の正規化 | 「公益財団法人」「一般財団法人」「財団法人」、全角半角、空白、記号を標準化 | normalized_name | | 2 | 法人番号検索 | 国税庁・Gビズインフォで名称検索 | corporate"
+      ],
+      "sources": [
+        "team2.txt",
+        "team6.txt"
+      ]
+    },
+    "ウシオ財団": {
+      "name": "公益財団法人ウシオ財団",
+      "name_core": "ウシオ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mhwf.or.jp/about/organization/",
+        "https://www.ushio-f.or.jp/about/officers",
+        "https://tkg.or.jp/about/",
+        "https://kohokyo.or.jp/jaco40/disclosure/board/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "人 三越厚生事業団 | https://www.mhwf.or.jp/about/organization/ | 2024年7月現在 | 理事長: 石川 博一 | 役員名簿に常勤・非常勤あり | | 公益財団法人 ウシオ財団 | https://www.ushio-f.or.jp/about/officers | 令和7年6月18日現在 | 理事長: 牛尾 志朗 | 役員等に関する事項、現在数、任",
+        "人 三越厚生事業団 | https://www.mhwf.or.jp/about/organization/ | 2024年7月現在 | 理事長: 石川 博一 | 役員名簿に常勤・非常勤あり | | 公益財団法人 ウシオ財団 | https://www.ushio-f.or.jp/about/officers | 令和7年6月18日現在 | 理事長: 牛尾 志朗 | 役員等に関する事項、現在数、任"
+      ],
+      "sources": [
+        "team3.txt"
+      ]
+    },
+    "キヤノン財団": {
+      "name": "一般財団法人キヤノン財団",
+      "name_core": "キヤノン財団",
+      "legal_form": "一般財団法人",
+      "urls": [
+        "https://jp.foundation.canon/",
+        "https://www.nomurafoundation.or.jp/",
+        "https://www.taf.or.jp/"
+      ],
+      "amounts": [
+        177000000,
+        290000000
+      ],
+      "context_snippets": [
+        "助成 応募資格 対象分野 2022 web search:  web search: 公益財団法人 天田財団 研究助成 2022 応募資格 対象分野 web search:  web search: 一般財団法人 キヤノン財団 産業基盤の創生 2022 応募資格 対象分野 web search:  web search: site:mzaidan.mazda.co.jp/bosyu/science"
+      ],
+      "sources": [
+        "team16.txt",
+        "team17.txt"
+      ]
+    },
+    "キーエンス財団": {
+      "name": "公益財団法人キーエンス財団",
+      "name_core": "キーエンス財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.fidr.or.jp/about/outline.html",
+        "https://www.keyence-foundation.or.jp/",
+        "https://www.keyence-foundation.or.jp/about/outline/",
+        "https://foundation.nojima.co.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "L 03-5282-5211 / FAX 03-3294-2525 / fidr@fidr.or.jp | https://www.fidr.or.jp/about/outline.html | | 公益財団法人 キーエンス財団 | https://www.keyence-foundation.or.jp/ | 〒533-8555 大阪市東淀川区東中島1-3-14 株式会社キーエンス内 | 代表理",
+        "L 03-5282-5211 / FAX 03-3294-2525 / fidr@fidr.or.jp | https://www.fidr.or.jp/about/outline.html | | 公益財団法人 キーエンス財団 | https://www.keyence-foundation.or.jp/ | 〒533-8555 大阪市東淀川区東中島1-3-14 株式会社キーエンス内 | 代表理"
+      ],
+      "sources": [
+        "team10.txt"
+      ]
+    },
+    "サントリー生命科学財団": {
+      "name": "公益財団法人サントリー生命科学財団",
+      "name_core": "サントリー生命科学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.fesco.or.jp/about/",
+        "https://www.sunbor.or.jp/",
+        "https://www.sunbor.or.jp/about/rinen/",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6120905003096",
+        "https://www.refost-hq.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "sco.or.jp/ | 財団法人日本顕彰会、社会貢献支援財団 | 1971年設立、2001年改称、2010年公益財団法人化 | https://www.fesco.or.jp/about/ | | 公益財団法人サントリー生命科学財団 | 6120905003096 | https://www.sunbor.or.jp/ | 財団法人食品化学研究所、財団法人サントリー生物有機科学研究所、SUNBO",
+        "sco.or.jp/ | 財団法人日本顕彰会、社会貢献支援財団 | 1971年設立、2001年改称、2010年公益財団法人化 | https://www.fesco.or.jp/about/ | | 公益財団法人サントリー生命科学財団 | 6120905003096 | https://www.sunbor.or.jp/ | 財団法人食品化学研究所、財団法人サントリー生物有機科学研究所、SUNBO"
+      ],
+      "sources": [
+        "team2.txt"
+      ]
+    },
+    "スズキ財団": {
+      "name": "公益財団法人スズキ財団",
+      "name_core": "スズキ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.taf.or.jp/",
+        "https://www.suzukifound.jp/"
+      ],
+      "amounts": [
+        192000000,
+        194000000
+      ],
+      "context_snippets": [
+        "信普及財団 | https://www.taf.or.jp/ | 2022 | JFC上位100では93位、年間助成額192百万円。研究調査助成あり | 公益財団法人。特定公益増進法人に該当 | | 公益財団法人 スズキ財団 | https://www.suzukifound.jp/ | 2022 | JFC上位100では91位、年間助成額194百万円。科学技術研究助成 | 公益財団法人。特定公益",
+        "信普及財団 | https://www.taf.or.jp/ | 2022 | JFC上位100では93位、年間助成額192百万円。研究調査助成あり | 公益財団法人。特定公益増進法人に該当 | | 公益財団法人 スズキ財団 | https://www.suzukifound.jp/ | 2022 | JFC上位100では91位、年間助成額194百万円。科学技術研究助成 | 公益財団法人。特定公益"
+      ],
+      "sources": [
+        "team17.txt"
+      ]
+    },
+    "トヨタ財団": {
+      "name": "公益財団法人トヨタ財団",
+      "name_core": "トヨタ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.kajima-f.or.jp/profile/about/",
+        "https://www.toyotafound.or.jp/",
+        "https://www.toyotafound.or.jp/about/",
+        "http://www.fidr.or.jp/",
+        "https://www.inamori-f.or.jp/about/message/",
+        "https://yamadazaidan.jp/about/",
+        "https://www.mhwf.or.jp/about/organization/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "0 鹿島KIビル | 理事長 鹿島公子 | 1976年4月27日 | TEL 03-3584-7418 | https://www.kajima-f.or.jp/profile/about/ | | 公益財団法人 トヨタ財団 | https://www.toyotafound.or.jp/ | 〒163-0437 東京都新宿区西新宿2-1-1 新宿三井ビル37F | 会長 犬塚力、理事長 羽田正 ",
+        "0 鹿島KIビル | 理事長 鹿島公子 | 1976年4月27日 | TEL 03-3584-7418 | https://www.kajima-f.or.jp/profile/about/ | | 公益財団法人 トヨタ財団 | https://www.toyotafound.or.jp/ | 〒163-0437 東京都新宿区西新宿2-1-1 新宿三井ビル37F | 会長 犬塚力、理事長 羽田正 "
+      ],
+      "sources": [
+        "team10.txt",
+        "team3.txt"
+      ]
+    },
+    "マツダ財団": {
+      "name": "公益財団法人マツダ財団",
+      "name_core": "マツダ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "  web search: https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/ web search:  web search: 公益財団法人 マツダ財団 研究助成 対象分野 応募資格 2022 web search:  web search: 公益財団法人 JFE21世紀財団 技術研究助成 2022 応募資格 対象分野 web"
+      ],
+      "sources": [
+        "team16.txt"
+      ]
+    },
+    "・一般財団": {
+      "name": "公益財団法人・一般財団",
+      "name_core": "・一般財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "user あなたはリサーチの専門家です。以下のテーマを詳細に調査してください。Web検索を積極的に使い、具体的な論文名・著者・機関・URLを明記してください。日本語で報告。  テーマ: トラックA: 公益財団法人・一般財団法人・任意団体等の法人種別確認  親テーマ: 研究助成財団Phase4データ拡張（4トラック）。トラックA(URL補完): 既存DBに登録された研究助成財団の公式URL欠損1,0",
+        "概要 公益財団法人 設立 住所 理事長 codex **調査報告: トラックA「法人種別確認」**  調査日: 2026年5月8日 JST   対象: 公式URL欠損1,071団体のうち、財団名から「公益財団法人・一般財団法人・任意団体・NPO法人・公益信託等」を判定するための確認設計。  結論として、法人種別は「団体名の接頭辞」だけで確定せず、少なくとも 1. 公益法人Information、2"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "・公益財団": {
+      "name": "公益社団法人・公益財団",
+      "name_core": "・公益財団",
+      "legal_form": "公益社団法人",
+      "urls": [
+        "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5283.htm",
+        "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1266.htm",
+        "https://www.mof.go.jp/tax_policy/reference/tokutei_koueki/index.htm"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " | 国税庁 | No.5283 特定公益増進法人に対する寄附金 | https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5283.htm | 公益社団法人・公益財団法人が特定公益増進法人に該当する根拠 | | 税制 | 国税庁 | No.1266 公益社団法人等に寄附をしたとき | https://www.nta.go.jp/taxes/s",
+        "法人Informationで確認 | 公益法人Information | | 一般法人 | 法人名が「一般財団法人」「一般社団法人」 | 法人番号公表サイト、公式サイト | | 特定公益増進法人 | 公益社団法人・公益財団法人は原則該当 | 国税庁 No.5283、財務省 | | 税額控除対象法人 | 公益法人Informationの「税額控除対象法人の検索」で個別確認 | 内閣府・行政庁証明 |"
+      ],
+      "sources": [
+        "team17.txt"
+      ]
+    },
+    "万有生命科学振興国際交流財団": {
+      "name": "公益財団法人万有生命科学振興国際交流財団",
+      "name_core": "万有生命科学振興国際交流財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.k-matsushita.jp/",
+        "https://www.msd-life-science-foundation.or.jp/",
+        "https://www.kddi-foundation.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 松下幸之助記念志財団 | 2019年4月1日、両法人が合併し発足 | https://www.k-matsushita.jp/ | 2019 | 合併、承継名称、所在地、研究助成・人材育成 | | 公益財団法人 万有生命科学振興国際交流財団 | 公益財団法人MSD生命科学財団 | 2016年10月、MSD生命科学財団に名称変更 | https://www.msd-life-science-fou",
+        " 松下幸之助記念志財団 | 2019年4月1日、両法人が合併し発足 | https://www.k-matsushita.jp/ | 2019 | 合併、承継名称、所在地、研究助成・人材育成 | | 公益財団法人 万有生命科学振興国際交流財団 | 公益財団法人MSD生命科学財団 | 2016年10月、MSD生命科学財団に名称変更 | https://www.msd-life-science-fou"
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "三菱財団": {
+      "name": "公益財団法人三菱財団",
+      "name_core": "三菱財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4120005014293",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/index.html",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010005016003",
+        "https://www.jfc.or.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/director.html",
+        "https://af-info.or.jp/about/officer.html",
+        "https://www.inamori-f.or.jp/about/message/",
+        "https://www.takeda-sci.or.jp/about/outline/",
+        "https://www.mitsubishi-zaidan.jp/inquiry/index.html",
+        "https://www.mitsubishi-zaidan.jp/access/index.html",
+        "https://www.inamori-f.or.jp/",
+        "https://www.inamori-f.or.jp/about/outline"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 代表者 設立年 web search:  web search: 公益財団法人 武田科学振興財団 財団概要 代表理事 設立 所在地 TEL URL web search:  web search: 公益財団法人 三菱財団 概要 代表理事 設立 所在地 電話 web search:  web search: セコム科学技術振興財団 財団概要 所在地 設立 代表理事 web search:  web"
+      ],
+      "sources": [
+        "team10.txt",
+        "team2.txt",
+        "team3.txt",
+        "team5.txt",
+        "team8.txt"
+      ]
+    },
+    "三越厚生事業団": {
+      "name": "公益財団法人三越厚生事業団",
+      "name_core": "三越厚生事業団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://yamadazaidan.jp/about/",
+        "https://www.mhwf.or.jp/about/organization/",
+        "https://www.ushio-f.or.jp/about/officers",
+        "https://tkg.or.jp/about/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " | 公益財団法人 山田科学振興財団 | https://yamadazaidan.jp/about/ | 令和7年6月2日現在 | 理事長: 石川冬木 | 役員・評議員欄に役職、氏名、現職 | | 公益財団法人 三越厚生事業団 | https://www.mhwf.or.jp/about/organization/ | 2024年7月現在 | 理事長: 石川 博一 | 役員名簿に常勤・非常勤あり",
+        " | 公益財団法人 山田科学振興財団 | https://yamadazaidan.jp/about/ | 令和7年6月2日現在 | 理事長: 石川冬木 | 役員・評議員欄に役職、氏名、現職 | | 公益財団法人 三越厚生事業団 | https://www.mhwf.or.jp/about/organization/ | 2024年7月現在 | 理事長: 石川 博一 | 役員名簿に常勤・非常勤あり"
+      ],
+      "sources": [
+        "team3.txt"
+      ]
+    },
+    "中谷医工計測技術振興財団": {
+      "name": "公益財団法人中谷医工計測技術振興財団",
+      "name_core": "中谷医工計測技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nakatani-foundation.jp/",
+        "https://www.sompo-wf.org/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "検証例**  | ランキング・旧掲載名称候補 | 現在の正式法人名称 | 変更・照合根拠 | 公式URL | 年度 | 構造化データ項目 | |---|---|---|---|---:|---| | 公益財団法人 中谷医工計測技術振興財団 | 公益財団法人 中谷財団 | 2024年、設立40周年を機に名称変更。定款第1条も「公益財団法人 中谷財団」 | https://www.nakatani-f",
+        "検証例**  | ランキング・旧掲載名称候補 | 現在の正式法人名称 | 変更・照合根拠 | 公式URL | 年度 | 構造化データ項目 | |---|---|---|---|---:|---| | 公益財団法人 中谷医工計測技術振興財団 | 公益財団法人 中谷財団 | 2024年、設立40周年を機に名称変更。定款第1条も「公益財団法人 中谷財団」 | https://www.nakatani-f"
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "中谷財団": {
+      "name": "公益財団法人中谷財団",
+      "name_core": "中谷財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/jfcreport2025/",
+        "https://www.nakatani-foundation.jp/",
+        "https://www.sompo-wf.org/",
+        "https://corporate.murata.com/ja-jp/group/zaidan",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010705001797",
+        "https://www.np-foundation.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ublication/ web search:  web search: https://www.jfc.or.jp/jfcreport2025/ web search:  web search: \"公益財団法人中谷財団\" 法人番号 web search:  web search: 公益財団法人KDDI財団 名称変更 国際コミュニケーション基金 web search:  web search: \"",
+        " | 現在の正式法人名称 | 変更・照合根拠 | 公式URL | 年度 | 構造化データ項目 | |---|---|---|---|---:|---| | 公益財団法人 中谷医工計測技術振興財団 | 公益財団法人 中谷財団 | 2024年、設立40周年を機に名称変更。定款第1条も「公益財団法人 中谷財団」 | https://www.nakatani-foundation.jp/ | 2024 |"
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "光科学技術研究振興財団": {
+      "name": "公益財団法人光科学技術研究振興財団",
+      "name_core": "光科学技術研究振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://nira.or.jp/about/overview/",
+        "https://www.refost-hq.jp/",
+        "https://www.refost-hq.jp/about/outline/",
+        "https://www.nagase-f.or.jp/",
+        "https://www.nagase-f.or",
+        "https://www.nagase-f.or",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6120905003096"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ガーデンプレイスタワー34F | 代表理事 金丸恭文、谷口将紀 | 1974年3月25日 | 公式問い合わせ導線あり | https://nira.or.jp/about/overview/ | | 公益財団法人 光科学技術研究振興財団 | https://www.refost-hq.jp/ | 静岡県浜松市中央区砂山町325-6 | 理事長 晝馬明 | 1988年12月23日 | TEL 053",
+        "ガーデンプレイスタワー34F | 代表理事 金丸恭文、谷口将紀 | 1974年3月25日 | 公式問い合わせ導線あり | https://nira.or.jp/about/overview/ | | 公益財団法人 光科学技術研究振興財団 | https://www.refost-hq.jp/ | 静岡県浜松市中央区砂山町325-6 | 理事長 晝馬明 | 1988年12月23日 | TEL 053"
+      ],
+      "sources": [
+        "team10.txt",
+        "team2.txt"
+      ]
+    },
+    "公益推進協会": {
+      "name": "公益財団法人公益推進協会",
+      "name_core": "公益推進協会",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [
+        47000000,
+        179000000,
+        1064000000,
+        177000000,
+        6104000000,
+        10872000000
+      ],
+      "context_snippets": [
+        "47百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,064百万円 | 1971 | 内閣府 | JFC | | 99 | 公益財団法人 公益推進協会 | 177百万円 | 6,104百万円 | 2010 | 内閣府 | JFC | | 100 | 公益財団法人 野村財団 | 177百万円 | 10,872百万円 | 20",
+        "47百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,064百万円 | 1971 | 内閣府 | JFC | | 99 | 公益財団法人 公益推進協会 | 177百万円 | 6,104百万円 | 2010 | 内閣府 | JFC | | 100 | 公益財団法人 野村財団 | 177百万円 | 10,872百万円 | 20"
+      ],
+      "sources": [
+        "team11.txt"
+      ]
+    },
+    "公益法人協会": {
+      "name": "公益財団法人公益法人協会",
+      "name_core": "公益法人協会",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://tkg.or.jp/about/",
+        "https://kohokyo.or.jp/jaco40/disclosure/board/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "事項、現在数、任期も掲載 | | 公益財団法人 髙島科学技術振興財団 | https://tkg.or.jp/about/ | 掲載時点 | 代表理事: 髙島 勇二 | 「代表理事」直接記載 | | 公益財団法人 公益法人協会 | https://kohokyo.or.jp/jaco40/disclosure/board/ | 掲載時点 | 理事長（代表理事）: 雨宮 孝子、常務理事（代表理事）:",
+        "事項、現在数、任期も掲載 | | 公益財団法人 髙島科学技術振興財団 | https://tkg.or.jp/about/ | 掲載時点 | 代表理事: 髙島 勇二 | 「代表理事」直接記載 | | 公益財団法人 公益法人協会 | https://kohokyo.or.jp/jaco40/disclosure/board/ | 掲載時点 | 理事長（代表理事）: 雨宮 孝子、常務理事（代表理事）:"
+      ],
+      "sources": [
+        "team3.txt"
+      ]
+    },
+    "助成財団": {
+      "name": "公益財団法人助成財団",
+      "name_core": "助成財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/handbook2022/",
+        "https://www.jfc.or.jp/bunseki-top/b1_2022/",
+        "https://www.jfc.or.jp/bunseki-top/rank_grant/rank",
+        "https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/",
+        "https://www.jfc.or.jp/jfcreport2025/",
+        "https://jyosei-navi.jfc.or.jp/",
+        "https://www.jfc.or.jp/outgoing/",
+        "https://www",
+        "https://www.koeki-info.go.jp/",
+        "https://ndlsearch.ndl.go.jp/books/R100000002-I0330",
+        "https://ndlsearch.ndl.go.jp/books/R100000002-I033046542",
+        "https://www.jfc.or.jp/search_page/",
+        "https://www.jfc.or.jp/search/",
+        "https://www.koeki-info.go.jp/corporations/index.html",
+        "https://www.jfc.or.jp/bunseki-to",
+        "https://search.jfc.or.jp/grant-search/z_search.php5",
+        "https://www.jfe-holdings.co.jp/release/2022/0927/000223/",
+        "https://wwwr.kanaz",
+        "https://wwwr.kanazawa-it.ac.jp/wwwr/05_joseikin2022.html",
+        "https://research-miyaco",
+        "https://www.koeki-info.go.jp/corporations/kmhiy0mbiw.html",
+        "https://www.jfc.or.jp/handbook2023/",
+        "https://jyosei-na",
+        "https://www.houjin-bangou.nta.go.jp/webapi/index.html",
+        "https://www.houjin-bangou.nta",
+        "https://www.houjin-bangou.nta.go.jp/website/riyo-hoho/",
+        "https://www.jfc.or.jp/bunseki-top/b1/",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010005016003",
+        "https://www.jfc.or.jp/",
+        "https://www.jfc.or.jp/whatis/overview/",
+        "https://www.fesco.or.jp/",
+        "https://www.fesco.or.jp/about/",
+        "https://www.jfc.or.jp/bunseki-top/",
+        "https://www.e-stat.go.jp/stat-search/files?kikan=001",
+        "https://www.e-stat.go.jp/stat-search/files?kikan=00100&toukei=00100503",
+        "https://www.koeki-info.go.jp",
+        "https://cir.nii.ac.jp/crid/1390282763121926784",
+        "https://info.gbiz.go.jp/hojin/APIManual",
+        "https://www.wikidata.org/wiki/Property"
+      ],
+      "amounts": [
+        77000000
+      ],
+      "context_snippets": [
+        "  | 区分 | 資料名・論文名 | 著者・機関 | 用途 | URL | |---|---|---|---|---| | 基礎DB | 助成財団センター・レポート 日本の助成財団の状況2022 | 公益財団法人助成財団センター 編・発行 | 助成財団母集団、DB調査、分析対象2,005団体 | https://www.jfc.or.jp/handbook2022/ | | 統計 | 日本の助成財",
+        "  | 区分 | 資料名・論文名 | 著者・機関 | 用途 | URL | |---|---|---|---|---| | 基礎DB | 助成財団センター・レポート 日本の助成財団の状況2022 | 公益財団法人助成財団センター 編・発行 | 助成財団母集団、DB調査、分析対象2,005団体 | https://www.jfc.or.jp/handbook2022/ | | 統計 | 日本の助成財"
+      ],
+      "sources": [
+        "team10.txt",
+        "team11.txt",
+        "team12.txt",
+        "team13.txt",
+        "team14.txt",
+        "team15.txt",
+        "team16.txt",
+        "team17.txt",
+        "team18.txt",
+        "team2.txt",
+        "team3.txt",
+        "team5.txt",
+        "team6.txt",
+        "team7.txt",
+        "team8.txt"
+      ]
+    },
+    "及び一般財団": {
+      "name": "一般社団法人及び一般財団",
+      "name_core": "及び一般財団",
+      "legal_form": "一般社団法人",
+      "urls": [
+        "https://info.gbiz.go.jp/hojin/APIManual",
+        "https://laws.e-gov.go.jp/law/418AC0000000048",
+        "https://laws.e-gov.go.jp/law/418AC0000000049",
+        "https://www.houjin-bangou.nta.go.jp/tetsuzuki/doi-kakunin/i"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 著者 財団 センター web search:  web search: 任意団体 法人格 人格のない社団 国税庁 法人番号 公表 同意 web search:  web search: e-Gov 一般社団法人及び一般財団法人に関する法律 法令 web search:  web search: 三菱財団 概要 公益財団法人 設立 住所 理事長 codex **調査報告: トラックA「法人種別確認",
+        "| 5 | gBizINFO API | 経済産業省 | 法人基本情報、届出・認定、補助金、調達等 | https://info.gbiz.go.jp/hojin/APIManual | | 6 | 一般社団法人及び一般財団法人に関する法律 | e-Gov / 法務省所管 | 一般財団法人の根拠法 | https://laws.e-gov.go.jp/law/418AC0000000048 | |"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "及び公益財団": {
+      "name": "公益社団法人及び公益財団",
+      "name_core": "及び公益財団",
+      "legal_form": "公益社団法人",
+      "urls": [
+        "https://laws.e-gov.go.jp/law/418AC0000000048",
+        "https://laws.e-gov.go.jp/law/418AC0000000049",
+        "https://www.houjin-bangou.nta.go.jp/tetsuzuki/doi-kakunin/index.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "人及び一般財団法人に関する法律 | e-Gov / 法務省所管 | 一般財団法人の根拠法 | https://laws.e-gov.go.jp/law/418AC0000000048 | | 7 | 公益社団法人及び公益財団法人の認定等に関する法律 | e-Gov / 内閣府所管 | 公益財団法人の定義、公益認定 | https://laws.e-gov.go.jp/law/418AC000000",
+        "人及び一般財団法人に関する法律 | e-Gov / 法務省所管 | 一般財団法人の根拠法 | https://laws.e-gov.go.jp/law/418AC0000000048 | | 7 | 公益社団法人及び公益財団法人の認定等に関する法律 | e-Gov / 内閣府所管 | 公益財団法人の定義、公益認定 | https://laws.e-gov.go.jp/law/418AC000000"
+      ],
+      "sources": [
+        "team7.txt"
+      ]
+    },
+    "向科学技術振興財団": {
+      "name": "一般財団法人向科学技術振興財団",
+      "name_core": "向科学技術振興財団",
+      "legal_form": "一般財団法人",
+      "urls": [
+        "https://www.nagase-f.or.jp/outline/",
+        "https://www.mukai-zaidan.or.jp/",
+        "https://www.mukai-zaidan.or.jp/about/",
+        "https://yamadazaidan.jp/",
+        "https://yamada"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 大阪市西区新町1-1-17 | 理事長 安場直樹 | 1989年4月26日 | TEL 06-6535-2117 | https://www.nagase-f.or.jp/outline/ | | 一般財団法人 向科学技術振興財団 | https://www.mukai-zaidan.or.jp/ | 〒170-0005 東京都豊島区南大塚3-52-10 今井第5ビル5F | 理事長 向恭男 |",
+        " 大阪市西区新町1-1-17 | 理事長 安場直樹 | 1989年4月26日 | TEL 06-6535-2117 | https://www.nagase-f.or.jp/outline/ | | 一般財団法人 向科学技術振興財団 | https://www.mukai-zaidan.or.jp/ | 〒170-0005 東京都豊島区南大塚3-52-10 今井第5ビル5F | 理事長 向恭男 |"
+      ],
+      "sources": [
+        "team10.txt"
+      ]
+    },
+    "国際開発救援財団": {
+      "name": "公益財団法人国際開発救援財団",
+      "name_core": "国際開発救援財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.toyotafound.or.jp/about/",
+        "http://www.fidr.or.jp/",
+        "https://www.fidr.or.jp/about/outline.html",
+        "https://www.keyence-foundation.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 羽田正 | 1974年10月15日 | TEL 03-3344-1701 / FAX 03-3342-6911 | https://www.toyotafound.or.jp/about/ | | 公益財団法人 国際開発救援財団 | http://www.fidr.or.jp/ | 〒101-0062 東京都千代田区神田駿河台2-1 OCCビル3F | 理事長 飯島延浩 | 1990年4月26日",
+        " 羽田正 | 1974年10月15日 | TEL 03-3344-1701 / FAX 03-3342-6911 | https://www.toyotafound.or.jp/about/ | | 公益財団法人 国際開発救援財団 | http://www.fidr.or.jp/ | 〒101-0062 東京都千代田区神田駿河台2-1 OCCビル3F | 理事長 飯島延浩 | 1990年4月26日"
+      ],
+      "sources": [
+        "team10.txt"
+      ]
+    },
+    "大川情報通信基金": {
+      "name": "公益財団法人大川情報通信基金",
+      "name_core": "大川情報通信基金",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://journals.sagepub.com/doi/abs/10.1177/0899764016654281",
+        "https://www.jfc.or.jp/subsidy/grants220707-001/",
+        "http://www.okawa-foundation.or.jp/",
+        "https://www.jfc.or.jp/wp-content/uploads/2022/06/ookawa-1.pdf",
+        "https://www.sompo-wf.org/"
+      ],
+      "amounts": [
+        1500000,
+        10000000
+      ],
+      "context_snippets": [
+        "liations' in https://journals.sagepub.com/doi/abs/10.1177/0899764016654281 web search:  web search: 公益財団法人 大川情報通信基金 研究助成 2022 助成額 web search:  web search: 大川情報通信基金 研究助成 2022 公式 web search:  web search",
+        "22 助成額 web search:  web search: 大川情報通信基金 研究助成 2022 公式 web search:  web search: 公益法人information 法人検索 公益財団法人 大川情報通信基金 codex **調査結果要約**  トラックBの中核は「JFC年間助成額ランキング2022年度版の101-300位を母集団化し、各財団が研究助成財団DBに入るべきか、ま"
+      ],
+      "sources": [
+        "team19.txt"
+      ]
+    },
+    "天田財団": {
+      "name": "公益財団法人天田財団",
+      "name_core": "天田財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "2 応募資格 対象分野 web search:  web search: 公益財団法人 池谷科学技術振興財団 研究助成 応募資格 対象分野 2022 web search:  web search: 公益財団法人 天田財団 研究助成 2022 応募資格 対象分野 web search:  web search: 一般財団法人 キヤノン財団 産業基盤の創生 2022 応募資格 対象分野 web se"
+      ],
+      "sources": [
+        "team16.txt"
+      ]
+    },
+    "山田科学振興財団": {
+      "name": "公益財団法人山田科学振興財団",
+      "name_core": "山田科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mukai-zaidan.or.jp/about/",
+        "https://yamadazaidan.jp/",
+        "https://yamadazaidan.jp/about/",
+        "https://www.mhwf.or.jp/about/organization/",
+        "https://www.ushio-f.or.jp/about/officers"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "長 向恭男 | 2011年9月1日 | TEL 03-3971-4510 / FAX 03-5956-5215 | https://www.mukai-zaidan.or.jp/about/ | | 公益財団法人 山田科学振興財団 | https://yamadazaidan.jp/ | 〒544-8666 大阪市生野区巽西1-8-1 | 理事長 石川冬木 | 1977年2月25日 | 公式問い合",
+        "長 向恭男 | 2011年9月1日 | TEL 03-3971-4510 / FAX 03-5956-5215 | https://www.mukai-zaidan.or.jp/about/ | | 公益財団法人 山田科学振興財団 | https://yamadazaidan.jp/ | 〒544-8666 大阪市生野区巽西1-8-1 | 理事長 石川冬木 | 1977年2月25日 | 公式問い合"
+      ],
+      "sources": [
+        "team10.txt",
+        "team3.txt"
+      ]
+    },
+    "岩谷直治記念財団": {
+      "name": "公益財団法人岩谷直治記念財団",
+      "name_core": "岩谷直治記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [
+        188000000,
+        24583000000,
+        184000000,
+        21547000000,
+        179000000,
+        1064000000,
+        177000000,
+        6104000000,
+        10872000000
+      ],
+      "context_snippets": [
+        "できるランキング境界**  | 順位 | 財団名 | 年間助成額 | 資産総額 | 設立年 | 行政庁 | 出典 | |---:|---|---:|---:|---:|---|---| | 96 | 公益財団法人 岩谷直治記念財団 | 188百万円 | 24,583百万円 | 1973 | 内閣府 | JFC | | 97 | 公益財団法人 立石科学技術振興財団 | 184百万円 | 21,547",
+        "できるランキング境界**  | 順位 | 財団名 | 年間助成額 | 資産総額 | 設立年 | 行政庁 | 出典 | |---:|---|---:|---:|---:|---|---| | 96 | 公益財団法人 岩谷直治記念財団 | 188百万円 | 24,583百万円 | 1973 | 内閣府 | JFC | | 97 | 公益財団法人 立石科学技術振興財団 | 184百万円 | 21,547"
+      ],
+      "sources": [
+        "team11.txt"
+      ]
+    },
+    "損保ジャパン日本興亜福祉財団": {
+      "name": "公益財団法人損保ジャパン日本興亜福祉財団",
+      "name_core": "損保ジャパン日本興亜福祉財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nakatani-foundation.jp/",
+        "https://www.sompo-wf.org/",
+        "https://www.k-matsushita.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "「公益財団法人 中谷財団」 | https://www.nakatani-foundation.jp/ | 2024 | 旧称、新称、法人番号7010705001797、名称変更日、研究助成 | | 公益財団法人 損保ジャパン日本興亜福祉財団 | 公益財団法人SOMPO福祉財団 | 2020年4月にSOMPO福祉財団へ名称変更 | https://www.sompo-wf.org/ | 2020 ",
+        "「公益財団法人 中谷財団」 | https://www.nakatani-foundation.jp/ | 2024 | 旧称、新称、法人番号7010705001797、名称変更日、研究助成 | | 公益財団法人 損保ジャパン日本興亜福祉財団 | 公益財団法人SOMPO福祉財団 | 2020年4月にSOMPO福祉財団へ名称変更 | https://www.sompo-wf.org/ | 2020 "
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "日本フィランソロピック財団": {
+      "name": "公益財団法人日本フィランソロピック財団",
+      "name_core": "日本フィランソロピック財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.np-foundation.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "tps://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010705001797 | 2022/2024 | JFC掲載名、現商号、法人番号、認定情報 | | 公益財団法人 日本フィランソロピック財団 | 公益財団法人日本フィランソロピック財団 | 基金型助成財団として公式サイトで公益財団法人を明記 | https://www.np-foundation.o",
+        "ojin/ichiran?hojinBango=7010705001797 | 2022/2024 | JFC掲載名、現商号、法人番号、認定情報 | | 公益財団法人 日本フィランソロピック財団 | 公益財団法人日本フィランソロピック財団 | 基金型助成財団として公式サイトで公益財団法人を明記 | https://www.np-foundation.or.jp/ | 2026 | 公式URL、基金"
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "日本証券奨学財団": {
+      "name": "公益財団法人日本証券奨学財団",
+      "name_core": "日本証券奨学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://jssf.or.jp/researchgrant.html",
+        "https://www.jfc.or.jp/subsidy/grants220627-019/",
+        "http://group.dai-ichi-life.co.jp/dai-ichi-life-foundation/"
+      ],
+      "amounts": [
+        10000000,
+        1500000
+      ],
+      "context_snippets": [
+        "onfidence、last_checked、分類者メモ |  **分類例**  | 財団名 | URL | 年度 | 判定 | 根拠データ項目 | |---|---|---:|---|---| | 公益財団法人 日本証券奨学財団 | https://jssf.or.jp/researchgrant.html | 2022 | 研究助成該当 | JFC募集ニュースで「学術の研究」「社会科学」「1件",
+        "onfidence、last_checked、分類者メモ |  **分類例**  | 財団名 | URL | 年度 | 判定 | 根拠データ項目 | |---|---|---:|---|---| | 公益財団法人 日本証券奨学財団 | https://jssf.or.jp/researchgrant.html | 2022 | 研究助成該当 | JFC募集ニュースで「学術の研究」「社会科学」「1件"
+      ],
+      "sources": [
+        "team19.txt"
+      ]
+    },
+    "日本財団": {
+      "name": "公益財団法人日本財団",
+      "name_core": "日本財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/"
+      ],
+      "amounts": [
+        65619000000,
+        177000000
+      ],
+      "context_snippets": [
+        "**構造化例**  | 財団名 | URL | 年度 | データ項目 | 原表記 | 正規化 | 税込表記 | 出典 | |---|---|---:|---|---:|---:|---|---| | 公益財団法人 日本財団 | https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/ | 2022 | 年間助成額 | 65,619百万",
+        "**構造化例**  | 財団名 | URL | 年度 | データ項目 | 原表記 | 正規化 | 税込表記 | 出典 | |---|---|---:|---|---:|---:|---|---| | 公益財団法人 日本財団 | https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/ | 2022 | 年間助成額 | 65,619百万"
+      ],
+      "sources": [
+        "team14.txt"
+      ]
+    },
+    "旭硝子財団": {
+      "name": "公益財団法人旭硝子財団",
+      "name_core": "旭硝子財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.pwc.com/jp/ja/about-us/member/pwc-foundation.html",
+        "https://www.af-info.or.jp/",
+        "https://corporate.murata.com/ja-jp/group/zaidan",
+        "https://af-info.or.jp/about/officer.html",
+        "https://www.inamori-f.or.jp/about/message/",
+        "https://www.toyotafound.or.jp/about/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "法人へ移行 | https://www.pwc.com/jp/ja/about-us/member/pwc-foundation.html | 2021 | 法人格変更、社会課題助成、所在地 | | 公益財団法人 旭硝子財団 | 公益財団法人 旭硝子財団 | 企業名はAGCに変わったが財団正式名称は旭硝子財団のまま | https://www.af-info.or.jp/ | 2026 | 名称維",
+        "/www.pwc.com/jp/ja/about-us/member/pwc-foundation.html | 2021 | 法人格変更、社会課題助成、所在地 | | 公益財団法人 旭硝子財団 | 公益財団法人 旭硝子財団 | 企業名はAGCに変わったが財団正式名称は旭硝子財団のまま | https://www.af-info.or.jp/ | 2026 | 名称維持、表記注意、研究助成、奨学、"
+      ],
+      "sources": [
+        "team12.txt",
+        "team3.txt"
+      ]
+    },
+    "村田学術振興・教育財団": {
+      "name": "公益財団法人村田学術振興・教育財団",
+      "name_core": "村田学術振興・教育財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.af-info.or.jp/",
+        "https://corporate.murata.com/ja-jp/group/zaidan",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010705001797"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "団のまま | https://www.af-info.or.jp/ | 2026 | 名称維持、表記注意、研究助成、奨学、ブループラネット賞 | | 公益財団法人 村田学術振興財団等の旧表記候補 | 公益財団法人 村田学術振興・教育財団 | 公式サイト上の現名称は「村田学術振興・教育財団」 | https://corporate.murata.com/ja-jp/group/zaidan | 20",
+        "団のまま | https://www.af-info.or.jp/ | 2026 | 名称維持、表記注意、研究助成、奨学、ブループラネット賞 | | 公益財団法人 村田学術振興財団等の旧表記候補 | 公益財団法人 村田学術振興・教育財団 | 公式サイト上の現名称は「村田学術振興・教育財団」 | https://corporate.murata.com/ja-jp/group/zaidan | 20"
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "村田学術振興財団": {
+      "name": "公益財団法人村田学術振興財団",
+      "name_core": "村田学術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.af-info.or.jp/",
+        "https://corporate.murata.com/ja-jp/group/zaidan",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010705001797"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 企業名はAGCに変わったが財団正式名称は旭硝子財団のまま | https://www.af-info.or.jp/ | 2026 | 名称維持、表記注意、研究助成、奨学、ブループラネット賞 | | 公益財団法人 村田学術振興財団等の旧表記候補 | 公益財団法人 村田学術振興・教育財団 | 公式サイト上の現名称は「村田学術振興・教育財団」 | https://corporate.murata.co",
+        " 企業名はAGCに変わったが財団正式名称は旭硝子財団のまま | https://www.af-info.or.jp/ | 2026 | 名称維持、表記注意、研究助成、奨学、ブループラネット賞 | | 公益財団法人 村田学術振興財団等の旧表記候補 | 公益財団法人 村田学術振興・教育財団 | 公式サイト上の現名称は「村田学術振興・教育財団」 | https://corporate.murata.co"
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "松下幸之助記念志財団": {
+      "name": "公益財団法人松下幸之助記念志財団",
+      "name_core": "松下幸之助記念志財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.sompo-wf.org/",
+        "https://www.k-matsushita.jp/",
+        "https://www.msd-life-science-foundation.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 国際コミュニケーション基金 web search:  web search: \"日本の助成財団の状況2022\" \"高等教育段階の奨学金制度\" 著者 web search:  web search: 公益財団法人 松下幸之助記念志財団 名称変更 松下幸之助記念財団 web search:  web search: \"万有生命科学振興国際交流財団\" \"MSD生命科学財団\" \"名称変更\" codex ",
+        " | https://www.sompo-wf.org/ | 2020 | 旧称、新称、法人番号1011105004958、社会福祉助成 | | 公益財団法人 松下幸之助記念財団 / 松下政経塾 | 公益財団法人 松下幸之助記念志財団 | 2019年4月1日、両法人が合併し発足 | https://www.k-matsushita.jp/ | 2019 | 合併、承継名称、所在地、研究助成・人材育"
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "松下幸之助記念財団": {
+      "name": "公益財団法人松下幸之助記念財団",
+      "name_core": "松下幸之助記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.sompo-wf.org/",
+        "https://www.k-matsushita.jp/",
+        "https://www.msd-life-science-foundation.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "財団 | 2020年4月にSOMPO福祉財団へ名称変更 | https://www.sompo-wf.org/ | 2020 | 旧称、新称、法人番号1011105004958、社会福祉助成 | | 公益財団法人 松下幸之助記念財団 / 松下政経塾 | 公益財団法人 松下幸之助記念志財団 | 2019年4月1日、両法人が合併し発足 | https://www.k-matsushita.jp/ | ",
+        "財団 | 2020年4月にSOMPO福祉財団へ名称変更 | https://www.sompo-wf.org/ | 2020 | 旧称、新称、法人番号1011105004958、社会福祉助成 | | 公益財団法人 松下幸之助記念財団 / 松下政経塾 | 公益財団法人 松下幸之助記念志財団 | 2019年4月1日、両法人が合併し発足 | https://www.k-matsushita.jp/ | "
+      ],
+      "sources": [
+        "team12.txt"
+      ]
+    },
+    "武田科学振興財団": {
+      "name": "公益財団法人武田科学振興財団",
+      "name_core": "武田科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.takeda-sci.or.jp/",
+        "https://www.takeda-sci.or.jp/about/outline/",
+        "https://www.inamori-f.or.jp/",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4120005014293",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/director.html",
+        "https://af-info.or.jp/about/officer.html",
+        "https://www.takeda-sci.or.jp/contact/",
+        "https://www.mitsubishi-",
+        "https://www.mitsubishi-zaidan.jp/about/index.html",
+        "https://www.inamori-",
+        "https://www.inamori-f.or.jp/about/outline"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ー等を突き合わせる前提で整理します。 web search:  web search: 助成財団センター 助成財団要覧 URL 住所 代表者 設立年 web search:  web search: 公益財団法人 武田科学振興財団 財団概要 代表理事 設立 所在地 TEL URL web search:  web search: 公益財団法人 三菱財団 概要 代表理事 設立 所在地 電話 web ",
+        "称変更 |  **統合サンプル**  | 財団名 | 公式URL | 住所 | 代表者 | 設立年・設立日 | 連絡先 | 主出典 | |---|---|---|---|---|---|---| | 公益財団法人 武田科学振興財団 | https://www.takeda-sci.or.jp/ | 〒541-0045 大阪市中央区道修町2-3-6 | 理事長 飯澤祐史 | 1963年9月30日 |"
+      ],
+      "sources": [
+        "team10.txt",
+        "team2.txt",
+        "team3.txt",
+        "team5.txt",
+        "team8.txt"
+      ]
+    },
+    "池谷科学技術振興財団": {
+      "name": "公益財団法人池谷科学技術振興財団",
+      "name_core": "池谷科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        " 応募資格 2022 web search:  web search: 公益財団法人 JFE21世紀財団 技術研究助成 2022 応募資格 対象分野 web search:  web search: 公益財団法人 池谷科学技術振興財団 研究助成 応募資格 対象分野 2022 web search:  web search: 公益財団法人 天田財団 研究助成 2022 応募資格 対象分野 web s"
+      ],
+      "sources": [
+        "team16.txt"
+      ]
+    },
+    "海外子女教育振興財団": {
+      "name": "公益財団法人海外子女教育振興財団",
+      "name_core": "海外子女教育振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [
+        3000000,
+        184000000,
+        21547000000,
+        179000000,
+        1064000000,
+        177000000,
+        6104000000,
+        10872000000
+      ],
+      "context_snippets": [
+        "3百万円 | 1973 | 内閣府 | JFC | | 97 | 公益財団法人 立石科学技術振興財団 | 184百万円 | 21,547百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,064百万円 | 1971 | 内閣府 | JFC | | 99 | 公益財団法人 公益推進協会 | 177百万円 | 6,104百万円 ",
+        "3百万円 | 1973 | 内閣府 | JFC | | 97 | 公益財団法人 立石科学技術振興財団 | 184百万円 | 21,547百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,064百万円 | 1971 | 内閣府 | JFC | | 99 | 公益財団法人 公益推進協会 | 177百万円 | 6,104百万円 "
+      ],
+      "sources": [
+        "team11.txt"
+      ]
+    },
+    "社会貢献支援財団": {
+      "name": "公益財団法人社会貢献支援財団",
+      "name_core": "社会貢献支援財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/whatis/overview/",
+        "https://www.fesco.or.jp/",
+        "https://www.fesco.or.jp/about/",
+        "https://www.sunbor.or.jp/",
+        "https://www.sunbor.or.jp/about/rinen/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 1985年11月20日「助成財団資料センター」として設立、2009年9月1日公益認定、所在地、電話、代表者 | https://www.jfc.or.jp/whatis/overview/ | | 公益財団法人社会貢献支援財団 | 8010405009041 | https://www.fesco.or.jp/ | 財団法人日本顕彰会、社会貢献支援財団 | 1971年設立、2001年改称、201",
+        " 1985年11月20日「助成財団資料センター」として設立、2009年9月1日公益認定、所在地、電話、代表者 | https://www.jfc.or.jp/whatis/overview/ | | 公益財団法人社会貢献支援財団 | 8010405009041 | https://www.fesco.or.jp/ | 財団法人日本顕彰会、社会貢献支援財団 | 1971年設立、2001年改称、201"
+      ],
+      "sources": [
+        "team2.txt"
+      ]
+    },
+    "稲盛財団": {
+      "name": "公益財団法人稲盛財団",
+      "name_core": "稲盛財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.takeda-sci.or.jp/about/outline/",
+        "https://www.inamori-f.or.jp/",
+        "https://www.inamori-f.or.jp/about/outline",
+        "https://www.kajima-f.or.jp/",
+        "https://www.inamori-f.or.jp/about/message/",
+        "https://www.toyotafound.or.jp/about/",
+        "https://yamadazaidan.jp/about/",
+        "https://www.mitsubishi-zaidan.jp/access/index.html",
+        "https://www.inamori-f.or.jp/contact",
+        "https://kr-fd.or.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/index.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 1963年9月30日 | TEL 06-6233-6101 / FAX 06-6233-6112 | https://www.takeda-sci.or.jp/about/outline/ | | 公益財団法人 稲盛財団 | https://www.inamori-f.or.jp/ | 〒600-8411 京都市下京区烏丸通四条下ル水銀屋町620 COCON烏丸7F | 理事長 金澤しのぶ | ",
+        " 1963年9月30日 | TEL 06-6233-6101 / FAX 06-6233-6112 | https://www.takeda-sci.or.jp/about/outline/ | | 公益財団法人 稲盛財団 | https://www.inamori-f.or.jp/ | 〒600-8411 京都市下京区烏丸通四条下ル水銀屋町620 COCON烏丸7F | 理事長 金澤しのぶ | "
+      ],
+      "sources": [
+        "team10.txt",
+        "team3.txt",
+        "team5.txt",
+        "team8.txt"
+      ]
+    },
+    "立石科学技術振興財団": {
+      "name": "公益財団法人立石科学技術振興財団",
+      "name_core": "立石科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.tateisi-f.org/about/outline.html",
+        "https://www.taf.or.jp/aboutus/outline.html",
+        "https://www.taf.or.jp/access"
+      ],
+      "amounts": [
+        188000000,
+        24583000000,
+        184000000,
+        21547000000,
+        179000000,
+        1064000000,
+        177000000,
+        6104000000,
+        10872000000
+      ],
+      "context_snippets": [
+        "---|---:|---:|---:|---|---| | 96 | 公益財団法人 岩谷直治記念財団 | 188百万円 | 24,583百万円 | 1973 | 内閣府 | JFC | | 97 | 公益財団法人 立石科学技術振興財団 | 184百万円 | 21,547百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,06",
+        "---|---:|---:|---:|---|---| | 96 | 公益財団法人 岩谷直治記念財団 | 188百万円 | 24,583百万円 | 1973 | 内閣府 | JFC | | 97 | 公益財団法人 立石科学技術振興財団 | 184百万円 | 21,547百万円 | 1990 | 内閣府 | JFC | | 98 | 公益財団法人 海外子女教育振興財団 | 179百万円 | 1,06"
+      ],
+      "sources": [
+        "team11.txt",
+        "team15.txt"
+      ]
+    },
+    "第一生命財団": {
+      "name": "一般財団法人第一生命財団",
+      "name_core": "第一生命財団",
+      "legal_form": "一般財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/subsidy/grants220627-019/",
+        "http://group.dai-ichi-life.co.jp/dai-ichi-life-foundation/",
+        "https://www.jfc.or.jp/subsidy/grants220707-001/",
+        "http://www.okawa-foundation.or.jp/"
+      ],
+      "amounts": [
+        10000000,
+        1500000
+      ],
+      "context_snippets": [
+        "ースで「学術の研究」「社会科学」「1件100万円程度、総額1,000万円予定」と確認。URL: https://www.jfc.or.jp/subsidy/grants220627-019/ | | 一般財団法人 第一生命財団 | http://group.dai-ichi-life.co.jp/dai-ichi-life-foundation/ | 2022 | 研究助成該当 | 住宅・都市・土",
+        "ースで「学術の研究」「社会科学」「1件100万円程度、総額1,000万円予定」と確認。URL: https://www.jfc.or.jp/subsidy/grants220627-019/ | | 一般財団法人 第一生命財団 | http://group.dai-ichi-life.co.jp/dai-ichi-life-foundation/ | 2022 | 研究助成該当 | 住宅・都市・土"
+      ],
+      "sources": [
+        "team19.txt"
+      ]
+    },
+    "財団法人三菱財団": {
+      "name": "財団法人三菱財団",
+      "name_core": "三菱財団",
+      "legal_form": "財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.mitsubishi-zaidan.jp/about/index.html",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010005016003",
+        "https://www.jfc.or.jp/",
+        "https://ww"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "hiran?hojinBango=4120005014293 | | 公益財団法人三菱財団 | 5010005016003 | https://www.mitsubishi-zaidan.jp/ | 財団法人三菱財団、三菱財団 | 1969年9月11日設立、2010年11月公益財団法人、所在地、電話、助成実績 | https://www.mitsubishi-zaidan.jp/about/ind",
+        "hiran?hojinBango=4120005014293 | | 公益財団法人三菱財団 | 5010005016003 | https://www.mitsubishi-zaidan.jp/ | 財団法人三菱財団、三菱財団 | 1969年9月11日設立、2010年11月公益財団法人、所在地、電話、助成実績 | https://www.mitsubishi-zaidan.jp/about/ind"
+      ],
+      "sources": [
+        "team2.txt"
+      ]
+    },
+    "財団法人日本顕彰会": {
+      "name": "財団法人日本顕彰会",
+      "name_core": "日本顕彰会",
+      "legal_form": "財団法人",
+      "urls": [
+        "https://www.fesco.or.jp/",
+        "https://www.fesco.or.jp/about/",
+        "https://www.sunbor.or.jp/",
+        "https://www.sunbor.or.jp/about/rinen/",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=61209"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ps://www.jfc.or.jp/whatis/overview/ | | 公益財団法人社会貢献支援財団 | 8010405009041 | https://www.fesco.or.jp/ | 財団法人日本顕彰会、社会貢献支援財団 | 1971年設立、2001年改称、2010年公益財団法人化 | https://www.fesco.or.jp/about/ | | 公益財団法人サントリー生命",
+        "略称 | 「公益財団法人助成財団センター」⇔「JFC」 | alias_nameに格納 | | 旧民法法人名 | 「財団法人○○」⇔「公益財団法人○○」 | 旧名称として履歴管理 | | 改称 | 「財団法人日本顕彰会」→「社会貢献支援財団」 | 公式沿革で確認 | | 英文略称 | 「サントリー生命科学財団」⇔「SUNBOR」 | English/abbrev別名テーブル | | 所在地変更 |"
+      ],
+      "sources": [
+        "team2.txt"
+      ]
+    },
+    "財団法人武田科学振興財団": {
+      "name": "財団法人武田科学振興財団",
+      "name_core": "武田科学振興財団",
+      "legal_form": "財団法人",
+      "urls": [
+        "https://www.takeda-sci.or.jp/",
+        "https://www.takeda-sci.or.jp/about/outline/",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4120005014293",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.mi"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 出典 | |---|---:|---|---|---|---| | 公益財団法人武田科学振興財団 | 4120005014293 | https://www.takeda-sci.or.jp/ | 財団法人武田科学振興財団、武田科学振興財団 | 1963年設立、2010年12月公益財団法人認定、所在地、電話、理事長 | https://www.takeda-sci.or.jp/about/out",
+        " 出典 | |---|---:|---|---|---|---| | 公益財団法人武田科学振興財団 | 4120005014293 | https://www.takeda-sci.or.jp/ | 財団法人武田科学振興財団、武田科学振興財団 | 1963年設立、2010年12月公益財団法人認定、所在地、電話、理事長 | https://www.takeda-sci.or.jp/about/out"
+      ],
+      "sources": [
+        "team2.txt"
+      ]
+    },
+    "財団法人食品化学研究所、財団": {
+      "name": "財団法人食品化学研究所、財団",
+      "name_core": "食品化学研究所、財団",
+      "legal_form": "財団法人",
+      "urls": [
+        "https://www.fesco.or.jp/about/",
+        "https://www.sunbor.or.jp/",
+        "https://www.sunbor.or.jp/about/rinen/",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6120905003096",
+        "https://www.refost-hq.jp/",
+        "https://www.refost-hq.jp/about/outline/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " https://www.fesco.or.jp/about/ | | 公益財団法人サントリー生命科学財団 | 6120905003096 | https://www.sunbor.or.jp/ | 財団法人食品化学研究所、財団法人サントリー生物有機科学研究所、SUNBOR | 1946年創立、1979年名称変更、現名称 | https://www.sunbor.or.jp/about/rinen",
+        " https://www.fesco.or.jp/about/ | | 公益財団法人サントリー生命科学財団 | 6120905003096 | https://www.sunbor.or.jp/ | 財団法人食品化学研究所、財団法人サントリー生物有機科学研究所、SUNBOR | 1946年創立、1979年名称変更、現名称 | https://www.sunbor.or.jp/about/rinen"
+      ],
+      "sources": [
+        "team2.txt"
+      ]
+    },
+    "野島財団": {
+      "name": "公益財団法人野島財団",
+      "name_core": "野島財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.keyence-foundation.or.jp/about/outline/",
+        "https://foundation.nojima.co.jp/",
+        "https://foundation.nojima.co.jp/about-us/overview",
+        "https://nira.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ーエンス内 | 代表理事 滝崎武光 | 2018年6月 | 公式問い合わせ導線あり | https://www.keyence-foundation.or.jp/about/outline/ | | 公益財団法人 野島財団 | https://foundation.nojima.co.jp/ | 〒220-0005 神奈川県横浜市西区南幸1-1-1 JR横浜タワー25F | 代表理事 温盛元 | ",
+        "ーエンス内 | 代表理事 滝崎武光 | 2018年6月 | 公式問い合わせ導線あり | https://www.keyence-foundation.or.jp/about/outline/ | | 公益財団法人 野島財団 | https://foundation.nojima.co.jp/ | 〒220-0005 神奈川県横浜市西区南幸1-1-1 JR横浜タワー25F | 代表理事 温盛元 | "
+      ],
+      "sources": [
+        "team10.txt"
+      ]
+    },
+    "野村財団": {
+      "name": "公益財団法人野村財団",
+      "name_core": "野村財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/",
+        "https://www.jfc.or.jp/bunseki-top/rank_gr",
+        "https://www.nomurafoundation.or.jp/other/map.html",
+        "https://www.tateisi-f.org/about/outline.html",
+        "https://www.taf.o",
+        "https://www.nomurafoundation.or.jp/",
+        "https://www.taf.or.jp/",
+        "https://www.suzukifound.jp/"
+      ],
+      "amounts": [
+        177000000,
+        1064000000,
+        6104000000,
+        10872000000,
+        65619000000,
+        290000000,
+        192000000,
+        194000000
+      ],
+      "context_snippets": [
+        "位までです。101-300位の順位表は、公開Web・JFC公開ページ・JFC Views・助成財団センター・レポート案内からは確認できませんでした。  JFC公式の公開表では、2022年度100位は「公益財団法人 野村財団」、年間助成額177百万円です。したがって、101位以下は少なくとも177百万円未満の団体群になります。  **確認済み一次情報**  | 情報源 | 機関 | 内容 | URL",
+        "1,064百万円 | 1971 | 内閣府 | JFC | | 99 | 公益財団法人 公益推進協会 | 177百万円 | 6,104百万円 | 2010 | 内閣府 | JFC | | 100 | 公益財団法人 野村財団 | 177百万円 | 10,872百万円 | 2010 | 内閣府 | JFC | | 101-300 | 未公開 | 177百万円未満 | 未確定 | 未確定 | 未確定 |"
+      ],
+      "sources": [
+        "team11.txt",
+        "team13.txt",
+        "team14.txt",
+        "team15.txt",
+        "team17.txt",
+        "team18.txt"
+      ]
+    },
+    "長瀬科学技術振興財団": {
+      "name": "公益財団法人長瀬科学技術振興財団",
+      "name_core": "長瀬科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.refost-hq.jp/about/outline/",
+        "https://www.nagase-f.or.jp/",
+        "https://www.nagase-f.or.jp/outline/",
+        "https://www.mukai-zaidan.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "明 | 1988年12月23日 | TEL 053-454-0598 / FAX 053-454-1929 | https://www.refost-hq.jp/about/outline/ | | 公益財団法人 長瀬科学技術振興財団 | https://www.nagase-f.or.jp/ | 〒550-8668 大阪市西区新町1-1-17 | 理事長 安場直樹 | 1989年4月26日 | ",
+        "明 | 1988年12月23日 | TEL 053-454-0598 / FAX 053-454-1929 | https://www.refost-hq.jp/about/outline/ | | 公益財団法人 長瀬科学技術振興財団 | https://www.nagase-f.or.jp/ | 〒550-8668 大阪市西区新町1-1-17 | 理事長 安場直樹 | 1989年4月26日 | "
+      ],
+      "sources": [
+        "team10.txt"
+      ]
+    },
+    "電気通信普及財団": {
+      "name": "公益財団法人電気通信普及財団",
+      "name_core": "電気通信普及財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.taf.or.jp/aboutus/outline.html",
+        "https://www.taf.or.jp/access/",
+        "https://www.nomurafoundation.or.jp/",
+        "https://www.taf.or.jp/",
+        "https://www.suzukifound.jp/"
+      ],
+      "amounts": [
+        177000000,
+        192000000,
+        194000000
+      ],
+      "context_snippets": [
+        "isi-f.org/about/outline.html | 2022 | 本部所在地 | 京都市下京区油小路通塩小路下る南不動堂町11番地 | 京都府 | 京都市下京区 | 公式サイト概要 | | 公益財団法人 電気通信普及財団 | https://www.taf.or.jp/aboutus/outline.html | 2022 | 本部所在地 | 東京都港区西新橋二丁目4番2号 西新橋安田ユ",
+        "r.jp/aboutus/outline.html | 2022 | 本部所在地 | 東京都港区西新橋二丁目4番2号 西新橋安田ユニオンビル2階 | 東京都 | 港区 | 公式サイト組織概要 | | 公益財団法人 電気通信普及財団 | https://www.taf.or.jp/access/ | 2022 | 連絡先住所 | 東京都港区西新橋二丁目4番2号 西新橋安田ユニオンビル2階 | 東京都"
+      ],
+      "sources": [
+        "team15.txt",
+        "team17.txt"
+      ]
+    },
+    "髙島科学技術振興財団": {
+      "name": "公益財団法人髙島科学技術振興財団",
+      "name_core": "髙島科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.ushio-f.or.jp/about/officers",
+        "https://tkg.or.jp/about/",
+        "https://kohokyo.or.jp/jaco40/disclosure/board/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "オ財団 | https://www.ushio-f.or.jp/about/officers | 令和7年6月18日現在 | 理事長: 牛尾 志朗 | 役員等に関する事項、現在数、任期も掲載 | | 公益財団法人 髙島科学技術振興財団 | https://tkg.or.jp/about/ | 掲載時点 | 代表理事: 髙島 勇二 | 「代表理事」直接記載 | | 公益財団法人 公益法人協会 | h",
+        "オ財団 | https://www.ushio-f.or.jp/about/officers | 令和7年6月18日現在 | 理事長: 牛尾 志朗 | 役員等に関する事項、現在数、任期も掲載 | | 公益財団法人 髙島科学技術振興財団 | https://tkg.or.jp/about/ | 掲載時点 | 代表理事: 髙島 勇二 | 「代表理事」直接記載 | | 公益財団法人 公益法人協会 | h"
+      ],
+      "sources": [
+        "team3.txt"
+      ]
+    },
+    "鹿島学術振興財団": {
+      "name": "公益財団法人鹿島学術振興財団",
+      "name_core": "鹿島学術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.inamori-f.or.jp/about/outline",
+        "https://www.kajima-f.or.jp/",
+        "https://www.kajima-f.or.jp/profile/about/",
+        "https://www.toyotafound.or.jp/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " | 1984年4月12日 | TEL 075-353-7272 / FAX 075-353-7270 | https://www.inamori-f.or.jp/about/outline | | 公益財団法人 鹿島学術振興財団 | https://www.kajima-f.or.jp/ | 〒107-8502 東京都港区赤坂6-5-30 鹿島KIビル | 理事長 鹿島公子 | 1976年4月2",
+        " | 1984年4月12日 | TEL 075-353-7272 / FAX 075-353-7270 | https://www.inamori-f.or.jp/about/outline | | 公益財団法人 鹿島学術振興財団 | https://www.kajima-f.or.jp/ | 〒107-8502 東京都港区赤坂6-5-30 鹿島KIビル | 理事長 鹿島公子 | 1976年4月2"
+      ],
+      "sources": [
+        "team10.txt"
+      ]
+    }
+  }
+}

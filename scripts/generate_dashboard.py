@@ -137,6 +137,36 @@ def fetch_stats(conn: sqlite3.Connection) -> dict:
         dict(zip(["title", "foundation", "deadline", "amount_max"], r)) for r in cur.fetchall()
     ]
 
+    # Awardees data (Phase 4 addition)
+    cur.execute("SELECT COUNT(*) FROM grant_results")
+    stats["total_awardees"] = cur.fetchone()[0]
+
+    cur.execute("""
+        SELECT o.name, COUNT(*) AS n
+        FROM grant_results r
+        JOIN grant_calls c ON c.id = r.call_id
+        JOIN grant_programs p ON p.id = c.program_id
+        JOIN organizations o ON o.id = p.organization_id
+        GROUP BY o.name ORDER BY n DESC LIMIT 15
+    """)
+    stats["awardees_by_foundation"] = [(r[0], r[1]) for r in cur.fetchall()]
+
+    cur.execute("""
+        SELECT awardee_affiliation, COUNT(*) AS n
+        FROM grant_results
+        WHERE awardee_affiliation IS NOT NULL AND awardee_affiliation != ''
+        GROUP BY awardee_affiliation ORDER BY n DESC LIMIT 20
+    """)
+    stats["awardees_by_affiliation"] = [(r[0], r[1]) for r in cur.fetchall()]
+
+    cur.execute("""
+        SELECT fiscal_year, COUNT(*) AS n
+        FROM grant_results
+        WHERE fiscal_year IS NOT NULL
+        GROUP BY fiscal_year ORDER BY fiscal_year
+    """)
+    stats["awardees_by_year"] = [(r[0], r[1]) for r in cur.fetchall()]
+
     # Data source coverage
     cur.execute("""
         SELECT
@@ -236,8 +266,9 @@ def main():
         ("ch5", "地域分布", "5. 都道府県別分布"),
         ("ch6", "プログラム", "6. 主要研究助成プログラム"),
         ("ch7", "公募カレンダー", "7. 公募カレンダー"),
-        ("ch8", "データソース", "8. データソースとカバレッジ"),
-        ("ch9", "使い方", "9. 使い方とアクセス"),
+        ("ch8", "採択者", "8. 過去採択者データ"),
+        ("ch9", "データソース", "9. データソースとカバレッジ"),
+        ("ch10", "使い方", "10. 使い方とアクセス"),
     ]
     toc = "\n".join(
         f'<li><a href="#{cid}"><span class="toc-num">{i:02d}</span>{title}</a></li>'
@@ -402,7 +433,59 @@ def main():
 <tbody>{call_rows}</tbody>
 </table>"""
 
-    # ----- CHAPTER 8: ソース -----
+    # ----- CHAPTER 8: 採択者（Phase 4 追加） -----
+    if s["awardees_by_foundation"]:
+        max_aw = max(c for _, c in s["awardees_by_foundation"])
+        aw_found_rows = "\n".join(
+            f"<tr><td>{name}</td><td>{c:,}</td><td>{bar(c, max_aw)}</td></tr>"
+            for name, c in s["awardees_by_foundation"]
+        )
+    else:
+        aw_found_rows = "<tr><td colspan='3'>—</td></tr>"
+
+    if s["awardees_by_affiliation"]:
+        max_af = max(c for _, c in s["awardees_by_affiliation"])
+        aw_aff_rows = "\n".join(
+            f"<tr><td>{name}</td><td>{c:,}</td><td>{bar(c, max_af, 150)}</td></tr>"
+            for name, c in s["awardees_by_affiliation"]
+        )
+    else:
+        aw_aff_rows = "<tr><td colspan='3'>—</td></tr>"
+
+    if s["awardees_by_year"]:
+        aw_year_rows = "\n".join(
+            f"<tr><td>{y}</td><td>{c:,}</td></tr>"
+            for y, c in s["awardees_by_year"]
+        )
+    else:
+        aw_year_rows = "<tr><td colspan='2'>—</td></tr>"
+
+    ch8_awardees = f"""<p>主要研究助成財団の過去採択者データを {s['total_awardees']:,}件構造化収集している。武田科学振興財団・三菱財団・稲盛財団のWebサイトおよびPDFから採択者氏名・所属機関・研究課題・年度を抽出し、研究者の応募実績ベースの財団選定や、財団の分野配分・採択者ネットワーク分析の素材となる。</p>
+
+<h3>採択件数（財団別 上位15）</h3>
+<table>
+<thead><tr><th>財団名</th><th>採択者数</th><th>分布</th></tr></thead>
+<tbody>{aw_found_rows}</tbody>
+</table>
+
+<h3>所属機関別 採択件数（上位20）</h3>
+<table>
+<thead><tr><th>所属機関</th><th>採択者数</th><th>分布</th></tr></thead>
+<tbody>{aw_aff_rows}</tbody>
+</table>
+
+<h3>年度別 採択件数</h3>
+<table>
+<thead><tr><th>年度</th><th>採択者数</th></tr></thead>
+<tbody>{aw_year_rows}</tbody>
+</table>
+
+<div class="callout">
+<div class="callout-title">PHASE 4 拡張</div>
+採択者データは武田科学振興財団・三菱財団・稲盛財団の3財団から実装（PDFパーサ + HTMLパーサ）。今後、旭硝子財団・住友財団・トヨタ財団・セコム科学技術振興財団・上原記念生命科学財団・鹿島学術振興財団・中谷医工計測技術振興財団などへ展開予定。
+</div>"""
+
+    # ----- CHAPTER 9: ソース -----
     ch8 = f"""<p>本DBは複数の一次情報源を統合して構築されている。各団体の <code>metadata.source</code> フィールドにデータソースが記録され、来歴の追跡が可能である。</p>
 
 <h3>データソース別カバレッジ</h3>
@@ -464,8 +547,9 @@ def main():
         render_chapter(5, "ch5", "GEOGRAPHY", "5. 都道府県別分布", ch5),
         render_chapter(6, "ch6", "PROGRAMS", "6. 主要研究助成プログラム", ch6),
         render_chapter(7, "ch7", "CALENDAR", "7. 公募カレンダー", ch7),
-        render_chapter(8, "ch8", "PROVENANCE", "8. データソースとカバレッジ", ch8),
-        render_chapter(9, "ch9", "USAGE", "9. 使い方とアクセス", ch9),
+        render_chapter(8, "ch8", "AWARDEES", "8. 過去採択者データ", ch8_awardees),
+        render_chapter(9, "ch9", "PROVENANCE", "9. データソースとカバレッジ", ch8),
+        render_chapter(10, "ch10", "USAGE", "10. 使い方とアクセス", ch9),
     ])
     template = template.replace("{{CHAPTERS}}", chapters_html)
 

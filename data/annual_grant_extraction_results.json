@@ -1,0 +1,137 @@
+[
+  {
+    "target": "武田科学振興財団",
+    "pdfs": 5,
+    "history_years": [],
+    "annual_grant_amount": null,
+    "total_assets": null,
+    "snippets": {},
+    "db_match": true,
+    "delta": {
+      "updated_annual": false,
+      "updated_assets": false,
+      "updated_history": false
+    }
+  },
+  {
+    "target": "三菱財団",
+    "pdfs": 5,
+    "history_years": [],
+    "annual_grant_amount": null,
+    "total_assets": null,
+    "snippets": {},
+    "db_match": true,
+    "delta": {
+      "updated_annual": false,
+      "updated_assets": false,
+      "updated_history": false
+    }
+  },
+  {
+    "target": "稲盛財団",
+    "pdfs": 5,
+    "history_years": [
+      2024,
+      2023,
+      2022,
+      2021,
+      2020
+    ],
+    "annual_grant_amount": 1533349483,
+    "total_assets": 138911979536,
+    "snippets": {
+      "grant": "[事業費計] 事業費計 1,005,644,593 259,953,314 267,751,576 0 1,533,349,483 0 1,533,349,483",
+      "assets": "[資産合計] 資産合計 138,911,979,536"
+    },
+    "db_match": true,
+    "delta": {
+      "updated_annual": false,
+      "updated_assets": false,
+      "updated_history": false
+    }
+  },
+  {
+    "target": "住友財団",
+    "pdfs": 0,
+    "extracted": 0
+  },
+  {
+    "target": "旭硝子財団",
+    "pdfs": 6,
+    "history_years": [
+      2024,
+      2023
+    ],
+    "annual_grant_amount": 567100000,
+    "total_assets": 37998969948,
+    "snippets": {
+      "grant": "[narrative] 国内外研究助成について各プログラムでの採択を行い、研究助成金の支払総額は5億6,710万円",
+      "assets": "[正味財産合計] 正味財産合計 37,998,969,948 43,331,230,275 -5,332,260,327"
+    },
+    "db_match": true,
+    "delta": {
+      "updated_annual": true,
+      "updated_assets": true,
+      "updated_history": true,
+      "annual_old": 499000000,
+      "annual_new": 567100000,
+      "assets_old": null,
+      "assets_new": 37998969948,
+      "history_years": [
+        2024,
+        2023
+      ]
+    }
+  },
+  {
+    "target": "鹿島学術振興財団",
+    "pdfs": 5,
+    "history_years": [],
+    "annual_grant_amount": null,
+    "total_assets": null,
+    "snippets": {},
+    "db_match": false
+  },
+  {
+    "target": "セコム科学技術振興財団",
+    "pdfs": 1,
+    "history_years": [],
+    "annual_grant_amount": null,
+    "total_assets": null,
+    "snippets": {},
+    "db_match": true,
+    "delta": {
+      "updated_annual": false,
+      "updated_assets": false,
+      "updated_history": false
+    }
+  },
+  {
+    "target": "上原記念生命科学財団",
+    "pdfs": 5,
+    "history_years": [],
+    "annual_grant_amount": null,
+    "total_assets": null,
+    "snippets": {},
+    "db_match": true,
+    "delta": {
+      "updated_annual": false,
+      "updated_assets": false,
+      "updated_history": false
+    }
+  },
+  {
+    "target": "中谷医工計測技術振興財団",
+    "pdfs": 5,
+    "history_years": [],
+    "annual_grant_amount": null,
+    "total_assets": null,
+    "snippets": {},
+    "db_match": false
+  },
+  {
+    "target": "テルモ生命科学振興財団",
+    "pdfs": 0,
+    "extracted": 0
+  }
+]

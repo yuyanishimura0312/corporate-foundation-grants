@@ -1,132 +1,102 @@
 #!/usr/bin/env python3
-"""
-Scrape past awardees and call history from foundation websites.
+"""Scrape past awardees and call history from foundation websites.
 
-This is a scaffold for incremental build-out of grant_results data.
-Each foundation gets its own parser registered in PARSERS dict.
+Each foundation has a parser module under ``scripts/parsers/<slug>.py`` that
+exposes a ``parse(years=None, max_years=N)`` function returning awardee
+records. Records are upserted into ``grant_results`` (with ``grant_calls`` and
+``grant_programs`` rows materialized lazily as needed).
 
 Usage:
-  python3 scripts/scrape_awardees.py --foundation takeda
-  python3 scripts/scrape_awardees.py --all
+  python3 scripts/scrape_awardees.py --foundation takeda --year 2024
+  python3 scripts/scrape_awardees.py --foundation takeda --max-years 3
+  python3 scripts/scrape_awardees.py --all-priority1 --max-years 2
   python3 scripts/scrape_awardees.py --list
-
-Implementation strategy:
-  - Use requests + BeautifulSoup (no JavaScript rendering needed for most foundations)
-  - Cache fetched HTML to ~/projects/apps/corporate-foundation-grants/cache/awardees/
-  - Insert into grant_results table (call_id resolved via fuzzy match on program name + year)
-  - Each parser returns: List[{fiscal_year, awardee_name, awardee_affiliation, project_title, award_amount}]
+  python3 scripts/scrape_awardees.py --status
 """
 from __future__ import annotations
 
 import argparse
+import importlib
+import json
+import logging
 import sqlite3
 import sys
-import time
+from datetime import datetime
 from pathlib import Path
-from typing import Callable
 
-ROOT = Path(__file__).resolve().parent.parent
+# Make ``scripts`` importable as a package so that ``scripts.parsers`` and
+# ``scripts.lib`` resolve regardless of how the script is invoked.
+THIS_FILE = Path(__file__).resolve()
+SCRIPTS_DIR = THIS_FILE.parent
+ROOT = SCRIPTS_DIR.parent
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+from scripts.lib.upsert import resolve_organization_id, upsert_results  # noqa: E402
+
 DB = ROOT / "corporate_research_grants.sqlite"
-CACHE = ROOT / "cache" / "awardees"
 
-# Mapping: foundation_slug -> (foundation_name_pattern, parser_fn)
-# Parsers should be implemented incrementally per foundation.
-# The 13 foundations below are top JFC-ranked + best-documented public awardee lists.
+LOG = logging.getLogger("scrape_awardees")
 
+
+# Foundation registry. ``module`` is the parser module under scripts.parsers.
+# ``org_patterns`` are tried (in order) against ``organizations.name`` LIKE
+# matching to find the corresponding row.
 PARSERS: dict[str, dict] = {
     "takeda": {
         "name": "武田科学振興財団",
-        "url": "https://www.takeda-sci.or.jp/business/award.php",
-        "note": "年度別採択者一覧PDFを提供、生命科学・医学領域、JFC top5",
+        "url": "https://www.takeda-sci.or.jp/research/list.php",
+        "module": "scripts.parsers.takeda",
+        "org_patterns": ["武田科学振興財団", "武田科学"],
         "priority": 1,
+        "note": "年度別採択者一覧PDFを提供、生命科学・医学領域、JFC top5",
     },
     "mitsubishi": {
         "name": "三菱財団",
-        "url": "https://www.mitsubishi-zaidan.jp/grants/results/",
-        "note": "自然科学・人文科学・社会福祉、各カテゴリPDF採択結果",
+        "url": "https://www.mitsubishi-zaidan.jp/support/list.html",
+        "module": "scripts.parsers.mitsubishi",
+        "org_patterns": ["三菱財団"],
         "priority": 1,
+        "note": "自然科学・人文科学・社会福祉、各カテゴリPDF採択結果",
     },
     "inamori": {
         "name": "稲盛財団",
-        "url": "https://www.inamori-f.or.jp/research_grant/results/",
-        "note": "JFC top12, 京都賞も運営",
+        "url": "https://www.inamori-f.or.jp/recipient/",
+        "module": "scripts.parsers.inamori",
+        "org_patterns": ["稲盛財団"],
         "priority": 1,
+        "note": "JFC top12, 京都賞も運営",
     },
     "asahi-glass": {
         "name": "旭硝子財団",
         "url": "https://af-info.or.jp/research/result.html",
-        "note": "自然科学・人文社会科学・環境",
+        "module": "scripts.parsers.asahi_glass",
+        "org_patterns": ["旭硝子財団"],
         "priority": 1,
+        "note": "自然科学・人文社会科学・環境（パーサ未実装）",
     },
     "sumitomo": {
         "name": "住友財団",
         "url": "https://www.sumitomo.or.jp/result.html",
-        "note": "基礎科学・環境・国際交流",
+        "module": "scripts.parsers.sumitomo",
+        "org_patterns": ["住友財団"],
         "priority": 1,
-    },
-    "toyota": {
-        "name": "トヨタ財団",
-        "url": "https://www.toyotafound.or.jp/grant_results/",
-        "note": "国際助成・研究助成、社会課題志向",
-        "priority": 2,
-    },
-    "secom": {
-        "name": "セコム科学技術振興財団",
-        "url": "https://www.secomzaidan.jp/result.html",
-        "note": "JFC上位、年間助成5億超",
-        "priority": 2,
-    },
-    "kazima": {
-        "name": "鹿島学術振興財団",
-        "url": "https://www.kajima-f.or.jp/grant-projects/research-grant/result/",
-        "note": "全学術分野、最大500万/件",
-        "priority": 2,
-    },
-    "shimadzu": {
-        "name": "島津科学技術振興財団",
-        "url": "https://www.shimadzu.co.jp/aboutus/ssf/",
-        "note": "計測科学・分析化学",
-        "priority": 2,
-    },
-    "ueno": {
-        "name": "上原記念生命科学財団",
-        "url": "https://www.ueharazaidan.or.jp/result/",
-        "note": "生命科学領域、JFC上位",
-        "priority": 2,
-    },
-    "nakatani": {
-        "name": "中谷医工計測技術振興財団",
-        "url": "https://www.nakatani-foundation.jp/result.html",
-        "note": "医工計測、JFC top21",
-        "priority": 2,
-    },
-    "telmo": {
-        "name": "テルモ生命科学振興財団",
-        "url": "https://www.terumozaidan.or.jp/result/",
-        "note": "生命科学、JFC top53",
-        "priority": 3,
-    },
-    "ihi": {
-        "name": "IHI若手研究助成",
-        "url": "https://www.ihi.co.jp/csr/foundation/",
-        "note": "工学系若手、example実装テスト用",
-        "priority": 3,
+        "note": "基礎科学・環境・国際交流（パーサ未実装）",
     },
 }
 
 
-def cmd_list():
-    """List registered parsers."""
+def cmd_list() -> None:
     print(f"Registered foundations: {len(PARSERS)}\n")
     for slug, meta in sorted(PARSERS.items(), key=lambda x: x[1]["priority"]):
-        impl = "✓" if (Path(__file__).parent / "parsers" / f"{slug}.py").exists() else "—"
-        print(f"  P{meta['priority']} [{impl}] {slug:20} {meta['name']}")
+        mod_path = SCRIPTS_DIR / Path(*meta["module"].split(".")[1:]).with_suffix(".py")
+        impl = "OK" if mod_path.exists() else "—"
+        print(f"  P{meta['priority']} [{impl}] {slug:14} {meta['name']}")
         print(f"    {meta['url']}")
         print(f"    {meta['note']}")
 
 
-def cmd_status():
-    """Show DB grant_results coverage."""
+def cmd_status() -> None:
     if not DB.exists():
         print(f"DB not found: {DB}")
         return
@@ -136,26 +106,135 @@ def cmd_status():
         cur.execute("SELECT COUNT(*) FROM grant_results")
         total = cur.fetchone()[0]
         print(f"grant_results rows: {total}")
-        cur.execute("""
-            SELECT fiscal_year, COUNT(*) FROM grant_results
-            WHERE fiscal_year IS NOT NULL
-            GROUP BY fiscal_year ORDER BY fiscal_year DESC LIMIT 10
-        """)
-        print("\nBy fiscal_year (top 10):")
+        cur.execute(
+            """SELECT fiscal_year, COUNT(*) FROM grant_results
+               WHERE fiscal_year IS NOT NULL
+               GROUP BY fiscal_year ORDER BY fiscal_year DESC LIMIT 15"""
+        )
+        print("\nBy fiscal_year (top 15):")
         for y, c in cur.fetchall():
             print(f"  {y}: {c}")
+        cur.execute(
+            """SELECT o.name, COUNT(*) AS n
+                 FROM grant_results r
+                 JOIN grant_calls   c ON c.id = r.call_id
+                 JOIN grant_programs p ON p.id = c.program_id
+                 JOIN organizations o ON o.id = p.organization_id
+                GROUP BY o.name ORDER BY n DESC LIMIT 15"""
+        )
+        print("\nBy foundation (top 15):")
+        for name, n in cur.fetchall():
+            print(f"  {n:5d}  {name}")
     except sqlite3.OperationalError as e:
         print(f"Error: {e}")
     conn.close()
 
 
-def main():
+def _run_parser(
+    slug: str,
+    years: list[int] | None,
+    max_years: int,
+    dry_run: bool,
+) -> tuple[int, int, int]:
+    """Run one parser and upsert its records.
+
+    Returns ``(record_count, inserted, updated)``.
+    """
+    meta = PARSERS[slug]
+    module_name = meta["module"]
+    LOG.info("=== %s (%s) ===", slug, meta["name"])
+    mod = importlib.import_module(module_name)
+    if not hasattr(mod, "parse"):
+        raise RuntimeError(f"{module_name} does not expose parse()")
+    records = mod.parse(years=years, max_years=max_years)
+    LOG.info("%s: collected %d records", slug, len(records))
+    if dry_run:
+        for r in records[:5]:
+            LOG.info("  sample: %s", r)
+        return len(records), 0, 0
+
+    if not records:
+        return 0, 0, 0
+    # Always write a snapshot so a DB-locked failure does not lose work.
+    snap_dir = ROOT / "cache" / "awardees" / slug
+    snap_dir.mkdir(parents=True, exist_ok=True)
+    snap = snap_dir / f"records_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+    snap.write_text(json.dumps(records, ensure_ascii=False, indent=2))
+    LOG.info("%s: snapshot %s", slug, snap)
+
+    try:
+        conn = sqlite3.connect(DB, timeout=300.0)
+        conn.execute("PRAGMA foreign_keys = ON")
+        conn.execute("PRAGMA busy_timeout = 300000")
+        org_id = resolve_organization_id(conn, meta["org_patterns"])
+        if not org_id:
+            LOG.error(
+                "%s: could not find organizations.id for patterns %s",
+                slug, meta["org_patterns"],
+            )
+            conn.close()
+            return len(records), 0, 0
+        inserted, updated = upsert_results(conn, org_id, records)
+        conn.close()
+        LOG.info("%s: inserted=%d updated=%d", slug, inserted, updated)
+        return len(records), inserted, updated
+    except sqlite3.OperationalError as exc:
+        LOG.error(
+            "%s: DB write failed (%s). Records preserved at %s. "
+            "Re-run with --import-snapshot to retry once DB is free.",
+            slug, exc, snap,
+        )
+        return len(records), 0, 0
+
+
+def cmd_import_snapshot(snapshot_path: Path) -> None:
+    """Import a previously-written records JSON snapshot into ``grant_results``."""
+    records = json.loads(snapshot_path.read_text())
+    if not records:
+        print("snapshot empty")
+        return
+    # Foundation slug is recorded in metadata.foundation_slug.
+    slug = (records[0].get("metadata") or {}).get("foundation_slug")
+    if slug not in PARSERS:
+        print(f"unknown slug in snapshot: {slug}")
+        sys.exit(1)
+    meta = PARSERS[slug]
+    conn = sqlite3.connect(DB, timeout=300.0)
+    conn.execute("PRAGMA foreign_keys = ON")
+    conn.execute("PRAGMA busy_timeout = 300000")
+    org_id = resolve_organization_id(conn, meta["org_patterns"])
+    if not org_id:
+        print(f"organizations.id not found for {slug}")
+        sys.exit(1)
+    ins, upd = upsert_results(conn, org_id, records)
+    conn.close()
+    print(f"{slug}: inserted={ins} updated={upd}")
+
+
+def main() -> None:
     parser = argparse.ArgumentParser(description="Foundation awardees scraper")
     parser.add_argument("--list", action="store_true", help="List registered parsers")
     parser.add_argument("--status", action="store_true", help="Show DB coverage stats")
     parser.add_argument("--foundation", type=str, help="Run single parser by slug")
-    parser.add_argument("--all", action="store_true", help="Run all priority-1 parsers")
+    parser.add_argument("--all-priority1", action="store_true", help="Run all priority-1 parsers")
+    parser.add_argument(
+        "--year", type=int, action="append",
+        help="Restrict to specific fiscal year(s); can be passed multiple times.",
+    )
+    parser.add_argument("--max-years", type=int, default=3, help="Most recent N years (default 3)")
+    parser.add_argument("--dry-run", action="store_true", help="Parse but do not upsert")
+    parser.add_argument(
+        "--import-snapshot", type=Path,
+        help="Import a JSON snapshot produced by an earlier run into grant_results.",
+    )
+    parser.add_argument("--verbose", "-v", action="store_true")
     args = parser.parse_args()
+
+    logging.basicConfig(
+        level=logging.DEBUG if args.verbose else logging.INFO,
+        format="%(asctime)s %(levelname)s %(name)s | %(message)s",
+        datefmt="%H:%M:%S",
+    )
 
     if args.list:
         cmd_list()
@@ -163,12 +242,35 @@ def main():
     if args.status:
         cmd_status()
         return
-    if args.foundation or args.all:
-        print("ERROR: parser implementations are not yet wired.")
-        print("Implement parsers/<slug>.py per the foundation pages, then register a callable.")
-        print("See cmd_list() for documented foundations and starter URLs.")
-        sys.exit(1)
-    parser.print_help()
+    if args.import_snapshot:
+        cmd_import_snapshot(args.import_snapshot)
+        return
+
+    targets: list[str]
+    if args.foundation:
+        if args.foundation not in PARSERS:
+            print(f"Unknown foundation: {args.foundation}")
+            sys.exit(1)
+        targets = [args.foundation]
+    elif args.all_priority1:
+        targets = [s for s, m in PARSERS.items() if m["priority"] == 1]
+    else:
+        parser.print_help()
+        return
+
+    summary: list[tuple[str, int, int, int]] = []
+    for slug in targets:
+        try:
+            n, ins, upd = _run_parser(slug, args.year, args.max_years, args.dry_run)
+            summary.append((slug, n, ins, upd))
+        except Exception as exc:  # noqa: BLE001
+            LOG.exception("%s failed: %s", slug, exc)
+            summary.append((slug, 0, 0, 0))
+
+    print("\n=== Summary ===")
+    print(f"{'foundation':14}  records  inserted  updated")
+    for slug, n, ins, upd in summary:
+        print(f"{slug:14}  {n:7d}  {ins:8d}  {upd:7d}")
 
 
 if __name__ == "__main__":
