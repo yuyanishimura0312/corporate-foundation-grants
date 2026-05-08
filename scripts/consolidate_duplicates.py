@@ -45,11 +45,17 @@ def normalize_name(name: str) -> str:
     if not name:
         return ""
     n = name.strip()
+    # Compound names (X／Y、X/Y) — skip dedup (these are joint programs, not dups)
+    if "／" in n or "/" in n:
+        return f"__compound__{n}"  # unique key per compound
     # Convert full-width alpha/numeric to half-width
     n = fullwidth_to_halfwidth(n)
-    # Strip social welfare and school legal prefixes
+    # Strip social welfare/school/governmental legal prefixes
     extra_prefixes = ["社会福祉法人", "学校法人", "宗教法人", "医療法人",
-                      "（社福）", "(社福)", "（学）", "(学)"]
+                      "独立行政法人", "国立研究開発法人", "国立大学法人",
+                      "（社福）", "(社福)", "（学）", "(学)",
+                      "（独）", "(独)", "（独法）", "(独法)",
+                      "（特非）", "(特非)", "（特）", "(特)"]
     for _ in range(3):
         stripped = False
         for p in LEGAL_PREFIXES + extra_prefixes:
@@ -62,8 +68,9 @@ def normalize_name(name: str) -> str:
     # Strip trailing parenthetical NOT covering the entire string
     if not (n.startswith("（") or n.startswith("(")):
         n = re.sub(r"[（(].*?[)）]\s*$", "", n).strip()
-    n = n.replace("　", "").replace(" ", "").replace("・", "").replace("・", "")
+    n = n.replace("　", "").replace(" ", "").replace("・", "")
     n = n.replace("(", "").replace(")", "").replace("（", "").replace("）", "")
+    n = n.replace("株式会社", "")
     return n.lower()
 
 
