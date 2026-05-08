@@ -25,6 +25,7 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+ROOT_DIR = ROOT
 DB = ROOT / "corporate_research_grants.sqlite"
 TEMPLATE = Path("/Users/nishimura+/projects/apps/miratuku-news-v2/dashboards/_template-akashiro.html")
 OUTPUT = Path("/Users/nishimura+/projects/apps/miratuku-news-v2/dashboards/cfg.html")
@@ -136,6 +137,15 @@ def fetch_stats(conn: sqlite3.Connection) -> dict:
     stats["open_calls"] = [
         dict(zip(["title", "foundation", "deadline", "amount_max"], r)) for r in cur.fetchall()
     ]
+
+    # Awardees network analysis data (Phase 6 addition)
+    import os
+    network_path = ROOT_DIR / "data" / "awardees_network_analysis.json"
+    if network_path.exists():
+        with open(network_path) as nf:
+            stats["network"] = json.load(nf)
+    else:
+        stats["network"] = None
 
     # Awardees data (Phase 4 addition)
     cur.execute("SELECT COUNT(*) FROM grant_results")
@@ -267,8 +277,9 @@ def main():
         ("ch6", "プログラム", "6. 主要研究助成プログラム"),
         ("ch7", "公募カレンダー", "7. 公募カレンダー"),
         ("ch8", "採択者", "8. 過去採択者データ"),
-        ("ch9", "データソース", "9. データソースとカバレッジ"),
-        ("ch10", "使い方", "10. 使い方とアクセス"),
+        ("ch9", "ネットワーク", "9. 採択者ネットワーク分析"),
+        ("ch10", "データソース", "10. データソースとカバレッジ"),
+        ("ch11", "使い方", "11. 使い方とアクセス"),
     ]
     toc = "\n".join(
         f'<li><a href="#{cid}"><span class="toc-num">{i:02d}</span>{title}</a></li>'
@@ -539,6 +550,53 @@ def main():
 <li>データソース: <a href="https://www.jfc.or.jp/">助成財団センター</a> / <a href="https://www.koeki-info.go.jp/">内閣府公益法人info</a></li>
 </ul>"""
 
+    # Chapter 9: Awardees Network Analysis (Phase 6 addition)
+    if s.get("network"):
+        net = s["network"]
+        top_aff = net.get("top_affiliations_50", [])[:15]
+        top_aff_rows = "\n".join(
+            f"<tr><td>{i}</td><td>{a['affiliation']}</td><td>{a['count']:,}</td></tr>"
+            for i, a in enumerate(top_aff, 1)
+        ) if top_aff else "<tr><td colspan='3'>—</td></tr>"
+
+        multi = net.get("multi_foundation_awardees_sample", {})
+        multi_rows = "\n".join(
+            f"<tr><td>{name}</td><td>{', '.join(funds)}</td></tr>"
+            for name, funds in list(multi.items())[:20]
+        ) if multi else "<tr><td colspan='2'>—</td></tr>"
+
+        hhi = net.get("concentration_hhi", 0)
+        hhi_label = "低集中" if hhi < 1500 else "中集中" if hhi < 2500 else "高集中"
+
+        ch9_network = f"""<p>過去採択者{net['total_awardees']:,}件・ユニーク研究者{net['unique_awardees']:,}人・所属機関{net['unique_affiliations']:,}機関のネットワーク分析。Herfindahl-Hirschman指数（HHI）による集中度評価、機関別配分、複数財団重複採択の検出を行う。</p>
+
+<div class="stats-row">
+<div class="stat-box"><div class="stat-num">{hhi:.0f}</div><div class="stat-label">HHI（{hhi_label}）</div></div>
+<div class="stat-box"><div class="stat-num">{net['unique_affiliations']:,}</div><div class="stat-label">所属機関数</div></div>
+<div class="stat-box"><div class="stat-num">{net['unique_awardees']:,}</div><div class="stat-label">ユニーク研究者</div></div>
+<div class="stat-box"><div class="stat-num">{net['multi_foundation_awardees_count']}</div><div class="stat-label">複数財団重複</div></div>
+</div>
+
+<div class="callout">
+<div class="callout-title">集中度評価</div>
+HHI {hhi:.1f}（基準: 1500未満=低集中、2500超=高集中）。研究助成は特定機関への偏在が比較的少なく、多様な研究機関に配分されている。一方、上位機関には旧帝大・主要私大が並び、研究力ランキングと整合する分布である。
+</div>
+
+<h3>採択上位機関 Top 15</h3>
+<table>
+<thead><tr><th>順位</th><th>所属機関</th><th>採択者数</th></tr></thead>
+<tbody>{top_aff_rows}</tbody>
+</table>
+
+<h3>複数財団重複採択者（{net['multi_foundation_awardees_count']}人中 上位20）</h3>
+<p>同一研究者が複数の財団から採択を受けた事例。研究力の高い研究者は複数財団から選ばれる傾向がある。</p>
+<table>
+<thead><tr><th>研究者名</th><th>採択財団</th></tr></thead>
+<tbody>{multi_rows}</tbody>
+</table>"""
+    else:
+        ch9_network = "<p>採択者ネットワーク分析データは未生成です。</p>"
+
     chapters_html = "\n\n".join([
         render_chapter(1, "ch1", "OVERVIEW", "1. データベース全体像", ch1),
         render_chapter(2, "ch2", "TAXONOMY", "2. 設立者形態 × 法人形態タクソノミー", ch2),
@@ -548,8 +606,9 @@ def main():
         render_chapter(6, "ch6", "PROGRAMS", "6. 主要研究助成プログラム", ch6),
         render_chapter(7, "ch7", "CALENDAR", "7. 公募カレンダー", ch7),
         render_chapter(8, "ch8", "AWARDEES", "8. 過去採択者データ", ch8_awardees),
-        render_chapter(9, "ch9", "PROVENANCE", "9. データソースとカバレッジ", ch8),
-        render_chapter(10, "ch10", "USAGE", "10. 使い方とアクセス", ch9),
+        render_chapter(9, "ch9", "NETWORK ANALYSIS", "9. 採択者ネットワーク分析", ch9_network),
+        render_chapter(10, "ch10", "PROVENANCE", "10. データソースとカバレッジ", ch8),
+        render_chapter(11, "ch11", "USAGE", "11. 使い方とアクセス", ch9),
     ])
     template = template.replace("{{CHAPTERS}}", chapters_html)
 

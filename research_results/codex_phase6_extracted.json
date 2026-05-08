@@ -1,0 +1,690 @@
+{
+  "extracted_count": 32,
+  "foundations": {
+    "AI・契約レビューテクノロジー協会": {
+      "name": "一般社団法人AI・契約レビューテクノロジー協会",
+      "name_core": "AI・契約レビューテクノロジー協会",
+      "legal_form": "一般社団法人",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000002.000108735.html",
+        "https://prtimes.jp/main/html/rd/p/000000463.000016550.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "\", \"universities_mentioned\": null}, {\"edinet_code\": \"E01824\", \"company_name\": \"太陽誘電株式会社\", \"title\": \"一般社団法人 AI・契約レビューテクノロジー協会を設立\", \"url\": \"https://prtimes.jp/main/html/rd/p/000000002.000108735.html\", \"",
+        "://prtimes.jp/main/html/rd/p/000000002.000108735.html\", \"published_at\": \"2022-10-03\", \"full_text\": \"一般社団法人 AI・契約レビューテクノロジー協会を設立\", \"universities_mentioned\": null}, {\"edinet_code\": \"E01824\", \"company_na"
+      ],
+      "sources": [
+        "team3.txt"
+      ]
+    },
+    "」「一般財団": {
+      "name": "公益財団法人」「一般財団",
+      "name_core": "」「一般財団",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [
+        1200000
+      ],
+      "context_snippets": [
+        "%BD%E5%86%85%EF%BC%89/     内容：情報通信、AI・脳科学、VR/AR、バイオ・医療・ライフサイエンス等。1件120万円。  **照合ルール案**  1. 正規化      「公益財団法人」「一般財団法人」「一般社団法人」「旧：」「略称」などを除去し、全角半角・スペース・中黒を統一。  2. 完全一致      正規化後の法人名が一致すれば重複確定。  3. 旧称・略称一致",
+        "%BD%E5%86%85%EF%BC%89/     内容：情報通信、AI・脳科学、VR/AR、バイオ・医療・ライフサイエンス等。1件120万円。  **照合ルール案**  1. 正規化      「公益財団法人」「一般財団法人」「一般社団法人」「旧：」「略称」などを除去し、全角半角・スペース・中黒を統一。  2. 完全一致      正規化後の法人名が一致すれば重複確定。  3. 旧称・略称一致"
+      ],
+      "sources": [
+        "team16.txt"
+      ]
+    },
+    "カシオ科学振興財団": {
+      "name": "公益財団法人カシオ科学振興財団",
+      "name_core": "カシオ科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.konicaminolta.jp/about/csr/contribution/science/",
+        "https://www.casiozaidan.org/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ム | 要年度確認 | 画像科学、光学、材料、情報処理 | https://www.konicaminolta.jp/about/csr/contribution/science/ | | 25 | 公益財団法人 カシオ科学振興財団／東京都 | 研究助成、特別テーマ助成 | 要年度確認 | 電子工学、機械、情報、自然科学、人文科学 | https://www.casiozaidan.org/ | ",
+        "ム | 要年度確認 | 画像科学、光学、材料、情報処理 | https://www.konicaminolta.jp/about/csr/contribution/science/ | | 25 | 公益財団法人 カシオ科学振興財団／東京都 | 研究助成、特別テーマ助成 | 要年度確認 | 電子工学、機械、情報、自然科学、人文科学 | https://www.casiozaidan.org/ | "
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "コニカミノルタ科学技術振興財団": {
+      "name": "公益財団法人コニカミノルタ科学技術振興財団",
+      "name_core": "コニカミノルタ科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://dojindo-f.or.jp/subsidy/",
+        "https://www.konicaminolta.jp/about/csr/contribution/science/",
+        "https://www.casiozaidan.org/"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        " 同仁化学学術振興財団／熊本県 | 研究助成 | 100万円×8件程度 | ライフサイエンス基礎研究、有機化学 | https://dojindo-f.or.jp/subsidy/ | | 24 | 公益財団法人 コニカミノルタ科学技術振興財団／東京都 | 画像科学奨励賞、研究助成系プログラム | 要年度確認 | 画像科学、光学、材料、情報処理 | https://www.konicaminolt",
+        " 同仁化学学術振興財団／熊本県 | 研究助成 | 100万円×8件程度 | ライフサイエンス基礎研究、有機化学 | https://dojindo-f.or.jp/subsidy/ | | 24 | 公益財団法人 コニカミノルタ科学技術振興財団／東京都 | 画像科学奨励賞、研究助成系プログラム | 要年度確認 | 画像科学、光学、材料、情報処理 | https://www.konicaminolt"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "サントリー文化財団": {
+      "name": "公益財団法人サントリー文化財団",
+      "name_core": "サントリー文化財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.naito-f.or.jp/",
+        "https://www.suntory.co.jp/sfnd/research/",
+        "https://www.nomurafoundation.or.jp"
+      ],
+      "amounts": [
+        30000000,
+        14730000,
+        5000000,
+        10000000
+      ],
+      "context_snippets": [
+        "振興財団／東京都 | 内藤記念科学奨励金、若手ステップアップ研究助成等 | 要年度確認 | 自然科学、生命科学、医学・薬学 | https://www.naito-f.or.jp/ | | 20 | 公益財団法人 サントリー文化財団／大阪府 | 研究助成「学問の未来を拓く」、若手研究者のためのチャレンジ研究助成 | 学問の未来：2025年度30件・3,000万円、若手：15件・1,473万円 | ",
+        "振興財団／東京都 | 内藤記念科学奨励金、若手ステップアップ研究助成等 | 要年度確認 | 自然科学、生命科学、医学・薬学 | https://www.naito-f.or.jp/ | | 20 | 公益財団法人 サントリー文化財団／大阪府 | 研究助成「学問の未来を拓く」、若手研究者のためのチャレンジ研究助成 | 学問の未来：2025年度30件・3,000万円、若手：15件・1,473万円 | "
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "セコム科学技術振興財団": {
+      "name": "公益財団法人セコム科学技術振興財団",
+      "name_core": "セコム科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.terumozaidan.or.jp/support/research.html",
+        "https://www.secomzaidan.jp/",
+        "https://www.nakatani-foundation.jp/"
+      ],
+      "amounts": [
+        15000000,
+        30000000,
+        5000000,
+        4000000
+      ],
+      "context_snippets": [
+        "円/100万円 | 医療機器、再生医療、バイオマテリアル、予防医療、看護 | https://www.terumozaidan.or.jp/support/research.html | | 8 | 公益財団法人 セコム科学技術振興財団／東京都 | 挑戦的研究助成、特定領域研究助成 | 挑戦的研究助成は最大1,500万円級 | 安全・安心、生命医科学、医療健康データ、情報・社会技術 | https",
+        "円/100万円 | 医療機器、再生医療、バイオマテリアル、予防医療、看護 | https://www.terumozaidan.or.jp/support/research.html | | 8 | 公益財団法人 セコム科学技術振興財団／東京都 | 挑戦的研究助成、特定領域研究助成 | 挑戦的研究助成は最大1,500万円級 | 安全・安心、生命医科学、医療健康データ、情報・社会技術 | https"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "テルモ生命科学振興財団": {
+      "name": "公益財団法人テルモ生命科学振興財団",
+      "name_core": "テルモ生命科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.takeda-sci.or.jp/research/",
+        "https://www.terumozaidan.or.jp/support/research.html",
+        "https://www.secomzaidan.jp/"
+      ],
+      "amounts": [
+        3500000,
+        15000000,
+        5000000,
+        3000000
+      ],
+      "context_snippets": [
+        "学系研究助成、特定研究助成等 | 2025年度595件、総額23億8,350万円 | 医学・生命科学 | https://www.takeda-sci.or.jp/research/ | | 7 | 公益財団法人 テルモ生命科学振興財団／東京都 | 特定研究開発助成、開発助成、研究助成 | 1,500万円/年×3年、500万円/年、研究助成300万円/100万円 | 医療機器、再生医療、バイオマテ",
+        "学系研究助成、特定研究助成等 | 2025年度595件、総額23億8,350万円 | 医学・生命科学 | https://www.takeda-sci.or.jp/research/ | | 7 | 公益財団法人 テルモ生命科学振興財団／東京都 | 特定研究開発助成、開発助成、研究助成 | 1,500万円/年×3年、500万円/年、研究助成300万円/100万円 | 医療機器、再生医療、バイオマテ"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "トヨタ財団": {
+      "name": "公益財団法人トヨタ財団",
+      "name_core": "トヨタ財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.toyotafound.or.jp/grant/research/",
+        "https://www.sumitomo.or.jp/"
+      ],
+      "amounts": [
+        492000000,
+        95000000
+      ],
+      "context_snippets": [
+        "2025採択実績：自然科学4.92億円、人文科学9,500万円等 | 自然科学全般、人文社会、社会福祉、文化財 | https://www.mitsubishi-zaidan.jp/ | | 3 | 公益財団法人 トヨタ財団／東京都 | 研究助成プログラム「つながりがデザインする未来の社会システム」 | 年度別に助成対象決定 | 社会課題、学際研究、国際共同、未来社会システム | https://",
+        "2025採択実績：自然科学4.92億円、人文科学9,500万円等 | 自然科学全般、人文社会、社会福祉、文化財 | https://www.mitsubishi-zaidan.jp/ | | 3 | 公益財団法人 トヨタ財団／東京都 | 研究助成プログラム「つながりがデザインする未来の社会システム」 | 年度別に助成対象決定 | 社会課題、学際研究、国際共同、未来社会システム | https://"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "三菱財団": {
+      "name": "公益財団法人三菱財団",
+      "name_core": "三菱財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://af-info.or.jp/research/about.html",
+        "https://www.mitsubishi-zaidan.jp/",
+        "https://www.toyotafound.or.jp/grant/research/"
+      ],
+      "amounts": [
+        20000000,
+        4000000,
+        492000000,
+        95000000
+      ],
+      "context_snippets": [
+        "助成 募集要項 助成額 対象分野 2025 web search:  web search: 三菱財団 自然科学研究助成 助成額 対象分野 2026 web search:  web search: 公益財団法人 三菱財団 自然科学研究助成 人文科学研究助成 社会福祉 助成額 2025 web search:  web search: site:mitsubishi-zaidan.jp 自然科学研",
+        "内118件、海外35件 | 化学・生命、物理・情報、建築・都市、人文・社会科学、環境フィールド | https://af-info.or.jp/research/about.html | | 2 | 公益財団法人 三菱財団／東京都 | 自然科学研究助成、人文科学研究助成、社会福祉、文化財保存修復 | 2025採択実績：自然科学4.92億円、人文科学9,500万円等 | 自然科学全般、人文社会、社会"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "上原記念生命科学財団": {
+      "name": "公益財団法人上原記念生命科学財団",
+      "name_core": "上原記念生命科学財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://center6.umin.ac.jp/cgi-open-bin/josei/select/index.cgi",
+        "https://www.sumitomo.or.jp/",
+        "https://www.ueharazaidan.or.jp/grant/varius_grants_detail.html",
+        "https://www.takeda-sci.or.jp/research/"
+      ],
+      "amounts": [
+        5000000,
+        2000000,
+        3500000
+      ],
+      "context_snippets": [
+        "System\" paper authors web search:  web search: 上原記念生命科学財団 2026 研究助成 金額 連絡先 web search:  web search: 公益財団法人 上原記念生命科学財団 2026 研究助成金 研究奨励金 500万円 200万円 codex **調査結果**  調査日: 2026年5月8日。UMIN FIND「研究費補助機関一覧」は2"
+      ],
+      "sources": [
+        "team17.txt"
+      ]
+    },
+    "中谷医工計測技術振興財団": {
+      "name": "公益財団法人中谷医工計測技術振興財団",
+      "name_core": "中谷医工計測技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.secomzaidan.jp/",
+        "https://www.nakatani-foundation.jp/",
+        "https://www.shimadzu.co.jp/aboutus/ssf/grants/apply.html"
+      ],
+      "amounts": [
+        15000000,
+        30000000,
+        5000000,
+        4000000
+      ],
+      "context_snippets": [
+        "成、特定領域研究助成 | 挑戦的研究助成は最大1,500万円級 | 安全・安心、生命医科学、医療健康データ、情報・社会技術 | https://www.secomzaidan.jp/ | | 9 | 公益財団法人 中谷医工計測技術振興財団／東京都 | 技術開発研究助成 特別研究、開発研究、奨励研究 | 特別研究3,000万円、開発研究500万円、奨励研究400万円 | BME、生命科学と理工学の融",
+        "成、特定領域研究助成 | 挑戦的研究助成は最大1,500万円級 | 安全・安心、生命医科学、医療健康データ、情報・社会技術 | https://www.secomzaidan.jp/ | | 9 | 公益財団法人 中谷医工計測技術振興財団／東京都 | 技術開発研究助成 特別研究、開発研究、奨励研究 | 特別研究3,000万円、開発研究500万円、奨励研究400万円 | BME、生命科学と理工学の融"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "住友財団": {
+      "name": "公益財団法人住友財団",
+      "name_core": "住友財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.jfc.or.jp/news_subsidy/公益財団法人住友財団%E3%80%802025年度基礎科学研究助成/",
+        "https://www.ueharazaidan.or.jp/c/grant/",
+        "https://www.jfc.or.jp/news_subsidy/研究助成",
+        "https://www.toyotafound.or.jp/grant/research/",
+        "https://www.sumitomo.or.jp/",
+        "https://www.ueharazaidan.or.jp/grant/varius_grants_detail.html"
+      ],
+      "amounts": [
+        200000000,
+        5000000,
+        8000000,
+        300000000,
+        2000000
+      ],
+      "context_snippets": [
+        " | 東京都港区 | 基礎科学研究助成 | 総額2億円、40件程度、最大500万円/件 | 数学、物理、化学、生物、工学基礎 | https://www.jfc.or.jp/news_subsidy/公益財団法人住友財団%E3%80%802025年度基礎科学研究助成/ | | 上原記念生命科学財団 | 東京都 | 研究助成金、研究奨励金等 | 2026年度から研究助成800万円/件 | 生命科学、",
+        " | 東京都港区 | 基礎科学研究助成 | 総額2億円、40件程度、最大500万円/件 | 数学、物理、化学、生物、工学基礎 | https://www.jfc.or.jp/news_subsidy/公益財団法人住友財団%E3%80%802025年度基礎科学研究助成/ | | 上原記念生命科学財団 | 東京都 | 研究助成金、研究奨励金等 | 2026年度から研究助成800万円/件 | 生命科学、"
+      ],
+      "sources": [
+        "team3.txt"
+      ]
+    },
+    "先進医薬研究振興財団": {
+      "name": "公益財団法人先進医薬研究振興財団",
+      "name_core": "先進医薬研究振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.katokinen.or.jp/enterprise/2_1zyosei_ruikei.html",
+        "https://cent"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "024年度 助成金交付 総額 件数 web search:  web search: 中谷医工計測技術振興財団 2024 研究助成 採択 件数 総額 web search:  web search: 公益財団法人 先進医薬研究振興財団 2024年度 助成 総額 件数 web search:  web search: 第一三共生命科学研究振興財団 2024年度 研究助成 採択 件数 総額 web s"
+      ],
+      "sources": [
+        "team15.txt"
+      ]
+    },
+    "内藤記念科学振興財団": {
+      "name": "公益財団法人内藤記念科学振興財団",
+      "name_core": "内藤記念科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.mochidazaidan.or.jp/kenkyu.html",
+        "https://www.naito-f.or.jp/",
+        "https://www.suntory.co.jp/sfnd/research/"
+      ],
+      "amounts": [
+        3000000,
+        300000000,
+        30000000,
+        14730000
+      ],
+      "context_snippets": [
+        " 300万円×100件、総額3億円規模 | 先端医療、ゲノム、免疫・感染症、循環器、創薬 | https://www.mochidazaidan.or.jp/kenkyu.html | | 19 | 公益財団法人 内藤記念科学振興財団／東京都 | 内藤記念科学奨励金、若手ステップアップ研究助成等 | 要年度確認 | 自然科学、生命科学、医学・薬学 | https://www.naito-f.or.",
+        " 300万円×100件、総額3億円規模 | 先端医療、ゲノム、免疫・感染症、循環器、創薬 | https://www.mochidazaidan.or.jp/kenkyu.html | | 19 | 公益財団法人 内藤記念科学振興財団／東京都 | 内藤記念科学奨励金、若手ステップアップ研究助成等 | 要年度確認 | 自然科学、生命科学、医学・薬学 | https://www.naito-f.or."
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "助成財団": {
+      "name": "公益財団法人助成財団",
+      "name_core": "助成財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://jyosei-navi.jfc.or.jp/",
+        "https://www.oecd.org/innovation/frascati-manual-2015-9789264239012-en.htm",
+        "https://jyosei-navi.jfc.or.jp/find/",
+        "https://www.jfc.or.jp/jfcguide2025_research/",
+        "https://www.jfc.or.jp/jfcreport2025/",
+        "https://jyosei-navi.jfc.or.jp/2022/09/11/民間助成財団の",
+        "https://ndlsearch.ndl.go.jp/rnavi/stm/post_400126",
+        "https://www.jfc.o",
+        "https://ndlsearch.ndl",
+        "https://ndlsearch.ndl.go.jp/books/R100000002-I033046542",
+        "https://www.jfc.or.jp/bunseki-top/",
+        "https://center6.umin.ac.jp/c",
+        "https://center6.umin.ac.jp/cgi-open-bin/josei/select/index.cgi",
+        "https://ndlsearch.ndl.go.jp",
+        "https://www.jfc.or.jp/bunseki-top/b1_2022/",
+        "https://www.jfc.or.jp/bunseki-top/rank_",
+        "https://www.jfc.or.jp/bunseki-top/rank_grant/rank_grant2022/",
+        "https://www.e-stat.go.jp/",
+        "https://www.e-stat.go.jp/admrecord/business/0010000001"
+      ],
+      "amounts": [
+        55000000
+      ],
+      "context_snippets": [
+        "。親テーマ記載の「2,539団体・8,091プログラム」は、このDB全体を母集団とする前提で設計します。  **参照した主要資料** - 助成財団センター「助成・奨学金情報navi」     機関: 公益財団法人 助成財団センター     URL: https://jyosei-navi.jfc.or.jp/ - OECD, *Frascati Manual 2015: Guidelines fo",
+        "。親テーマ記載の「2,539団体・8,091プログラム」は、このDB全体を母集団とする前提で設計します。  **参照した主要資料** - 助成財団センター「助成・奨学金情報navi」     機関: 公益財団法人 助成財団センター     URL: https://jyosei-navi.jfc.or.jp/ - OECD, *Frascati Manual 2015: Guidelines fo"
+      ],
+      "sources": [
+        "team1.txt"
+      ]
+    },
+    "北海道科学技術総合振興センター": {
+      "name": "公益財団法人北海道科学技術総合振興センター",
+      "name_core": "北海道科学技術総合振興センター",
+      "legal_form": "公益財団法人",
+      "urls": [],
+      "amounts": [],
+      "context_snippets": [
+        "助成 web search:  web search: '〒' web search:  web search: 住友財団 所在地 東京都港区芝大門 web search:  web search: 公益財団法人 北海道科学技術総合振興センター 研究開発助成 所在地 web search:  web search: 内閣府 令和2年度 公益法人の概況 公益認定等委員会 活動報告 助成 応募型 30"
+      ],
+      "sources": [
+        "team8.txt"
+      ]
+    },
+    "同仁化学学術振興財団": {
+      "name": "公益財団法人同仁化学学術振興財団",
+      "name_core": "同仁化学学術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.fost.or.jp/guidelines.html",
+        "https://dojindo-f.or.jp/subsidy/",
+        "https://www.konicaminolta.jp/about/csr/contribution/science/"
+      ],
+      "amounts": [
+        1500000,
+        17000000
+      ],
+      "context_snippets": [
+        "万-150万円、総額1,700万円 | シミュレーション&ゲーミング、シリアスゲーム、社会システム | https://www.fost.or.jp/guidelines.html | | 23 | 公益財団法人 同仁化学学術振興財団／熊本県 | 研究助成 | 100万円×8件程度 | ライフサイエンス基礎研究、有機化学 | https://dojindo-f.or.jp/subsidy/ | |",
+        "万-150万円、総額1,700万円 | シミュレーション&ゲーミング、シリアスゲーム、社会システム | https://www.fost.or.jp/guidelines.html | | 23 | 公益財団法人 同仁化学学術振興財団／熊本県 | 研究助成 | 100万円×8件程度 | ライフサイエンス基礎研究、有機化学 | https://dojindo-f.or.jp/subsidy/ | |"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "夢洲新産業・都市創造機構": {
+      "name": "一般社団法人夢洲新産業・都市創造機構",
+      "name_core": "夢洲新産業・都市創造機構",
+      "legal_form": "一般社団法人",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000033.000069887.html",
+        "https://prtimes.jp/main/html/rd/p/000000002.000069971.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "\", \"company_name\": \"株式会社オカムラ\", \"title\": \"世界初技術で、空間型VRを低コストで提供するフォレストデジタル株式会社が『第三回　大阪・関西万博 開催支援EXPO』の一般社団法人夢洲新産業・都市創造機構ブース内に展示。\", \"url\": \"https://prtimes.jp/main/html/rd/p/000000033.000069887.html\", \"p",
+        "blished_at\": \"2023-04-07\", \"full_text\": \"世界初技術で、空間型VRを低コストで提供するフォレストデジタル株式会社が『第三回　大阪・関西万博 開催支援EXPO』の一般社団法人夢洲新産業・都市創造機構ブース内に展示。\", \"universities_mentioned\": null}, {\"edinet_code\": \"E02369\", \"company_nam"
+      ],
+      "sources": [
+        "team3.txt"
+      ]
+    },
+    "大川情報通信基金": {
+      "name": "公益財団法人大川情報通信基金",
+      "name_core": "大川情報通信基金",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://corporate.murata.com/ja-jp/group/zaidan",
+        "http://www.okawa-foundation.or.jp/application/research_grant.html",
+        "https://www.tateisi-f.org/research/"
+      ],
+      "amounts": [
+        30000000,
+        3000000,
+        6000000
+      ],
+      "context_snippets": [
+        "、研究会助成 | 要年度確認 | 自然科学、人文・社会科学、エレクトロニクス関連 | https://corporate.murata.com/ja-jp/group/zaidan | | 13 | 公益財団法人 大川情報通信基金／東京都 | 研究助成 | 100万円/件、毎年40-50件規模 | 情報通信、AI、ネットワーク、バイオ情報、人文社会 | http://www.okawa-found",
+        "、研究会助成 | 要年度確認 | 自然科学、人文・社会科学、エレクトロニクス関連 | https://corporate.murata.com/ja-jp/group/zaidan | | 13 | 公益財団法人 大川情報通信基金／東京都 | 研究助成 | 100万円/件、毎年40-50件規模 | 情報通信、AI、ネットワーク、バイオ情報、人文社会 | http://www.okawa-found"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "岩谷直治記念財団": {
+      "name": "公益財団法人岩谷直治記念財団",
+      "name_core": "岩谷直治記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.yazaki-found.jp/grants",
+        "https://www.iwatani-foundation.or.jp/",
+        "https://www.iketani-zaidan.or.jp/"
+      ],
+      "amounts": [
+        2000000,
+        10000000,
+        3000000,
+        300000000
+      ],
+      "context_snippets": [
+        "一般200万円、奨励100万円、特定1,000万円 | 材料、デバイス、エネルギー、情報通信、バイオ、環境 | https://www.yazaki-found.jp/grants | | 16 | 公益財団法人 岩谷直治記念財団／東京都 | 岩谷科学技術研究助成 | 200万円/件 | エネルギー、環境、ガス、低温、材料等 | https://www.iwatani-foundation.or.",
+        "一般200万円、奨励100万円、特定1,000万円 | 材料、デバイス、エネルギー、情報通信、バイオ、環境 | https://www.yazaki-found.jp/grants | | 16 | 公益財団法人 岩谷直治記念財団／東京都 | 岩谷科学技術研究助成 | 200万円/件 | エネルギー、環境、ガス、低温、材料等 | https://www.iwatani-foundation.or."
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "島津科学技術振興財団": {
+      "name": "公益財団法人島津科学技術振興財団",
+      "name_core": "島津科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nakatani-foundation.jp/",
+        "https://www.shimadzu.co.jp/aboutus/ssf/grants/apply.html",
+        "https://www.kajima-f.or.jp/grant-projects/research-grant/"
+      ],
+      "amounts": [
+        30000000,
+        5000000,
+        4000000,
+        254999999
+      ],
+      "context_snippets": [
+        "別研究3,000万円、開発研究500万円、奨励研究400万円 | BME、生命科学と理工学の融合境界領域 | https://www.nakatani-foundation.jp/ | | 10 | 公益財団法人 島津科学技術振興財団／京都府 | 研究開発助成、島津賞、島津奨励賞 | 研究開発助成100万円×23件程度 | 科学計測、先進情報技術、データサイエンス | https://www.sh",
+        "別研究3,000万円、開発研究500万円、奨励研究400万円 | BME、生命科学と理工学の融合境界領域 | https://www.nakatani-foundation.jp/ | | 10 | 公益財団法人 島津科学技術振興財団／京都府 | 研究開発助成、島津賞、島津奨励賞 | 研究開発助成100万円×23件程度 | 科学計測、先進情報技術、データサイエンス | https://www.sh"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "持田記念医学薬学振興財団": {
+      "name": "公益財団法人持田記念医学薬学振興財団",
+      "name_core": "持田記念医学薬学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.iketani-zaidan.or.jp/",
+        "https://www.mochidazaidan.or.jp/kenkyu.html",
+        "https://www.naito-f.or.jp/"
+      ],
+      "amounts": [
+        3000000,
+        300000000
+      ],
+      "context_snippets": [
+        "／静岡県 | 研究助成、国際交流等助成 | 研究助成最大300万円 | 先端材料、情報通信、機械、電気電子等 | https://www.iketani-zaidan.or.jp/ | | 18 | 公益財団法人 持田記念医学薬学振興財団／東京都 | 研究助成金 | 300万円×100件、総額3億円規模 | 先端医療、ゲノム、免疫・感染症、循環器、創薬 | https://www.mochidaz",
+        "／静岡県 | 研究助成、国際交流等助成 | 研究助成最大300万円 | 先端材料、情報通信、機械、電気電子等 | https://www.iketani-zaidan.or.jp/ | | 18 | 公益財団法人 持田記念医学薬学振興財団／東京都 | 研究助成金 | 300万円×100件、総額3億円規模 | 先端医療、ゲノム、免疫・感染症、循環器、創薬 | https://www.mochidaz"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "旭硝子財団": {
+      "name": "公益財団法人旭硝子財団",
+      "name_core": "旭硝子財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://af-info.or.jp/research/about.html",
+        "https://ww"
+      ],
+      "amounts": [
+        492000000,
+        95000000
+      ],
+      "context_snippets": [
+        "JFC関連ページです。  | 優先 | 団体名・所在地 | 主要プログラム名 | 年間助成額・規模 | 対象分野 | 根拠URL | |---:|---|---|---|---|---| | 1 | 公益財団法人 旭硝子財団／東京都 | 研究奨励、サステイナブルな未来への研究助成、ブループラネット地球環境特別研究助成、若手継続グラント、ステップアップ助成 | 2026年度新規採択は国内118件、海",
+        "JFC関連ページです。  | 優先 | 団体名・所在地 | 主要プログラム名 | 年間助成額・規模 | 対象分野 | 根拠URL | |---:|---|---|---|---|---| | 1 | 公益財団法人 旭硝子財団／東京都 | 研究奨励、サステイナブルな未来への研究助成、ブループラネット地球環境特別研究助成、若手継続グラント、ステップアップ助成 | 2026年度新規採択は国内118件、海"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "村田学術振興財団": {
+      "name": "公益財団法人村田学術振興財団",
+      "name_core": "村田学術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.kajima-f.or.jp/grant-projects/research-grant/",
+        "https://corporate.murata.com/ja-jp/group/zaidan",
+        "http://www.okawa-foundation.or.jp/application/research_grant.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "成 募集要項 助成額 対象分野 web search:  web search: セコム科学技術振興財団 挑戦的研究助成 助成額 対象分野 2025 web search:  web search: 公益財団法人 村田学術振興財団 研究助成 募集要項 助成額 対象分野 2025 web search:  web search: 住友財団 2025 基礎科学研究助成 環境研究助成 文化財維持修復 助",
+        "円予定 | 都市・居住環境、国土・資源、防災、文化・自然環境 | https://www.kajima-f.or.jp/grant-projects/research-grant/ | | 12 | 公益財団法人 村田学術振興財団／京都府 | 研究助成、海外派遣援助、研究会助成 | 要年度確認 | 自然科学、人文・社会科学、エレクトロニクス関連 | https://corporate.murata"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "次世代移動支援技術開発コンソーシアム」共生社会": {
+      "name": "一般社団法人次世代移動支援技術開発コンソーシアム」共生社会",
+      "name_core": "次世代移動支援技術開発コンソーシアム」共生社会",
+      "legal_form": "一般社団法人",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000034.000046783.html",
+        "https://prtimes.jp/main/html/rd/p/000000034.000028236.html",
+        "https://prtimes.jp/main/html/rd/p/000000014.000028564.html"
+      ],
+      "amounts": [],
+      "context_snippets": [
+        "ties_mentioned\": \"茂樹氏と法政大学大学\"}, {\"edinet_code\": \"E02213\", \"company_name\": \"三菱自動車工業株式会社\", \"title\": \"「一般社団法人次世代移動支援技術開発コンソーシアム」共生社会の実現に向け、AIスーツケースの実証実験を開始\", \"url\": \"https://prtimes.jp/main/html/rd/p/000",
+        "//prtimes.jp/main/html/rd/p/000000034.000046783.html\", \"published_at\": \"2020-11-12\", \"full_text\": \"「一般社団法人次世代移動支援技術開発コンソーシアム」共生社会の実現に向け、AIスーツケースの実証実験を開始\", \"universities_mentioned\": null}, {\"edinet_cod"
+      ],
+      "sources": [
+        "team3.txt"
+      ]
+    },
+    "武田科学振興財団": {
+      "name": "公益財団法人武田科学振興財団",
+      "name_core": "武田科学振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.ueharazaidan.or.jp/grant/varius_grants_detail.html",
+        "https://www.takeda-sci.or.jp/research/",
+        "https://www.terumozaidan.or.jp/support/research.html"
+      ],
+      "amounts": [
+        3500000,
+        15000000,
+        5000000,
+        3000000
+      ],
+      "context_snippets": [
+        "科学、基礎医学、臨床医学、生命科学×情報・機械・材料 | https://www.ueharazaidan.or.jp/grant/varius_grants_detail.html | | 6 | 公益財団法人 武田科学振興財団／大阪府 | 生命科学研究助成、医学系研究助成、特定研究助成等 | 2025年度595件、総額23億8,350万円 | 医学・生命科学 | https://www.tak",
+        "科学、基礎医学、臨床医学、生命科学×情報・機械・材料 | https://www.ueharazaidan.or.jp/grant/varius_grants_detail.html | | 6 | 公益財団法人 武田科学振興財団／大阪府 | 生命科学研究助成、医学系研究助成、特定研究助成等 | 2025年度595件、総額23億8,350万円 | 医学・生命科学 | https://www.tak"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "池谷科学技術振興財団": {
+      "name": "公益財団法人池谷科学技術振興財団",
+      "name_core": "池谷科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.iwatani-foundation.or.jp/",
+        "https://www.iketani-zaidan.or.jp/",
+        "https://www.mochidazaidan.or.jp/kenkyu.html"
+      ],
+      "amounts": [
+        2000000,
+        3000000,
+        300000000
+      ],
+      "context_snippets": [
+        "財団／東京都 | 岩谷科学技術研究助成 | 200万円/件 | エネルギー、環境、ガス、低温、材料等 | https://www.iwatani-foundation.or.jp/ | | 17 | 公益財団法人 池谷科学技術振興財団／静岡県 | 研究助成、国際交流等助成 | 研究助成最大300万円 | 先端材料、情報通信、機械、電気電子等 | https://www.iketani-zaidan",
+        "財団／東京都 | 岩谷科学技術研究助成 | 200万円/件 | エネルギー、環境、ガス、低温、材料等 | https://www.iwatani-foundation.or.jp/ | | 17 | 公益財団法人 池谷科学技術振興財団／静岡県 | 研究助成、国際交流等助成 | 研究助成最大300万円 | 先端材料、情報通信、機械、電気電子等 | https://www.iketani-zaidan"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "矢崎科学技術振興記念財団": {
+      "name": "公益財団法人矢崎科学技術振興記念財団",
+      "name_core": "矢崎科学技術振興記念財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.tateisi-f.org/research/",
+        "https://www.yazaki-found.jp/grants",
+        "https://www.iwatani-foundation.or.jp/"
+      ],
+      "amounts": [
+        3000000,
+        6000000,
+        2000000,
+        10000000
+      ],
+      "context_snippets": [
+        "万円、A 300万円、B 600万円、C 60万円/年 | エレクトロニクス、情報工学、人間と機械の調和 | https://www.tateisi-f.org/research/ | | 15 | 公益財団法人 矢崎科学技術振興記念財団／東京都 | 一般研究助成、奨励研究助成、特定研究助成、国際交流援助 | 一般200万円、奨励100万円、特定1,000万円 | 材料、デバイス、エネルギー、情報",
+        "万円、A 300万円、B 600万円、C 60万円/年 | エレクトロニクス、情報工学、人間と機械の調和 | https://www.tateisi-f.org/research/ | | 15 | 公益財団法人 矢崎科学技術振興記念財団／東京都 | 一般研究助成、奨励研究助成、特定研究助成、国際交流援助 | 一般200万円、奨励100万円、特定1,000万円 | 材料、デバイス、エネルギー、情報"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "科学技術融合振興財団": {
+      "name": "公益財団法人科学技術融合振興財団",
+      "name_core": "科学技術融合振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.nomurafoundation.or.jp/social/",
+        "https://www.fost.or.jp/guidelines.html",
+        "https://dojindo-f.or.jp/subsidy/"
+      ],
+      "amounts": [
+        5000000,
+        10000000,
+        1500000,
+        17000000
+      ],
+      "context_snippets": [
+        "500万円、金融市場1,000万円級 | 法学、政治学、経済学、金融・資本市場、ジェンダー | https://www.nomurafoundation.or.jp/social/ | | 22 | 公益財団法人 科学技術融合振興財団／東京都 | 調査研究助成、補助金 | 研究助成30万-150万円、総額1,700万円 | シミュレーション&ゲーミング、シリアスゲーム、社会システム | https",
+        "500万円、金融市場1,000万円級 | 法学、政治学、経済学、金融・資本市場、ジェンダー | https://www.nomurafoundation.or.jp/social/ | | 22 | 公益財団法人 科学技術融合振興財団／東京都 | 調査研究助成、補助金 | 研究助成30万-150万円、総額1,700万円 | シミュレーション&ゲーミング、シリアスゲーム、社会システム | https"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "立石科学技術振興財団": {
+      "name": "公益財団法人立石科学技術振興財団",
+      "name_core": "立石科学技術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "http://www.okawa-foundation.or.jp/application/research_grant.html",
+        "https://www.tateisi-f.org/research/",
+        "https://www.yazaki-found.jp/grants"
+      ],
+      "amounts": [
+        30000000,
+        3000000,
+        6000000,
+        2000000,
+        10000000
+      ],
+      "context_snippets": [
+        "信、AI、ネットワーク、バイオ情報、人文社会 | http://www.okawa-foundation.or.jp/application/research_grant.html | | 14 | 公益財団法人 立石科学技術振興財団／京都府 | 研究助成S、A、B、C | S最大3,000万円、A 300万円、B 600万円、C 60万円/年 | エレクトロニクス、情報工学、人間と機械の調和 |",
+        "信、AI、ネットワーク、バイオ情報、人文社会 | http://www.okawa-foundation.or.jp/application/research_grant.html | | 14 | 公益財団法人 立石科学技術振興財団／京都府 | 研究助成S、A、B、C | S最大3,000万円、A 300万円、B 600万円、C 60万円/年 | エレクトロニクス、情報工学、人間と機械の調和 |"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "野村財団": {
+      "name": "公益財団法人野村財団",
+      "name_core": "野村財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.suntory.co.jp/sfnd/research/",
+        "https://www.nomurafoundation.or.jp/social/",
+        "https://www.fost.or.jp/guidelines.html"
+      ],
+      "amounts": [
+        30000000,
+        14730000,
+        5000000,
+        10000000,
+        1500000,
+        17000000
+      ],
+      "context_snippets": [
+        "025年度30件・3,000万円、若手：15件・1,473万円 | 人文学、社会科学、学際研究 | https://www.suntory.co.jp/sfnd/research/ | | 21 | 公益財団法人 野村財団／東京都 | 社会科学研究助成、金融・資本市場研究助成、女性が輝く社会研究助成 | 研究助成100万円、女性テーマ500万円、金融市場1,000万円級 | 法学、政治学、経済学、",
+        "025年度30件・3,000万円、若手：15件・1,473万円 | 人文学、社会科学、学際研究 | https://www.suntory.co.jp/sfnd/research/ | | 21 | 公益財団法人 野村財団／東京都 | 社会科学研究助成、金融・資本市場研究助成、女性が輝く社会研究助成 | 研究助成100万円、女性テーマ500万円、金融市場1,000万円級 | 法学、政治学、経済学、"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    },
+    "鹿島学術振興財団": {
+      "name": "公益財団法人鹿島学術振興財団",
+      "name_core": "鹿島学術振興財団",
+      "legal_form": "公益財団法人",
+      "urls": [
+        "https://www.shimadzu.co.jp/aboutus/ssf/grants/apply.html",
+        "https://www.kajima-f.or.jp/grant-projects/research-grant/",
+        "https://corporate.murata.com/ja-jp/group/zaidan"
+      ],
+      "amounts": [
+        5000000,
+        254999999
+      ],
+      "context_snippets": [
+        "万円×23件程度 | 科学計測、先進情報技術、データサイエンス | https://www.shimadzu.co.jp/aboutus/ssf/grants/apply.html | | 11 | 公益財団法人 鹿島学術振興財団／東京都 | 一般研究助成、特定テーマ研究助成、国際共同研究助成 | 一般500万円上限、2026年度一般総額2.55億円予定 | 都市・居住環境、国土・資源、防災、文化",
+        "万円×23件程度 | 科学計測、先進情報技術、データサイエンス | https://www.shimadzu.co.jp/aboutus/ssf/grants/apply.html | | 11 | 公益財団法人 鹿島学術振興財団／東京都 | 一般研究助成、特定テーマ研究助成、国際共同研究助成 | 一般500万円上限、2026年度一般総額2.55億円予定 | 都市・居住環境、国土・資源、防災、文化"
+      ],
+      "sources": [
+        "team4.txt"
+      ]
+    }
+  }
+}
