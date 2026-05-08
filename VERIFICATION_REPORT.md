@@ -1,6 +1,6 @@
 # CFG-DB 品質検証レポート
 
-- 生成日時: 2026-05-09 01:31:18
+- 生成日時: 2026-05-09 06:29:43
 - DB: `/Users/nishimura+/projects/apps/corporate-foundation-grants/corporate_research_grants.sqlite`
 - 総合判定: **WARN**
 - 内訳: PASS=29 / WARN=3 / FAIL=0 / INFO=2
@@ -29,8 +29,8 @@
 | **PASS** | NULL率 organizations.name | 0/2086 = 0.0% (許容 ≤0%) |
 | **PASS** | NULL率 organizations.type | 0/2086 = 0.0% (許容 ≤0%) |
 | **PASS** | NULL率 organizations.foundation_subtype | 0/2086 = 0.0% (許容 ≤5%) |
-| **PASS** | NULL率 organizations.url | 946/2086 = 45.3% (許容 ≤50%) |
-| **PASS** | NULL率 organizations.prefecture | 591/2086 = 28.3% (許容 ≤40%) |
+| **PASS** | NULL率 organizations.url | 944/2086 = 45.3% (許容 ≤50%) |
+| **PASS** | NULL率 organizations.prefecture | 373/2086 = 17.9% (許容 ≤40%) |
 | **PASS** | NULL率 grant_results.awardee_name | 0/2122 = 0.0% (許容 ≤1%) |
 | **PASS** | NULL率 grant_results.project_title | 0/2122 = 0.0% (許容 ≤5%) |
 | **PASS** | NULL率 grant_results.fiscal_year | 0/2122 = 0.0% (許容 ≤0%) |
@@ -51,7 +51,7 @@
 | **PASS** | メール形式 | 15/655 不正形式 |
 | **PASS** | annual_grant_amount 異常値 | 負値=0, 100億円超=0 |
 | **PASS** | award_amount 異常値 | 負値=0, 10億円超=0 |
-| **PASS** | 都道府県名有効性 | 0/1495 不正値 |
+| **PASS** | 都道府県名有効性 | 0/1713 不正値 |
 | **PASS** | foundation_subtype 整合性 | 値=['academic', 'corporate', 'govt', 'group', 'individual', 'intl', 'ngo', 'other'] |
 
 ## 4. 採択者データ品質
