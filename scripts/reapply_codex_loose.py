@@ -62,6 +62,7 @@ def main():
         ROOT / "research_results" / "codex_phase4_extracted.json",
         ROOT / "research_results" / "codex_phase5_extracted.json",
         ROOT / "research_results" / "codex_phase6_extracted.json",
+        ROOT / "research_results" / "codex_phase8_extracted.json",
     ]
     all_foundations = {}
     for f in codex_files:

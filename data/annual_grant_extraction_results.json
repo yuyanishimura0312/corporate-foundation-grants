@@ -1,20 +1,6 @@
 [
   {
-    "target": "武田科学振興財団",
-    "pdfs": 5,
-    "history_years": [],
-    "annual_grant_amount": null,
-    "total_assets": null,
-    "snippets": {},
-    "db_match": true,
-    "delta": {
-      "updated_annual": false,
-      "updated_assets": false,
-      "updated_history": false
-    }
-  },
-  {
-    "target": "三菱財団",
+    "target": "内藤記念科学振興財団",
     "pdfs": 5,
     "history_years": [
       2024,
@@ -23,201 +9,21 @@
       2021,
       2020
     ],
-    "annual_grant_amount": 1969289467,
-    "total_assets": 35922195659,
+    "annual_grant_amount": 659320000,
+    "total_assets": 21254571885,
     "snippets": {
-      "grant": "[助成事業] 助成事業予備基金評価損益等 406,050,832 1,969,289,467 △ 1,563,238,635"
-    },
-    "db_match": true,
-    "delta": {
-      "updated_annual": true,
-      "updated_assets": false,
-      "updated_history": true,
-      "annual_old": 1563238635,
-      "annual_new": 1969289467,
-      "history_years": [
-        2024,
-        2023,
-        2022,
-        2021,
-        2020
-      ]
-    }
-  },
-  {
-    "target": "稲盛財団",
-    "pdfs": 5,
-    "history_years": [
-      2024,
-      2023,
-      2022,
-      2021,
-      2020
-    ],
-    "annual_grant_amount": 259953314,
-    "total_assets": 138911979536,
-    "snippets": {
-      "grant": "[助成事業費] ( 助 成 事 業 費 ) ( 259,953,314 )( 210,595,031 )( 49,358,283 )",
-      "assets": "[資産合計] 資 産 合 計 138,911,979,536 150,282,231,537 △ 11,370,252,001"
-    },
-    "db_match": true,
-    "delta": {
-      "updated_annual": true,
-      "updated_assets": false,
-      "updated_history": true,
-      "annual_old": 1533349483,
-      "annual_new": 259953314,
-      "history_years": [
-        2024,
-        2023,
-        2022,
-        2021,
-        2020
-      ]
-    }
-  },
-  {
-    "target": "住友財団",
-    "pdfs": 0,
-    "extracted": 0
-  },
-  {
-    "target": "旭硝子財団",
-    "pdfs": 6,
-    "history_years": [
-      2024,
-      2023
-    ],
-    "annual_grant_amount": 651701921,
-    "total_assets": 38065613142,
-    "snippets": {
-      "grant": "[研究助成事業] 研 究 助 成 事 業 651,701,921 - - - - 651,701,921 - 651,701,921",
-      "assets": "[資産合計] 資 産 合 計 38,065,613,142 43,407,812,853 -5,342,199,711"
+      "grant": "[研究助成事業] 研究助成事業基金 617,900,000 659,320,000 △41,420,000",
+      "assets": "[資産合計] 資産合計 21,254,571,885 29,982,233,694 △8,727,661,809"
     },
     "db_match": true,
     "delta": {
       "updated_annual": true,
       "updated_assets": true,
       "updated_history": true,
-      "annual_old": 567100000,
-      "annual_new": 651701921,
-      "assets_old": 37998969948,
-      "assets_new": 38065613142,
-      "history_years": [
-        2024,
-        2023
-      ]
-    }
-  },
-  {
-    "target": "鹿島学術振興財団",
-    "pdfs": 5,
-    "history_years": [],
-    "annual_grant_amount": null,
-    "total_assets": null,
-    "snippets": {},
-    "db_match": false
-  },
-  {
-    "target": "セコム科学技術振興財団",
-    "pdfs": 5,
-    "history_years": [],
-    "annual_grant_amount": null,
-    "total_assets": null,
-    "snippets": {},
-    "db_match": true,
-    "delta": {
-      "updated_annual": false,
-      "updated_assets": false,
-      "updated_history": false
-    }
-  },
-  {
-    "target": "上原記念生命科学財団",
-    "pdfs": 5,
-    "history_years": [
-      2024,
-      2023,
-      2022,
-      2021,
-      2020
-    ],
-    "annual_grant_amount": 1450619759,
-    "total_assets": 133480156610,
-    "snippets": {
-      "grant": "[事業費] 事 業 費 1,441,003,252 1,450,619,759 -9,616,507"
-    },
-    "db_match": true,
-    "delta": {
-      "updated_annual": true,
-      "updated_assets": false,
-      "updated_history": true,
-      "annual_old": 278000000,
-      "annual_new": 1450619759,
-      "history_years": [
-        2024,
-        2023,
-        2022,
-        2021,
-        2020
-      ]
-    }
-  },
-  {
-    "target": "中谷財団",
-    "pdfs": 5,
-    "history_years": [
-      2024,
-      2023,
-      2022,
-      2021,
-      2020
-    ],
-    "annual_grant_amount": 1389621480,
-    "total_assets": 123362305344,
-    "snippets": {
-      "grant": "[事業費] 事業費支出 1,389,621,480 1,227,088,668 162,532,812",
-      "assets": "[資産合計] 資産合計 123,362,305,344 108,694,122,066 14,668,183,278"
-    },
-    "db_match": true,
-    "delta": {
-      "updated_annual": true,
-      "updated_assets": false,
-      "updated_history": true,
-      "annual_old": 723034171,
-      "annual_new": 1389621480,
-      "history_years": [
-        2024,
-        2023,
-        2022,
-        2021,
-        2020
-      ]
-    }
-  },
-  {
-    "target": "テルモ生命科学振興財団",
-    "pdfs": 5,
-    "history_years": [
-      2024,
-      2023,
-      2022,
-      2021,
-      2020
-    ],
-    "annual_grant_amount": 554701537,
-    "total_assets": 83543571954,
-    "snippets": {
-      "grant": "[事業費] 事業費 554,701,537 489,275,544 65,425,993",
-      "assets": "[資産合計] 資産合計 83,543,571,954 81,405,924,285 2,137,647,669"
-    },
-    "db_match": true,
-    "delta": {
-      "updated_annual": true,
-      "updated_assets": false,
-      "updated_history": true,
-      "annual_old": 371000000,
-      "annual_new": 554701537,
+      "annual_old": 583000000,
+      "annual_new": 659320000,
+      "assets_old": null,
+      "assets_new": 21254571885,
       "history_years": [
         2024,
         2023,

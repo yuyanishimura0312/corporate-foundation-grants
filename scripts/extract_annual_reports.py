@@ -98,25 +98,11 @@ TARGETS: list[dict] = [
         "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
-        "slug": "sumitomo",
-        "db_name": "住友財団",
-        "disclosure": "https://www.sumitomo.or.jp/zaimu.htm",
-        "years": [2024, 2023, 2022, 2021, 2020],
-        "note": "Disclosure index uses non-PDF page navigation; needs scraping",
-    },
-    {
         "slug": "asahi-glass",
         "db_name": "旭硝子財団",
         "disclosure": "https://www.af-info.or.jp/about/disclosure.html",
         "pdf_template": "https://www.af-info.or.jp/about/assets/pdf/disclosure/report{year}-all.pdf",
         "years": [2024, 2023, 2022, 2021, 2020, 2019],
-    },
-    {
-        "slug": "kajima",
-        "db_name": "鹿島学術振興財団",
-        "disclosure": "https://kashimafound.org/profile/disclosure/",
-        "pdf_template": "https://kashimafound.org/profile/data/jigyohokoku{year}.pdf",
-        "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
         "slug": "secom",
@@ -185,57 +171,302 @@ TARGETS: list[dict] = [
         "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
-        "slug": "naito",
-        "db_name": "内藤記念科学振興財団",
-        "disclosure": "https://www.naito-f.or.jp/jp/about/index.php",
-        "years": [2024, 2023, 2022, 2021, 2020],
-    },
-    {
         "slug": "murata",
         "db_name": "村田学術振興・教育財団",
         "disclosure": "https://corporate.murata.com/ja-jp/group/zaidan",
         "years": [2024, 2023, 2022, 2021, 2020],
     },
+    # ------------------------------------------------------------------
+    # Expansion batch 2: JFC top-81 + major medium foundations
+    # Curated 2026-05. Each entry uses HTML-scrape fallback through the
+    # disclosure page to find PDFs (scrape regex matches 'jigyohokoku',
+    # 'report', 'houkoku', 'kessan', 'FinancialStatement' substrings).
+    # ------------------------------------------------------------------
     {
-        "slug": "mochida",
+        "slug": "naito-kagaku",
+        "db_name": "内藤記念科学振興財団",
+        "disclosure": "https://www.naito-f.or.jp/jp/about/disclosure.php",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "mochida-kinen",
         "db_name": "持田記念医学薬学振興財団",
-        "disclosure": "https://www.mochidazaidan.or.jp/about/",
+        "disclosure": "https://www.mochidazaidan.or.jp/about/disclosure.html",
         "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
-        "slug": "ichimura",
+        "slug": "ichimura-kiyoshi",
         "db_name": "市村清新技術財団",
-        "disclosure": "https://www.sgkz.or.jp/about/",
+        "disclosure": "https://www.sgkz.or.jp/disclosure/",
         "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
-        "slug": "rohm-music",
-        "db_name": "ロームミュージックファンデーション",
-        "disclosure": "https://micro.rohm.com/jp/rmf/about/",
-        "years": [2024, 2023, 2022, 2021, 2020],
-    },
-    {
-        "slug": "amada",
-        "db_name": "天田財団",
-        "disclosure": "https://www.amada-f.or.jp/about.html",
-        "years": [2024, 2023, 2022, 2021, 2020],
-    },
-    {
-        "slug": "canon",
+        "slug": "canon-zaidan",
         "db_name": "キヤノン財団",
-        "disclosure": "https://jp.foundation.canon/about/",
+        "disclosure": "https://jp.foundation.canon/about/disclosure.html",
         "years": [2024, 2023, 2022, 2021, 2020],
     },
     {
-        "slug": "kanagawa-funai",
-        "db_name": "船井情報科学振興財団",
-        "disclosure": "https://www.funaifoundation.jp/about/",
-        "years": [2024, 2023, 2022, 2021, 2020],
-    },
-    {
-        "slug": "tateishi",
+        "slug": "tateishi-kagaku",
         "db_name": "立石科学技術振興財団",
-        "disclosure": "https://www.tateisi-f.org/about/",
+        "disclosure": "https://www.tateisi-f.org/about/finance/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "funai",
+        "db_name": "船井情報科学振興財団",
+        "disclosure": "https://www.funaifoundation.jp/finance.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "suzuki-zaidan",
+        "db_name": "スズキ財団",
+        "disclosure": "https://www.suzukifound.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "iwatani-naoji",
+        "db_name": "岩谷直治記念財団",
+        "disclosure": "https://www.iwatani-foundation.or.jp/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "ogasawara-toshiaki",
+        "db_name": "小笠原敏晶記念財団",
+        "disclosure": "https://www.ogasawarafound.or.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "denki-tsushin",
+        "db_name": "電気通信普及財団",
+        "disclosure": "https://www.taf.or.jp/about/data.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "kobayashi",
+        "db_name": "小林財団",
+        "disclosure": "https://www.kobayashi-foundation.or.jp/disclosure",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "honjo",
+        "db_name": "本庄国際奨学財団",
+        "disclosure": "https://www.hisf.or.jp/about/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "hoso-bunka",
+        "db_name": "放送文化基金",
+        "disclosure": "https://www.hbf.or.jp/about/disclosure",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "konica-minolta",
+        "db_name": "コニカミノルタ科学技術振興財団",
+        "disclosure": "https://www.konicaminolta.com/foundation/about/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "fujifilm",
+        "db_name": "富士フイルム・グリーンファンド",
+        "disclosure": "https://www.fujifilm.com/jp/ja/about/sustainability/society/foundation",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "japan-securities",
+        "db_name": "日本証券奨学財団",
+        "disclosure": "https://www.jssf.or.jp/financial/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "nomura",
+        "db_name": "野村財団",
+        "disclosure": "https://www.nomurafoundation.or.jp/about/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "kao",
+        "db_name": "花王芸術・科学財団",
+        "disclosure": "https://www.kao-foundation.or.jp/about/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "kao-fuji",
+        "db_name": "花王みんなの森づくり",
+        "disclosure": "https://www.kao-foundation.or.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "hattori-houkoukai",
+        "db_name": "服部報公会",
+        "disclosure": "https://hattori-hokokai.or.jp/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "hayao-nakayama",
+        "db_name": "中山隼雄科学技術文化財団",
+        "disclosure": "https://www.nakayama-zaidan.or.jp/disclosure",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "yamato",
+        "db_name": "ヤマト福祉財団",
+        "disclosure": "https://www.yamato-fukushi.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "toyobo",
+        "db_name": "東洋紡バイオテクノロジー研究財団",
+        "disclosure": "https://www.toyobo.co.jp/foundation/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "ishibashi",
+        "db_name": "石橋財団",
+        "disclosure": "https://www.ishibashi-foundation.or.jp/about/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "fukutake",
+        "db_name": "福武教育文化振興財団",
+        "disclosure": "https://www.fukutake.or.jp/about/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "saneyoshi",
+        "db_name": "実吉奨学会",
+        "disclosure": "https://www.saneyoshi-shogakukai.or.jp/about/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "shinohara-yoshiko",
+        "db_name": "篠原欣子記念財団",
+        "disclosure": "https://ysmf.or.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "otsuka-toshimi",
+        "db_name": "大塚敏美育英奨学財団",
+        "disclosure": "https://www.otsuka-toshimi.or.jp/about/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "mitsubishi-ufj-trust",
+        "db_name": "三菱ＵＦＪ信託奨学財団",
+        "disclosure": "https://www.muft.or.jp/about/disclosure",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "nikki-saneyoshi",
+        "db_name": "日揮・実吉奨学会",
+        "disclosure": "https://www.nikki-saneyoshi.or.jp/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "heiwa-nakajima",
+        "db_name": "平和中島財団",
+        "disclosure": "https://hnf.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "hakuhodo-edu",
+        "db_name": "博報堂教育財団",
+        "disclosure": "https://www.hakuhodofoundation.or.jp/zaidan/zaim/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "hirose",
+        "db_name": "ヒロセ財団",
+        "disclosure": "https://www.hirose-foundation.or.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "haccho",
+        "db_name": "発酵研究所",
+        "disclosure": "https://www.ifo.or.jp/about/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "ono-yakuhin",
+        "db_name": "小野薬品研究助成",
+        "disclosure": "https://www.ono-pharma.com/foundation/disclosure",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "asahi-shukoukai",
+        "db_name": "朝日新聞文化財団",
+        "disclosure": "https://www.asahizaidan.or.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "nakamura-sekizenkai",
+        "db_name": "中村積善会",
+        "disclosure": "https://www.nakamura-sekizenkai.or.jp/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "iketani",
+        "db_name": "池谷科学技術振興財団",
+        "disclosure": "https://www.iketani.or.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "uchida-yokokai",
+        "db_name": "内田洋行教育研究助成",
+        "disclosure": "https://uchida.co.jp/foundation/disclosure",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "iijima-tojuro",
+        "db_name": "飯島藤十郎記念食品科学振興財団",
+        "disclosure": "https://www.iijima-kinenzaidan.or.jp/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "odakyu",
+        "db_name": "小田急財団",
+        "disclosure": "https://www.odakyu-foundation.jp/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "morino-kinenzaidan",
+        "db_name": "森野記念財団",
+        "disclosure": "https://morinozaidan.or.jp/about/disclosure",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "kashima-shoten",
+        "db_name": "鹿島学術振興財団",
+        "disclosure": "https://kashimafound.org/profile/disclosure/",
+        "pdf_template": "https://kashimafound.org/profile/data/jigyohokoku{year_short}.pdf",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "sumitomo-zaidan",
+        "db_name": "住友財団",
+        "disclosure": "https://www.sumitomo.or.jp/zaimu.htm",
+        "pdf_templates": [
+            "https://www.sumitomo.or.jp/Act/{year}_jigyo.pdf",
+            "https://www.sumitomo.or.jp/Act/{year}_kessan.pdf",
+        ],
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "kakehashi",
+        "db_name": "化学及血清療法研究所",
+        "disclosure": "https://www.kaketsuken.org/disclosure/",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "tetsudo-kosaikai",
+        "db_name": "鉄道弘済会",
+        "disclosure": "https://www.kousaikai.or.jp/disclosure.html",
+        "years": [2024, 2023, 2022, 2021, 2020],
+    },
+    {
+        "slug": "nihon-seimei",
+        "db_name": "日本生命財団",
+        "disclosure": "https://nihonseimei-zaidan.or.jp/disclosure.html",
         "years": [2024, 2023, 2022, 2021, 2020],
     },
 ]
@@ -306,36 +537,73 @@ def discover_pdfs(target: dict) -> dict[int, list[str]]:
             for u in val:
                 _add(y, u)
 
+    def _fmt(tpl: str, y: int) -> str:
+        # Support: {year}=2024, {year_plus_one}=2025, {year_short}=24, {reiwa}=6
+        return tpl.format(
+            year=y,
+            year_plus_one=y + 1,
+            year_short=f"{y % 100:02d}",
+            reiwa=y - 2018,
+        )
+
     # 1) Template-based generation (single template only — for full reports)
     template = target.get("pdf_template")
     if template:
         for y in target["years"]:
-            url = template.format(year=y, year_plus_one=y + 1)
-            _add(y, url)
+            _add(y, _fmt(template, y))
 
     # Optional per-target list of templates for multi-file disclosures
     for tpl in target.get("pdf_templates", []) or []:
         for y in target["years"]:
-            _add(y, tpl.format(year=y, year_plus_one=y + 1))
+            _add(y, _fmt(tpl, y))
 
-    # 2) HTML scrape fallback / supplement
-    html_bytes = http_get(target["disclosure"])
-    if html_bytes:
-        html = html_bytes.decode("utf-8", errors="replace")
-        from urllib.parse import urljoin
+    # 2) HTML scrape fallback / supplement.
+    # If the primary disclosure URL 404s, try a few common alternative paths
+    # at the same origin: /about/, /info/, /disclosure/, /zaimu/, /finance/.
+    from urllib.parse import urljoin, urlparse
 
+    def _scrape(url: str) -> str:
+        b = http_get(url)
+        return b.decode("utf-8", errors="replace") if b else ""
+
+    primary = target["disclosure"]
+    html = _scrape(primary)
+    base_for_join = primary
+
+    if not html:
+        parsed = urlparse(primary)
+        origin = f"{parsed.scheme}://{parsed.netloc}"
+        for alt in ("/about/", "/info/", "/disclosure/", "/zaimu/", "/finance/", "/about/disclosure/", "/profile/disclosure/"):
+            alt_url = origin + alt
+            if alt_url == primary:
+                continue
+            html = _scrape(alt_url)
+            if html:
+                base_for_join = alt_url
+                break
+
+    if html:
+        parsed = urlparse(base_for_join)
+        origin = f"{parsed.scheme}://{parsed.netloc}"
         for href in PDF_HREF_RE.findall(html):
-            absolute = urljoin(target["disclosure"], href)
-            lower = absolute.lower()
-            if not any(k.lower() in lower for k in ANNUAL_KEYWORDS):
-                continue
-            ym = re.search(r"20(\d{2})", absolute)
-            if not ym:
-                continue
-            year = 2000 + int(ym.group(1))
-            if year not in target["years"]:
-                continue
-            _add(year, absolute)
+            # Some sites write site-root-relative paths as bare relative
+            # ("jp/about/report/foo.pdf"). If the href looks like it starts
+            # with a top-level dir of the site path, also try origin-rooted.
+            candidates = [urljoin(base_for_join, href)]
+            if not href.startswith(("/", "http://", "https://")):
+                # treat as if rooted at origin
+                candidates.append(origin + "/" + href.lstrip("./"))
+            for absolute in candidates:
+                lower = absolute.lower()
+                if not any(k.lower() in lower for k in ANNUAL_KEYWORDS):
+                    continue
+                ym = re.search(r"20(\d{2})", absolute)
+                if not ym:
+                    continue
+                year = 2000 + int(ym.group(1))
+                if year not in target["years"]:
+                    continue
+                _add(year, absolute)
 
     return found
 
@@ -729,12 +997,45 @@ def main() -> int:
     parser.add_argument("--limit", type=int, default=0, help="process only first N targets")
     parser.add_argument("--target", help="substring match against db_name; process only matches")
     parser.add_argument("--dry-run", action="store_true", help="don't write to DB")
+    parser.add_argument(
+        "--skip-extracted",
+        action="store_true",
+        help="skip targets whose annual_grant_amount is already populated in DB",
+    )
+    parser.add_argument(
+        "--offset", type=int, default=0,
+        help="skip first N targets (used to resume after partial runs)",
+    )
     args = parser.parse_args()
 
     targets = TARGETS
     if args.target:
         needle = args.target
         targets = [t for t in TARGETS if needle in t["db_name"]]
+
+    if args.skip_extracted:
+        # Filter out targets whose DB row already has annual_grant_amount.
+        conn = sqlite3.connect(DB_PATH, timeout=30.0)
+        keep: list[dict] = []
+        for t in targets:
+            org_id = find_org_id(conn, t["db_name"])
+            if not org_id:
+                keep.append(t)
+                continue
+            cur = conn.execute(
+                "SELECT annual_grant_amount, annual_grant_amount_history FROM organizations WHERE id = ?",
+                (org_id,),
+            )
+            row = cur.fetchone()
+            # Skip if both annual_grant_amount and history are already set.
+            if row and row[0] and row[1]:
+                continue
+            keep.append(t)
+        conn.close()
+        targets = keep
+
+    if args.offset:
+        targets = targets[args.offset:]
     if args.limit:
         targets = targets[: args.limit]
 
