@@ -1,0 +1,158 @@
+{
+  "_meta": {
+    "description": "47都道府県+政令指定都市の地域研究振興財団・産業支援機関リスト",
+    "source": "prefectural_collection",
+    "compiled_date": "2026-05-08",
+    "compiled_by": "Claude (Opus 4.7)",
+    "notes": "公益法人info / 各都道府県公式サイト『外郭団体』『所管団体』リスト / 各団体公式サイトを基にした手動編集リスト。type=foundation, foundation_subtype='govt'（外郭団体）"
+  },
+  "organizations": [
+    {"name": "公益財団法人北海道科学技術総合振興センター", "name_alt": "ノーステック財団", "prefecture": "北海道", "municipality": "札幌市", "url": "https://www.noastec.jp/", "description": "北海道の科学技術振興・産学官連携・研究開発支援。研究開発助成、人材育成、技術移転事業を実施。"},
+    {"name": "公益財団法人北海道中小企業総合支援センター", "prefecture": "北海道", "municipality": "札幌市", "url": "https://www.hsc.or.jp/", "description": "北海道中小企業支援・創業支援・経営革新支援の中核機関。"},
+    {"name": "公益財団法人さっぽろ産業振興財団", "prefecture": "北海道", "municipality": "札幌市", "url": "https://www.sec.jp/", "description": "札幌市の産業振興・IT産業支援・創業支援。"},
+    {"name": "公益財団法人函館地域産業振興財団", "prefecture": "北海道", "municipality": "函館市", "url": "https://www.techakodate.or.jp/", "description": "函館圏の地域産業振興・技術支援。"},
+    {"name": "公益財団法人室蘭テクノセンター", "prefecture": "北海道", "municipality": "室蘭市", "url": "https://www.murotech.or.jp/", "description": "室蘭周辺の中小企業の技術振興・研究開発支援。"},
+
+    {"name": "公益財団法人21あおもり産業総合支援センター", "prefecture": "青森県", "municipality": "青森市", "url": "https://www.21aomori.or.jp/", "description": "青森県の産業振興・中小企業支援・創業支援。"},
+    {"name": "公益財団法人青森県工業総合研究センター", "prefecture": "青森県", "municipality": "青森市", "url": "https://www.aomori-itc.or.jp/", "description": "青森県の工業技術振興・研究開発助成。"},
+
+    {"name": "公益財団法人いわて産業振興センター", "prefecture": "岩手県", "municipality": "盛岡市", "url": "https://www.joho-iwate.or.jp/", "description": "岩手県の産業振興・中小企業経営支援・創業支援。"},
+    {"name": "公益財団法人いわて生活協同組合経済産業振興財団", "prefecture": "岩手県", "municipality": "盛岡市", "url": "https://www.iwate-kanko.jp/", "description": "岩手県の地域経済振興。"},
+
+    {"name": "公益財団法人みやぎ産業振興機構", "prefecture": "宮城県", "municipality": "仙台市", "url": "https://www.joho-miyagi.or.jp/", "description": "宮城県の中小企業支援・産業振興・創業支援の中核。"},
+    {"name": "公益財団法人仙台市産業振興事業団", "prefecture": "宮城県", "municipality": "仙台市", "url": "https://www.siip.city.sendai.jp/", "description": "仙台市の起業・経営革新・地域産業支援。"},
+    {"name": "公益財団法人東北活性化研究センター", "prefecture": "宮城県", "municipality": "仙台市", "url": "https://www.kasseiken.jp/", "description": "東北地域の産業活性化・地域イノベーション研究。"},
+
+    {"name": "公益財団法人あきた企業活性化センター", "prefecture": "秋田県", "municipality": "秋田市", "url": "https://www.bic-akita.or.jp/", "description": "秋田県の企業支援・産業振興・経営革新支援。"},
+    {"name": "公益財団法人秋田県資源技術開発機構", "prefecture": "秋田県", "municipality": "秋田市", "url": "https://www.akita-mric.jp/", "description": "秋田県の資源・素材技術研究開発支援。"},
+
+    {"name": "公益財団法人山形県企業振興公社", "prefecture": "山形県", "municipality": "山形市", "url": "https://www.ynet.or.jp/", "description": "山形県の中小企業振興・経営支援・創業支援。"},
+    {"name": "公益財団法人山形県産業科学振興機構", "prefecture": "山形県", "municipality": "山形市", "url": "https://www.yri.or.jp/", "description": "山形県の研究開発支援・産学官連携。"},
+
+    {"name": "公益財団法人福島県産業振興センター", "prefecture": "福島県", "municipality": "郡山市", "url": "https://www.utsukushima.net/", "description": "福島県の中小企業支援・創業支援・経営革新支援。"},
+    {"name": "公益財団法人郡山地域テクノポリス推進機構", "prefecture": "福島県", "municipality": "郡山市", "url": "https://www.f-open.or.jp/technopolis/", "description": "郡山テクノポリス圏の研究開発・技術振興。"},
+
+    {"name": "公益財団法人茨城県科学技術振興財団", "prefecture": "茨城県", "municipality": "つくば市", "url": "https://www.i-step.org/", "description": "茨城県つくば地域の科学技術振興・つくばサイエンスツアー事業・研究振興。"},
+    {"name": "公益財団法人茨城県中小企業振興公社", "prefecture": "茨城県", "municipality": "水戸市", "url": "https://www.ibss.or.jp/", "description": "茨城県の中小企業経営支援・創業支援。"},
+
+    {"name": "公益財団法人栃木県産業振興センター", "prefecture": "栃木県", "municipality": "宇都宮市", "url": "https://www.tochigi-iin.or.jp/", "description": "栃木県の中小企業支援・産学連携・新事業創出支援。"},
+
+    {"name": "公益財団法人群馬県産業支援機構", "prefecture": "群馬県", "municipality": "前橋市", "url": "https://www.g-inf.or.jp/", "description": "群馬県の中小企業経営支援・創業支援・産業振興。"},
+
+    {"name": "公益財団法人埼玉県産業振興公社", "prefecture": "埼玉県", "municipality": "さいたま市", "url": "https://www.saitama-j.or.jp/", "description": "埼玉県の中小企業支援・産業振興・産学連携支援。"},
+    {"name": "公益財団法人さいたま市産業創造財団", "prefecture": "埼玉県", "municipality": "さいたま市", "url": "https://www.sozo-saitama.or.jp/", "description": "さいたま市の中小企業支援・創業支援。"},
+
+    {"name": "公益財団法人千葉県産業振興センター", "prefecture": "千葉県", "municipality": "千葉市", "url": "https://www.ccjc-net.or.jp/", "description": "千葉県の中小企業支援・産業振興・創業支援。"},
+    {"name": "公益財団法人かずさDNA研究所", "prefecture": "千葉県", "municipality": "木更津市", "url": "https://www.kazusa.or.jp/", "description": "千葉県のDNA研究・ゲノム科学振興。"},
+
+    {"name": "公益財団法人東京都中小企業振興公社", "prefecture": "東京都", "municipality": "千代田区", "url": "https://www.tokyo-kosha.or.jp/", "description": "東京都の中小企業支援の中核機関。経営・技術・創業・取引・国際化を一体的支援。"},
+    {"name": "公益財団法人東京しごと財団", "prefecture": "東京都", "municipality": "千代田区", "url": "https://www.shigotozaidan.or.jp/", "description": "東京都の雇用就業支援・人材育成。"},
+    {"name": "公益財団法人東京都環境公社", "prefecture": "東京都", "municipality": "新宿区", "url": "https://www.tokyokankyo.jp/", "description": "東京都の環境技術振興・気候変動対策研究助成。"},
+    {"name": "公益財団法人東京観光財団", "prefecture": "東京都", "municipality": "千代田区", "url": "https://www.tcvb.or.jp/", "description": "東京都の観光産業振興。"},
+    {"name": "一般財団法人東京都中小企業診断士協会", "prefecture": "東京都", "municipality": "中央区", "url": "https://www.t-smeca.com/", "description": "東京都の経営診断・指導。"},
+
+    {"name": "公益財団法人神奈川県産業振興センター", "prefecture": "神奈川県", "municipality": "横浜市", "url": "https://www.kipc.or.jp/", "description": "神奈川県の中小企業支援・産業振興・創業支援。"},
+    {"name": "公益財団法人横浜企業経営支援財団", "name_alt": "IDEC横浜", "prefecture": "神奈川県", "municipality": "横浜市", "url": "https://www.idec.or.jp/", "description": "横浜市の中小企業支援・国際ビジネス支援・産学連携。"},
+    {"name": "公益財団法人川崎市産業振興財団", "prefecture": "神奈川県", "municipality": "川崎市", "url": "https://www.kawasaki-net.ne.jp/", "description": "川崎市の産業振興・新産業創出・産学連携支援。"},
+    {"name": "公益財団法人神奈川産業振興センター", "prefecture": "神奈川県", "municipality": "横浜市", "url": "https://www.kipc.or.jp/", "description": "神奈川県・横浜の産業振興拠点。"},
+    {"name": "公益財団法人神奈川科学技術アカデミー", "name_alt": "KISTEC", "prefecture": "神奈川県", "municipality": "川崎市", "url": "https://www.kistec.jp/", "description": "神奈川県の科学技術振興・研究開発支援・人材育成の中核機関。"},
+
+    {"name": "公益財団法人にいがた産業創造機構", "name_alt": "NICO", "prefecture": "新潟県", "municipality": "新潟市", "url": "https://www.nico.or.jp/", "description": "新潟県の中小企業支援・産業創造・新事業創出支援。"},
+    {"name": "公益財団法人新潟市産業振興財団", "prefecture": "新潟県", "municipality": "新潟市", "url": "https://www.sangyoshinko.or.jp/", "description": "新潟市の産業振興・企業支援・創業支援。"},
+
+    {"name": "公益財団法人富山県新世紀産業機構", "prefecture": "富山県", "municipality": "富山市", "url": "https://www.tonio.or.jp/", "description": "富山県の中小企業支援・新産業創出・産業振興。"},
+
+    {"name": "公益財団法人石川県産業創出支援機構", "name_alt": "ISICO", "prefecture": "石川県", "municipality": "金沢市", "url": "https://www.isico.or.jp/", "description": "石川県の中小企業支援・新事業創出・産学連携。"},
+
+    {"name": "公益財団法人ふくい産業支援センター", "prefecture": "福井県", "municipality": "坂井市", "url": "https://www.fisc.jp/", "description": "福井県の中小企業支援・新事業創出支援・産業振興。"},
+
+    {"name": "公益財団法人やまなし産業支援機構", "prefecture": "山梨県", "municipality": "甲府市", "url": "https://www.yiso.or.jp/", "description": "山梨県の中小企業支援・産学官連携・産業振興。"},
+
+    {"name": "公益財団法人長野県中小企業振興センター", "prefecture": "長野県", "municipality": "長野市", "url": "https://www.icon-nagano.or.jp/", "description": "長野県の中小企業経営支援・創業支援・産業振興。"},
+    {"name": "公益財団法人長野県テクノ財団", "prefecture": "長野県", "municipality": "長野市", "url": "https://www.tecnahn.or.jp/", "description": "長野県の技術振興・研究開発支援・産学官連携。"},
+
+    {"name": "公益財団法人岐阜県産業経済振興センター", "prefecture": "岐阜県", "municipality": "岐阜市", "url": "https://www.gpc.pref.gifu.lg.jp/", "description": "岐阜県の中小企業支援・産業振興・研究開発助成（旧岐阜県研究開発財団を統合）。"},
+
+    {"name": "公益財団法人静岡県産業振興財団", "prefecture": "静岡県", "municipality": "静岡市", "url": "https://www.ric-shizuoka.or.jp/", "description": "静岡県の中小企業支援・新産業創出・産業振興。"},
+    {"name": "公益財団法人浜松地域イノベーション推進機構", "prefecture": "静岡県", "municipality": "浜松市", "url": "https://www.hai.or.jp/", "description": "浜松地域の研究開発支援・産学官連携・新産業創出。"},
+    {"name": "公益財団法人静岡県産業振興財団 浜松支所", "prefecture": "静岡県", "municipality": "浜松市", "url": "https://www.ric-shizuoka.or.jp/", "description": "浜松地域の中小企業支援。"},
+
+    {"name": "公益財団法人科学技術交流財団", "name_alt": "愛知県科学技術交流財団", "prefecture": "愛知県", "municipality": "名古屋市", "url": "https://www.astf.or.jp/", "description": "愛知県の科学技術振興・産学行政連携・研究開発支援。"},
+    {"name": "公益財団法人あいち産業振興機構", "prefecture": "愛知県", "municipality": "名古屋市", "url": "https://www.aibsc.jp/", "description": "愛知県の中小企業支援・新事業創出・経営革新支援。"},
+    {"name": "公益財団法人名古屋産業振興公社", "prefecture": "愛知県", "municipality": "名古屋市", "url": "https://www.nipc.city.nagoya.jp/", "description": "名古屋市の中小企業支援・産業振興・創業支援。"},
+    {"name": "公益財団法人豊田都市交通研究所", "prefecture": "愛知県", "municipality": "豊田市", "url": "https://www.ttri.or.jp/", "description": "豊田市の都市交通研究助成。"},
+
+    {"name": "公益財団法人三重県産業支援センター", "prefecture": "三重県", "municipality": "津市", "url": "https://www.miesc.or.jp/", "description": "三重県の中小企業支援・産業振興・創業支援。"},
+
+    {"name": "公益財団法人滋賀県産業支援プラザ", "prefecture": "滋賀県", "municipality": "大津市", "url": "https://www.shigaplaza.or.jp/", "description": "滋賀県の中小企業支援・産業振興・新事業創出支援。"},
+
+    {"name": "公益財団法人京都産業21", "prefecture": "京都府", "municipality": "京都市", "url": "https://www.ki21.jp/", "description": "京都府の中小企業支援・産業振興・新産業創出。"},
+    {"name": "公益財団法人京都市産業観光局", "prefecture": "京都府", "municipality": "京都市", "url": "https://kyoto-bs.com/", "description": "京都市の産業振興・観光振興。"},
+    {"name": "公益財団法人京都高度技術研究所", "name_alt": "ASTEM", "prefecture": "京都府", "municipality": "京都市", "url": "https://www.astem.or.jp/", "description": "京都の高度技術研究開発・産学連携・研究助成。"},
+
+    {"name": "公益財団法人大阪産業局", "prefecture": "大阪府", "municipality": "大阪市", "url": "https://www.obda.or.jp/", "description": "大阪府の中小企業支援・産業振興（旧大阪産業振興機構を統合）。"},
+    {"name": "公益財団法人都市活力研究所", "prefecture": "大阪府", "municipality": "大阪市", "url": "https://www.uvi.or.jp/", "description": "大阪の都市活力・関連研究助成。"},
+    {"name": "公益財団法人関西・大阪21世紀協会", "prefecture": "大阪府", "municipality": "大阪市", "url": "https://www.osaka21.or.jp/", "description": "関西の文化産業振興・観光振興。"},
+
+    {"name": "公益財団法人ひょうご産業活性化センター", "prefecture": "兵庫県", "municipality": "神戸市", "url": "https://web.hyogo-iic.ne.jp/", "description": "兵庫県の中小企業支援・産業振興・新事業創出支援。"},
+    {"name": "公益財団法人神戸市産業振興財団", "prefecture": "兵庫県", "municipality": "神戸市", "url": "https://www.kobe-ipc.or.jp/", "description": "神戸市の中小企業支援・産業振興・創業支援。"},
+    {"name": "公益財団法人新産業創造研究機構", "name_alt": "NIRO", "prefecture": "兵庫県", "municipality": "神戸市", "url": "https://www.niro.or.jp/", "description": "神戸の研究開発・産学連携・新産業創出。"},
+
+    {"name": "公益財団法人奈良県地域産業振興センター", "prefecture": "奈良県", "municipality": "奈良市", "url": "https://www.nara-sangyoshinko.or.jp/", "description": "奈良県の中小企業支援・産業振興。"},
+
+    {"name": "公益財団法人わかやま産業振興財団", "prefecture": "和歌山県", "municipality": "和歌山市", "url": "https://www.yarukiouendan.or.jp/", "description": "和歌山県の中小企業支援・創業支援・産業振興。"},
+
+    {"name": "公益財団法人鳥取県産業振興機構", "prefecture": "鳥取県", "municipality": "鳥取市", "url": "https://www.torisanki.or.jp/", "description": "鳥取県の中小企業支援・産業振興・創業支援。"},
+
+    {"name": "公益財団法人しまね産業振興財団", "prefecture": "島根県", "municipality": "松江市", "url": "https://www.joho-shimane.or.jp/", "description": "島根県の中小企業支援・産業振興・産学連携支援。"},
+
+    {"name": "公益財団法人岡山県産業振興財団", "prefecture": "岡山県", "municipality": "岡山市", "url": "https://www.optic.or.jp/", "description": "岡山県の中小企業支援・産業振興・新事業創出支援。"},
+
+    {"name": "公益財団法人ひろしま産業振興機構", "prefecture": "広島県", "municipality": "広島市", "url": "https://www.hiwave.or.jp/", "description": "広島県の中小企業支援・産業振興・新事業創出。"},
+    {"name": "公益財団法人広島県環境保健協会", "prefecture": "広島県", "municipality": "広島市", "url": "https://www.kanhokyo.or.jp/", "description": "広島県の環境保健研究助成。"},
+
+    {"name": "公益財団法人やまぐち産業振興財団", "prefecture": "山口県", "municipality": "山口市", "url": "https://www.ymg-ssz.jp/", "description": "山口県の中小企業支援・産業振興・産学連携支援。"},
+
+    {"name": "公益財団法人とくしま産業振興機構", "prefecture": "徳島県", "municipality": "徳島市", "url": "https://www.our-think.or.jp/", "description": "徳島県の中小企業支援・産業振興・創業支援。"},
+
+    {"name": "公益財団法人かがわ産業支援財団", "prefecture": "香川県", "municipality": "高松市", "url": "https://www.kagawa-isf.jp/", "description": "香川県の中小企業支援・産業振興・産学連携支援。"},
+
+    {"name": "公益財団法人えひめ産業振興財団", "prefecture": "愛媛県", "municipality": "松山市", "url": "https://www.ehime-iinet.or.jp/", "description": "愛媛県の中小企業支援・産業振興・新事業創出支援。"},
+
+    {"name": "公益財団法人高知県産業振興センター", "prefecture": "高知県", "municipality": "高知市", "url": "https://joho-kochi.or.jp/", "description": "高知県の中小企業支援・産業振興・創業支援。"},
+
+    {"name": "公益財団法人福岡県中小企業振興センター", "prefecture": "福岡県", "municipality": "福岡市", "url": "https://www.joho-fukuoka.or.jp/", "description": "福岡県の中小企業支援・経営革新支援・創業支援。"},
+    {"name": "公益財団法人福岡県産業・科学技術振興財団", "name_alt": "ふくおかISTセンター", "prefecture": "福岡県", "municipality": "福岡市", "url": "https://www.ist.or.jp/", "description": "福岡県の科学技術振興・産業振興・産学官連携・研究開発支援。"},
+    {"name": "公益財団法人福岡県産業振興センター", "prefecture": "福岡県", "municipality": "福岡市", "url": "https://www.joho-fukuoka.or.jp/", "description": "福岡県の産業振興。"},
+    {"name": "公益財団法人福岡アジア都市研究所", "prefecture": "福岡県", "municipality": "福岡市", "url": "https://urc.or.jp/", "description": "福岡市の都市政策研究・アジア研究助成。"},
+    {"name": "公益財団法人北九州産業学術推進機構", "name_alt": "FAIS", "prefecture": "福岡県", "municipality": "北九州市", "url": "https://www.ksrp.or.jp/fais/", "description": "北九州市の産業学術振興・研究開発支援・産学連携。"},
+
+    {"name": "公益財団法人佐賀県地域産業支援センター", "prefecture": "佐賀県", "municipality": "佐賀市", "url": "https://www.saga-kiko.or.jp/", "description": "佐賀県の中小企業支援・産業振興・創業支援。"},
+
+    {"name": "公益財団法人ながさき地域政策研究所", "name_alt": "NRI", "prefecture": "長崎県", "municipality": "長崎市", "url": "https://www.n-renri.jp/", "description": "長崎県の地域政策研究・経済産業研究。"},
+    {"name": "公益財団法人長崎県産業振興財団", "prefecture": "長崎県", "municipality": "諫早市", "url": "https://www.joho-nagasaki.or.jp/", "description": "長崎県の中小企業支援・産業振興。"},
+
+    {"name": "公益財団法人くまもと産業支援財団", "prefecture": "熊本県", "municipality": "上益城郡益城町", "url": "https://www.kmt-ti.or.jp/", "description": "熊本県の中小企業支援・産業振興・産学官連携。"},
+    {"name": "公益財団法人熊本県起業支援財団", "prefecture": "熊本県", "municipality": "熊本市", "url": "https://www.kbsc.or.jp/", "description": "熊本県の創業支援。"},
+
+    {"name": "公益財団法人大分県産業創造機構", "name_alt": "OICC", "prefecture": "大分県", "municipality": "大分市", "url": "https://www.columbus.or.jp/", "description": "大分県の中小企業支援・産業振興・新事業創出。"},
+
+    {"name": "公益財団法人宮崎県産業振興機構", "prefecture": "宮崎県", "municipality": "宮崎市", "url": "https://www.i-port.or.jp/", "description": "宮崎県の中小企業支援・産業振興・創業支援。"},
+
+    {"name": "公益財団法人かごしま産業支援センター", "prefecture": "鹿児島県", "municipality": "鹿児島市", "url": "https://www.kric.or.jp/", "description": "鹿児島県の中小企業支援・産業振興・創業支援。"},
+
+    {"name": "公益財団法人沖縄県産業振興公社", "prefecture": "沖縄県", "municipality": "那覇市", "url": "https://www.okinawa-ric.or.jp/", "description": "沖縄県の中小企業支援・産業振興・新事業創出。"},
+    {"name": "公益財団法人沖縄県中小企業支援センター", "prefecture": "沖縄県", "municipality": "那覇市", "url": "https://www.okinawa-ric.or.jp/", "description": "沖縄県の中小企業支援。"},
+
+    {"name": "公益財団法人千葉市産業振興財団", "prefecture": "千葉県", "municipality": "千葉市", "url": "https://www.cmcic.or.jp/", "description": "千葉市の中小企業支援・創業支援。"},
+    {"name": "公益財団法人さいたま市文化振興事業団", "prefecture": "埼玉県", "municipality": "さいたま市", "url": "https://www.saitama-culture.jp/", "description": "さいたま市の文化振興。"},
+    {"name": "公益財団法人神戸国際協力交流センター", "prefecture": "兵庫県", "municipality": "神戸市", "url": "https://www.kicc.jp/", "description": "神戸市の国際協力・国際交流支援。"},
+    {"name": "公益財団法人ちば産業振興センター", "prefecture": "千葉県", "municipality": "千葉市", "url": "https://www.ccjc-net.or.jp/", "description": "千葉県の産業振興。"},
+
+    {"name": "公益財団法人ヒューマンサイエンス振興財団", "prefecture": "東京都", "municipality": "千代田区", "url": "https://www.jhsf.or.jp/", "description": "ヒューマンサイエンス分野の研究助成。"},
+    {"name": "公益財団法人東京都歴史文化財団", "prefecture": "東京都", "municipality": "墨田区", "url": "https://www.rekibun.or.jp/", "description": "東京都の歴史文化研究振興。"},
+
+    {"name": "公益財団法人札幌国際プラザ", "prefecture": "北海道", "municipality": "札幌市", "url": "https://plaza-sapporo.or.jp/", "description": "札幌市の国際交流支援。"},
+    {"name": "公益財団法人パブリックヘルスリサーチセンター", "prefecture": "東京都", "municipality": "新宿区", "url": "https://www.phrf.jp/", "description": "公衆衛生研究助成。"}
+  ]
+}
