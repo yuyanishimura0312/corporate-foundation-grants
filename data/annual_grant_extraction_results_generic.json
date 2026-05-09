@@ -1,0 +1,31 @@
+[
+  {
+    "id": "koeki_5ceaaf8160fb",
+    "name": "公益財団法人コニカミノルタ科学技術振興財団",
+    "skipped": "homepage-name-mismatch"
+  },
+  {
+    "id": "koeki_80141c633c0b",
+    "name": "公益財団法人カシオ科学振興財団",
+    "skipped": "homepage-name-mismatch"
+  },
+  {
+    "id": "koeki_9bc477317b81",
+    "name": "公益財団法人アサヒグループ財団",
+    "pdfs": 0,
+    "extracted": false,
+    "delta": {}
+  },
+  {
+    "id": "koeki_de14401dc624",
+    "name": "公益財団法人日立財団",
+    "skipped": "homepage-name-mismatch"
+  },
+  {
+    "id": "koeki_df3c2f2c93b3",
+    "name": "公益財団法人東レ科学振興会",
+    "pdfs": 0,
+    "extracted": false,
+    "delta": {}
+  }
+]

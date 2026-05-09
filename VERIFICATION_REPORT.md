@@ -1,6 +1,6 @@
 # CFG-DB 品質検証レポート
 
-- 生成日時: 2026-05-09 07:20:38
+- 生成日時: 2026-05-09 09:31:07
 - DB: `/Users/nishimura+/projects/apps/corporate-foundation-grants/corporate_research_grants.sqlite`
 - 総合判定: **WARN**
 - 内訳: PASS=29 / WARN=3 / FAIL=0 / INFO=2
@@ -22,15 +22,15 @@
 |---|---|---|
 | **PASS** | PRAGMA integrity_check | ok |
 | **PASS** | PRAGMA foreign_key_check | 違反なし |
-| **PASS** | row_count organizations | 2098件 (期待 ≥1900) |
+| **PASS** | row_count organizations | 2140件 (期待 ≥1900) |
 | **PASS** | row_count grant_programs | 540件 (期待 ≥250) |
 | **PASS** | row_count grant_calls | 295件 (期待 ≥280) |
 | **PASS** | row_count grant_results | 2122件 (期待 ≥2000) |
-| **PASS** | NULL率 organizations.name | 0/2098 = 0.0% (許容 ≤0%) |
-| **PASS** | NULL率 organizations.type | 0/2098 = 0.0% (許容 ≤0%) |
-| **PASS** | NULL率 organizations.foundation_subtype | 0/2098 = 0.0% (許容 ≤5%) |
-| **PASS** | NULL率 organizations.url | 937/2098 = 44.7% (許容 ≤50%) |
-| **PASS** | NULL率 organizations.prefecture | 266/2098 = 12.7% (許容 ≤40%) |
+| **PASS** | NULL率 organizations.name | 0/2140 = 0.0% (許容 ≤0%) |
+| **PASS** | NULL率 organizations.type | 0/2140 = 0.0% (許容 ≤0%) |
+| **PASS** | NULL率 organizations.foundation_subtype | 0/2140 = 0.0% (許容 ≤5%) |
+| **PASS** | NULL率 organizations.url | 957/2140 = 44.7% (許容 ≤50%) |
+| **PASS** | NULL率 organizations.prefecture | 167/2140 = 7.8% (許容 ≤40%) |
 | **PASS** | NULL率 grant_results.awardee_name | 0/2122 = 0.0% (許容 ≤1%) |
 | **PASS** | NULL率 grant_results.project_title | 0/2122 = 0.0% (許容 ≤5%) |
 | **PASS** | NULL率 grant_results.fiscal_year | 0/2122 = 0.0% (許容 ≤0%) |
@@ -51,7 +51,7 @@
 | **PASS** | メール形式 | 15/655 不正形式 |
 | **PASS** | annual_grant_amount 異常値 | 負値=0, 100億円超=0 |
 | **PASS** | award_amount 異常値 | 負値=0, 10億円超=0 |
-| **PASS** | 都道府県名有効性 | 0/1832 不正値 |
+| **PASS** | 都道府県名有効性 | 0/1973 不正値 |
 | **PASS** | foundation_subtype 整合性 | 値=['academic', 'corporate', 'govt', 'group', 'individual', 'intl', 'ngo', 'other'] |
 
 ## 4. 採択者データ品質
@@ -68,15 +68,15 @@
 | 判定 | 検査項目 | 詳細 |
 |---|---|---|
 | **PASS** | JFC top100 マッチ率 | 81/100 = 81% (基準 ≥65%) |
-| **INFO** | 法人形態別構成 | 公益財団法人=1292, その他=516, 一般社団法人=134, 一般財団法人=65, 公益社団法人=62, 株式会社=16, 特定非営利活動法人=13 |
+| **INFO** | 法人形態別構成 | 公益財団法人=1327, その他=519, 一般社団法人=136, 一般財団法人=65, 公益社団法人=64, 株式会社=16, 特定非営利活動法人=13 |
 | **PASS** | 47都道府県カバレッジ | 47/47都道府県 |
-| **PASS** | 設立者形態別分布 | corporate=840(40%), academic=510(24%), individual=262(12%), ngo=194(9%), intl=153(7%), govt=72(3%), other=58(3%), group=9(0%) |
+| **PASS** | 設立者形態別分布 | corporate=846(40%), academic=512(24%), individual=285(13%), ngo=198(9%), intl=158(7%), govt=72(3%), other=60(3%), group=9(0%) |
 
 ## 6. クロスチェック
 
 | 判定 | 検査項目 | 詳細 |
 |---|---|---|
-| **INFO** | Grant DB 重複検出 | CFG=2093, Grant=1126, 重複=562件 (26.9%) |
+| **INFO** | Grant DB 重複検出 | CFG=2135, Grant=1126, 重複=562件 (26.3%) |
 | **PASS** | 親-子プロジェクト整合性 | 親company未参照=0件, parent_company_id付与=104件 |
 | **PASS** | 親子テーブル孤立行 | orphan programs=0, orphan calls=0, orphan results=0 |
 
