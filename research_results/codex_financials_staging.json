@@ -1240,5 +1240,131 @@
    "notes": "公式概要で設立年月日を昭和43年12月12日（1968年）と確認。公式『先進医薬年報 No.26』の2025年3月31日現在の貸借対照表で資産合計1,048,660,744円、2024年度の正味財産増減計算書で支払助成金135,000,000円を確認した。"
   },
   "elapsed_s": 55
+ },
+ "ae49e3a7-e399-4d4b-9d20-32590b39a7c9": {
+  "name": "東洋アルミ軽金属みらい財団",
+  "url": "https://www.lm-foundation.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "東洋アルミ軽金属みらい財団",
+   "established_year": 1955,
+   "established_source_url": "https://www.lm-foundation.or.jp/overview/history.html",
+   "total_assets_jpy": 3616260602,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 85015359,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.lm-foundation.or.jp/images/2025/06/syushi2024.pdf",
+   "confidence": "high",
+   "notes": "公式沿革に「1955年1月 財団法人軽金属奨学会を設立」と記載。2024年度決算報告書（2024年4月1日～2025年3月31日）の貸借対照表で資産合計3,616,260,602円、正味財産増減計算書で支払助成金85,015,359円を確認した。同財団は2026年4月に現在の名称へ改称したため、決算書には旧称「公益財団法人軽金属奨学会」と記載されている。"
+  },
+  "elapsed_s": 56
+ },
+ "d36437c1-d1bd-4112-b97a-d35bba28125d": {
+  "name": "三井住友海上福祉財団",
+  "url": "https://www.ms-ins.com/welfare",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人三井住友海上福祉財団",
+   "established_year": 1975,
+   "established_source_url": "https://www.ms-ins.com/welfare/introduction.htm",
+   "total_assets_jpy": 2396429814,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 61150000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.ms-ins.com/welfare/pdf/shushi.pdf",
+   "confidence": "high",
+   "notes": "公式財団紹介に設立年月日を昭和50年（1975年）9月1日と記載。令和7年度決算報告書の財産目録（2026年3月31日現在）で資産合計2,396,429,814円を確認。令和7年度事業報告書で助成金総額を6,115万円（交通事故・各種災害の防止等2,260万円、高齢者福祉3,855万円）と確認した。年度は期間開始年に合わせて2025年度とした。"
+  },
+  "elapsed_s": 32
+ },
+ "cfa3a71e-8bfe-4941-99a3-015aa9a8a6e4": {
+  "name": "りそなアジア・オセアニア財団",
+  "url": "https://www.resona-ao.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人りそなアジア・オセアニア財団",
+   "established_year": 1989,
+   "established_source_url": "https://www.resona-ao.or.jp/foundation.html",
+   "total_assets_jpy": 871824333,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 38413070,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.resona-ao.or.jp/pdf/kessanhokoku_2024.pdf",
+   "confidence": "high",
+   "notes": "公式の財団概要で設立日を1989年10月27日と確認。第15回財務諸表（2024年4月1日～2025年3月31日）の貸借対照表で2025年3月31日現在の資産合計871,824,333円、正味財産増減計算書で2024年度の支払助成金38,413,070円を確認した。公式サイトには第16回（2025年度）資料も掲載されているが、調査時にPDF本文を取得できなかったため、数値を確認できた直近の2024年度決算を採用した。"
+  },
+  "elapsed_s": 55
+ },
+ "d9758143-4e9d-4617-ae9f-0071a9893a85": {
+  "name": "金原一郎記念医学医療振興財団",
+  "url": "http://www.kanehara-zaidan.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人金原一郎記念医学医療振興財団",
+   "established_year": 1986,
+   "established_source_url": "https://www.kanehara-zaidan.or.jp/gaiyou",
+   "total_assets_jpy": 615406479,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 35350000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.kanehara-zaidan.or.jp/wp-content/uploads/data/2024_shuushikessannsho_zaimushohyou.pdf",
+   "confidence": "high",
+   "notes": "公式概要で設立日を昭和61年（1986年）12月2日と確認。2024年度財務諸表（2025年3月31日現在）の資産合計は615,406,479円。年間助成金支出総額は、研究助成金21,300,000円、生体の科学賞5,000,000円、交流助成金2,950,000円、留学生助成金6,000,000円、基礎医学論文賞100,000円の合計35,350,000円。会報費・選考委員費用は助成金そのものではないため除外した。"
+  },
+  "elapsed_s": 48
+ },
+ "org_0ee85f078144": {
+  "name": "日本フィランソロピック財団",
+  "url": "https://np-foundation.or.jp/information/000369.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人日本フィランソロピック財団",
+   "established_year": 2020,
+   "established_source_url": "https://np-foundation.or.jp/about/org.html",
+   "total_assets_jpy": 7283526179,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 163457280,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://np-foundation.or.jp/media/dantai-houkoku06.pdf",
+   "confidence": "high",
+   "notes": "公式団体概要に設立「2020年（令和2年）4月」と記載。公式の第6期事業報告書・会計報告（対象期間：2024年7月1日～2025年6月30日）で、2025年6月30日現在の資産合計7,283,526,179円、および同期間の支払助成金163,457,280円を確認した。年度は期末年の2025年として記録。奨学金6,159,988円と顕彰金6,200,000円は「助成金支出総額」には含めていない。"
+  },
+  "elapsed_s": 32
+ },
+ "be08bcd7-11ac-4a4c-a5ae-468746fb6ce5": {
+  "name": "公益財団法人サントリー文化財団",
+  "url": "https://www.suntory.co.jp/sfnd",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人サントリー文化財団",
+   "established_year": 1979,
+   "established_source_url": "https://www.suntory.co.jp/sfnd/zaidan/",
+   "total_assets_jpy": 2215800000,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.suntory.co.jp/sfnd/zaidan/pdf/taishaku_2024.pdf",
+   "confidence": "high",
+   "notes": "公式概要に設立年月日「1979年2月1日」と記載。2024年度貸借対照表（2025年3月31日現在、単位：千円）の資産合計2,215,800千円を円換算した。公式情報公開ページには2025年度資料も掲載されているが、調査時点でPDF本文を取得・検証できなかったため、本文を確認できた最新年度を採用。年間助成金支出総額はnull。2024年度事業報告書には研究助成等の決定額が個別に記載されるが、一部は翌年度交付予定であり、当年度の実支出総額として確認できないため合算していない。事業報告書：https://www.suntory.co.jp/sfnd/zaidan/pdf/houkoku_2024.pdf"
+  },
+  "elapsed_s": 84
+ },
+ "db6820a7-0a22-4a1b-9fe5-03ae1f71db7a": {
+  "name": "小野薬品がん・免疫・神経研究財団",
+  "url": "https://ono-pharma.fdn.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人小野薬品がん・免疫・神経研究財団",
+   "established_year": 2023,
+   "established_source_url": "https://ono-pharma.fdn.or.jp/about",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://ono-pharma.fdn.or.jp/information",
+   "confidence": "medium",
+   "notes": "公式の財団概要に設立日「2023年1月26日」と明記されている。公式情報公開ページには最新資料として2025年度（2025年4月1日～2026年3月31日）の事業報告書および決算・財務諸表等が掲載されているが、調査時にPDF本文を取得できず、総資産（または正味財産）と年間助成金支出総額を確認できなかったためnullとした。2025年度事業計画の予定額や、助成単価・採択人数からの計算は実績値ではないため採用していない。"
+  },
+  "elapsed_s": 54
  }
 }
