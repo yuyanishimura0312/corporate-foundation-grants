@@ -60,13 +60,24 @@ for oid, rec in staging.items():
             prov["total_assets_fy"] = cx.get("total_assets_fiscal_year"); plan["total_assets"] += 1
     ga = cx.get("annual_grant_amount_jpy")
     if ga is not None and row["annual_grant_amount"] is None:
-        if sane_money(ga) and fsrc:
+        # apply exclusion gates on grant path too (fable: source-unverified/guarantee foundations)
+        if (not fsrc) or (not sane_money(ga)) or guarantee_skip(notes) \
+           or any(x in name for x in EXCLUDE_ASSET_NAME) or cx.get("confidence") == "low":
+            plan.setdefault("grant_flagged_review", 0)
+            if ga is not None and (guarantee_skip(notes) or any(x in name for x in EXCLUDE_ASSET_NAME) or cx.get("confidence") == "low"):
+                plan["grant_flagged_review"] += 1
+                review.append({"name": name, "field": "annual_grant", "value": ga, "reason": "source_unverified/guarantee/low_conf"})
+            elif not fsrc:
+                plan["skipped_no_source"] += 1
+            else:
+                plan["skipped_sanity"] += 1
+            ga = None  # skip ingest
+        if ga is not None:
             sets["annual_grant_amount"] = ga
             sets["annual_grant_year"] = str(cx.get("annual_grant_fiscal_year") or "") + "codex"
             prov["annual_grant_source_url"] = fsrc; prov["annual_grant_fy"] = cx.get("annual_grant_fiscal_year")
             plan["annual_grant"] += 1
-        else:
-            plan["skipped_no_source" if not fsrc else "skipped_sanity"] += 1
+        # else: already counted in the gate block above
     if sets:
         meta = {}
         try: meta = json.loads(row["metadata"]) if row["metadata"] else {}
