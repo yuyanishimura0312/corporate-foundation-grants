@@ -24,12 +24,6 @@
   "reason": "source_unverified_or_guarantee_inflated"
  },
  {
-  "name": "公益財団法人むつ小川原地域・産業振興財団",
-  "field": "annual_grant",
-  "value": 86156000,
-  "reason": "source_unverified/guarantee/low_conf"
- },
- {
   "name": "公益財団法人中村積善会",
   "field": "total_assets",
   "value": 14179817441,

@@ -32,9 +32,18 @@ for oid, rec in staging.items():
     row = c.execute("SELECT name,established_year,total_assets,annual_grant_amount,metadata FROM organizations WHERE id=?", (oid,)).fetchone()
     if not row: continue
     name = row["name"]; notes = cx.get("notes", "")
+    # guard: never re-ingest a field previously NULLed for review (fable corrections persist)
+    reviewed = set()
+    try:
+        _m = json.loads(row["metadata"]) if row["metadata"] else {}
+        for rv in _m.get("financials_review", []):
+            f = rv.get("field")
+            reviewed.add("annual_grant_amount" if f in ("annual_grant", "annual_grant_amount") else f)
+    except Exception:
+        pass
     sets = {}; prov = {}
     ey = cx.get("established_year"); esrc = cx.get("established_source_url")
-    if ey is not None and row["established_year"] is None:
+    if ey is not None and row["established_year"] is None and "established_year" not in reviewed:
         if not esrc:
             plan["skipped_no_source"] += 1
         elif BROKEN_URL.search(esrc):
@@ -44,7 +53,7 @@ for oid, rec in staging.items():
         else:
             plan["skipped_sanity"] += 1
     ta = cx.get("total_assets_jpy"); fsrc = cx.get("financial_source_url")
-    if ta is not None and row["total_assets"] is None:
+    if ta is not None and row["total_assets"] is None and "total_assets" not in reviewed:
         reason = None
         if not fsrc: reason = "no source"
         elif not sane_money(ta): reason = "sanity"
@@ -59,7 +68,7 @@ for oid, rec in staging.items():
             sets["total_assets"] = ta; prov["total_assets_source_url"] = fsrc
             prov["total_assets_fy"] = cx.get("total_assets_fiscal_year"); plan["total_assets"] += 1
     ga = cx.get("annual_grant_amount_jpy")
-    if ga is not None and row["annual_grant_amount"] is None:
+    if ga is not None and row["annual_grant_amount"] is None and "annual_grant_amount" not in reviewed:
         # apply exclusion gates on grant path too (fable: source-unverified/guarantee foundations)
         if (not fsrc) or (not sane_money(ga)) or guarantee_skip(notes) \
            or any(x in name for x in EXCLUDE_ASSET_NAME) or cx.get("confidence") == "low":
