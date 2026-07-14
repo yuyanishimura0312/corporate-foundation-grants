@@ -1528,5 +1528,23 @@
    "notes": "公式の財団概要に設立年月日「平成29年5月26日」と記載されているため、設立年は2017年。公式サイトには最新の「貸借対照表（令和6年度）」へのリンク（https://www.kobayashi-foundation.or.jp/data/about_bs_r6.pdf）が存在するが、調査環境ではPDF本文を取得できず、総資産または正味財産の金額を確認できなかった。公式の2025年度助成実績ページ（https://www.kobayashi-foundation.or.jp/assist/result.html）は採択先を掲載しているが、各助成額および年間助成金支出総額の記載を確認できないためnull。推測・募集時の予定額による算出は行っていない。"
   },
   "elapsed_s": 66
+ },
+ "org_878311134aa7": {
+  "name": "ソニー音楽財団",
+  "url": "https://www.smf.or.jp/kok",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ソニー音楽財団",
+   "established_year": 1984,
+   "established_source_url": "https://www.smf.or.jp/company_info/",
+   "total_assets_jpy": 878942470,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 17331143,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.smf.or.jp/wp-content/uploads/95e3e806c5aa292ba55105303e482bdd.pdf",
+   "confidence": "high",
+   "notes": "公式沿革に1984年10月「財団法人ソニー音楽芸術振興会」設立と記載。2025年度決算報告書（2025年4月1日～2026年3月31日）の貸借対照表で資産合計878,942,470円、正味財産増減計算書で助成金17,331,143円を確認した。"
+  },
+  "elapsed_s": 51
  }
 }
