@@ -1,0 +1,21 @@
+{
+ "phase": "1",
+ "date": "2026-07-15",
+ "changes": {
+  "koeki_verified": 1278,
+  "municipality_filled": 1208,
+  "prefecture_filled": 33,
+  "admin_agency_set": 1278,
+  "prefecture_conflicts_logged": 10,
+  "url_prefixed_https": 0,
+  "suspicious_names": [
+   {
+    "id": "5de364bc-056d-471e-a4bc-ce5f62b9e581",
+    "name": "義倉"
+   }
+  ],
+  "dates_fullwidth_normalized": 17,
+  "fiscal_year_derived_from_deadline": 103,
+  "calls_closed_past_deadline": 49
+ }
+}
