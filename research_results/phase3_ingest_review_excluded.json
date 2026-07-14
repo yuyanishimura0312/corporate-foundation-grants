@@ -64,5 +64,11 @@
   "field": "total_assets",
   "value": 12330622419,
   "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "（公財）ベネッセこども基金",
+  "field": "total_assets",
+  "value": 398744691,
+  "reason": "net_assets_not_total (正味財産)"
  }
 ]

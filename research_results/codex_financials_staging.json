@@ -1546,5 +1546,149 @@
    "notes": "公式沿革に1984年10月「財団法人ソニー音楽芸術振興会」設立と記載。2025年度決算報告書（2025年4月1日～2026年3月31日）の貸借対照表で資産合計878,942,470円、正味財産増減計算書で助成金17,331,143円を確認した。"
   },
   "elapsed_s": 51
+ },
+ "org_b423282176df": {
+  "name": "住友生命健康財団",
+  "url": "https://skzaidan.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "住友生命健康財団",
+   "established_year": 1985,
+   "established_source_url": "https://skzaidan.or.jp/outline/",
+   "total_assets_jpy": 5053174422,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 22140000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://skzaidan.or.jp/wp_dr/wp-content/uploads/2026/06/2025%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E8%B2%A1%E5%8B%99%E8%AB%B8%E8%A1%A8_HP%E6%8E%B2%E8%BC%89%E7%94%A8.pdf",
+   "confidence": "high",
+   "notes": "公式の財団概要で1985年6月24日設立と確認。公式サイト掲載の2025年度決算財務諸表（2026年3月31日現在）で資産合計5,053,174,422円を確認。同資料の正味財産増減計算書で、2025年度（2025年4月1日～2026年3月31日）の「スポーツ助成助成金」22,140,000円を年間助成金支出額として確認した。"
+  },
+  "elapsed_s": 48
+ },
+ "org_bd18fcf9783b": {
+  "name": "Konno＆レスター財団",
+  "url": "https://www.konno.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人Konno＆レスター財団",
+   "established_year": 2022,
+   "established_source_url": "https://kr-fd.or.jp/overview/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 23050000,
+   "annual_grant_fiscal_year": 2026,
+   "financial_source_url": "https://kr-fd.or.jp/grant/",
+   "confidence": "medium",
+   "notes": "公式の財団概要に設立日「2022年1月20日」と記載。公式の助成実績では直近の2026年度が15件・2,305万円。公式サイトの情報公開ページには決算書・事業報告書が掲載されておらず、総資産または正味財産の確定額は確認不能のためnull。提示されたhttps://www.konno.org はコロンビアの別団体であり、本財団の公式サイトとして確認できたのはhttps://kr-fd.or.jp/ 。"
+  },
+  "elapsed_s": 32
+ },
+ "org_b98d7e0fba2b": {
+  "name": "tetote教育財団",
+  "url": "https://tetote-kyoiku.com/subsidy",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人tetote教育財団",
+   "established_year": 2021,
+   "established_source_url": "https://tetote-kyoiku.com/about",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 1000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://tetote-kyoiku.com/news/20250910-1",
+   "confidence": "medium",
+   "notes": "公式の法人概要で設立日を2021年7月29日と確認。公式の2025年度助成金交付実績で、子どもの居場所づくり事業への助成5件・総額1,000,000円を確認した。公式サイトでは貸借対照表・決算書の公開ページを確認できず、検索で発見した外部団体情報にも会計数値が掲載されていなかったため、総資産はnullとした。"
+  },
+  "elapsed_s": 38
+ },
+ "org_c6e40401a7c7": {
+  "name": "ちゅうでん教育振興財団",
+  "url": "https://www.chuden-edu.or.jp/oubo/oubo1/oubo1.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ちゅうでん教育振興財団",
+   "established_year": 2001,
+   "established_source_url": "https://www.chuden-edu.or.jp/yakuin/rijicyo.html",
+   "total_assets_jpy": 3271623865,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 46019807,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.disclo-koeki.org/02a/00041/3.pdf",
+   "confidence": "high",
+   "notes": "公式サイトの理事長挨拶に「2001年6月に設立」と記載。情報公開資料の2024年度財務書類（2025年3月31日現在）で資産合計3,271,623,865円を確認。同年度の正味財産増減計算書に事業費の「助成金」46,019,807円を確認した。"
+  },
+  "elapsed_s": 43
+ },
+ "org_88ced40df4d1": {
+  "name": "日工組社会安全研究財団",
+  "url": "https://www.syaanken.or.jp/?p=14196",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人日工組社会安全研究財団",
+   "established_year": 1987,
+   "established_source_url": "https://www.syaanken.or.jp/?p=6939",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 16487295,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.syaanken.or.jp/wp-content/uploads/2025/07/r6_jigyou.pdf?0701=",
+   "confidence": "medium",
+   "notes": "公式沿革には昭和62年（1987年）の設立経過が掲載され、公式概要には同年8月発足とある。2024年度事業報告書に記載された研究助成6,997,000円、広域安全事業助成4,678,122円、県域安全事業助成1,540,000円、災害時緊急支援助成3,272,173円を合算し、年間助成額を16,487,295円とした。暴力団排除事業助成は申請なし。最新年度の貸借対照表または決算書から総資産・正味財産を確認できなかったため、総資産はnullとした。"
+  },
+  "elapsed_s": 92
+ },
+ "67bda34f-1ced-4235-981f-8847b18e984e": {
+  "name": "日本郵便",
+  "url": "https://www.post.japanpost.jp/notification/pressrelease/2019/00_honsha/0902_01_01.pdf",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本郵便株式会社",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 113186000,
+   "annual_grant_fiscal_year": 2026,
+   "financial_source_url": "https://www.post.japanpost.jp/notification/pressrelease/2026/00_honsha/0326_01_01.pdf",
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく日本郵便株式会社。提示PDF（2019年9月2日付）は災害義援金関係の報道発表で、財団の沿革・財務資料ではないため、公益財団としての設立年および総資産は確認不能。年間助成額は、公式の2026年度年賀寄付金配分決定資料に記載された配分総額113,186,000円を採用した。これは日本郵便株式会社が運営する年賀寄付金配分事業の額であり、公益財団の助成実績ではない。"
+  },
+  "elapsed_s": 45
+ },
+ "409ab14f-aedd-40f0-87c4-c3db2b18ea57": {
+  "name": "（公財）ベネッセこども基金",
+  "url": "http://benesse-kodomokikin.jp/subsidy/learningopp_2.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ベネッセこども基金",
+   "established_year": 2014,
+   "established_source_url": "https://benesse-kodomokikin.or.jp/about/",
+   "total_assets_jpy": 398744691,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 62414132,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://benesse-kodomokikin.or.jp/doc/ar/annualreport2024_4.pdf",
+   "confidence": "high",
+   "notes": "公式の「設立にあたって」に、一般財団法人ベネッセこども基金を2014年10月31日に設立し、2015年4月1日に公益財団法人へ移行したと記載。公式の2024年度決算報告（2025年3月31日現在）で資産の部合計398,744,691円を確認。同報告の正味財産増減計算書（2024年4月1日～2025年3月31日）で支払助成金62,414,132円を確認した。"
+  },
+  "elapsed_s": 37
+ },
+ "acbacb5d-40d5-4db0-90b8-55e39cb283f0": {
+  "name": "公益財団法人SGH財団",
+  "url": "https://www.sgh-foundation.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人SGH財団",
+   "established_year": 1986,
+   "established_source_url": "https://www.sgh-foundation.or.jp/about/jigyo/",
+   "total_assets_jpy": 17703641976,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 60826905,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.sgh-foundation.or.jp/wp/wp-content/uploads/2025/06/kessan_r6.pdf",
+   "confidence": "high",
+   "notes": "公式の財団概要に設立日を1986年2月14日と記載。最新掲載の令和6年度決算報告書（2024年4月1日～2025年3月31日）で、2025年3月31日現在の資産合計17,703,641,976円、および当年度の「支払助成金」60,826,905円を確認した。年間助成金額には別科目の留学生奨学金および支払褒賞金を含めていない。"
+  },
+  "elapsed_s": 29
  }
 }
