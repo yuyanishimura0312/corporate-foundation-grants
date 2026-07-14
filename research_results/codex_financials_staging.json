@@ -1366,5 +1366,41 @@
    "notes": "公式の財団概要に設立日「2023年1月26日」と明記されている。公式情報公開ページには最新資料として2025年度（2025年4月1日～2026年3月31日）の事業報告書および決算・財務諸表等が掲載されているが、調査時にPDF本文を取得できず、総資産（または正味財産）と年間助成金支出総額を確認できなかったためnullとした。2025年度事業計画の予定額や、助成単価・採択人数からの計算は実績値ではないため採用していない。"
   },
   "elapsed_s": 54
+ },
+ "org_0fd3ed65d5a8": {
+  "name": "ローム株式会社　研究公募事務局",
+  "url": "https://www.rohm.co.jp/rd/offer?utm_source=fields.canpan.info&utm_medium=cpc&utm_campaign=jp_ba_kenkyukobo_2026",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "ローム株式会社　研究公募事務局",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "confidence": "high",
+   "notes": "対象は公益財団法人ではなく、ローム株式会社が運営する社内の研究公募事務局である。公式ページ（https://www.rohm.co.jp/rd/offer）では採択テーマを同社との共同研究として実施すると記載され、研究開発体制ページ（https://www.rohm.co.jp/rd/about）も「学術研究に助成金を支援するのではなく」共同研究の入門編であると明記している。このため、事務局独自の設立年・総資産・年間助成金支出総額はいずれも確認できずnullとした。ローム株式会社自体の設立日は1958年9月17日（https://www.rohm.co.jp/company/about/profile）だが、研究公募事務局の設立年ではないため採用していない。募集ページには年度ごとの採択件数と1件当たり申請上限があるものの、実支出総額ではなく、複数年度の共同研究も含まれるため年間額の推計には使用していない。"
+  },
+  "elapsed_s": 36
+ },
+ "org_3dfc7c65124a": {
+  "name": "パナソニック教育財団",
+  "url": "https://www.pef.or.jp/kokoro-forum/project/?utm_source=canpan&utm_medium=web&utm_campaign=kokoro2025",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人パナソニック教育財団",
+   "established_year": 1973,
+   "established_source_url": "https://www.pef.or.jp/foundation/outline/",
+   "total_assets_jpy": 309254246,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 53029000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.pef.or.jp/wp-content/themes/panasonic_theme/images/zaidan/pdf/2024_shushi.pdf",
+   "confidence": "high",
+   "notes": "公式の財団概要で設立年月日を昭和48年12月4日（1973年）と確認。公式の2024年度決算報告（2024年4月1日～2025年3月31日、単位：円）で、2025年3月31日現在の資産合計309,254,246円、および正味財産増減計算書の当年度「支払助成金」53,029,000円を確認した。"
+  },
+  "elapsed_s": 26
  }
 }
