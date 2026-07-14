@@ -1006,5 +1006,59 @@
    "notes": "公式概要に設立年月日を1990年3月6日と記載。2024年度貸借対照表および正味財産増減計算書（2025年3月31日現在）で資産合計12,372,513,556円を確認。年間助成金支出総額は、同計算書の研究助成費157,635,000円、国際交流助成費14,103,571円、国際会議開催助成費9,700,000円の合計181,438,571円。贈呈式運営費は助成金そのものではないため除外。2026年7月15日確認。"
   },
   "elapsed_s": 29
+ },
+ "564b870d-1b2c-4dc6-bc3f-b9393fc94bbe": {
+  "name": "公益財団法人車両競技公益資金記念財団",
+  "url": "http://www.vecof.or.jp/news/2017/06/292.html",
+  "jfc_rank": 95,
+  "codex": {
+   "foundation_name": "公益財団法人車両競技公益資金記念財団",
+   "established_year": 1975,
+   "established_source_url": "https://www.vecof.or.jp/wp/wp-content/uploads/2019/07/zaidansyoukai_300615.pdf",
+   "total_assets_jpy": 12679691084,
+   "total_assets_fiscal_year": 2022,
+   "annual_grant_amount_jpy": 216320000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.vecof.or.jp/wp/wp-content/uploads/2025/06/R6FY_annual-report.pdf",
+   "confidence": "medium",
+   "notes": "公式の財団紹介に「昭和50年4月に設立」とあるため、設立年は1975年。令和6年度事業報告書（2024年4月1日～2025年3月31日）記載の公募型助成4事業の助成金交付決定額合計は216,320,000円。これは実支出額ではなく、公式資料上の交付決定額。総資産は、検索・閲覧できた公式の令和4年度決算報告書（https://www.vecof.or.jp/wp/wp-content/uploads/2023/08/R4FY_kessansyo.pdf）の貸借対照表に記載された2023年3月31日現在の資産合計12,679,691,084円。令和5年度以降の決算報告書は公式サイト上で存在を確認できず、総資産のみ令和4年度値のためconfidenceをmediumとした。"
+  },
+  "elapsed_s": 68
+ },
+ "25ae56ab-5fa6-47e0-a740-4760f12f643b": {
+  "name": "アステラス病態代謝研究会",
+  "url": "https://www.mochidazaidan.or.jp/kenkyu.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人アステラス病態代謝研究会",
+   "established_year": 1969,
+   "established_source_url": "https://www.astellas-foundation.or.jp/about/outline.html",
+   "total_assets_jpy": 4927239461,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 253660000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.astellas-foundation.or.jp/about/report.html",
+   "confidence": "high",
+   "notes": "公式概要で昭和44年8月27日登記、設立年1969年を確認。2024年度貸借対照表（https://www.astellas-foundation.or.jp/uploads/2025/06/r06_08.pdf、2025年3月31日現在）の資産合計は4,927,239,461円。2024年度事業報告（https://www.astellas-foundation.or.jp/uploads/2025/06/r06_04.pdf）で、研究助成金158,000,000円、ステップアップ研究助成40,000,000円、海外留学補助金55,660,000円、助成総額253,660,000円を確認。なお、ユーザー提示URLは公益財団法人持田記念医学薬学振興財団のページであり、対象財団の公式サイトではない。"
+  },
+  "elapsed_s": 47
+ },
+ "29d5409d-5250-450f-8757-b11d2c049968": {
+  "name": "花王芸術・科学財団",
+  "url": "https://www.kao-foundation.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "花王芸術・科学財団",
+   "established_year": 1990,
+   "established_source_url": "https://www.kao-foundation.or.jp/about/outline/",
+   "total_assets_jpy": 5162290964,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 50310000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.kao-foundation.or.jp/about/statements/",
+   "confidence": "high",
+   "notes": "公式財団概要に「1990年（平成2年）10月8日 財団法人花王芸術文化財団設立」と記載。2025年度貸借対照表（2026年3月31日現在）の資産合計は5,162,290,964円。2025年度事業報告で支出を確認できる助成額は、芸術文化29,510,000円、花王科学奨励賞20,000,000円、Kao Crescent Scholarship 800,000円で、合計50,310,000円。貸与型の花王佑啓奨学金5,400,000円および花王科学賞の副賞は、助成金ではないため合計から除外した。公開情報ページから2025年度事業報告書・貸借対照表へアクセス可能。"
+  },
+  "elapsed_s": 40
  }
 }
