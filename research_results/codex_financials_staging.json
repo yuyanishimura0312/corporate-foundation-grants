@@ -718,5 +718,293 @@
    "notes": "公式の法人概要に設立年月日「平成3年3月18日」、沿革に「平成3年3月 財団法人テクノ振興財団設立」とあるため、設立年は1991年。公式財務状況の令和7年度（2025年度）総資産額11,780,676千円を円換算した。年間助成金支出総額は、事業報告に個別事業の助成実績は掲載されているものの、全助成事業を合算した総額を公式資料上で確認できなかったためnull。"
   },
   "elapsed_s": 62
+ },
+ "pref_0b1c81ddfda5": {
+  "name": "公益財団法人とくしま産業振興機構",
+  "url": "https://www.our-think.or.jp",
+  "jfc_rank": 62,
+  "codex": {
+   "foundation_name": "公益財団法人とくしま産業振興機構",
+   "established_year": 1983,
+   "established_source_url": "https://www.our-think.or.jp/wp-content/uploads/2009/12/67fec531ad8239a903ea65e93cb2b901.pdf",
+   "total_assets_jpy": 50931548521,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 364900109,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.our-think.or.jp/wp/wp-content/uploads/2026/05/R07houkoku_kessan.pdf",
+   "confidence": "high",
+   "notes": "公式機関誌の創立30周年記事に、前身の「財団法人徳島県中小企業振興公社」が昭和58年7月に発足したと明記されているため、設立年を1983年とした。公式の令和7年度事業報告書・収支決算書では、2026年3月31日現在の資産合計が50,931,548,521円、2025年度（令和7年度）の正味財産増減計算書における支払助成金が364,900,109円。取得・確認日: 2026-07-15。"
+  },
+  "elapsed_s": 46
+ },
+ "jfc100_8cfbe68f": {
+  "name": "公益財団法人船井情報科学振興財団",
+  "url": "https://www.marubeni.or.jp",
+  "jfc_rank": 64,
+  "codex": {
+   "foundation_name": "公益財団法人船井情報科学振興財団",
+   "established_year": 2001,
+   "established_source_url": "https://funaifoundation.jp/foundation/info.html",
+   "total_assets_jpy": 11420743892,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 307000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://funaifoundation.jp/foundation/disclosure.html",
+   "confidence": "high",
+   "notes": "対象財団の公式概要で設立日を2001年4月25日と確認。2024年度財産目録（https://funaifoundation.jp/disclosures/property-2024.pdf、2025年3月31日現在）で資産合計11,420,743,892円を確認。2024年度事業報告書（https://funaifoundation.jp/disclosures/report-2024.pdf、2024年4月1日～2025年3月31日）で海外留学生66名への奨学金支給総額307,000,000円を確認した。ユーザー提示の https://www.marubeni.or.jp は社会福祉法人丸紅基金のサイトで対象財団とは一致しないため、対象財団の公式サイト https://funaifoundation.jp の資料を使用した。"
+  },
+  "elapsed_s": 50
+ },
+ "jfc100_a6550666": {
+  "name": "公益財団法人キヤノン財団",
+  "url": "https://www.nomurafoundation.or.jp",
+  "jfc_rank": 67,
+  "codex": {
+   "foundation_name": "一般財団法人キヤノン財団",
+   "established_year": 2008,
+   "established_source_url": "https://jp.foundation.canon/introduction/outline.html",
+   "total_assets_jpy": 1297945621,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 294000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://jp.foundation.canon/common/pdf/publish/businessreport/report_18th_period_2025.pdf?002=",
+   "confidence": "high",
+   "notes": "2026-07-15確認。公式概要では2008年12月1日設立。第18期事業報告書（2025年1月1日～12月31日）の貸借対照表で資産合計1,297,945,621円を確認。2025年に決定した第16回研究助成は「善き未来をひらく科学技術」90,000,000円と「新産業を生む科学技術」204,000,000円で、合計294,000,000円。これは同報告書記載の2025年採択助成総額である。なお、ユーザー指定の法人格「公益財団法人」は公式情報と不一致で、正式名称は「一般財団法人キヤノン財団」。提示された https://www.nomurafoundation.or.jp は野村財団の公式サイトであり、キヤノン財団の公式サイトではない。"
+  },
+  "elapsed_s": 56
+ },
+ "jfc100_3f299e1f": {
+  "name": "公益財団法人小笠原敏晶記念財団",
+  "url": "https://www.public.or.jp/project/f0176",
+  "jfc_rank": 61,
+  "codex": {
+   "foundation_name": "公益財団法人小笠原敏晶記念財団",
+   "established_year": 1986,
+   "established_source_url": "https://ogasawarazaidan.or.jp/about/summary/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 486526166,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.disclo-koeki.org/09a/01005/2.pdf",
+   "confidence": "medium",
+   "notes": "公式概要に設立認可日「1986年9月12日」と記載。2025年度事業報告（2025年4月1日～2026年3月31日）の「助成事業費合計」486,526,166円を採用した。2025年度貸借対照表の公開は確認できたが、PDF本文を取得できず、総資産の円単位の値を検証できなかったためnull。公式概要の476.1億円は「基本財産」であり、総資産ではないため採用していない。"
+  },
+  "elapsed_s": 65
+ },
+ "jfc100_3b5a01d9": {
+  "name": "公益財団法人ローム ミュージック ファンデーション",
+  "url": "https://micro.rohm.com/jp/rmf/recruitment/subsidy/index.html#start_area",
+  "jfc_rank": 63,
+  "codex": {
+   "foundation_name": "公益財団法人ローム ミュージック ファンデーション",
+   "established_year": 1991,
+   "established_source_url": "https://www.rmf.or.jp/jp/overview/introduction/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.rmf.or.jp/jp/overview/disclosure/",
+   "confidence": "medium",
+   "notes": "公式の財団紹介で設立年月日を1991年2月19日と確認。公式情報開示ページには最新の2025年度貸借対照表、正味財産増減計算書、財産目録、事業報告書が掲載されている。事業報告書では音楽活動への助成が公演等70件・研究8件と確認できたが、年間支出総額の記載は確認できなかった。貸借対照表等のPDF本文は取得エラーとなり、総資産額および助成金支出総額を検証できなかったためnullとした。財団紹介記載の基本財産・特定資産は総資産とは一致すると確認できないため代用していない。"
+  },
+  "elapsed_s": 82
+ },
+ "2b66d3ea-0321-446a-82fa-6024d0d5f921": {
+  "name": "企業メセナ協議会",
+  "url": "http://www.mecenat.or.jp",
+  "jfc_rank": 70,
+  "codex": {
+   "foundation_name": "公益社団法人企業メセナ協議会",
+   "established_year": 1990,
+   "established_source_url": "https://www.mecenat.or.jp/ja/about_mecenat/council_history/from1990",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "confidence": "medium",
+   "notes": "公式沿革で、1990年2月14日に設立発起人会、同年4月19日に社団法人として設立認可されたことを確認。公式情報公開ページには2025年度決算報告書が掲載されているが、調査環境から当該PDF本文を取得できず、最新年度の総資産および助成金支出総額を検証できなかったためnullとした。なお、対象法人の正式名称・法人区分は「公益社団法人企業メセナ協議会」であり、公益財団法人ではない。"
+  },
+  "elapsed_s": 93
+ },
+ "10c6e275-2616-473b-a000-f9abb45eabbf": {
+  "name": "化学及血清療法研究所",
+  "url": "https://www.kaketsuken.org",
+  "jfc_rank": 73,
+  "codex": {
+   "foundation_name": "一般財団法人化学及血清療法研究所",
+   "established_year": 1945,
+   "established_source_url": "https://www.kaketsuken.org/history.html",
+   "total_assets_jpy": 91413459442,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 197000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.kaketsuken.org/business-report.html",
+   "confidence": "high",
+   "notes": "公式沿革は1945年12月設立と記載。2025年度決算報告書（https://www.kaketsuken.org/pdf/financial_report2025.pdf）の2026年3月31日現在の貸借対照表で資産合計91,413,459,442円を確認。2025年度事業報告書（https://www.kaketsuken.org/pdf/annual_report2025.pdf）で研究助成金の支給総額197,000,000円を確認した。年度は2025年4月1日から2026年3月31日まで。"
+  },
+  "elapsed_s": 46
+ },
+ "61d50ff8-3112-4ff4-97d6-f5093ab268d7": {
+  "name": "公益財団法人平和中島財団",
+  "url": "https://culfun.mecenat.or.jp/grant/sompo/point.html",
+  "jfc_rank": 72,
+  "codex": {
+   "foundation_name": "公益財団法人平和中島財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "confidence": "low",
+   "notes": "財団の公式サイト（https://www.hnf.jp/）および公式の研究助成ページ（https://www.hnf.jp/josei/）を確認したが、公式の沿革・概要で設立年を確認できなかった。助成財団センターの第三者データベースには1992年3月23日との記載があるが、公式沿革ではないため採用していない。公式サイトで最新の事業報告書・貸借対照表・正味財産増減計算書を確認できず、総資産または正味財産はnullとした。公式ページには年度別研究助成一覧があるものの、奨学金を含む年間助成金支出総額を示す事業報告・決算資料を確認できないため、年間助成額もnullとした。ユーザー提示URL（https://culfun.mecenat.or.jp/grant/sompo/point.html）は平和中島財団の公式サイトではなく、別団体の助成情報ページである。"
+  },
+  "elapsed_s": 57
+ },
+ "org_ab39bd99335a": {
+  "name": "日本生命財団",
+  "url": "https://nihonseimei-zaidan.or.jp/kourei/02.html",
+  "jfc_rank": 77,
+  "codex": {
+   "foundation_name": "公益財団法人 日本生命財団",
+   "established_year": 1979,
+   "established_source_url": "https://nihonseimei-zaidan.or.jp/gaiyo/index.html",
+   "total_assets_jpy": 10991133910,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 230262175,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.nihonseimei-zaidan.or.jp/gaiyo/pdf/2024jigyohoukokusyo_16.pdf",
+   "confidence": "high",
+   "notes": "公式概要に「設立：昭和54年7月4日」と記載。2024年度事業報告書・財務諸表（2024年4月1日～2025年3月31日）の貸借対照表で、2025年3月31日現在の資産合計10,991,133,910円を確認。同年度の正味財産増減計算書で、経常費用中の「助成金」230,262,175円を確認した。事業概況記載の助成額2億3,026万円は万円未満切捨てであり、年間助成金支出総額には財務諸表の円単位の値を採用した。"
+  },
+  "elapsed_s": 40
+ },
+ "jfc100_e7e4ebe4": {
+  "name": "公益財団法人鉄道弘済会",
+  "url": "https://www.kousaikai.or.jp",
+  "jfc_rank": 74,
+  "codex": {
+   "foundation_name": "公益財団法人鉄道弘済会",
+   "established_year": 1932,
+   "established_source_url": "https://www.kousaikai.or.jp/about/profile/history2/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.kousaikai.or.jp/about/profile/disclosure/",
+   "confidence": "medium",
+   "notes": "公式沿革に、1932年2月25日に財団法人鉄道弘済会を設立したとの記載を確認。公式開示ページでは2025（令和7）年度の事業報告・決算が最新として掲載されているが、貸借対照表の数値をアクセス可能な本文から確実に抽出・照合できなかったため、総資産はnullとした。また、最新事業報告書には年間助成金支出総額の明示がなく、個別支援を合算する根拠も確認できなかったため、年間助成額はnullとした。なお、2024年度貸借対照表には資産合計92,024百万円とあるが、最新年度ではなく百万円未満切捨表示のため採用していない。"
+  },
+  "elapsed_s": 58
+ },
+ "2101597c-87fa-4fd1-9eea-d418a5e30d2f": {
+  "name": "公益財団法人日本科学協会",
+  "url": "https://www.jss.or.jp/ikusei/sasakawa",
+  "jfc_rank": 83,
+  "codex": {
+   "foundation_name": "公益財団法人日本科学協会",
+   "established_year": 1924,
+   "established_source_url": "https://www.jss.or.jp/about/enkaku.html",
+   "total_assets_jpy": 1806457993,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 283184698,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.jss.or.jp/about/jyohokoukai/data/2024shoumizaisan.pdf",
+   "confidence": "high",
+   "notes": "2026-07-15確認。公式沿革では、前身の「財団法人科学知識普及会」が1924年に創立され、公式事業報告書も同年を設立年としているため1924年を採用。2024年度正味財産増減計算書（2024年4月1日～2025年3月31日）の正味財産期末残高1,806,457,993円を総資産の代替となる正味財産として採用。同計算書の当年度「研究助成金」283,184,698円を年間助成金支出総額として採用。"
+  },
+  "elapsed_s": 39
+ },
+ "jfc100_016e7403": {
+  "name": "公益財団法人飯島藤十郎記念食品科学振興財団",
+  "url": "http://www.green.or.jp",
+  "jfc_rank": 78,
+  "codex": {
+   "foundation_name": "公益財団法人飯島藤十郎記念食品科学振興財団",
+   "established_year": 1984,
+   "established_source_url": "https://www.iijima-kinenzaidan.or.jp/about/",
+   "total_assets_jpy": 45572782493,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 272910000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.iijima-kinenzaidan.or.jp/pdf/2025_Financial_Results.pdf",
+   "confidence": "high",
+   "notes": "公式沿革に、1984年7月31日に農林水産大臣の許可を得て発足したと記載。2025年度決算（2026年3月31日現在）の貸借対照表で資産合計45,572,782,493円、活動計算書で支払助成金272,910,000円を確認。なお、指定された http://www.green.or.jp は国土緑化推進機構のサイトであり対象財団の公式サイトではないため、検索で確認した対象財団の公式サイト iijima-kinenzaidan.or.jp を出典とした。"
+  },
+  "elapsed_s": 59
+ },
+ "jfc100_e85f2b89": {
+  "name": "公益財団法人池谷科学技術振興財団",
+  "url": "https://www.taf.or.jp/grant-c/03",
+  "jfc_rank": 87,
+  "codex": {
+   "foundation_name": "公益財団法人池谷科学技術振興財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": 22661450395,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 549824378,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.iketani-zaidan.or.jp/disclosure/",
+   "confidence": "high",
+   "notes": "公式の2024年度貸借対照表（https://www.iketani-zaidan.or.jp/pdf/d2024_02.pdf、2025年3月31日現在）で資産合計22,661,450,395円を確認。公式の2024年度事業報告（https://www.iketani-zaidan.or.jp/pdf/d2024_01_1.pdf）記載の研究調査助成540,000,000円と国際交流等助成9,824,378円を合算し、年間助成金交付総額549,824,378円とした。公式の財団概要・設立趣意では設立年を確認できなかったため、established_yearはnull。ユーザー提示URLは池谷科学技術振興財団の公式サイトではなく、対象財団の公式サイトはhttps://www.iketani-zaidan.or.jp/ と確認した。"
+  },
+  "elapsed_s": 51
+ },
+ "08d92fea-a1b2-4f1f-83e8-7dc1c81ce560": {
+  "name": "篠原欣子記念財団",
+  "url": "https://ysmf.or.jp",
+  "jfc_rank": 85,
+  "codex": {
+   "foundation_name": "篠原欣子記念財団",
+   "established_year": 2014,
+   "established_source_url": "https://ysmf.or.jp/about/foundation/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "confidence": "medium",
+   "notes": "公式の財団概要で2014年2月28日設立を確認。公式サイト内を検索したが、年度別の貸借対照表・決算書・事業報告書は確認できず、総資産または正味財産はnull。公式活動実績（https://ysmf.or.jp/about/results/）には2017年4月～2024年10月の助成金給付累計3億6,800万円が掲載されているが、単年度額ではないため年間助成金支出総額には採用せずnullとした。"
+  },
+  "elapsed_s": 61
+ },
+ "koeki_90f957c7965e": {
+  "name": "公益財団法人三菱ＵＦＪ信託奨学財団",
+  "url": "https://www.otsukafoundation.org",
+  "jfc_rank": 90,
+  "codex": {
+   "foundation_name": "公益財団法人三菱ＵＦＪ信託奨学財団",
+   "established_year": 1953,
+   "established_source_url": "https://www.scholarship.or.jp/outline/",
+   "total_assets_jpy": 17249101000,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 2500000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.scholarship.or.jp/files/user/pdf/2024zaimushohyo.pdf",
+   "confidence": "medium",
+   "notes": "公式概要で設立年月日を1953年11月9日と確認。2024年度財務諸表（単位：千円）の資産合計17,249,101千円を円換算した。研究助成額は2024年度事業報告書（https://www.scholarship.or.jp/files/user/pdf/2024jigyohokoku.pdf）記載の年度支給額2,500,000円。指定されたotsukafoundation.orgは対象財団の公式サイトではなく、対象財団の公式サイトはscholarship.or.jp。公式情報公開ページには2025年度資料も掲載されているが、今回そのPDF本文から正確な値を取得できなかったため、確認可能な2024年度実績を採用した。"
+  },
+  "elapsed_s": 54
+ },
+ "jfc100_271bb90e": {
+  "name": "公益財団法人立石科学技術振興財団",
+  "url": "https://www.tateisi-f.org/about/outline.html",
+  "jfc_rank": 97,
+  "codex": {
+   "foundation_name": "公益財団法人立石科学技術振興財団",
+   "established_year": 1990,
+   "established_source_url": "https://www.tateisi-f.org/about/outline.html",
+   "total_assets_jpy": 12372513556,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 181438571,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.tateisi-f.org/documents/financial/2024/2024%E5%B9%B4%E5%BA%A6%E6%AD%A3%E5%91%B3%E8%B2%A1%E7%94%A3%E5%A2%97%E6%B8%9B%E8%A8%88%E7%AE%97%E6%9B%B8.pdf",
+   "confidence": "high",
+   "notes": "公式概要に設立年月日を1990年3月6日と記載。2024年度貸借対照表および正味財産増減計算書（2025年3月31日現在）で資産合計12,372,513,556円を確認。年間助成金支出総額は、同計算書の研究助成費157,635,000円、国際交流助成費14,103,571円、国際会議開催助成費9,700,000円の合計181,438,571円。贈呈式運営費は助成金そのものではないため除外。2026年7月15日確認。"
+  },
+  "elapsed_s": 29
  }
 }

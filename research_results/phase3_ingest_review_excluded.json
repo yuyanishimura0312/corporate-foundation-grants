@@ -46,5 +46,11 @@
   "field": "total_assets",
   "value": 1694231130,
   "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人日本科学協会",
+  "field": "total_assets",
+  "value": 1806457993,
+  "reason": "net_assets_not_total (正味財産)"
  }
 ]
