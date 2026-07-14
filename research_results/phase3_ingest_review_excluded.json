@@ -52,5 +52,17 @@
   "field": "total_assets",
   "value": 1806457993,
   "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "臨床研究奨励基金",
+  "field": "total_assets",
+  "value": 217556796,
+  "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "野口研究所",
+  "field": "total_assets",
+  "value": 12330622419,
+  "reason": "net_assets_not_total (正味財産)"
  }
 ]

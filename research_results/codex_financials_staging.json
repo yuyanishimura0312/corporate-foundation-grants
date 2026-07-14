@@ -1060,5 +1060,185 @@
    "notes": "公式財団概要に「1990年（平成2年）10月8日 財団法人花王芸術文化財団設立」と記載。2025年度貸借対照表（2026年3月31日現在）の資産合計は5,162,290,964円。2025年度事業報告で支出を確認できる助成額は、芸術文化29,510,000円、花王科学奨励賞20,000,000円、Kao Crescent Scholarship 800,000円で、合計50,310,000円。貸与型の花王佑啓奨学金5,400,000円および花王科学賞の副賞は、助成金ではないため合計から除外した。公開情報ページから2025年度事業報告書・貸借対照表へアクセス可能。"
   },
   "elapsed_s": 40
+ },
+ "4b07a92d-960f-4426-a927-5d9995b6b75a": {
+  "name": "加藤記念バイオサイエンス振興財団",
+  "url": "https://www.katokinen.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人 加藤記念バイオサイエンス振興財団",
+   "established_year": 1988,
+   "established_source_url": "https://www.katokinen.or.jp/aboutus/1_3_seturitu.html",
+   "total_assets_jpy": 1015665831,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 74020000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.katokinen.or.jp/wordpress/wp-content/uploads/2025/07/kessan2024.pdf",
+   "confidence": "high",
+   "notes": "公式の「設立の経緯」で、1988年12月23日に設立許可を受け発足したことを確認。2024年度決算書（2024年4月1日～2025年3月31日）で、2025年3月31日現在の資産合計1,015,665,831円、および当年度の支払助成金74,020,000円（研究助成61,000,000円、国際交流助成8,720,000円、学会等開催助成4,300,000円）を確認した。"
+  },
+  "elapsed_s": 59
+ },
+ "2be4aa3e-ccf5-4985-9b77-8c8bfa1a2ee0": {
+  "name": "太陽生命厚生財団",
+  "url": "http://www.taiyolife-zaidan.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "太陽生命厚生財団",
+   "established_year": 1984,
+   "established_source_url": "https://www.taiyolife-zaidan.or.jp/about/purport.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 23060000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.taiyolife-zaidan.or.jp/about/activities.html",
+   "confidence": "medium",
+   "notes": "公式の設立趣意書に、昭和59年（1984年）5月30日に「ひまわり厚生財団」として設立された旨がある。公式「助成事業のあゆみ」では2025年度の助成金額が23,060千円と掲載されているため、23,060,000円に換算した。公式公告ページ上で2025年度貸借対照表の公開は確認できたが、検索・閲覧環境で金額を原資料から確実に抽出できなかったため、総資産はnullとした。"
+  },
+  "elapsed_s": 64
+ },
+ "3dbcb8f1-c408-4ae6-a722-91c68dbb3b42": {
+  "name": "三島海雲記念財団",
+  "url": "http://www.mishima-kaiun.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人 三島海雲記念財団",
+   "established_year": 1962,
+   "established_source_url": "https://www.mishima-kaiun.or.jp/outline/outline/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 157340000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.mishima-kaiun.or.jp/wp-mishima/wp-content/uploads/2026/03/2025jigyohoukokusho.pdf",
+   "confidence": "medium",
+   "notes": "設立日は公式概要で1962年12月24日と確認。2025年度事業報告書記載の助成額（学術研究奨励金138,840,000円、特定研究助成金15,000,000円、学術活動支援3,500,000円）を合算し、年間助成金総額を157,340,000円とした。学術賞9,000,000円は褒賞のため含めていない。公式情報公開ページには2025年度貸借対照表が掲載されているが、資産合計の記載値を取得・確認できなかったため総資産はnull。推測値や旧年度値による代用はしていない。"
+  },
+  "elapsed_s": 65
+ },
+ "6cce694a-2c20-4fcb-8eff-223214892e60": {
+  "name": "臨床研究奨励基金",
+  "url": "http://crpf.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "臨床研究奨励基金",
+   "established_year": 1984,
+   "established_source_url": "https://crpf.jp/about",
+   "total_assets_jpy": 217556796,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 15200000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://crpf.jp/wp-content/uploads/2025/07/40b3251c7b8f5705708fb794c37ebd77.pdf",
+   "confidence": "high",
+   "notes": "公式沿革に昭和59年（1984年）3月発足と記載。令和6年度（2024年度、2024年4月1日～2025年3月31日）の正味財産増減計算書で、正味財産期末残高217,556,796円を確認。年間助成金支出総額は、同計算書の「臨床研究助成」12,700,000円、「日本人研修・外国人招聘」2,500,000円、「学術集会・特別研究助成」0円の合計15,200,000円。"
+  },
+  "elapsed_s": 36
+ },
+ "4e8c8b38-5f89-46e8-bea6-c275a2afb6bf": {
+  "name": "野口研究所",
+  "url": "https://noguchi.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人野口研究所",
+   "established_year": 1941,
+   "established_source_url": "https://noguchi.or.jp/aboutus/history/",
+   "total_assets_jpy": 12330622419,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://noguchi.or.jp/wp/wp-content/themes/noguchi/assets/pdf/basic_information/shomizaisan_2024.pdf",
+   "confidence": "medium",
+   "notes": "公式沿革で設立年月日を1941年2月10日と確認。2024年度正味財産増減計算書（2024年4月1日～2025年3月31日）の「正味財産期末残高」12,330,622,419円を採用した。2025年度事業報告書では13名への助成金贈呈と野口遵賞2名を確認できたが、同報告書に実支出総額の明記がなく、規程額との乗算は推測になるため年間助成金支出総額はnullとした。なお、2024年度計算書には「助成事業費」38,747,567円があるが、助成金そのもの以外の事業経費を含む可能性があるため採用していない。"
+  },
+  "elapsed_s": 50
+ },
+ "54388880-0924-46e8-bd86-c6d10d22251a": {
+  "name": "全国銀行学術研究振興財団",
+  "url": "https://www.zenginzaidan.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "全国銀行学術研究振興財団",
+   "established_year": 1992,
+   "established_source_url": "https://www.zenginzaidan.jp/about.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 29000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.zenginzaidan.jp/jisseki.html",
+   "confidence": "medium",
+   "notes": "公式概要で設立日が1992年3月3日と確認できた。公式助成実績には2025年度の助成合計が37件・2,900万円（研究助成2,520万円、刊行助成380万円）と記載されているため29,000,000円とした。これは助成実績ページ上の決定額である。公益法人協会共同サイトには2025年度貸借対照表（https://www.disclo-koeki.org/02a/00232/b-2025.pdf）が掲載されていることを確認したが、PDF本文にアクセスできず総資産額を検証できなかったためnullとした。推測値や旧年度値による補完はしていない。"
+  },
+  "elapsed_s": 55
+ },
+ "87059dd8-6de3-447e-8dfc-95adf55de752": {
+  "name": "萩原学術振興財団",
+  "url": "https://www.hagiwara-foundation.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人 萩原学術振興財団",
+   "established_year": 2019,
+   "established_source_url": "https://hagiwara-foundation.or.jp/about/company.html",
+   "total_assets_jpy": 778610105,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 32000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://hagiwara-foundation.or.jp/data/media/hagiwara-foundation/page/information/report2024.pdf",
+   "confidence": "high",
+   "notes": "公式の財団情報に設立日を2019年7月1日と記載。公式掲載の「2024年度 事業報告・計算書類（2025年3月期）」で、2025年3月31日現在の資産合計778,610,105円、および2024年4月1日～2025年3月31日の支払助成金32,000,000円を確認した。"
+  },
+  "elapsed_s": 25
+ },
+ "8e8c8ed4-2444-406c-88c6-05234f79228e": {
+  "name": "牧誠財団",
+  "url": "https://melco-foundation.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人牧誠財団",
+   "established_year": 2007,
+   "established_source_url": "https://melco-foundation.jp/know/summary/",
+   "total_assets_jpy": 11892902238,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 26053000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://melco-foundation.jp/wp/wp-content/uploads/2024houkoku.pdf",
+   "confidence": "high",
+   "notes": "公式概要で設立年月日を2007年3月16日と確認。公式の2024年度事業報告・決算（2024年4月1日～2025年3月31日）で、2025年3月31日現在の資産合計11,892,902,238円を確認。同資料の事業報告および正味財産増減計算書で、2024年度全体の助成金額（助成金費用）26,053,000円を確認。"
+  },
+  "elapsed_s": 30
+ },
+ "8ae39f99-e7e9-4e08-933e-ab166f00cbf6": {
+  "name": "長瀬科学技術振興財団",
+  "url": "https://www.nagase-f.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人 長瀬科学技術振興財団",
+   "established_year": 1989,
+   "established_source_url": "https://www.nagase-f.or.jp/outline/",
+   "total_assets_jpy": 3823519339,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 75000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.nagase-f.or.jp/wp-content/uploads/2025/06/2024_kessann.pdf",
+   "confidence": "high",
+   "notes": "公式の財団概要に設立日「1989年4月26日」と記載。最新公開の2024年度決算報告書（2025年3月31日現在）の貸借対照表で資産合計3,823,519,339円を確認。同決算報告書の正味財産増減計算書で支払助成金75,000,000円を確認。2024年度事業報告書にも25件、合計7,500万円の助成実施と記載されている。"
+  },
+  "elapsed_s": 50
+ },
+ "710e47b8-99a6-4f58-9d19-ca15a64dfc15": {
+  "name": "先進医薬研究振興財団",
+  "url": "https://www.taisho.co.jp/company/news/2023/20231213001469",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "先進医薬研究振興財団",
+   "established_year": 1968,
+   "established_source_url": "https://www.smrf.or.jp/about/zaidan.html",
+   "total_assets_jpy": 1048660744,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 135000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.smrf.or.jp/wordpress/wp-content/uploads/2025/09/activity_report_for_the_advanced_medicine_no26.pdf",
+   "confidence": "high",
+   "notes": "公式概要で設立年月日を昭和43年12月12日（1968年）と確認。公式『先進医薬年報 No.26』の2025年3月31日現在の貸借対照表で資産合計1,048,660,744円、2024年度の正味財産増減計算書で支払助成金135,000,000円を確認した。"
+  },
+  "elapsed_s": 55
  }
 }
