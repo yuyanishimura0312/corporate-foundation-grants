@@ -1,0 +1,50 @@
+[
+ {
+  "name": "公益財団法人大阪府育英会",
+  "field": "total_assets",
+  "value": 3435979372,
+  "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人日本台湾交流協会",
+  "field": "established_year",
+  "reason": "broken source url",
+  "url": "https://www.koryu.or.jp/Portals/0/shomu/%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%94%E5%B9%B4%E5%BA%A%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E5%8F%8A%E3%81%B3%E9%99%84%E5%B1%9E%E6%98%8E%E7%B4%B0%E6%9B%B8.pdf"
+ },
+ {
+  "name": "公益財団法人日本国際教育支援協会",
+  "field": "total_assets",
+  "value": 4829816619268,
+  "reason": "source_unverified_or_guarantee_inflated"
+ },
+ {
+  "name": "公益財団法人むつ小川原地域・産業振興財団",
+  "field": "total_assets",
+  "value": 11103072000,
+  "reason": "source_unverified_or_guarantee_inflated"
+ },
+ {
+  "name": "公益財団法人中村積善会",
+  "field": "total_assets",
+  "value": 14179817441,
+  "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人電通育英会",
+  "field": "total_assets",
+  "value": 33525672513,
+  "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "発酵研究所",
+  "field": "total_assets",
+  "value": 12844980327,
+  "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "パブリックリソース財団",
+  "field": "total_assets",
+  "value": 1694231130,
+  "reason": "net_assets_not_total (正味財産)"
+ }
+]

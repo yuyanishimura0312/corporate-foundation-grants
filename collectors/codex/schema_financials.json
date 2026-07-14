@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "foundation_name": { "type": "string" },
+    "established_year": { "type": ["integer", "null"], "description": "西暦の設立年。公式沿革で確認できた場合のみ。不明ならnull" },
+    "established_source_url": { "type": ["string", "null"] },
+    "total_assets_jpy": { "type": ["integer", "null"], "description": "総資産または正味財産(円)。事業報告書/決算で確認できた場合のみ" },
+    "total_assets_fiscal_year": { "type": ["integer", "null"] },
+    "annual_grant_amount_jpy": { "type": ["integer", "null"], "description": "年間の助成金支出総額(円)。助成実績/事業報告で確認できた場合のみ" },
+    "annual_grant_fiscal_year": { "type": ["integer", "null"] },
+    "financial_source_url": { "type": ["string", "null"], "description": "総資産・助成額の出典URL(実在・アクセス可能なもの)" },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "notes": { "type": "string", "description": "根拠の要約。見つからなければ理由。推測・捏造は禁止" }
+  },
+  "required": ["foundation_name", "established_year", "established_source_url", "total_assets_jpy", "total_assets_fiscal_year", "annual_grant_amount_jpy", "annual_grant_fiscal_year", "financial_source_url", "confidence", "notes"]
+}
