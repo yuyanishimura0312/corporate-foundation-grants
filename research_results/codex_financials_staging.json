@@ -1402,5 +1402,131 @@
    "notes": "公式の財団概要で設立年月日を昭和48年12月4日（1973年）と確認。公式の2024年度決算報告（2024年4月1日～2025年3月31日、単位：円）で、2025年3月31日現在の資産合計309,254,246円、および正味財産増減計算書の当年度「支払助成金」53,029,000円を確認した。"
   },
   "elapsed_s": 26
+ },
+ "org_4fbf0f74d3ca": {
+  "name": "デロイトトーマツウェルビーイング財団",
+  "url": "http://https://www.deloitte.com/jp/ja/about/people/social-responsibility/live-well-private-education-fund.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般財団法人デロイト トーマツ ウェルビーイング財団",
+   "established_year": 2021,
+   "established_source_url": "https://www.deloitte.com/jp/ja/about/group/deloitte-tohmatsu-well-being-foundation.html",
+   "total_assets_jpy": 169849000,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.deloitte.com/content/dam/assets-zone1/jp/ja/docs/about/2025/jp-dtwb-fy25-balance-sheet.pdf",
+   "confidence": "high",
+   "notes": "公式法人概要で設立年月を2021年4月と確認。第5期決算公告の貸借対照表（2025年5月31日現在、単位：千円）に資産合計169,849千円と記載されているため、169,849,000円に換算した。年間助成金支出総額は、公式サイトに個別助成事業の採択件数・予定額・上限額はあるものの、直近年度に財団全体で実際に支出した助成金の合計を示す事業報告書・活動計算書・助成実績を確認できなかったためnull。指定URLは「http://https://」とスキームが重複していた。検索・確認日：2026-07-15。"
+  },
+  "elapsed_s": 45
+ },
+ "org_616138763c7b": {
+  "name": "エフピコ",
+  "url": "https://www.fpco.jp/esg/environmenteffort/environmentalfund/environmentalfund_noto_recruitment.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "エフピコ環境基金",
+   "established_year": 2020,
+   "established_source_url": "https://www.fpco.jp/esg/environmenteffort/environmentalfund.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.fpco.jp/esg/environmenteffort/environmentalfund/environmentalfund_pastresults.html",
+   "confidence": "medium",
+   "notes": "公式サイトは、株式会社エフピコが2020年3月に創設した「エフピコ環境基金」と説明しており、独立した公益財団法人であることは確認できない。したがって、基金単独の貸借対照表・決算書に基づく総資産または正味財産は確認不能。公式の過去助成先ページでは2025年度の助成団体・活動は確認できるが、団体別助成額および年間支出総額は掲載されていない。募集要領の1案件当たり上限額からの推計は行わず、年間助成金額をnullとした。"
+  },
+  "elapsed_s": 42
+ },
+ "org_80b208d55545": {
+  "name": "カインズデジタルイノベーション財団",
+  "url": "https://cainz-dif.or.jp/grant/2025",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人カインズデジタルイノベーション財団",
+   "established_year": 2019,
+   "established_source_url": "https://cainz-dif.or.jp/news/20210514/",
+   "total_assets_jpy": 18247440,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 8763000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://cainz-dif.or.jp/about/doc/phase06/rent_2024.pdf",
+   "confidence": "high",
+   "notes": "公式発表により、2019年11月1日に一般財団法人として設立し、2021年4月24日に公益財団法人へ移行したことを確認。最新公開の第6期貸借対照表（2025年3月31日現在）に記載された資産合計は18,247,440円。2025年度助成実績は公式ページ（https://cainz-dif.or.jp/grant/2025/）掲載の6件、合計8,763千円（8,763,000円）。"
+  },
+  "elapsed_s": 39
+ },
+ "org_78c9deec2ce7": {
+  "name": "ホソカワ粉体工学振興財団",
+  "url": "https://www.kona.or.jp/jp/grants",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ホソカワ粉体工学振興財団",
+   "established_year": 1991,
+   "established_source_url": "https://www.kona.or.jp/jp/overview/overview.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.kona.or.jp/jp/overview/documents/",
+   "confidence": "medium",
+   "notes": "公式の財団概要に「設立許可 平成3年12月20日」とあるため、設立年は1991年。情報公開ページには最新の令和7年度事業報告書・決算報告書が掲載されているが、PDF本文を取得できず、総資産（または正味財産）および年間助成金支出総額の円額を直接確認できなかったためnullとした。採択件数や募集上限額からの推計は行っていない。"
+  },
+  "elapsed_s": 69
+ },
+ "fa1d34f6-0228-4671-ba4c-afca0843ce78": {
+  "name": "公益財団法人大同生命厚生事業団",
+  "url": "https://www.daido-life-welfare.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大同生命厚生事業団",
+   "established_year": 1974,
+   "established_source_url": "https://www.daido-life-welfare.or.jp/pdf/50th/4_Establishment.pdf",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 22000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.daido-life-welfare.or.jp/report.html",
+   "confidence": "medium",
+   "notes": "2026-07-15確認。公式50年史の沿革編に「1974年5月…設立」とある。公式「事業・会計報告」の年度別表では、直近の令和7年度（2025年度）の研究・活動助成金合計が2,200万円（地域保健福祉研究1,023万円、ボランティア活動1,177万円）であるため22,000,000円。最新の第16期（2025年度）貸借対照表へのリンクは公式ページで確認できたが、PDF本文を取得できず資産合計を検証できなかったため、総資産はnullとした。"
+  },
+  "elapsed_s": 124
+ },
+ "org_98ef8e51ac47": {
+  "name": "戸部眞紀財団",
+  "url": "https://tobe-maki.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人 戸部眞紀財団",
+   "established_year": 2013,
+   "established_source_url": "https://tobe-maki.or.jp/about/",
+   "total_assets_jpy": 22409130541,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 29260108,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://tobe-maki.or.jp/assets/file/teikan/2024_jigyouhoukoku.pdf",
+   "confidence": "high",
+   "notes": "公式概要に設立年月日を2013年12月6日と記載。最新公開の2024年度事業報告書・財務諸表（2025年3月31日現在）の貸借対照表で資産合計22,409,130,541円を確認。同年度の正味財産増減計算書に「団体研究機関助成費」29,260,108円、事業報告に研究助成30件・年間合計29,260千円と記載されているため、財務諸表の円単位の金額を年間助成金支出総額とした。奨学生給付金は助成金とは区別されているため含めていない。"
+  },
+  "elapsed_s": 38
+ },
+ "org_820e15134f74": {
+  "name": "小林製薬青い鳥財団",
+  "url": "https://www.kobayashi-foundation.or.jp/assist",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人 小林製薬青い鳥財団",
+   "established_year": 2017,
+   "established_source_url": "https://www.kobayashi-foundation.or.jp/about.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "confidence": "medium",
+   "notes": "公式の財団概要に設立年月日「平成29年5月26日」と記載されているため、設立年は2017年。公式サイトには最新の「貸借対照表（令和6年度）」へのリンク（https://www.kobayashi-foundation.or.jp/data/about_bs_r6.pdf）が存在するが、調査環境ではPDF本文を取得できず、総資産または正味財産の金額を確認できなかった。公式の2025年度助成実績ページ（https://www.kobayashi-foundation.or.jp/assist/result.html）は採択先を掲載しているが、各助成額および年間助成金支出総額の記載を確認できないためnull。推測・募集時の予定額による算出は行っていない。"
+  },
+  "elapsed_s": 66
  }
 }
