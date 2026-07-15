@@ -1,0 +1,1508 @@
+{
+ "長瀬科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 長瀬科学技術振興財団",
+   "source_url": "https://www.nagase-f.or.jp/wp-content/uploads/2025/07/2026_boshuyoukou.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "常勤の研究者",
+    "position": [
+     "常勤の研究者"
+    ],
+    "affiliation_type": [
+     "日本の大学",
+     "日本の研究所等"
+    ],
+    "nationality": null,
+    "field_scope": "有機化学（材料化学を含む）および生化学ならびに関連分野で、申請者が主体的に進める研究。医療研究、臨床研究および純然たる治療法の開発は対象外。",
+    "gender_scope": null,
+    "other_requirements": "所属機関長の承諾が必要。当財団へ結果報告書を提出できること。過去10年間に当財団の研究助成を受けていないこと。助成者本人は研究助成金贈呈式および研究成果発表会への出席が原則で、研究報告集への掲載承諾も必要。原則として企業との共同研究を含む応募は助成対象外。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2027年度募集要項は2026年7月16日時点で未公開のため、公式サイト掲載の最新募集要項である2026年度版を採用した。募集要項に年齢、国籍、性別の明記はないためnullとした。"
+  },
+  "url_hint": "https://www.nagase-f.or.jp"
+ },
+ "アステラス病態代謝研究会": {
+  "codex": {
+   "foundation_name": "公益財団法人 金原一郎記念医学医療振興財団",
+   "source_url": "https://www.kanehara-zaidan.or.jp/boshuyoko",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "2026年9月30日現在で満45歳以下",
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": "基礎医学研究に関する一定の目的を持ったプロジェクト",
+    "gender_scope": "女性研究者の積極的採用を心がける旨の記載あり（応募資格としての性別制限は明記なし）",
+    "other_requirements": "申請は原則1教室1名。過去3年以内に同種目（第38回、第39回、第40回基礎医学医療研究助成金）の助成を受けた者は対象外。所属大学・研究機関等の推薦または承認は不要で、個人応募が可能。応募はウェブエントリーのみ。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度上期「第41回基礎医学医療研究助成金」の公式募集要項から抽出した。対象職位、所属機関の種別、国籍、キャリア段階について明示的な応募要件は確認できなかった。"
+  },
+  "url_hint": "https://www.mochidazaidan.or.jp/kenkyu.html"
+ },
+ "金原一郎記念医学医療振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 金原一郎記念医学医療振興財団",
+   "source_url": "https://www.kanehara-zaidan.or.jp/boshuyoko",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "2026年9月30日現在で満45歳以下",
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": "基礎医学研究に関する一定の目的を持ったプロジェクト",
+    "gender_scope": "女性研究者の積極的採用を心がける旨の記載あり（応募資格としての性別制限は明記なし）",
+    "other_requirements": "申請は原則1教室1名。過去3年以内に同種目（第38回、第39回、第40回基礎医学医療研究助成金）の助成を受けた者は対象外。所属大学・研究機関等の推薦または承認は不要で、個人応募が可能。応募はウェブエントリーのみ。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度上期「第41回基礎医学医療研究助成金」の公式募集要項から抽出した。対象職位、所属機関の種別、国籍、キャリア段階について明示的な応募要件は確認できなかった。"
+  },
+  "url_hint": "http://www.kanehara-zaidan.or.jp"
+ },
+ "公益財団法人持田記念医学薬学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人持田記念医学薬学振興財団",
+   "source_url": "https://www.mochidazaidan.or.jp/pdf/2026kenkyu_boshu.pdf?20260122=",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "誕生日が1981年4月1日以降",
+    "career_stage": "研究者（学部・大学院等の学生は原則対象外）",
+    "position": [],
+    "affiliation_type": [
+     "大学・大学院等",
+     "一般病院等",
+     "公的研究機関等"
+    ],
+    "nationality": null,
+    "field_scope": "国内で行う、次の6領域の研究：バイオ技術を基盤とする先端医療、バイオ技術を基盤とするゲノム機能・病態解析、免疫・アレルギー・炎症・感染症の治療および制御、循環器・血液疾患の病態解析・治療制御、創薬・創剤の基盤、創薬とその臨床応用",
+    "gender_scope": null,
+    "other_requirements": "2023年度以降の本財団研究助成金交付対象者は対象外。企業所属の研究者および学部・大学院等の学生は原則対象外。応募は各研究機関の研究室から1件。大学・大学院等では教授職以上、一般病院等では部長職以上、公的研究機関等ではグループ長（教授同等職）以上の推薦が必要。教授が自ら申請する場合は自薦可。推薦者1人が推薦できる研究助成応募は1件まで。"
+   },
+   "confidence": "high",
+   "notes": "参考URLはテルモ生命科学振興財団のドメインであり対象財団とは異なる。対象財団の公式サイトは https://www.mochidazaidan.or.jp 。国籍要件、性別要件および申請者の具体的な対象職位は、公式募集要項に明記されていないためnullまたは空配列とした。"
+  },
+  "url_hint": "https://www.terumozaidan.or.jp"
+ },
+ "住友財団": {
+  "codex": {
+   "foundation_name": "公益財団法人住友財団",
+   "source_url": "https://www.sumitomo.or.jp/pdf/kiso/2026Kiso%20Boshu/kisoboshu%202026_jp.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "2026年4月1日時点で45歳以下（産前・産後休暇、育児休業等による研究中断がある場合は年齢要件を考慮）",
+    "career_stage": "若手研究者",
+    "position": [],
+    "affiliation_type": [
+     "大学",
+     "研究機関"
+    ],
+    "nationality": "日本の大学等の研究機関に所属する場合は国籍不問。それ以外は、日本国籍を持つ者または日本に永住を許可されている外国人",
+    "field_scope": "数学、物理学、化学、生物学およびこれらの複合分野、ならびに工学の基礎分野における萌芽的研究",
+    "gender_scope": null,
+    "other_requirements": "所属機関がある場合は、所属機関の長（大学では学科長・学部長・病院長等）の承諾が必要。営利企業等に所属・兼務する者は応募不可。申請者が研究計画の推進、助成金管理、終了後の報告を確実に行えること。同年度の住友財団研究助成への複数・重複応募は不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人住友財団の公式サイトであることを確認。住友財団には複数の研究助成制度があるため、本レコードは2026年度「基礎科学研究助成」の公式募集要項に基づく。対象職位および性別要件は募集要項に明記されていないため、空配列／nullとした。"
+  },
+  "url_hint": "https://www.sumitomo.or.jp"
+ },
+ "公益財団法人中谷財団": {
+  "codex": {
+   "foundation_name": "公益財団法人中谷財団",
+   "source_url": "https://www.nakatani-foundation.jp/grant_tech/grant_tech_03/requirements/",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": "2027年3月末日時点で40歳未満（ライフイベントによる研究中断期間は考慮）",
+    "career_stage": "若手研究者",
+    "position": [],
+    "affiliation_type": [
+     "日本国内の大学",
+     "日本国内の大学に準ずる研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "BME（Bio Medical Engineering）分野（生命科学と理工学の融合境界領域）。医療や人々の健康に貢献し得る研究を対象とし、基礎から応用までを含む。",
+    "gender_scope": null,
+    "other_requirements": "2027年3月末日時点で対象機関に所属していること。応募には所属機関長の承諾書が必要。同一期間に募集される特別研究助成・開発研究助成・奨励研究助成について、同一テーマでの複数応募および同一研究責任者からの複数応募は不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人中谷財団の公式サイトであることを確認。研究助成には複数区分があるため、対象者像が明確な2027年度「奨励研究助成」の応募資格を収録した。公式要項に対象職位・国籍・性別の明記はないため、positionは空配列、nationalityとgender_scopeはnullとした。"
+  },
+  "url_hint": "https://www.nakatani-foundation.jp"
+ },
+ "市村清新技術財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 市村清新技術財団",
+   "source_url": "https://www.sgkz.or.jp/download/data/35_plant_bosyu_yoko.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "常勤の研究者",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "大学",
+     "公的研究機関（文部科学省の科学研究費の申請資格がある機関）"
+    ],
+    "nationality": null,
+    "field_scope": "植物研究園および周辺地域の菌類・植物の生態研究、植物生態研究に必要な計測技術の開発と研究、植物機能を利用したみどりの回復・植物多様性の保全・再生・省資源に関する研究",
+    "gender_scope": null,
+    "other_requirements": "代表研究者は、研究の取りまとめ、助成金の管理・報告事務を含め、研究計画の推進に責任を持てること。申請テーマについて国または他の助成機関から助成を受けている場合は対象外。所属機関長・部局長の推薦が必要で、推薦・申請は同一の学部・研究科・部局等から2件以内。過去の受給者も再申請できるが、今回を含む助成累積年数は6年以内。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは同財団公式サイト内の「市村賞（科学技術分野）」であり、研究助成の募集要項ではないため、同財団の第35回（令和8年度）植物研究助成募集要項を出典とした。募集要項に年齢・国籍・性別の要件は明記されていないためnull。"
+  },
+  "url_hint": "https://www.sgkz.or.jp/prize/science"
+ },
+ "公益財団法人船井情報科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人船井情報科学振興財団",
+   "source_url": "https://funaifoundation.jp/grantees/fit_award_for_yr.html",
+   "fiscal_year": null,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "博士号取得後5年以内（応募時）の研究者",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "国内の大学",
+     "国内の公的研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "情報科学・情報技術分野を中心とする広い理工系分野",
+    "gender_scope": null,
+    "other_requirements": null
+   },
+   "confidence": "high",
+   "notes": "参考URLは対象財団ではなく、丸紅基金の公式サイト。対象財団の公式サイトは funaifoundation.jp。公式サイト上で研究者向けに公募されている「船井研究奨励賞」の応募資格を収録した。同制度は公式には研究助成ではなく「褒賞事業」に分類され、褒賞金は1件50万円。募集期間は2025年10月1日～2026年1月15日だが、ページに年度の明記がないため fiscal_year はnull。年齢、国籍、性別、具体的職位、推薦要件は明記されていない。"
+  },
+  "url_hint": "https://www.marubeni.or.jp"
+ },
+ "萩原学術振興財団": {
+  "codex": {
+   "foundation_name": "日本化学会",
+   "source_url": "https://www.chemistry.or.jp/application/prize-josei_202503.pdf",
+   "fiscal_year": 2025,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": null,
+    "gender_scope": null,
+    "other_requirements": "日本化学会が推薦窓口となる他機関の賞・助成金について、推薦を希望する日本化学会会員が対象。申請財団所定の様式を日本化学会へ提出し、業績審査を経て推薦候補者となる必要がある。個別の応募資格は各実施機関・制度により異なる。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは公益社団法人日本化学会の公式サイトであることを確認した。ただし、日本化学会自身による単一の研究助成制度の募集要項は確認できなかった。公式資料は、他機関が実施する複数の賞・助成金への推薦候補者募集であり、制度ごとに年齢・分野・国籍などが異なるため、共通資格として公式に確認できる事項以外はnull／空配列とした。"
+  },
+  "url_hint": "https://www.hagiwara-foundation.or.jp"
+ },
+ "日本化学会": {
+  "codex": {
+   "foundation_name": "日本化学会",
+   "source_url": "https://www.chemistry.or.jp/application/prize-josei_202503.pdf",
+   "fiscal_year": 2025,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": null,
+    "gender_scope": null,
+    "other_requirements": "日本化学会が推薦窓口となる他機関の賞・助成金について、推薦を希望する日本化学会会員が対象。申請財団所定の様式を日本化学会へ提出し、業績審査を経て推薦候補者となる必要がある。個別の応募資格は各実施機関・制度により異なる。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは公益社団法人日本化学会の公式サイトであることを確認した。ただし、日本化学会自身による単一の研究助成制度の募集要項は確認できなかった。公式資料は、他機関が実施する複数の賞・助成金への推薦候補者募集であり、制度ごとに年齢・分野・国籍などが異なるため、共通資格として公式に確認できる事項以外はnull／空配列とした。"
+  },
+  "url_hint": "https://www.chemistry.or.jp"
+ },
+ "牧誠財団": {
+  "codex": {
+   "foundation_name": "公益財団法人牧誠財団",
+   "source_url": "https://melco-foundation.jp/wp/wp-content/uploads/application_requirements20261.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "研究者、大学院生（研究助成A・挑戦的萌芽研究助成は研究者または博士後期課程大学院生、研究助成Bは博士後期課程大学院生）",
+    "position": [
+     "研究者",
+     "大学院生",
+     "博士後期課程大学院生"
+    ],
+    "affiliation_type": [
+     "日本の大学",
+     "日本の研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "日本企業で実践されている優れた管理会計実務の定式化または理論化に関する研究、およびそれらを含む周辺領域。特に、管理会計技法、管理会計システム、事業承継システム、それらに関連する管理システムを対象とする研究。",
+    "gender_scope": null,
+    "other_requirements": "個人申請では日本の大学・研究機関に所属する研究者または大学院生であること。大学院生は休学中または休学予定の場合は応募不可。共同研究の代表者は日本の大学・研究機関に所属し、大学院生は代表者になれない。申請者は助成期間中も大学・研究機関に所属すること。所属機関の代表者・学部長・研究所長またはこれらに準ずる者の推薦が必要で、大学院生は指導教員の推薦も必須。類似内容で他の財団等から既に助成を受けている、または受ける予定の個人・グループは応募不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは牧誠財団の公式サイトであることを確認。公式の「2026年度 研究助成等候補者一次募集要項」に基づく。年齢・国籍・性別に関する要件は募集要項に明記されていないためnull。"
+  },
+  "url_hint": "https://melco-foundation.jp"
+ },
+ "日本薬学会": {
+  "codex": {
+   "foundation_name": "公益財団法人サントリー文化財団",
+   "source_url": "https://www.suntory.co.jp/sfnd/research/pdf/jinbun_a_2026.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "なし",
+    "career_stage": "制限なし",
+    "position": [
+     "大学等に所属する研究者",
+     "作家",
+     "芸術家",
+     "各種専門職",
+     "公務員",
+     "団体職員"
+    ],
+    "affiliation_type": [],
+    "nationality": "国籍不問",
+    "field_scope": "人文学・社会科学分野における、従来の「研究」や「学問」を問い直す知的冒険に満ちたグループ研究",
+    "gender_scope": null,
+    "other_requirements": "申請代表者を含む3名以上によるグループ研究で、異なる組織・機関に所属する研究者・専門家によって構成すること。申請代表者には、書類作成および中間報告会での学際的議論に参加できる日本語能力と、中間報告会で研究の中間報告を行うことが求められる。所属・肩書・居住地は不問。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイトであることを確認。2026年度の公募型研究助成「学問の未来を拓く」の公式申請要項を採用した。性別要件は申請要項に明記がないためnull。所属・肩書・年齢・国籍・居住地は問わないと明記されている。財団には別途「若手研究者のためのチャレンジ研究助成」もあるが、本レコードは主要な研究助成「学問の未来を拓く」を対象とした。"
+  },
+  "url_hint": "https://www.pharm.or.jp"
+ },
+ "公益財団法人武田科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人武田科学振興財団",
+   "source_url": "https://www.takeda-sci.or.jp/assist/doc/26igaku-b.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "2026年4月1日現在、満45歳未満（出産・育児休暇などによる研究中断者は、年齢上限を考慮する場合あり）",
+    "career_stage": "研究者（大学院生・学生は対象外）",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "国内の大学医学部",
+     "国内の大学の医学系研究部門",
+     "国内の医学系研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "医学分野の進歩・発展に貢献する独創的な研究",
+    "gender_scope": null,
+    "other_requirements": "企業所属者は対象外。2023年度以降に同財団から研究助成金を受けた者は応募不可。同一年度は全助成プログラムを通じて1研究者1件、同一講座・研究室等から1件。所属講座・研究室等の長による推薦が必要。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。財団には複数の研究助成制度があり応募資格が異なるため、本レコードは公式募集要領を確認できた「2026年度 医学系研究助成」を対象とした。国籍・性別要件は当該募集要領に明記がないためnull。"
+  },
+  "url_hint": "https://www.takeda-sci.or.jp"
+ },
+ "公益財団法人サントリー文化財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 先進医薬研究振興財団",
+   "source_url": "https://www.smrf.or.jp/wordpress/wp-content/uploads/2026/03/sen2026bosyuyoryou.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "医師または研究者。キャリア段階の指定なし",
+    "position": [
+     "医師",
+     "研究者"
+    ],
+    "affiliation_type": [
+     "国内の医療施設",
+     "国内の医療施設に準ずる研究機関"
+    ],
+    "nationality": "外国籍可（申込書は日本語で記入）",
+    "field_scope": "疾病の治療、診断または予防への直接的貢献が期待される、先進的かつ臨床上有用性の高い研究。対象は精神薬療、血液医学、循環医学の各分野",
+    "gender_scope": null,
+    "other_requirements": "国際共同研究の場合も国内の医療施設またはそれに準ずる研究機関に研究拠点を有すること。過去に本財団の「特定研究助成」または「先進研究助成」を受領していないこと。本財団の助成による研究期間中でないこと。本年度の応募は1名1件。交付決定後の助成金申請には所属機関長の記名・捺印を得た承諾書が必要。民間企業所属者は応募不可"
+   },
+   "confidence": "high",
+   "notes": "公式サイトは https://www.smrf.or.jp/ 。参考URLは大正製薬のページであり、本財団の公式募集要項ではない。対象制度は2026年度「先進研究助成」。年齢・性別の要件は応募要領に記載がないためnull。外国籍可および民間企業所属者不可は公式Q&A（https://www.smrf.or.jp/category/guide）で確認した。"
+  },
+  "url_hint": "https://www.suntory.co.jp/sfnd"
+ },
+ "先進医薬研究振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人りそなアジア・オセアニア財団",
+   "source_url": "https://www.resona-ao.or.jp/project/promotion/pdf/josei2027.pdf",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": "原則として2027年4月1日現在、満39歳以下（共同研究の場合は代表者〔申込者〕の年齢）",
+    "career_stage": "若手研究者",
+    "position": [],
+    "affiliation_type": [],
+    "nationality": "外国人も応募可。ただし、外国人の場合は日本国内の大学または研究機関に所属している者",
+    "field_scope": "アジア・オセアニア諸国・地域に関する社会・文化・歴史・政治・経済等の人文・社会科学分野の調査・研究活動",
+    "gender_scope": null,
+    "other_requirements": "日本の大学または研究機関等に所属し、研究内容・学術的意義および申請者の研究者としての資質を把握している者から推薦を得られる個人。過去に財団から助成を受けた者は同じ区分の助成を再度受けられず、助成中に他区分の助成も受けられない。当該事業年度に日本学術振興会の科研費を代表者として受給（研究員採用を含む）することが決定した者は、原則として本助成を辞退する必要がある。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式「2027年度 アジア・オセアニア研究助成 応募要項」のうち、調査研究助成の応募資格を収録した。応募者本人について、日本人の場合の所属機関種別や具体的職位の制限は明記されていないため、positionとaffiliation_typeは空配列とした。性別要件も明記なし。推薦書は1次選考合格後の申請書提出時に提出する。"
+  },
+  "url_hint": "https://www.taisho.co.jp/company/news/2023/20231213001469"
+ },
+ "公益財団法人日本教育公務員弘済会": {
+  "codex": {
+   "foundation_name": "公益財団法人トヨタ財団",
+   "source_url": "https://www.toyotafound.or.jp/grant/research/data/2026_Research_Proposal_Guideline_JP.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "代表者は45歳以下（助成開始時）。代表者以外のプロジェクトメンバーには年齢制限なし",
+    "career_stage": "制限なし（学歴・経歴不問）",
+    "position": [
+     "制限なし（大学・研究機関の研究者、実務家、NGO/NPOで活動する市民、在野の研究者など）"
+    ],
+    "affiliation_type": [
+     "制限なし（無所属を含む）"
+    ],
+    "nationality": "国籍不問。ただし、代表者の主たる居住地は日本国内",
+    "field_scope": "人と人、人と自然、人とモノ・技術などの「つながり」を意識して明確な社会課題を研究対象とし、社会システムの変革などに取り組む研究。学術的枠組みを超えた実践を推奨するが、実践そのものだけを目的とするプロジェクトは対象趣旨と異なる",
+    "gender_scope": null,
+    "other_requirements": "2名以上による共同研究プロジェクトであること。研究成果を広く社会へ発信する意欲と、成果を社会で共有・実現する具体的方法まで視野に入れた計画が必要。助成期間中、代表者は財団担当者と密にコミュニケーションを取ることが求められる"
+   },
+   "confidence": "high",
+   "notes": "参考URLはトヨタ財団の公式ドメインだが、2019年度の国際助成プログラムを指しており、今回の研究助成の出典としては不適切。2026年度研究助成プログラムの公式募集要項を採用した。性別要件は募集要項に明記されていないためnull。"
+  },
+  "url_hint": "https://www.nikkyoko.or.jp/business/education.html#menu-title08"
+ },
+ "公益財団法人石橋財団": {
+  "codex": {
+   "foundation_name": "公益財団法人トヨタ財団",
+   "source_url": "https://www.toyotafound.or.jp/grant/research/data/2026_Research_Proposal_Guideline_JP.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "代表者は45歳以下（助成開始時）。代表者以外のプロジェクトメンバーには年齢制限なし",
+    "career_stage": "制限なし（学歴・経歴不問）",
+    "position": [
+     "制限なし（大学・研究機関の研究者、実務家、NGO/NPOで活動する市民、在野の研究者など）"
+    ],
+    "affiliation_type": [
+     "制限なし（無所属を含む）"
+    ],
+    "nationality": "国籍不問。ただし、代表者の主たる居住地は日本国内",
+    "field_scope": "人と人、人と自然、人とモノ・技術などの「つながり」を意識して明確な社会課題を研究対象とし、社会システムの変革などに取り組む研究。学術的枠組みを超えた実践を推奨するが、実践そのものだけを目的とするプロジェクトは対象趣旨と異なる",
+    "gender_scope": null,
+    "other_requirements": "2名以上による共同研究プロジェクトであること。研究成果を広く社会へ発信する意欲と、成果を社会で共有・実現する具体的方法まで視野に入れた計画が必要。助成期間中、代表者は財団担当者と密にコミュニケーションを取ることが求められる"
+   },
+   "confidence": "high",
+   "notes": "参考URLはトヨタ財団の公式ドメインだが、2019年度の国際助成プログラムを指しており、今回の研究助成の出典としては不適切。2026年度研究助成プログラムの公式募集要項を採用した。性別要件は募集要項に明記されていないためnull。"
+  },
+  "url_hint": "http://www.ishibashi-foundation.or.jp"
+ },
+ "トヨタ財団": {
+  "codex": {
+   "foundation_name": "公益財団法人トヨタ財団",
+   "source_url": "https://www.toyotafound.or.jp/grant/research/data/2026_Research_Proposal_Guideline_JP.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "代表者は45歳以下（助成開始時）。代表者以外のプロジェクトメンバーには年齢制限なし",
+    "career_stage": "制限なし（学歴・経歴不問）",
+    "position": [
+     "制限なし（大学・研究機関の研究者、実務家、NGO/NPOで活動する市民、在野の研究者など）"
+    ],
+    "affiliation_type": [
+     "制限なし（無所属を含む）"
+    ],
+    "nationality": "国籍不問。ただし、代表者の主たる居住地は日本国内",
+    "field_scope": "人と人、人と自然、人とモノ・技術などの「つながり」を意識して明確な社会課題を研究対象とし、社会システムの変革などに取り組む研究。学術的枠組みを超えた実践を推奨するが、実践そのものだけを目的とするプロジェクトは対象趣旨と異なる",
+    "gender_scope": null,
+    "other_requirements": "2名以上による共同研究プロジェクトであること。研究成果を広く社会へ発信する意欲と、成果を社会で共有・実現する具体的方法まで視野に入れた計画が必要。助成期間中、代表者は財団担当者と密にコミュニケーションを取ることが求められる"
+   },
+   "confidence": "high",
+   "notes": "参考URLはトヨタ財団の公式ドメインだが、2019年度の国際助成プログラムを指しており、今回の研究助成の出典としては不適切。2026年度研究助成プログラムの公式募集要項を採用した。性別要件は募集要項に明記されていないためnull。"
+  },
+  "url_hint": "https://www.toyotafound.or.jp/international/2019"
+ },
+ "三井住友海上福祉財団": {
+  "codex": {
+   "foundation_name": "公益財団法人三井住友海上福祉財団",
+   "source_url": "https://www.ms-ins.com/welfare/research_grant.htm",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "キャリア段階の制限なし。特に若手研究者の応募を期待すると明記。",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": "①道路・鉄道（軌道）・港湾・空港に関連する交通事故または各種災害の安全防止策、および関連する交通現象、法制度、計画、対策、予測法等の研究、②高齢者福祉（医療、介護、予防、心理、環境など）に関する研究。",
+    "gender_scope": null,
+    "other_requirements": "個人研究・グループ研究のいずれも可。営利企業関係者、海外所在の研究機関に所属する研究者が代表者となる研究、実質的に完了している研究は対象外。同一研究室・講座等（高齢者福祉分野では診療科を含む）からの応募は1件となるよう所属機関内で事前調整が必要。財団賞等との同年度の重複受賞は不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。令和8年度（2026年度）の公式研究助成応募要項から抽出した。年齢、国籍、性別および具体的な対象職位・対象所属種別は明記されていないため、該当項目はnullまたは空配列とした。募集受付は2026年6月30日で終了。"
+  },
+  "url_hint": "https://www.ms-ins.com/welfare"
+ },
+ "りそなアジア・オセアニア財団": {
+  "codex": {
+   "foundation_name": "公益財団法人三井住友海上福祉財団",
+   "source_url": "https://www.ms-ins.com/welfare/research_grant.htm",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "キャリア段階の制限なし。特に若手研究者の応募を期待すると明記。",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": "①道路・鉄道（軌道）・港湾・空港に関連する交通事故または各種災害の安全防止策、および関連する交通現象、法制度、計画、対策、予測法等の研究、②高齢者福祉（医療、介護、予防、心理、環境など）に関する研究。",
+    "gender_scope": null,
+    "other_requirements": "個人研究・グループ研究のいずれも可。営利企業関係者、海外所在の研究機関に所属する研究者が代表者となる研究、実質的に完了している研究は対象外。同一研究室・講座等（高齢者福祉分野では診療科を含む）からの応募は1件となるよう所属機関内で事前調整が必要。財団賞等との同年度の重複受賞は不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。令和8年度（2026年度）の公式研究助成応募要項から抽出した。年齢、国籍、性別および具体的な対象職位・対象所属種別は明記されていないため、該当項目はnullまたは空配列とした。募集受付は2026年6月30日で終了。"
+  },
+  "url_hint": "https://www.resona-ao.or.jp"
+ },
+ "日本生化学会": {
+  "codex": {
+   "foundation_name": "公益社団法人 日本生化学会",
+   "source_url": "https://www.jbsoc.or.jp/seika/wp-content/uploads/2026/06/2027_osamu_hayaishi_application_guidelines.pdf",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": "年齢は問わない。ただし、博士号取得から満10年以内を上限とする（ライフイベント・特殊事情は考慮）",
+    "career_stage": "生化学分野の将来を担う若手研究者。原則として博士号取得者または取得見込みの者",
+    "position": [
+     "研究者",
+     "学生"
+    ],
+    "affiliation_type": [],
+    "nationality": "国籍要件の明記なし。日本在住または将来日本の生命科学に貢献できる者",
+    "field_scope": "生化学に関わる生命科学全般の研究",
+    "gender_scope": null,
+    "other_requirements": "日本生化学会の会員で、申請時に会員歴が満3年以上（休会中を除く）。同一研究室からの応募は1件まで。学生は指導教官の承諾が必要。2027年4月1日～2028年3月31日に研究の発展を目的とする海外渡航を予定し、渡航先は日本国外であること。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは日本生化学会の公式サイトであることを確認。最新の公式助成募集として「2027年度 早石修記念海外渡航助成」を採用した。これは一般的な研究費助成ではなく、国際会議参加・海外共同研究・研究機関訪問などの海外渡航助成。所属機関の種別および性別要件は募集要項に明記されていないため、空配列またはnullとした。"
+  },
+  "url_hint": "https://www.jbsoc.or.jp"
+ },
+ "SOMPO福祉財団（旧：損保ジャパン日本興亜福祉財団）": {
+  "codex": {
+   "foundation_name": "公益財団法人SOMPO福祉財団（旧：損保ジャパン日本興亜福祉財団）",
+   "source_url": "https://www.sompo-wf.org/jyosei/gerontology.html",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "研究者、研究グループ、大学院在籍者、老人福祉施設・老人保健施設・病院等の現場関係者",
+    "position": [
+     "研究者",
+     "大学院生",
+     "現場関係者"
+    ],
+    "affiliation_type": [
+     "大学",
+     "教育機関",
+     "研究所",
+     "研究機関",
+     "老人福祉施設",
+     "老人保健施設",
+     "病院"
+    ],
+    "nationality": "国籍要件の明記なし。申込者（共同研究の場合は代表研究者）は日本在住者であること",
+    "field_scope": "ジェロントロジー（老年学）に関する社会科学・人文科学分野の独創的・先進的研究。対象分野は社会学、社会福祉学、ならびに社会科学・人文科学に関連する心理学、看護学、保健学",
+    "gender_scope": null,
+    "other_requirements": "所属長の推薦が必要。共同研究は代表研究者を定め、代表研究者が申請すること。日本語による研究報告が必要。大学院生の所属長は担当教官、学部長等。前回（2024年度）募集時の研究助成金受領者は対象外。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度「ジェロントロジー研究助成」の公式募集要項ページに基づく（確認日：2026-07-16）。年齢制限・性別要件・国籍そのものの制限は募集要項に明記されていないため、該当項目はnullまたは明記なしとした。"
+  },
+  "url_hint": "https://www.sompo-wf.org"
+ },
+ "日本生命財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 花王芸術・科学財団",
+   "source_url": "https://www.kao-foundation.or.jp/science/assist/",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": "2027年4月1日現在35歳以下。例外として、36歳以上でも博士の学位取得後4年以内の者を含む。年齢制限を超えていても、ライフイベントによる研究中断があった者は、申告書を添付して応募可能（選考委員会で審議）。",
+    "career_stage": "若い研究者。研究グループの一員の場合は、主体的に研究している研究者に限る。",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "国内の国公私立大学",
+     "国内の研究所等"
+    ],
+    "nationality": "外国籍可（外国籍研究者の応募を歓迎）",
+    "field_scope": "「表面の科学」の化学・物理学分野、または医学・生物学分野。化学・物理学分野は界面・表面の科学に関する研究、医学・生物学分野は表皮・上皮・内皮の各細胞、その付属器官および関連する生理機能を対象とする研究。",
+    "gender_scope": "性別による限定なし（女性研究者の応募を歓迎）",
+    "other_requirements": "所属機関から応募する場合は、所属機関の責任者（学部長、研究科長等）の承認が必要で、1研究施設からの応募は1件。もう一つの応募経路として、財団が指定した学会からの推薦がある。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式サイト掲載の「2027年度 花王科学奨励賞（研究助成）応募要項」に基づく（確認日：2026-07-16）。"
+  },
+  "url_hint": "https://nihonseimei-zaidan.or.jp/kourei/02.html"
+ },
+ "花王芸術・科学財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 花王芸術・科学財団",
+   "source_url": "https://www.kao-foundation.or.jp/science/assist/",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": "2027年4月1日現在35歳以下。例外として、36歳以上でも博士の学位取得後4年以内の者を含む。年齢制限を超えていても、ライフイベントによる研究中断があった者は、申告書を添付して応募可能（選考委員会で審議）。",
+    "career_stage": "若い研究者。研究グループの一員の場合は、主体的に研究している研究者に限る。",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "国内の国公私立大学",
+     "国内の研究所等"
+    ],
+    "nationality": "外国籍可（外国籍研究者の応募を歓迎）",
+    "field_scope": "「表面の科学」の化学・物理学分野、または医学・生物学分野。化学・物理学分野は界面・表面の科学に関する研究、医学・生物学分野は表皮・上皮・内皮の各細胞、その付属器官および関連する生理機能を対象とする研究。",
+    "gender_scope": "性別による限定なし（女性研究者の応募を歓迎）",
+    "other_requirements": "所属機関から応募する場合は、所属機関の責任者（学部長、研究科長等）の承認が必要で、1研究施設からの応募は1件。もう一つの応募経路として、財団が指定した学会からの推薦がある。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式サイト掲載の「2027年度 花王科学奨励賞（研究助成）応募要項」に基づく（確認日：2026-07-16）。"
+  },
+  "url_hint": "https://www.kao-foundation.or.jp"
+ },
+ "公益財団法人とくしま産業振興機構": {
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/research_grants/hagukumu_takameru",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": "はぐくむ：2026年4月1日時点で理工系・生物系は40歳以下、人社系は50歳以下。たかめる：同日時点で理工系・生物系は45歳以下、人社系は55歳以下。",
+    "career_stage": "助教相当以上の常勤研究者。独立した研究テーマを設定し、研究費管理・成果発表に自ら責任を負える者。ポスドクは対象外。",
+    "position": [
+     "助教相当以上"
+    ],
+    "affiliation_type": [
+     "募集案内を送付した大学・機関（指定校）"
+    ],
+    "nationality": null,
+    "field_scope": "自然科学（理工系・生物系）および人文・社会科学（人社系）。はぐくむは独創的アイデアに基づく先駆的研究（探索的・萌芽期を含む）、たかめるは自身の研究成果を発展させ卓越性を追求する研究。",
+    "gender_scope": "限定なし（女性研究者を含む幅広い研究者からの応募を期待）",
+    "other_requirements": "日本に居住していること。研究を主要な職務の一つとして所属機関とフルタイム勤務の雇用契約を結び、申請研究を主体的に立案・遂行・発表できること。所属研究機関または部局の長による推薦が必要。1人1件のみで、両コースへの重複申請および稲盛財団の他の助成との重複受給は不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人稲盛財団の公式サイトであることを確認。2027年度の公式募集ページおよび同ページ掲載の両コース募集要項を参照した。国籍自体の要件は募集要項に明記されていないためnationalityはnull。募集要項PDF：はぐくむ https://www.inamori-f.or.jp/wp-content/uploads/2025/01/fy2027_hagukumu_application_guidelines.pdf 、たかめる https://www.inamori-f.or.jp/wp-content/uploads/2025/01/fy2027_takameru_application_guidelines.pdf"
+  },
+  "url_hint": "https://www.our-think.or.jp"
+ },
+ "公益財団法人稲盛財団": {
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/research_grants/hagukumu_takameru",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": "はぐくむ：2026年4月1日時点で理工系・生物系は40歳以下、人社系は50歳以下。たかめる：同日時点で理工系・生物系は45歳以下、人社系は55歳以下。",
+    "career_stage": "助教相当以上の常勤研究者。独立した研究テーマを設定し、研究費管理・成果発表に自ら責任を負える者。ポスドクは対象外。",
+    "position": [
+     "助教相当以上"
+    ],
+    "affiliation_type": [
+     "募集案内を送付した大学・機関（指定校）"
+    ],
+    "nationality": null,
+    "field_scope": "自然科学（理工系・生物系）および人文・社会科学（人社系）。はぐくむは独創的アイデアに基づく先駆的研究（探索的・萌芽期を含む）、たかめるは自身の研究成果を発展させ卓越性を追求する研究。",
+    "gender_scope": "限定なし（女性研究者を含む幅広い研究者からの応募を期待）",
+    "other_requirements": "日本に居住していること。研究を主要な職務の一つとして所属機関とフルタイム勤務の雇用契約を結び、申請研究を主体的に立案・遂行・発表できること。所属研究機関または部局の長による推薦が必要。1人1件のみで、両コースへの重複申請および稲盛財団の他の助成との重複受給は不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人稲盛財団の公式サイトであることを確認。2027年度の公式募集ページおよび同ページ掲載の両コース募集要項を参照した。国籍自体の要件は募集要項に明記されていないためnationalityはnull。募集要項PDF：はぐくむ https://www.inamori-f.or.jp/wp-content/uploads/2025/01/fy2027_hagukumu_application_guidelines.pdf 、たかめる https://www.inamori-f.or.jp/wp-content/uploads/2025/01/fy2027_takameru_application_guidelines.pdf"
+  },
+  "url_hint": "https://www.inamori-f.or.jp"
+ },
+ "化学及血清療法研究所": {
+  "codex": {
+   "foundation_name": "一般財団法人化学及血清療法研究所",
+   "source_url": "https://www.kaketsuken.org/pdf/josei_kenkyu_2026_002.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "日本の大学",
+     "日本の公的研究機関等"
+    ],
+    "nationality": null,
+    "field_scope": "感染症領域（人獣を含む）及び血液領域の基礎的研究。対象は、細菌学（真菌学を含む）・寄生虫学、ウイルス学、造血器腫瘍学・造血幹細胞・造血発生、血栓止血学・血管生物学、感染症及び血液領域の免疫学に関連する研究。海外で行う研究は対象外。",
+    "gender_scope": null,
+    "other_requirements": "先端的・独創的な研究に取り組む研究者個人、研究チーム・団体が対象。チーム・団体は主たる研究者が申請する。大学・大学院の学生、営利法人所属者、当財団の寄付講座・共同研究講座等の所属者は対象外。申請は各研究機関の研究室につき1件。主たる申請者は同年度の若手研究奨励助成・ステップアップ研究助成との重複申請不可。化血研研究助成の受給中または受給歴がある者、および若手研究奨励助成・ステップアップ研究助成の受給中の者は申請不可。大学所属者は所属大学の教授職以上、大学以外の公的研究機関等の所属者は所属機関のグループ長（教授同等職）以上の推薦が必要。教授・グループ長等は自薦可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認した。財団には2026年度に3種類の研究助成があるため、本レコードは名称が基本形の『化血研研究助成』を対象とした。年齢・国籍・性別の要件は同助成の公式申請要領に記載がないためnullとした。"
+  },
+  "url_hint": "https://www.kaketsuken.org"
+ },
+ "公益財団法人旭硝子財団": {
+  "codex": {
+   "foundation_name": "公益財団法人旭硝子財団",
+   "source_url": "https://af-info.or.jp/research/apply.html",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": "プログラム別。研究奨励およびサステイナブルな未来への研究助成＜提案研究コース＞は1981年1月1日以降生まれ（45歳以下）。同＜発展研究コース＞およびブループラネット地球環境特別研究助成は年齢制限なし。",
+    "career_stage": "研究奨励および提案研究コースは若手研究者を対象。発展研究コースは基礎研究の成果をさらに発展させる研究者を対象。全公募型プログラム共通で、主体的に研究を進める原則として常勤の研究者。",
+    "position": [
+     "原則として常勤の研究者",
+     "任期付研究者"
+    ],
+    "affiliation_type": [
+     "国内の大学",
+     "国内の大学附置研究所",
+     "大学共同利用機関",
+     "高等専門学校"
+    ],
+    "nationality": null,
+    "field_scope": "研究奨励：化学・生命、物理・情報。サステイナブルな未来への研究助成：建築・都市、人文・社会科学、環境フィールド研究。ブループラネット地球環境特別研究助成：地球環境問題の解決を目指す、上記5分野のうち複数分野による融合研究。",
+    "gender_scope": null,
+    "other_requirements": "大学附属病院専従者は対象外。任期付研究者は応募時点で少なくとも研究期間初年度の雇用が見込まれ、外部研究費受給の制約がないこと。所属機関が助成金を研究費として管理し、所属長が応募を承認すること。応募時点で同財団の研究助成を受給中でなく、同一年度に複数応募しないこと。ブループラネット助成は代表者を含む2～4人程度の研究チームが必要で、助成金を直接受領するメンバーにも所属等の要件を適用する。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイトであることを確認。2027年度（2026年度募集）の公募型研究助成3種を統合した対象者像。国籍・性別の要件は公式募集要項に明記がないためnull。個別募集要項：https://af-info.or.jp/research/assets/pdf/apply/2027_natural_application.pdf 、https://af-info.or.jp/research/assets/pdf/apply/2027_sustainable_application.pdf 、https://af-info.or.jp/research/assets/pdf/apply/2027_bp_application.pdf"
+  },
+  "url_hint": "https://www.af-info.or.jp"
+ },
+ "公益財団法人飯島藤十郎記念食品科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人飯島藤十郎記念食品科学振興財団",
+   "source_url": "https://www.iijima-kinenzaidan.or.jp/pdf/Grant_Guidelines_2025.pdf",
+   "fiscal_year": 2025,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "研究者・研究グループ（大学院生、学部学生、研究生は対象外）。個人研究では若手研究者の積極的な応募を期待する旨の記載はあるが、若手限定ではない。",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "日本国内の大学",
+     "日本国内の短期大学",
+     "日本国内の高等専門学校等",
+     "日本国内の公的研究機関",
+     "日本国外に所在する同等の研究機関（個人研究助成のみ）"
+    ],
+    "nationality": "日本国内の対象機関に所属する申請者について国籍要件の明記なし。日本国外の同等の研究機関に所属して個人研究助成へ申請する場合は、日本国籍を有する者に限る。",
+    "field_scope": "米麦その他の主要食糧等を原料とする食品に係る食品科学等の研究領域。例示分野は、生産・加工、成分分析、食品の機能・栄養、安全・衛生・保存・貯蔵、物性・品質・調理、食品素材として利用される乳・卵・豆等とその成分、澱粉・多糖類・油脂、発酵・微生物、食品科学との学際的研究など。",
+    "gender_scope": null,
+    "other_requirements": "企業所属の研究者は対象外。所属研究機関長の推薦が必要。助成期間中、同一または類似内容の研究課題で他の民間財団等から助成を受ける予定がないこと。同一機関・同一学部系からの申請数および同一研究室からの申請数に制限あり。過去の本助成受給回数が申請時点で3回以下で、3年連続助成は不可。当財団の「国際学術会議等開催援助」を除く他の助成事業との重複申請は不可。共同研究助成には、代表研究者と同一研究機関の同一学部系に所属しない共同研究者を1人以上含むなどの追加要件がある。"
+   },
+   "confidence": "high",
+   "notes": "公式サイトは https://www.iijima-kinenzaidan.or.jp/ 。参考URL http://www.green.or.jp は当財団の公式サイトではない。2026年度学術研究助成募集要領は公式サイト上で2026年8月上旬公表予定とされているため、現時点で掲載されている最新の公式募集要領（2025年度）を採用した。年齢制限および性別要件は募集要領に明記されていないためnull。"
+  },
+  "url_hint": "http://www.green.or.jp"
+ },
+ "公益財団法人三菱財団": {
+  "codex": {
+   "foundation_name": "公益財団法人飯島藤十郎記念食品科学振興財団",
+   "source_url": "https://www.iijima-kinenzaidan.or.jp/pdf/Grant_Guidelines_2025.pdf",
+   "fiscal_year": 2025,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "研究者・研究グループ（大学院生、学部学生、研究生は対象外）。個人研究では若手研究者の積極的な応募を期待する旨の記載はあるが、若手限定ではない。",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "日本国内の大学",
+     "日本国内の短期大学",
+     "日本国内の高等専門学校等",
+     "日本国内の公的研究機関",
+     "日本国外に所在する同等の研究機関（個人研究助成のみ）"
+    ],
+    "nationality": "日本国内の対象機関に所属する申請者について国籍要件の明記なし。日本国外の同等の研究機関に所属して個人研究助成へ申請する場合は、日本国籍を有する者に限る。",
+    "field_scope": "米麦その他の主要食糧等を原料とする食品に係る食品科学等の研究領域。例示分野は、生産・加工、成分分析、食品の機能・栄養、安全・衛生・保存・貯蔵、物性・品質・調理、食品素材として利用される乳・卵・豆等とその成分、澱粉・多糖類・油脂、発酵・微生物、食品科学との学際的研究など。",
+    "gender_scope": null,
+    "other_requirements": "企業所属の研究者は対象外。所属研究機関長の推薦が必要。助成期間中、同一または類似内容の研究課題で他の民間財団等から助成を受ける予定がないこと。同一機関・同一学部系からの申請数および同一研究室からの申請数に制限あり。過去の本助成受給回数が申請時点で3回以下で、3年連続助成は不可。当財団の「国際学術会議等開催援助」を除く他の助成事業との重複申請は不可。共同研究助成には、代表研究者と同一研究機関の同一学部系に所属しない共同研究者を1人以上含むなどの追加要件がある。"
+   },
+   "confidence": "high",
+   "notes": "公式サイトは https://www.iijima-kinenzaidan.or.jp/ 。参考URL http://www.green.or.jp は当財団の公式サイトではない。2026年度学術研究助成募集要領は公式サイト上で2026年8月上旬公表予定とされているため、現時点で掲載されている最新の公式募集要領（2025年度）を採用した。年齢制限および性別要件は募集要領に明記されていないためnull。"
+  },
+  "url_hint": "https://info.gbiz.go.jp/hojin/ichiran?hojinbango=4120005014293"
+ },
+ "住友生命健康財団": {
+  "codex": {
+   "foundation_name": "住友生命健康財団",
+   "source_url": "https://skzaidan.or.jp/application/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": null,
+    "gender_scope": null,
+    "other_requirements": null
+   },
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人住友生命健康財団の公式サイトであることを確認した（2026-07-16閲覧）。公式サイトで確認できた公募助成は、団体のコミュニティスポーツ活動を対象とする「スミセイ コミュニティスポーツ推進助成プログラム」であり、研究者向けの研究助成ではない。公式サイト内に研究助成の募集要項・応募資格を確認できなかったため、研究助成のeligibilityはすべてnull／空配列とした。"
+  },
+  "url_hint": "https://skzaidan.or.jp"
+ },
+ "日本数学会": {
+  "codex": {
+   "foundation_name": "日本数学会",
+   "source_url": "https://www.mathsoc.jp/assets/file/publicity/news20250901/guideline.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "年齢制限の明記なし。2026年4月1日現在、博士号取得後7年以内。ただし、出産・育児による研究活動の中断が認められる場合は取得後10年以内",
+    "career_stage": "博士の学位を有する若手研究者",
+    "position": [],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": null,
+    "gender_scope": null,
+    "other_requirements": "2026年4月1日現在、日本数学会会員であること。国外の研究機関で自ら行う研究活動、または国外の研究機関所属研究者との共同研究について計画を有すること。国外の機関に所属する研究者による自筆署名付き推薦書の提出が必須。申請は1人1件まで。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは一般社団法人日本数学会の公式サイトであることを確認。対象制度は「2026・2027年度 日本数学会在外研究奨励フェロー」。募集期間は2025年9月1日～12月15日、支給期間は2026年4月1日～2028年3月31日。募集要項に国籍、性別、対象職位、応募者の所属機関種別、具体的な研究分野の限定は明記されていないため、該当項目はnullまたは空配列とした。"
+  },
+  "url_hint": "https://mathsoc.jp"
+ },
+ "中外創薬科学財団（旧：東京生化学研究会）": {
+  "codex": {
+   "foundation_name": "公益財団法人 中外創薬科学財団（旧：東京生化学研究会）",
+   "source_url": "https://c-finds.com/business/grant/research/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "研究助成金Ⅰ：年齢制限の記載なし。研究助成金Ⅱ：原則、申請時に40歳以下（出産・育児等のライフイベント経験者は42歳以下）",
+    "career_stage": "研究者。研究助成金Ⅱは若手研究者を対象。大学院生は対象外",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "大学",
+     "研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "次のいずれか：(1) 化学または物理学を基盤とした創薬・創薬関連研究、(2) 生物学または基礎医学を基盤とした基礎・応用研究、(3) 臨床医学を基盤とした研究、(4) がんに関する基礎・応用研究",
+    "gender_scope": null,
+    "other_requirements": "日本国内の大学または研究機関で研究を行い、所属機関・申請者とも科学研究費補助金の申請資格を有すること。原則として営利企業所属者は対象外。研究助成金Ⅰ・Ⅱ・特別研究助成金を通じて1申請者1件まで。他組織の研究助成とほぼ同一の研究テーマ・内容の申請は不可。研究助成金Ⅰは注目すべき革新的業績、Ⅱは画期的成果をあげ、さらに意欲的に研究へ取り組んでいることが要件"
+   },
+   "confidence": "high",
+   "notes": "参考URLのc-finds.comは公式サイトであることを確認。通常の学術研究助成である「研究助成金Ⅰ・Ⅱ」の2026年度募集要項を対象に統合した。公式PDF：https://c-finds.com/images/2026/04/research_kenkyu1_2026.pdf、https://c-finds.com/images/2026/04/research_kenkyu2_2026.pdf。国籍・性別について通常の研究助成金Ⅰ・Ⅱには明記がないためnull。女性限定の特別研究助成金SRG2023などは別制度のため含めていない。"
+  },
+  "url_hint": "https://c-finds.com"
+ },
+ "ＪＫＡ": {
+  "codex": {
+   "foundation_name": "公益財団法人ＪＫＡ",
+   "source_url": "https://hojo.keirin-autorace.or.jp/shinsei/shikata/koji/2027/pdf/hojohoushin.pdf",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "研究者。機械振興の「若手研究」および公益事業振興の研究補助は、研究に従事してから概ね15年以内の若手研究者。機械振興の個別研究・開発研究・ステップアップ研究・複数年研究には若手限定の記載なし。国際交流は、海外の国際会議等で発表する大学院生を対象とするが、申請者はその指導教員。",
+    "position": [
+     "研究者",
+     "大学院生の指導教員（国際交流の申請者）"
+    ],
+    "affiliation_type": [
+     "大学（短期大学を含む）",
+     "大学共同利用機関法人",
+     "高等専門学校"
+    ],
+    "nationality": null,
+    "field_scope": "機械振興に資する研究（個別研究、若手研究、新技術・新製品の実用化を目的とする開発研究、既採択研究を発展させるステップアップ研究、複数年研究、海外の国際会議・シンポジウム等で大学院生が研究発表を行う国際交流）ならびに、公益・社会福祉の増進に資する研究（幸せに暮らせる社会を創るための活動、ギャンブル等依存症、女性のスポーツ機会向上、女性アスリートの競技力・社会的評価向上）。",
+    "gender_scope": null,
+    "other_requirements": "大学等研究機関に所属し、その組織の研究活動に実際に従事していること。原則として申請者は研究者本人で、大学院生等の学生は申請者になれず、所属長の了承が必要。申請後から事業完了まで所属変更等によって要件を満たさなくなった場合、原則として交付を受けられないか交付決定が取り消される。同一事業について国または他団体から補助を受けている者、および自らのウェブサイトで活動状況等を継続的に発信していない者またはSNSのみで発信している者は対象外。2026年度複数年研究の2年目の者は、国際交流を除く研究補助の対象外。機械振興研究の個別研究～複数年研究間、および公益研究の4分野間では、同一研究者による重複申請不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人JKAの公式サイトであることを確認。最新の公式資料「2027年度 補助方針」（2026年7月1日公示）を出典とした。年齢、国籍、性別について明示された応募要件は確認できないためnull。公益研究の「女性」は研究対象・研究テーマに関する記載であり、申請者の性別要件ではない。"
+  },
+  "url_hint": "https://www.keirin-autorace.or.jp"
+ },
+ "公益財団法人キヤノン財団": {
+  "codex": {
+   "foundation_name": "一般財団法人キヤノン財団",
+   "source_url": "https://jp.foundation.canon/common/pdf/aid_ideal/m_cz_youkou_202604.pdf?001=",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [
+     "研究者（研究代表者）"
+    ],
+    "affiliation_type": [
+     "大学",
+     "大学院（付属機関を含む）",
+     "大学共同利用機関",
+     "高等専門学校",
+     "その他公的研究機関等"
+    ],
+    "nationality": "国籍不問。ただし研究代表者は日本国内に居住していること",
+    "field_scope": "2プログラムを募集。「善き未来をひらく科学技術」は、広範な自然科学、および人文科学・社会科学を取り入れた自然科学のテーマ。「新産業を生む科学技術」は、ICT・エレクトロニクス・ロボティクス、健康・医療・生命科学、バイオテクノロジー、環境・資源・エネルギー、マテリアル・デバイス・プロセス、サービスサイエンス等の広範な科学技術分野",
+    "gender_scope": null,
+    "other_requirements": "国内の対象機関に勤務し、勤務先の大学・研究機関等の設備を利用して実質的に研究活動を行えること。「研究費の不正使用」等により、公的機関の競争的資金への申請・参加資格を制限されていないこと。申請は1人1件。研究代表者は同一年度に複数申請できず、既に同財団の助成を受けている場合は助成期間が重複する申請は不可。自身の過去採択案件と同様の継続研究は選考対象外。大学院生・学生は共同研究者になれない。所属機関上長の記名・公印が必要"
+   },
+   "confidence": "high",
+   "notes": "参考URLは野村財団のドメインであり、対象財団とは異なる。公式サイトは https://jp.foundation.canon/ 。依頼上の名称は「公益財団法人」だが、公式募集要項に記載された法人名は「一般財団法人キヤノン財団」。応募資格は両研究助成プログラムで共通。年齢制限、具体的な職位、キャリア段階、性別要件は公式募集要項に明記がないためnull。もう一方の公式募集要項：https://jp.foundation.canon/common/pdf/aid_industrial_base/s_cz_youkou_202604.pdf?003="
+  },
+  "url_hint": "https://www.nomurafoundation.or.jp"
+ },
+ "加藤記念バイオサイエンス振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 加藤記念バイオサイエンス振興財団",
+   "source_url": "https://www.katokinen.or.jp/category/applications",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "M分野・B分野は40歳以下、E分野は35歳以下。年齢制限には例外あり（詳細条件は確認できず）",
+    "career_stage": "若手研究者",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "国内の大学",
+     "国内の公的研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "バイオサイエンスの基礎分野。M分野（メディカルサイエンス分野）、B分野（バイオテクノロジー分野）、E分野（環境バイオ分野）",
+    "gender_scope": null,
+    "other_requirements": "独創的かつ先駆的研究を目指す者。申請には研究者登録が必要で、研究者専用ページから提出する。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の第38回（2026年度）研究助成ページから抽出した。国籍および性別の要件は明記されていないためnull。年齢制限の例外がある旨は明記されているが、同ページでは具体的条件を確認できないため推測していない。"
+  },
+  "url_hint": "https://www.katokinen.or.jp"
+ },
+ "公益財団法人三菱ＵＦＪ信託奨学財団": {
+  "codex": {
+   "foundation_name": "公益財団法人三菱ＵＦＪ信託奨学財団",
+   "source_url": "https://www.scholarship.or.jp/files/user/pdf/researchgrantyoukou2026.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "現に職業として法律・経済・経営・商学の研究または実務に携わり、報酬を得ている専門家",
+    "position": [
+     "教授",
+     "弁護士等の専門家"
+    ],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": "信託に関連した業務・法律の分野で、日本の信託制度または信託業務の発展に資する研究、もしくは金融（法定通貨に限らずデジタル通貨を含む）の分野で、日本経済の発展に資する調査・研究",
+    "gender_scope": null,
+    "other_requirements": "法律・経済・経営・商学の専門家を核として、複数名が共同で研究グループを組織し、グループとして応募すること。研究成果を公表すること。研究の必要性を理解する、研究グループ構成員以外の推薦者による推薦が必要。"
+   },
+   "confidence": "high",
+   "notes": "参考URL（otsukafoundation.org）は対象財団の公式サイトではない。公式サイトは scholarship.or.jp。公式の2026年度研究助成金募集要項に基づく。年齢、所属機関、国籍、性別に関する要件は募集要項に明記されていないためnull／空配列とした。公式ページでは2026年度の受付は2025年11月28日に終了し、掲載条件は前回募集時の参考情報とされている。"
+  },
+  "url_hint": "https://www.otsukafoundation.org"
+ },
+ "公益財団法人わかやま産業振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人わかやま産業振興財団",
+   "source_url": "https://yarukiouendan.or.jp/news/r8senmongijyutu_bosyu/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [
+     "研究員",
+     "中小企業者（研究会主宰者）"
+    ],
+    "affiliation_type": [
+     "和歌山県内の大学",
+     "和歌山県内の工業高等専門学校",
+     "和歌山県内の公設試験研究機関",
+     "和歌山県内に主たる事業所を有する中小企業"
+    ],
+    "nationality": null,
+    "field_scope": "和歌山県内の様々な産業分野における専門技術・専門知識について、情報交換等を行う研究会活動",
+    "gender_scope": null,
+    "other_requirements": "県内の大学等の研究員または県内に主たる事業所を有する中小企業者が主宰する研究会であること。研究会の運営規程および経費支出規程を定め、補助対象期間内に3回以上の開催が期待できること。主宰者が中小企業者の場合は、大学等の研究員1名以上が研究会役員として参加すること。会費を負担する会員が10名以上で、その会員が所属する県内中小企業者が3社以上であること。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。対象制度は令和8年度「専門技術研究会補助金事業」で、個人研究者への一般的な研究費助成ではなく、産学等の研究グループの運営経費を補助する制度。年齢、キャリア段階、国籍、性別に関する要件は公式公募ページに明記されていないためnullとした。"
+  },
+  "url_hint": "https://www.yarukiouendan.or.jp"
+ },
+ "太陽生命厚生財団": {
+  "codex": {
+   "foundation_name": "公益財団法人太陽生命厚生財団",
+   "source_url": "https://www.taiyolife-zaidan.or.jp/promotion_recruitment/research/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [
+     "非営利の団体等"
+    ],
+    "nationality": null,
+    "field_scope": "健康寿命の延伸等の社会的課題の解決に向けた、高齢者保健・医療、生活習慣病に関する研究、または高齢者福祉に関する調査・研究",
+    "gender_scope": null,
+    "other_requirements": "個人も応募可能"
+   },
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイトであることを確認。2026年度の公式「調査研究助成 応募要項」では、応募資格を「非営利の団体等及び個人」と明記。年齢、キャリア段階、職位、国籍、性別に関する要件は記載が確認できないためnullまたは空配列とした。2026年度公募は2026年6月末で終了済み。"
+  },
+  "url_hint": "http://www.taiyolife-zaidan.or.jp"
+ },
+ "公益財団法人SGH財団": {
+  "codex": {
+   "foundation_name": "公益財団法人SGH財団",
+   "source_url": "https://form.sgh-foundation.or.jp/ap_cancer/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "2026年4月1日現在、満45歳未満。出産・育児・介護などのライフイベントにより研究活動を中断した期間がある場合は満50歳未満まで応募可能",
+    "career_stage": "若手研究者",
+    "position": [
+     "研究者",
+     "医療従事者"
+    ],
+    "affiliation_type": [
+     "大学",
+     "研究機関",
+     "医療機関"
+    ],
+    "nationality": "日本人、または日本に定住する外国人",
+    "field_scope": "がんに関する基礎研究または臨床研究",
+    "gender_scope": null,
+    "other_requirements": "個人またはグループで応募可能。過去3年以内にSGH財団の研究助成を受けていないこと。申請時に所属長（学長・学部長・研究科〔所〕長・センター長・病院長等）による推薦書が必要。過去の助成受給者が同一または類似の研究課題で応募する場合は、研究成果の進捗等を記載すること。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人SGH財団の公式サイトであることを確認。公式サイトからリンクされた第38回（2026年度）SGHがん研究助成応募要項を出典とした。公式ページ上では今年度の募集は終了済み。性別要件は募集要項に明記されていないためnull。"
+  },
+  "url_hint": "https://www.sgh-foundation.or.jp"
+ },
+ "臨床研究奨励基金": {
+  "codex": {
+   "foundation_name": "公益財団法人ホソカワ粉体工学振興財団",
+   "source_url": "https://www.kona.or.jp/jp/files/items/1319/File/2_r8_bosyu.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "研究者（キャリア段階の指定なし）",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "国公私立大学",
+     "その他の教育機関",
+     "その他の研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "粉体工学に関する基礎研究",
+    "gender_scope": null,
+    "other_requirements": "原則として、大学その他の教育・研究機関の長、その部局の長、または関係学協会の代表者などによる推薦が必要。同一機関からの申請数に制限なし。所定の推薦書（申請書）を提出すること。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。令和8（2026）年度募集要項の「2. 粉体工学に関する研究助成」と「諸手続」を根拠に抽出した。研究助成について年齢、国籍、性別の要件は募集要項に明記されていないためnull。なお、40歳以下という制限は別事業のホソカワ研究奨励賞にのみ適用され、研究助成には適用されない。募集は2026年6月26日で終了済み。"
+  },
+  "url_hint": "http://crpf.jp"
+ },
+ "ホソカワ粉体工学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人ホソカワ粉体工学振興財団",
+   "source_url": "https://www.kona.or.jp/jp/files/items/1319/File/2_r8_bosyu.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "研究者（キャリア段階の指定なし）",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "国公私立大学",
+     "その他の教育機関",
+     "その他の研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "粉体工学に関する基礎研究",
+    "gender_scope": null,
+    "other_requirements": "原則として、大学その他の教育・研究機関の長、その部局の長、または関係学協会の代表者などによる推薦が必要。同一機関からの申請数に制限なし。所定の推薦書（申請書）を提出すること。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。令和8（2026）年度募集要項の「2. 粉体工学に関する研究助成」と「諸手続」を根拠に抽出した。研究助成について年齢、国籍、性別の要件は募集要項に明記されていないためnull。なお、40歳以下という制限は別事業のホソカワ研究奨励賞にのみ適用され、研究助成には適用されない。募集は2026年6月26日で終了済み。"
+  },
+  "url_hint": "https://www.kona.or.jp/jp/grants"
+ },
+ "全国銀行学術研究振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 全国銀行学術研究振興財団",
+   "source_url": "https://www.zenginzaidan.jp/youkou/bosyuyoko_2026.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "2026年4月1日現在で60歳未満（単独研究者・共同研究者の全員）。40歳未満は優先助成の対象。",
+    "career_stage": "大学の研究者。共同研究では、代表者以外の共同研究者に限り大学院生（社会人を含む）も可。",
+    "position": [
+     "教授",
+     "准教授",
+     "講師",
+     "助教",
+     "助手",
+     "研究員",
+     "大学院生（共同研究の代表者以外に限る）"
+    ],
+    "affiliation_type": [
+     "日本の大学",
+     "外国の大学"
+    ],
+    "nationality": "日本の大学に所属する対象職位の研究者について国籍要件の明記なし。外国の大学に所属する対象職位の日本人研究者も対象。外国の大学に所属する外国人研究者は、共同研究の代表者以外の共同研究者に限り可。",
+    "field_scope": "経済・金融およびこれらに関する法制に係る研究。経済理論、経済統計学、経済政策、経済史、財政学、金融論およびこれらに準ずるもの、ならびに民法、商法、経済法、その他の金融・経済に関する法律。対象分野の隣接領域・関連領域等も対象。データベースの作成を主目的とする研究は対象外。",
+    "gender_scope": null,
+    "other_requirements": "兼任・非常勤を含む。単独研究は対象研究者が単独で研究を行い、単著の成果物を公表すること。共同研究は対象研究者が共同して研究を行い、共著の成果物を公表すること。前年度に当財団の研究助成または刊行助成を受けていないこと（共同研究者を含む）。一昨年度以前に助成を受けた場合は、最終報告書または刊行報告書が受理済みであること。応募は1人1件に限る。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式サイト掲載の2026年度学術研究助成事業募集要項のうち「研究助成」の対象者要件を抽出した。性別要件は募集要項に明記されていないためnull。"
+  },
+  "url_hint": "https://www.zenginzaidan.jp"
+ },
+ "公益財団法人ヤマハ発動機スポーツ振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人ヤマハ発動機スポーツ振興財団",
+   "source_url": "https://www.ymfs.jp/support/20th_study/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "奨励①：1995年4月2日以降生まれ。奨励②：1990年4月2日以降生まれ。基本：1983年4月2日以降生まれ。",
+    "career_stage": "奨励①：助成申請時に大学院博士課程（博士後期課程）在籍中または満期退学。奨励②：助成申請時に大学院博士号取得後3年以内。基本：助成申請時に大学院博士号取得後3年以上で、大学や研究機関等において研究者として活動中。",
+    "position": [
+     "大学院博士課程（博士後期課程）在籍者",
+     "大学・研究機関等の研究者"
+    ],
+    "affiliation_type": [
+     "大学",
+     "研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "スポーツ医・科学、スポーツ文化などスポーツに関連する幅広い学問分野のうち、日本のスポーツの普及・振興または競技水準向上につながる、自然科学・人文社会における学術的価値の高い学問・研究。",
+    "gender_scope": null,
+    "other_requirements": "基本カテゴリーは教授職または教授職相当の職位を除く。他の助成団体等から助成または補助金を受ける者は対象外。大学や研究機関等の指導責任者による推薦が必要（グループ研究者は推薦者になれない）。海外留学・在留を伴う場合は、留学・在留先の大学または研究機関による受入れが確定していること。同一個人・グループの受給上限は奨励①・奨励②・基本の各1回、合計3回まで。特定の個人・団体の利益を追求する内容は対象外。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の第20期生研究分野募集要項（助成期間：2026年4月1日～2027年3月31日）に基づく。国籍および性別の要件は募集要項に明記されていないためnull。2026年度の申請受付は終了している。"
+  },
+  "url_hint": "https://www.ymfs.jp"
+ },
+ "日本天文学会": {
+  "codex": {
+   "foundation_name": "公益社団法人 日本天文学会",
+   "source_url": "https://www.asj.or.jp/jp/activities/expenses/hayakawa_fund/application/",
+   "fiscal_year": null,
+   "eligibility": {
+    "age_limit": "年齢による制限の明記なし",
+    "career_stage": "原則として博士学位取得後8年以内の若手天文学研究者（大学生・大学院生も申請可能）",
+    "position": [
+     "天文学研究者",
+     "大学生",
+     "大学院生"
+    ],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": "天文学に関する海外での学術研究（観測、国際共同研究、国際研究集会への参加、その他研究の発展に必要な海外研究活動）",
+    "gender_scope": null,
+    "other_requirements": "申請締切時に日本天文学会正会員であること。同一費目について他の援助を受けないこと。渡航目的別に、観測提案の採択・施設利用許可、海外研究者・研究機関からの招聘、国際研究集会への組織委員または講演者（ポスター発表を含む）としての参加、またはこれらに準ずる海外研究活動、のいずれかを満たすこと。同一渡航の申請は1回限り。学生・院生は指導教員の了解が必要。"
+   },
+   "confidence": "high",
+   "notes": "参考URLのドメインは、公式ページ上の法人名・サイト表記から公益社団法人日本天文学会の公式サイトと確認した。研究・旅費助成のうち、若手天文学研究者の海外学術研究を直接援助する「早川幸男基金」の公式申請要項を採用。年度別公募ではなく年4回受付のためfiscal_yearはnull。所属機関種別、国籍、性別の要件は申請要項に明記がないため空またはnullとした。"
+  },
+  "url_hint": "https://www.asj.or.jp/jp"
+ },
+ "三島海雲記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 三島海雲記念財団",
+   "source_url": "https://www.mishima-kaiun.or.jp/wp-mishima/wp-content/uploads/2025/12/64th_2026_shoreikin-ouboyoukou-shizen.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "自然科学部門の個人研究は2026年4月1日現在45歳未満。ただし、大学院博士後期課程在籍者、または博士号取得後8年未満の研究者（産前・産後休暇、育児休業期間を除外可能）は45歳以上でも応募可。自然科学部門の共同研究および人文科学部門は年齢制限なし。",
+    "career_stage": "研究者。大学院博士後期課程在籍者およびそれに相当する大学院学生を含む。大学院博士前期課程（修士課程）および学士課程在籍者は対象外。",
+    "position": [
+     "研究者",
+     "大学院博士後期課程在籍者",
+     "博士後期課程相当の大学院学生"
+    ],
+    "affiliation_type": [
+     "大学",
+     "研究機関"
+    ],
+    "nationality": "個人研究は、日本の研究機関所属者について国籍不問。海外の研究機関所属者は日本国籍研究者に限る。共同研究の代表者は国内の大学・研究機関に所属すること。共同研究者は国籍および所属研究機関の所在地を問わず、海外所属も可。",
+    "field_scope": "自然科学部門は「食の科学」に関する学術研究（食品素材、製造・加工・調理、発酵・微生物利用、栄養・嗜好・生理機能、食の安全、疾病予防など）。人文科学部門はアジアに関する人文社会科学諸分野の学術研究（日本に関わる研究も対象）。",
+    "gender_scope": "性別による応募制限の明記なし。若手研究者および女性研究者の積極的応募を期待。自然科学部門の個人研究では、女性研究者と大学院博士後期課程在籍者で採択件数の30％以上を目標とする。",
+    "other_requirements": "個人研究は事務連絡等に日本語で対応できること。共同研究は代表研究者が応募し、共同研究者のうち1名以上が代表者と異なる外部研究機関または部局に所属し、原則として分担研究費100万円以上の共同研究者が1名以上必要。所属機関の部局長・所属長またはこれに準ずる者の推薦が必要（大学院生は指導教員も可）。民間企業所属者、助成期間中に民間企業へ就職予定の者、および民間企業所属の共同研究者を含む申請は不可。2023年度以降の当財団所定助成・学術賞の受贈者、同一・類似課題で他の民間助成が決定済みの者、所定額以上の公的・民間助成を受ける者等にも応募制限がある。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイトであることを確認。2026年度は自然科学部門と人文科学部門で応募資格・年齢要件が異なるため併記した。人文科学部門の公式応募要項：https://www.mishima-kaiun.or.jp/wp-mishima/wp-content/uploads/2025/12/64th_2026_shoreikin-ouboyoukou-jinbun.pdf"
+  },
+  "url_hint": "http://www.mishima-kaiun.or.jp"
+ },
+ "公益財団法人車両競技公益資金記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人車両競技公益資金記念財団",
+   "source_url": "https://www.vecof.or.jp/wp/wp-content/uploads/2024/09/%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E5%8C%BB%E7%99%82%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9A%84%E3%80%81%E5%85%88%E9%A7%86%E7%9A%84%E7%A0%94%E7%A9%B6%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8A%A9%E6%88%90%E4%BA%8B%E6%A5%AD%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf",
+   "fiscal_year": 2025,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [
+     "研究者",
+     "共同研究グループの代表研究者"
+    ],
+    "affiliation_type": [
+     "公益財団法人・一般財団法人・公益社団法人・一般社団法人の研究機関",
+     "私立学校法に基づき設立された大学の研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "がん又は心臓病の基礎的、先駆的研究",
+    "gender_scope": null,
+    "other_requirements": "上記対象機関に所属する研究者、または当該機関所属の研究者を代表とする共同研究グループが対象。研究は原則1年間。ただし、研究課題に変更がなく、共同研究グループでは代表研究者にも変更がない場合、初年度から通算3年間を限度に継続助成され得る。共同研究者への助成金配分には、対象研究機関で研究活動に実際に従事し、原則として学生でないこと等の追加条件がある。"
+   },
+   "confidence": "high",
+   "notes": "vecof.or.jpは当該財団の公式サイトであることを確認。参考URLも公式ドメインだが旧URLで、現在は閲覧できなかった。公式サイトには令和8年度募集記事も存在するが、検索で応募資格本文まで確認できた公式募集要項として令和7年度版を採用した。募集要項に年齢・国籍・性別の要件、および教授・准教授等の具体的職位指定は見当たらないためnullとした。"
+  },
+  "url_hint": "http://www.vecof.or.jp/news/2017/06/292.html"
+ },
+ "小野薬品がん・免疫・神経研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人小野薬品がん・免疫・神経研究財団",
+   "source_url": "https://ono-pharma.fdn.or.jp/sites/default/files/2026-03/2026ouboyoukou.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "博士号の学位取得から15年未満の研究者。産前・産後休業、育児休業または介護休業を取得した場合、その休業日数を制限期間に加算可能。研究室を立ち上げてから期間の短い研究者を特に期待。",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "大学",
+     "研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "がん・免疫・神経分野における、疾患の発症原因や過程を基礎段階から掘り下げる基礎研究。独創的・先駆的な研究や社会的要請が強い諸問題に関する研究で、国民の健康と福祉への貢献可能性があるもの。",
+    "gender_scope": "性別による応募制限の明記なし。女性研究者を特に応募が期待される研究者として明記。",
+    "other_requirements": "日本国内の大学または研究機関で研究を行い、海外で行う研究は対象外。研究費を自らの責任で応募課題に使用でき、成果を責任著者として発表できる立場であること。営利を主目的とする研究機関の所属者は応募不可。企業出捐で設立された法人の研究所の所属者も原則応募不可だが、その法人が収益事業を行わず、科学研究費助成事業の応募資格がある場合は応募可能。所属施設の長など学識経験者の推薦が必要で、自薦不可。過度の研究助成を受けている場合は選考過程で対象外となる場合がある。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは公式サイトであることを財団概要で確認済み。2026年度公式応募要項および公式研究助成ページに基づく。年齢そのものの制限、国籍要件、具体的な対象職位は明記されていないため、推測せずnullまたは一般表記とした。"
+  },
+  "url_hint": "https://ono-pharma.fdn.or.jp"
+ },
+ "公益財団法人大同生命厚生事業団": {
+  "codex": {
+   "foundation_name": "公益財団法人コニカミノルタ科学技術振興財団",
+   "source_url": "https://www.konicaminoltastf.or.jp/prize.html",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "40歳以下（応募年9月30日時点）",
+    "career_stage": "研究者（大学院生も応募可能）",
+    "position": [
+     "研究者",
+     "大学院生"
+    ],
+    "affiliation_type": [
+     "日本の大学",
+     "国公立研究機関",
+     "民間公益研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "「光と画像」に関わり、社会課題の解決に寄与する斬新な発想による挑戦的研究。募集分野は、①光と画像に関する材料及びデバイス、②光と画像に関するシステム及びソフトウェア、③光と画像に関するその他の先端的研究。",
+    "gender_scope": null,
+    "other_requirements": "個人またはグループで応募。奨励賞は研究者単独、または同一分野の研究者による共同申請。令和8年度は連携賞の募集を休止。"
+   },
+   "confidence": "high",
+   "notes": "公式サイトの令和8年度（2026年度）応募要領に基づく。国籍および性別の応募要件は明記されていないためnull。参考URL（dojindo-f.or.jp）は当該財団の公式ドメインではなく、正しい公式サイトは konicaminoltastf.or.jp。"
+  },
+  "url_hint": "https://www.daido-life-welfare.or.jp"
+ },
+ "公益財団法人コニカミノルタ科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人コニカミノルタ科学技術振興財団",
+   "source_url": "https://www.konicaminoltastf.or.jp/prize.html",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "40歳以下（応募年9月30日時点）",
+    "career_stage": "研究者（大学院生も応募可能）",
+    "position": [
+     "研究者",
+     "大学院生"
+    ],
+    "affiliation_type": [
+     "日本の大学",
+     "国公立研究機関",
+     "民間公益研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "「光と画像」に関わり、社会課題の解決に寄与する斬新な発想による挑戦的研究。募集分野は、①光と画像に関する材料及びデバイス、②光と画像に関するシステム及びソフトウェア、③光と画像に関するその他の先端的研究。",
+    "gender_scope": null,
+    "other_requirements": "個人またはグループで応募。奨励賞は研究者単独、または同一分野の研究者による共同申請。令和8年度は連携賞の募集を休止。"
+   },
+   "confidence": "high",
+   "notes": "公式サイトの令和8年度（2026年度）応募要領に基づく。国籍および性別の応募要件は明記されていないためnull。参考URL（dojindo-f.or.jp）は当該財団の公式ドメインではなく、正しい公式サイトは konicaminoltastf.or.jp。"
+  },
+  "url_hint": "https://dojindo-f.or.jp/subsidy"
+ },
+ "公益財団法人岡三加藤文化振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人岡三加藤文化振興財団",
+   "source_url": "https://www.okasan-kato-zaidan.or.jp/pdf/guidebook_2026_requirements_list.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": "制限なし（研究実施能力を有する者。学生を含む）",
+    "position": [
+     "学生",
+     "個人",
+     "グループ"
+    ],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": "自然科学の諸分野の振興への貢献が期待される応用・開発研究および基礎研究のうち、先駆的かつ独創的な研究",
+    "gender_scope": null,
+    "other_requirements": "三重県内の在住者、または三重県内に在勤・在学する者で、研究実施能力を有すること。個人・グループを問わない。同一研究について他の財団の助成金等を受けていないこと。"
+   },
+   "confidence": "high",
+   "notes": "令和8年度（第39回）公式研究助成募集要項に基づく。年齢・国籍・性別および具体的な所属機関種別の要件は明記されていない。参考URL（casiozaidan.org）は当財団の公式サイトではなく、正しい公式サイトは https://www.okasan-kato-zaidan.or.jp/ 。"
+  },
+  "url_hint": "https://casiozaidan.org/naiyou/about.html"
+ },
+ "公益財団法人江副記念リクルート財団": {
+  "codex": {
+   "foundation_name": "公益財団法人江副記念リクルート財団",
+   "source_url": null,
+   "fiscal_year": null,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [],
+    "nationality": null,
+    "field_scope": null,
+    "gender_scope": null,
+    "other_requirements": null
+   },
+   "confidence": "high",
+   "notes": "公式サイトは https://www.recruit-foundation.org/ 。提示された https://www.rinri.or.jp/research は当財団の公式サイトではない。公式サイト内を確認したが、研究者を対象とする研究助成の公募要項・応募資格は確認できなかった。公式の2025年度事業計画書（https://www.recruit-foundation.org/wp/wp-content/uploads/2025/04/2025%E5%B9%B4%E5%BA%A6_%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8.pdf）には、全部門で団体助成事業の募集を実施せず、個別助成にとどめて奨学金給付事業に集中すると記載されている。学術分野ではリクルートスカラシップ（奨学金）の募集要項が存在するが、研究助成とは別制度のためeligibilityには転記していない。"
+  },
+  "url_hint": "https://www.rinri.or.jp/research"
+ },
+ "公益財団法人サントリー生命科学財団": {
+  "codex": {
+   "foundation_name": "公益財団法人サントリー生命科学財団",
+   "source_url": "https://www.sunbor.or.jp/news/2026-%E5%B9%B4%E5%BA%A6-sunbor-grant-%E3%81%AE%E5%8B%9F%E9%9B%86%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E5%AF%BE%E8%B1%A1%E5%B9%B4%E9%BD%A2-46%EF%BD%9E65%E6%AD%B3%EF%BC%89/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "2026年4月1日現在で満46歳以上65歳未満",
+    "career_stage": "研究の中核を担う中堅・シニア研究者",
+    "position": [
+     "職位不問"
+    ],
+    "affiliation_type": [
+     "大学等"
+    ],
+    "nationality": null,
+    "field_scope": "「生命現象を“観る”から“操作する”へと拡張するケミカルバイオロジー研究に関わる課題」。化学を基盤として、生命現象の動的プロセスを制御・改変し得る革新的なケミカルツールの創出に取り組む、基礎的な生命現象解明を目指す研究。臨床医学・創薬目的の研究は対象外。",
+    "gender_scope": null,
+    "other_requirements": "助成期間中（2029年3月末日まで）研究を継続できる環境が必要。制度・契約等により他から研究資金を受けることを禁じられている者、および国等から大型の競争的研究資金等を受けている研究者は対象外。2026年度に直接経費5,000千円以上の競争的研究資金を獲得済みの者、または2024～2026年度の獲得資金合計が直接経費15,000千円以上の者は対象外。過去にSUNBOR GRANTへ採択された研究者は応募不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLのドメイン sunbor.or.jp は当該財団の公式サイトであることを確認した。2026年度SUNBOR GRANTは募集終了済みだが、公式募集ページと申請資料は参考掲載されている。国籍および性別に関する要件は公式募集ページで確認できないためnullとした。"
+  },
+  "url_hint": "http://www.sunbor.or.jp"
+ },
+ "野口研究所": {
+  "codex": {
+   "foundation_name": "公益財団法人野口研究所",
+   "source_url": "https://noguchi.or.jp/wp/wp-content/themes/noguchi/assets/pdf/subsidy_entry/subsidy_2025.pdf",
+   "fiscal_year": 2025,
+   "eligibility": {
+    "age_limit": "1985年11月1日以降に出生（募集締切日時点で39歳以下）",
+    "career_stage": "独創的かつチャレンジングな独立研究を行う若手研究者（学生・大学院生は応募不可）",
+    "position": [
+     "研究者（常勤・非常勤を問わない）"
+    ],
+    "affiliation_type": [
+     "国内の大学",
+     "大学共同利用機関",
+     "高等専門学校"
+    ],
+    "nationality": "国籍不問（応募要件を満たす外国人研究者も応募可能）",
+    "field_scope": "課題1：エネルギー・資源・環境・エレクトロニクスの革新に寄与する新材料や新プロセスに関する研究。課題2：ライフサイエンスの進展に寄与する研究。",
+    "gender_scope": "性別による応募制限なし。女性研究者の積極的な応募を期待。",
+    "other_requirements": "応募に当たり所属長の推薦が必要。直属の上長（学部長・学科長・研究所長など）の署名または公印を要する。独立行政法人・公益財団法人所属の研究者は応募不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。2026年7月16日取得時点で2025年度募集は終了し、公式ページは2026年度募集開始待ちと案内しているため、公開中の最新公式募集要項（2025年度）を採用した。外国人研究者、大学院生、対象外所属および推薦者の詳細は公式FAQ（https://noguchi.or.jp/human_resource/subsidy_award/faq/）でも確認した。"
+  },
+  "url_hint": "https://noguchi.or.jp"
+ },
+ "公益財団法人服部報公会": {
+  "codex": {
+   "foundation_name": "公益財団法人服部報公会",
+   "source_url": "https://www.hattori-hokokai.or.jp/shoreienjo.html",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "原則として満40歳未満（応募締切時点）",
+    "career_stage": "教員、大学院学生、研究員等",
+    "position": [
+     "教員",
+     "大学院学生",
+     "研究員"
+    ],
+    "affiliation_type": [
+     "大学",
+     "研究所等"
+    ],
+    "nationality": null,
+    "field_scope": "工学の発展に寄与する基礎的研究。単なる調査ではなく、理論的または実験的研究を行い、1年間に一応の進展が期待されるもの。情報・生命・環境に関わる各研究分野を含む広義の工学全般。",
+    "gender_scope": "一般公募枠に加えて女性限定公募枠あり。女性は一般枠または女性限定枠のいずれかを選択可能。",
+    "other_requirements": "原則として大学、研究所等に在籍していること。民間企業所属者は対象外。大学院学生は研究指導者の推薦が必要。必ず所属機関・部局を通じて応募すること。応募上限は学部・研究科単位で一般公募枠2件以内、女性限定公募枠1件まで。採択者は2026年10月9日の贈呈式へ出席すること。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度の公式「工学研究奨励援助金」応募要領に基づいて抽出した。国籍要件は公式要領に明記がないためnull。"
+  },
+  "url_hint": "http://www.hattori-hokokai.or.jp"
+ },
+ "日工組社会安全研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人日工組社会安全研究財団",
+   "source_url": "https://www.syaanken.or.jp/wp-content/uploads/2026/05/2027_kenkyu_bosyuyoko.pdf",
+   "fiscal_year": 2027,
+   "eligibility": {
+    "age_limit": "一般研究助成：年齢制限の明記なし。若手研究助成：2027年4月1日現在で40歳以下",
+    "career_stage": "一般研究助成：対象分野の研究者または実務家で、大学院修士課程（博士前期課程）修了または同等の研究能力を有する者。若手研究助成：大学院在学中またはその課程を修了した研究者",
+    "position": [
+     "研究者",
+     "実務家",
+     "大学院生"
+    ],
+    "affiliation_type": [],
+    "nationality": "国籍不問",
+    "field_scope": "少年・女性・高齢者を対象とする犯罪防止対策、組織犯罪対策、サイバー犯罪対策、オンラインカジノ防止対策、薬物犯罪対策、犯罪の国際化への対策、犯罪被害者支援、安全・安心なまちづくり等、社会安全問題に関する社会科学の研究を主な対象とする",
+    "gender_scope": "性別不問",
+    "other_requirements": "共通：日本語による意思疎通が十分にできること。同一の題名または内容で、科学研究費等の競争的資金・他財団等の助成金を既に受給している者または採択内定者、および前年度に同財団の研究助成を受けた研究の研究代表者は応募不可。応募には所属機関長の承認が必要（学生は指導教員または研究科長）。一般研究助成は助成期間中に日本国内に研究または活動拠点を有すること。グループ研究の共同研究者は8名まで。若手研究助成は国内居住の有無を問わず、個人研究に限る。若手の推薦状は推薦者がいる場合のみ提出。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイトだが、2026年度の「安全事業助成」のページであり研究助成ではないため、公式サイトで確認できた最新の2027年度研究助成募集要項を採用した。所属機関の種別を限定する規定は募集要項に明記されていないため、affiliation_typeは空配列とした。"
+  },
+  "url_hint": "https://www.syaanken.or.jp/?p=14196"
+ },
+ "公益財団法人電通育英会": {
+  "codex": {
+   "foundation_name": "公益財団法人電通育英会",
+   "source_url": "https://www.dentsu-ikueikai.or.jp/wp-content/uploads/subsidy/DI_JJ2026_guide.pdf",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": null,
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [
+     "大学公認団体",
+     "学生団体",
+     "NPOなどの営利を目的としない団体"
+    ],
+    "nationality": null,
+    "field_scope": "次世代リーダー育成・リーダーシップ育成に資する、大学生が主体となる人材育成活動。社会・地域の課題解決、地域貢献、教育、国際交流、防災・災害支援、科学・テクノロジー、文化・芸術など、分野は問わない。",
+    "gender_scope": null,
+    "other_requirements": "法人格の有無は不問。日本国内に団体の事務所（拠点）があること。大学公認団体ではない学生グループは顧問・指導教員が存在すること。団体として2年以上の活動実績があること。助成開始時までに団体名義の口座を保有すること。活動基盤は原則として日本国内。単位取得を前提とする授業の一環、政治活動、宗教活動は対象外。"
+   },
+   "confidence": "high",
+   "notes": "参考URLのドメインは当該財団の公式サイトだが、指定ページは現在確認できなかった。公式の2026年度募集要項を確認したところ、個人研究者向けの研究助成ではなく、学生による次世代リーダー育成活動を行う非営利団体向けの活動助成である。このため、研究者個人の年齢・キャリア段階・職位・国籍・性別に関する応募資格は明記がなくnull／空配列とした。"
+  },
+  "url_hint": "https://www.dentsu-ikueikai.or.jp/transmission/subsidy/about"
+ },
+ "公益財団法人みずほ学術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人アサヒグループ財団",
+   "source_url": "https://www.asahigroup-foundation.com/faq/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "なし",
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [
+     "日本国内の大学",
+     "日本国内の研究所等",
+     "非営利の研究機関",
+     "所属なし（個人・グループ）"
+    ],
+    "nationality": "国籍不問",
+    "field_scope": "食・生活部門（食にかかわる生活科学と生活文化の研究）、環境・サステナビリティ部門（地球環境科学とサステナブル社会・経済学に関する研究）",
+    "gender_scope": null,
+    "other_requirements": "応募・選考時に、日本国内の大学・研究所等に所属する研究者、または学識があると認められる個人・グループが対象。所属のない研究者も応募可能。営利企業で行う研究は対象外だが、企業勤務者でも大学の研究室または非営利研究機関で研究している場合は申請可能。代理申請不可。直近3回までの間に助成実績がある場合は申請不可。研究報告の公開および助成授与式への出席が要件。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度募集は終了しており、募集ページは現在、募集停止表示になっている。応募資格は公式FAQおよび公式サイトに掲載された2026年度募集情報に基づく。職位、キャリア段階、性別に関する明示的要件は確認できないためnull/空配列とした。"
+  },
+  "url_hint": "https://www.konicaminolta.jp/about/csr/contribution/science"
+ },
+ "公益財団法人アサヒグループ財団": {
+  "codex": {
+   "foundation_name": "公益財団法人アサヒグループ財団",
+   "source_url": "https://www.asahigroup-foundation.com/faq/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "なし",
+    "career_stage": null,
+    "position": [],
+    "affiliation_type": [
+     "日本国内の大学",
+     "日本国内の研究所等",
+     "非営利の研究機関",
+     "所属なし（個人・グループ）"
+    ],
+    "nationality": "国籍不問",
+    "field_scope": "食・生活部門（食にかかわる生活科学と生活文化の研究）、環境・サステナビリティ部門（地球環境科学とサステナブル社会・経済学に関する研究）",
+    "gender_scope": null,
+    "other_requirements": "応募・選考時に、日本国内の大学・研究所等に所属する研究者、または学識があると認められる個人・グループが対象。所属のない研究者も応募可能。営利企業で行う研究は対象外だが、企業勤務者でも大学の研究室または非営利研究機関で研究している場合は申請可能。代理申請不可。直近3回までの間に助成実績がある場合は申請不可。研究報告の公開および助成授与式への出席が要件。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度募集は終了しており、募集ページは現在、募集停止表示になっている。応募資格は公式FAQおよび公式サイトに掲載された2026年度募集情報に基づく。職位、キャリア段階、性別に関する明示的要件は確認できないためnull/空配列とした。"
+  },
+  "url_hint": "https://www.asahigroup-foundation.com"
+ },
+ "公益財団法人クリタ水・環境科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人クリタ水・環境科学振興財団",
+   "source_url": "https://www.kwef.org/josei/josei_koku.html",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "原則として45歳以下（2026年度公式Q&Aでは、4月1日時点で満45歳の者は応募可能）",
+    "career_stage": "研究者。萌芽的研究b）は、若手研究者または独立して研究を開始する研究者を対象とする",
+    "position": [
+     "研究者"
+    ],
+    "affiliation_type": [
+     "大学",
+     "高等専門学校",
+     "その他研究機関"
+    ],
+    "nationality": null,
+    "field_scope": "水および水環境に関する研究。対象区分は、自然科学・技術（水処理／水域生態系保全・循環）、人文・社会科学（水に関する文化・教育・歴史・政策・制度・経済・社会課題等）、特別テーマ「水を究める」「水を制する」、萌芽的研究",
+    "gender_scope": null,
+    "other_requirements": "日本国内の対象機関に所属すること。民間団体・企業所属者は対象外。助成期間中に民間団体・企業へ異動・就職予定の者、長期休暇取得予定の者は応募を遠慮するよう明記。助成金の管理および経理事務を申請者の所属機関が行えること。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトではない。公式サイトは https://www.kwef.org/ 。2026年度「国内研究助成1」の募集要項を採用した。年齢基準日の補足は公式Q&A（https://kwef.org/contact/q_and_a.html）で確認。国籍および性別に関する要件は公式募集要項に明記がないためnull。"
+  },
+  "url_hint": "https://www.sompo-ef.org/about/about.html"
+ },
+ "公益財団法人総合健康推進財団": {
+  "codex": {
+   "foundation_name": "公益財団法人総合健康推進財団",
+   "source_url": "https://soukensui.jp/pages/58/",
+   "fiscal_year": 2026,
+   "eligibility": {
+    "age_limit": "2026年4月1日現在40歳以下",
+    "career_stage": "若手研究者",
+    "position": [],
+    "affiliation_type": [
+     "日本国内の研究機関等"
+    ],
+    "nationality": "国籍不問",
+    "field_scope": "幼少から高齢者までの住民を対象とし、フィールドを主な調査・研究の場とする研究。対象分野は、栄養と健康、老化と健康、保健対策と健康、衣食住と健康、代替医療と健康、環境と健康、福祉と健康、産業と健康、こどもと健康。原則として、疾病の診断・治療に直接関与する研究、検査手法・機器の開発、バイオ細胞による研究、動物のみを用いた研究は対象外。",
+    "gender_scope": null,
+    "other_requirements": "同一研究者による応募は1課題限り。選考委員会開催時点で他団体等から助成を受けたことが判明した研究は対象外。所定の責任者による推薦が必要で、申請者本人を推薦者とすることは不可。"
+   },
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の「2026年度第42回一般研究奨励助成の応募要項」に基づく。対象職位および性別要件は明記されていないため、positionは空配列、gender_scopeはnullとした。"
+  },
+  "url_hint": "https://soukensui.jp"
+ }
+}
