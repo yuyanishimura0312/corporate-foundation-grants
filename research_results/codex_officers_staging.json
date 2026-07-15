@@ -13378,5 +13378,326 @@
    "notes": "参考URL（niigata-mf.or.jp）は「公益財団法人新潟医学振興会」の公式サイトであり、対象財団とは異なる。富山県の公益法人一覧に掲載された対象財団の公開先（公益法人共同サイト）を特定し、公式情報公開ページに役員名簿PDFが存在することを確認した。しかし、PDF本文を取得できず、氏名・役職・年度を公式資料から検証できなかったため、officersは空とした。公式公開資料内では選考委員・審査委員の名簿も確認できなかった。非公式・第三者データベースの人物情報は採用していない。"
   },
   "url_hint": "http://www.niigata-mf.or.jp"
+ },
+ "公益財団法人鉄道弘済会": {
+  "codex": {
+   "foundation_name": "公益財団法人鉄道弘済会",
+   "source_url": "https://www.kousaikai.or.jp/wp-content/uploads/yakuinn20260616.pdf",
+   "fiscal_year": 2026,
+   "officers": [
+    {
+     "person_name": "森本 雄司",
+     "role": "chair",
+     "role_ja": "会長（代表理事）",
+     "affiliation": "公益財団法人鉄道弘済会",
+     "title": "常勤",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐藤 栄治",
+     "role": "director",
+     "role_ja": "専務理事（代表理事）",
+     "affiliation": "公益財団法人鉄道弘済会",
+     "title": "常勤",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "下村 直樹",
+     "role": "director",
+     "role_ja": "常務理事（業務執行理事）",
+     "affiliation": "公益財団法人鉄道弘済会",
+     "title": "常勤",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "傳法谷 善仁",
+     "role": "director",
+     "role_ja": "常務理事（業務執行理事）",
+     "affiliation": "公益財団法人鉄道弘済会",
+     "title": "常勤",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "田尻 耕平",
+     "role": "director",
+     "role_ja": "常務理事（業務執行理事）",
+     "affiliation": "公益財団法人鉄道弘済会",
+     "title": "常勤",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "野口 尚",
+     "role": "director",
+     "role_ja": "常務理事（業務執行理事）",
+     "affiliation": "日本年金機構",
+     "title": "元副理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "髙橋 潔",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "総合福祉センター「弘済学園」",
+     "title": "前園長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "平野 方紹",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "立教大学",
+     "title": "元教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "堀越 由紀子",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "星槎大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "池田 陽子",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": null,
+     "title": "弁護士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "田中 輝彦",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": null,
+     "title": "公認会計士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "藤原 弘",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "公益財団法人鉄道弘済会",
+     "title": "元社会福祉第一部長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。役員は公式の2026年6月16日付役員名簿から収集した。公式開示ページには同日付の評議員名簿も掲載されているが、調査時にPDF本文を取得できず、氏名を検証できなかったため収録していない。奨学金ページは選考委員会で決定すると記載しているが、委員氏名の公式公表は確認できなかった。企業役員の現職兼任を公式資料で確認できた人物はいない。元職はis_corporate_exec=falseとした。"
+  },
+  "url_hint": "https://www.kousaikai.or.jp"
+ },
+ "公益財団法人立石科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人立石科学技術振興財団",
+   "source_url": "https://www.tateisi-f.org/about/officer.html",
+   "fiscal_year": null,
+   "officers": [
+    {
+     "person_name": "阿草 清滋",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "公益財団法人京都高度技術研究所／名古屋大学",
+     "title": "副理事長・所長／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "荒木 光彦",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "京都大学／松江工業高等専門学校",
+     "title": "名誉教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "宇治 則孝",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "一般社団法人技術同友会／元日本電信電話株式会社",
+     "title": "代表理事／代表取締役副社長（元職）",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "立石 真太郎",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "元オムロン株式会社",
+     "title": "経営基幹職（元職）",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "中鉢 良治",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "東京情報デザイン専門職大学／国立研究開発法人産業技術総合研究所",
+     "title": "学長／最高顧問",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "土屋 定之",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "広島大学／STSフォーラム／元文部科学省",
+     "title": "学長参与／専務理事／事務次官（元職）",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "宮田 喜一郎",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "オムロン株式会社",
+     "title": "代表取締役・執行役員副社長・CTO",
+     "is_corporate_exec": true,
+     "corporate_name": "オムロン株式会社"
+    },
+    {
+     "person_name": "柳田 敏雄",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "大阪大学大学院情報科学研究科／国立研究開発法人情報通信研究機構",
+     "title": "特任教授／フェロー",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "立石 文雄",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "オムロン株式会社",
+     "title": "名誉顧問",
+     "is_corporate_exec": true,
+     "corporate_name": "オムロン株式会社"
+    },
+    {
+     "person_name": "來海 雅俊",
+     "role": "director",
+     "role_ja": "常務理事",
+     "affiliation": "オムロン株式会社",
+     "title": "経営基幹職",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "沖村 憲樹",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "国立研究開発法人科学技術振興機構／公益財団法人全日本科学技術協会／元科学技術庁",
+     "title": "名誉理事長／理事長／科学審議官（元職）",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "片瀬 裕文",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "I-Pulse Inc.／日本I-Pulse株式会社／元経済産業省",
+     "title": "Executive Vice Chairman & Director／代表取締役社長／経済産業審議官（元職）",
+     "is_corporate_exec": true,
+     "corporate_name": "I-Pulse Inc.／日本I-Pulse株式会社"
+    },
+    {
+     "person_name": "里中 忍",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "熊本大学／熊本ソフトウェア株式会社",
+     "title": "名誉教授・特任教授／監査役",
+     "is_corporate_exec": true,
+     "corporate_name": "熊本ソフトウェア株式会社"
+    },
+    {
+     "person_name": "中間 真一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社ヒューマンルネッサンス研究所",
+     "title": "エグゼクティブ・フェロー",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "難波 啓一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "大阪大学大学院生命機能研究科／大阪大学",
+     "title": "特任教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "西田 豊明",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福知山公立大学／東京大学／京都大学",
+     "title": "理事・副学長／名誉教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "松田 晃一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "元NTT先端技術総合研究所",
+     "title": "所長（元職）",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山田 啓二",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "京都産業大学／公益財団法人京都文化財団／元京都府",
+     "title": "理事長・法学部教授／理事長／知事（元職）",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "愛知 菜穂子（山本 菜穂子）",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "イリス法律事務所",
+     "title": "弁護士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "尾尻 哲洋",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": null,
+     "title": "税理士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "椹木 哲夫",
+     "role": "reviewer",
+     "role_ja": "選考委員長",
+     "affiliation": null,
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式役員一覧では、評議員は2026年4月現在、役員（理事・監事）は2024年6月現在と基準日が異なるため、fiscal_yearはnullとした。助成の選考委員全員を掲載した公式名簿は確認できなかったが、財団公式の2026年度助成金贈呈式記事（https://www.tateisi-f.org/category/new/）が椹木氏を「選考委員長」と記載し、2024年度公式成果集（https://www.tateisi-f.org/documents/books/33/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E4%BB%96.pdf）がフルネームを「椹木哲夫選考委員会代表」と記載しているため収録した。企業役員判定は公式一覧に掲載された現職のみを対象とし、元職はfalseとした。"
+  },
+  "url_hint": "https://www.tateisi-f.org/about/outline.html"
  }
 }

@@ -10045,5 +10045,399 @@
   },
   "url_hint": "http://crpf.jp",
   "elapsed_s": 77
+ },
+ "公益財団法人大同生命厚生事業団": {
+  "codex": {
+   "foundation_name": "公益財団法人大同生命厚生事業団",
+   "source_url": "https://www.daido-life-welfare.or.jp/chiiki.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "川代 愛梨",
+     "affiliation": "北海道立衛生研究所",
+     "position": "研究職員",
+     "project_title": "北海道において分離された乳糖分解性サルモネラ属菌の性状及び遺伝学的特徴の解明",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "佐藤 凜",
+     "affiliation": "北海道立衛生研究所",
+     "position": "研究職員",
+     "project_title": "北海道におけるA群溶血性レンサ球菌M1UK系統株の分子疫学解析",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "田宮 和真",
+     "affiliation": "北海道立衛生研究所",
+     "position": "研究職員",
+     "project_title": "北海道におけるマダニ・ダニ媒介感染症に関する住民の知識・態度・行動（KAP）調査",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "佐久間 香里",
+     "affiliation": "特定非営利活動法人かおり福祉会",
+     "position": "代表理事",
+     "project_title": "福島市における障害者グループホームの支援体制と利用者満足度の実証分析",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "門馬 直太",
+     "affiliation": "福島県県中保健福祉事務所",
+     "position": "衛生推進課長",
+     "project_title": "福島県における野兎病の侵淫状況調査及び臨床検査体制の整備に向けた検討",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "遠藤 樹",
+     "affiliation": "社会医療法人輝城会 沼田脳神経外科循環器科病院",
+     "position": "理学療法士",
+     "project_title": "高齢心不全患者におけるバランス評価指標による地域での転倒を予測するモデルの構築",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "村岡 美幸",
+     "affiliation": "独立行政法人国立重度知的障害者総合施設のぞみの園",
+     "position": "課長補佐",
+     "project_title": "地域で生活する発達障害（疑い含む）児者が地域生活の中で必要とする配慮に関する研究",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "花田 裕司",
+     "affiliation": "千葉県衛生研究所",
+     "position": "ウイルス・昆虫医科学研究室 研究員",
+     "project_title": "千葉県内で検出された下痢症ウイルスの遺伝子型解析状況",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "星野 直",
+     "affiliation": "千葉県こども病院",
+     "position": "診療部長",
+     "project_title": "千葉市における小児侵襲性感染症由来の大腸菌の分子疫学的性状と薬剤耐性に関する研究",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "大原 天青",
+     "affiliation": "東京都福祉局小平児童相談所",
+     "position": "児童福祉司",
+     "project_title": "逆境的体験と行動上の問題を重複して抱える少年に対する地域支援の取り組みと実証的評価",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "平林 克之",
+     "affiliation": "ウェルネスジム山王",
+     "position": "施設長",
+     "project_title": "音楽つき反復構音運動が口腔機能に与える効果の検討",
+     "field_hint": null,
+     "amount_jpy": 270000
+    },
+    {
+     "awardee_name": "後藤 淳子",
+     "affiliation": "一般社団法人ソレデイイノダ",
+     "position": "代表理事",
+     "project_title": "医療依存度の高い医療的ケア児の18歳以降の暮らしに関する研究",
+     "field_hint": null,
+     "amount_jpy": 260000
+    },
+    {
+     "awardee_name": "三谷 詠里子",
+     "affiliation": "神奈川県衛生研究所",
+     "position": "主任研究員",
+     "project_title": "神奈川県の肺炎マイコプラズマの全ゲノムによる薬剤耐性状況の解明―コロナ禍の影響―",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "阿部 貴文",
+     "affiliation": "新潟大学地域医療教育センター・魚沼基幹病院",
+     "position": "理学療法士",
+     "project_title": "急性期脳卒中患者における身体活動量・体組成変化を基盤とした健康寿命の延伸に向けた戦略の探索",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "矢澤 俊輔",
+     "affiliation": "富山県衛生研究所",
+     "position": "主任研究員",
+     "project_title": "ARIサーベイランスにおける原因不明検体の病原体特定に関する研究",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "佐々 誠紀",
+     "affiliation": "愛知県衛生研究所",
+     "position": "技師",
+     "project_title": "愛知県における薬剤耐性SARS-CoV-2の実態調査",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "山田 佑歩",
+     "affiliation": "愛知県衛生研究所",
+     "position": "技師",
+     "project_title": "流入下水からのアデノウイルス分離検出法の確立",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "矢野 拓弥",
+     "affiliation": "三重県保健環境研究所",
+     "position": "主幹研究員兼課長代理",
+     "project_title": "急性呼吸器感染症における環境水サーベイランスと患者由来病原体の発生動向の相関解析",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "𠮷田 真平",
+     "affiliation": "三重県保健環境研究所",
+     "position": "衛生研究課 主査研究員",
+     "project_title": "動物実験代替法による麻痺性貝毒簡易検査システムの実用化に向けた実験的検証",
+     "field_hint": null,
+     "amount_jpy": 400000
+    },
+    {
+     "awardee_name": "佐藤 眞耶",
+     "affiliation": "京都府保健環境研究所",
+     "position": "主任",
+     "project_title": "UPLC-TOFMSを用いた動植物由来自然毒の一斉分析法の確立と分析データの体系化",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "山下 俊幸",
+     "affiliation": "一般社団法人京都精神保健福祉協会",
+     "position": "会長",
+     "project_title": "精神科救急相談からの医療機関紹介事例の特徴と入院事例・非入院事例の比較検討",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "池森 亮",
+     "affiliation": "地方独立行政法人大阪健康安全基盤研究所",
+     "position": "研究員",
+     "project_title": "麻しん疑い検体からのデングウイルス検出による紛れ込みリスクの評価",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "岸 映里",
+     "affiliation": "地方独立行政法人大阪健康安全基盤研究所",
+     "position": "主任研究員",
+     "project_title": "陶磁器製食器からの有害元素の溶出に関する実態調査",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "阪野 文哉",
+     "affiliation": "地方独立行政法人大阪健康安全基盤研究所",
+     "position": "主任研究員",
+     "project_title": "大阪府と周辺地域におけるHTLV-1ウイルスの分子系統解析",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "宮本 伊織",
+     "affiliation": "地方独立行政法人大阪健康安全基盤研究所",
+     "position": "主任研究員",
+     "project_title": "大阪府内に流通する食品におけるPFASの一日摂取量調査",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "安井 麻姫",
+     "affiliation": "兵庫県立健康科学研究所",
+     "position": "健康科学部 研究員",
+     "project_title": "水産食品を対象とした残留動物用医薬品一斉分析法の確立",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "上 眞佐美",
+     "affiliation": "奈良県中和保健所",
+     "position": "衛生課長",
+     "project_title": "デジタル技術を活用した多言語視覚的資料の有効性、指導の効率化・高度化に関する研究",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "足立 有彩",
+     "affiliation": "奈良県保健研究センター",
+     "position": "主任技師",
+     "project_title": "下水処理場流入水におけるカルバペネム耐性腸内細菌目細菌（CRE）の実態調査",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "重村 洋明",
+     "affiliation": "福岡県保健環境研究所",
+     "position": "専門研究員",
+     "project_title": "新規PCRプライマー開発によるCRE検査精度向上のための研究",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "関 成人",
+     "affiliation": "公立学校共済組合 九州中央病院",
+     "position": "泌尿器科部長",
+     "project_title": "オムツはずしの実践 －高齢施設入所者における排尿管理簡易マニュアルの有効性の検討－",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "水流 奈己",
+     "affiliation": "宮崎県衛生環境研究所",
+     "position": "主任技師",
+     "project_title": "宮崎県における梅毒の流行状況の解析",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "岩切 真里恵",
+     "affiliation": "鹿児島県環境保健センター",
+     "position": "主任研究員",
+     "project_title": "食品中のPFAS分析法の検討",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "黒江 宥冶",
+     "affiliation": "鹿児島県環境保健センター",
+     "position": "主任研究員",
+     "project_title": "食中毒疑い事例に係るクドア・イワタイの検査法確立について",
+     "field_hint": null,
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "平良 遥乃",
+     "affiliation": "沖縄県衛生環境研究所",
+     "position": "研究員",
+     "project_title": "沖縄県の宮古、八重山地域における結核菌の分子疫学解析",
+     "field_hint": null,
+     "amount_jpy": 300000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを公式トップページおよびプロフィールで確認。公式「地域保健福祉研究助成」ページの「助成実績」に掲載された最新の確定年度「2025年度受贈者」全34名を収録した。金額欄の公式単位は万円のため、amount_jpyでは円に換算した。公式一覧に独立した分野欄がないためfield_hintはnull。確認日: 2026-07-15。"
+  },
+  "url_hint": "https://www.daido-life-welfare.or.jp",
+  "elapsed_s": 86
+ },
+ "公益財団法人コニカミノルタ科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人コニカミノルタ科学技術振興財団",
+   "source_url": "https://www.konicaminoltastf.or.jp/past-prize/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "間島 慶",
+     "affiliation": "量子科学技術研究開発機構 量子生命科学研究所",
+     "position": "主任研究員",
+     "project_title": "量子計算を用いた限界の精度・効率で画像を復元するイメージングソフトウェア",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "伊藤 峻一郎",
+     "affiliation": "京都大学大学院工学研究科",
+     "position": "助教",
+     "project_title": "低温領域で駆動する発光性到達温度センサーの開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "猪股 直生",
+     "affiliation": "東北大学",
+     "position": "准教授",
+     "project_title": "機械学習による画像解析を基盤とした超高感度・超高密度機械共振温度センサアレイの創出",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小島 駿",
+     "affiliation": "横浜国立大学大学院工学研究院",
+     "position": "助教",
+     "project_title": "空中光無線伝送における電磁ニューラルネットワークによるセマンティック通信プロトコルの開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "白岩 隆行",
+     "affiliation": "東京大学",
+     "position": "准教授",
+     "project_title": "材料内部の“声”を聴き、マイクロ秒の破壊素過程を“視る”新技術創成",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "髙林 正典",
+     "affiliation": "九州工業大学大学院情報工学研究院 物理情報工学研究系",
+     "position": "准教授",
+     "project_title": "ＡＩアシスト３Ｄプリンテッド光学素子を用いた位相差顕微鏡の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "辻 真人",
+     "affiliation": "東京大学",
+     "position": "助教",
+     "project_title": "単一ニューロンに表現された複数情報を解読する基盤の４次元ホログラフィック計測操作法を活用した解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中西 徹",
+     "affiliation": "三重大学",
+     "position": "助教",
+     "project_title": "生体内細胞表面分子を自在に光不活性化する技術の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "本田 真希江",
+     "affiliation": "岐阜大学大学院医学系研究科 糖尿病・内分泌代謝内科学／膠原病・免疫内科学",
+     "position": "大学院生",
+     "project_title": "代謝・イオン型画像バイオマーカーを用いた関節リウマチの超早期診断・治療効果判定の探索",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "嶺 颯太",
+     "affiliation": "理化学研究所光量子工学研究センター",
+     "position": "基礎科学特別研究員",
+     "project_title": "アナログ的短時間フーリエ変換による次世代非破壊テラへルツセンシング",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "籔本 直也",
+     "affiliation": "国立循環器病研究センター",
+     "position": "医師",
+     "project_title": "血管内超音波画像を用いた治療戦略確立研究：難治性冠動脈病変、石灰化結節に対する治療への革新",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "吉野 将生",
+     "affiliation": "東北大学金属材料研究所",
+     "position": "特任准教授",
+     "project_title": "同視野マルチモダリティα線イメージング顕微鏡システムの開発",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "財団公式サイトの「令和7年度 これまでの受賞者・受賞テーマ」を確認。令和7年度は西暦2025年度で、奨励賞＜優秀賞＞1名、奨励賞11名の計12名を全員収録した。連携賞は同年度募集停止。参考URLの dojindo-f.or.jp は対象財団の公式サイトではなく、正しい公式サイトは https://www.konicaminoltastf.or.jp/ 。採択者一覧に個別金額および分野区分の記載がないため、amount_jpy と field_hint は null とした。取得・確認日：2026-07-15。"
+  },
+  "url_hint": "https://dojindo-f.or.jp/subsidy",
+  "elapsed_s": 53
  }
 }
