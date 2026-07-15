@@ -12782,5 +12782,601 @@
    "notes": "参考URL https://www2.jsf.or.jp は当財団の公式サイトではない。公式サイトは https://kyoto-omron-foundation.com/ であり、オムロン株式会社の公式ページから移転先として確認した。役員情報はオムロン公式ニュース掲載の「2024年1月時点・五十音順」に基づく。助成審査については外部有識者による評価・選考委員会の記載は確認できたが、委員個人名を公式情報で確認できなかったためreviewerは収録していない。「元代表取締役社長」など過去の企業役員歴のみの者はis_corporate_exec=falseとした。"
   },
   "url_hint": "https://www2.jsf.or.jp"
+ },
+ "公益財団法人楽天未来のつばさ": {
+  "codex": {
+   "foundation_name": "公益財団法人楽天未来のつばさ",
+   "source_url": "https://mirainotsubasa.or.jp/foundation/commitee/",
+   "fiscal_year": 2025,
+   "officers": [
+    {
+     "person_name": "青木 晴樹",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "楽天インシュアランスホールディングス株式会社／楽天生命保険株式会社",
+     "title": "上級執行役員／執行役員",
+     "is_corporate_exec": true,
+     "corporate_name": "楽天インシュアランスホールディングス株式会社／楽天生命保険株式会社"
+    },
+    {
+     "person_name": "濱田 裕史",
+     "role": "director",
+     "role_ja": "専務理事",
+     "affiliation": "公益財団法人楽天未来のつばさ",
+     "title": "常任理事",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "塚原 良一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": null,
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "東條 宏史",
+     "role": "director",
+     "role_ja": "外部理事",
+     "affiliation": "株式会社オリジン",
+     "title": "顧問（非常勤：東アジア担当）",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社オリジン"
+    },
+    {
+     "person_name": "前田 誠一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "NPO法人神奈川フォスターケアサポートプロジェクト",
+     "title": "理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "飯塚 良成",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "飯塚公認会計士事務所",
+     "title": "所長、公認会計・税理士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "髙橋 悠至",
+     "role": "auditor",
+     "role_ja": "外部監事",
+     "affiliation": "雪椿法律事務所",
+     "title": "弁護士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "奥田 孝雄",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "南森町法律事務所",
+     "title": "弁護士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "齋藤 光児",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "楽天生命保険株式会社",
+     "title": "上級執行役員",
+     "is_corporate_exec": true,
+     "corporate_name": "楽天生命保険株式会社"
+    },
+    {
+     "person_name": "鷹野 秀征",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "一般社団法人新興事業創出機構（JEBDA）",
+     "title": "理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "西村 万里子",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "明治学院大学",
+     "title": "法学部政治学科 教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "羽物 俊樹",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "スカイライトコンサルティング株式会社",
+     "title": "代表取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "スカイライトコンサルティング株式会社"
+    },
+    {
+     "person_name": "山田 壽一",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "楽天インシュアランスホールディングス株式会社",
+     "title": "内部監査部長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式役員名簿の基準日は2025年6月13日。公式サイトは選考委員会による審査と審査員5名体制を記載しているが、2024年度・2025年度の選考委員・審査員の氏名は確認できなかったためreviewerは収録していない。参考URLのドメインは公式サイトだが、役員名簿の正しいURLはsource_url記載ページ。財団は2026年4月1日付で公益財団法人日本児童養護施設財団に吸収合併される旨を公式発表しており、本データは合併前に公表された名簿である。"
+  },
+  "url_hint": "http://mirainotsubasa.or.jp/institution"
+ },
+ "公益財団法人ローム ミュージック ファンデーション": {
+  "codex": {
+   "foundation_name": "公益財団法人ローム ミュージック ファンデーション",
+   "source_url": "https://www.rmf.or.jp/jp/overview/introduction/index.html",
+   "fiscal_year": 2026,
+   "officers": [
+    {
+     "person_name": "上田 恵造",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "ローム株式会社",
+     "title": "元社長室顧問",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山本 浩史",
+     "role": "director",
+     "role_ja": "常務理事",
+     "affiliation": "ローム株式会社",
+     "title": "上席執行役員 特任担当",
+     "is_corporate_exec": true,
+     "corporate_name": "ローム株式会社"
+    },
+    {
+     "person_name": "内田 俊一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "公益財団法人国立京都国際会館",
+     "title": "元消費者庁長官、相談役",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "大西 祐資",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社京都新聞社",
+     "title": "代表取締役社長、主筆",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社京都新聞社"
+    },
+    {
+     "person_name": "木村 幸俊",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "公益財団法人日本関税協会",
+     "title": "元国税庁長官、理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "店村 眞積",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東京音楽大学、一般財団法人サイトウ・キネン・オーケストラ財団",
+     "title": "客員教授、代表理事",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "玉生 靖人",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "弁護士法人御堂筋法律事務所",
+     "title": "弁護士、パートナー",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "土井 伸宏",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社京都フィナンシャルグループ",
+     "title": "代表取締役社長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社京都フィナンシャルグループ"
+    },
+    {
+     "person_name": "吉原 寛章",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社日立製作所",
+     "title": "元KPMG International副会長、シニアアドバイザー",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社日立製作所"
+    },
+    {
+     "person_name": "川﨑 清隆",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "弁護士法人御堂筋法律事務所",
+     "title": "弁護士、パートナー",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "北畑 隆生",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "文部科学省中央教育審議会大学分科会",
+     "title": "元経済産業省事務次官、臨時委員",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "海老澤 敏",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "国立音楽大学、日本モーツァルト研究所",
+     "title": "名誉教授、所長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "小林 研一郎",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "東京藝術大学",
+     "title": "名誉教授、指揮者",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "近藤 誠一",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "東京都交響楽団",
+     "title": "元文化庁長官、理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "谷口 享",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "ローム株式会社",
+     "title": "元メセナ推進室顧問",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "堤 佳史",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": null,
+     "title": "公認会計士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "中村 孝義",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "学校法人大阪音楽大学、大阪音楽大学",
+     "title": "元理事長・学長、名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "湊 長博",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "京都大学",
+     "title": "総長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "屋敷 陽太郎",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "日本放送協会",
+     "title": "京都放送局長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山田 啓二",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "京都産業大学、公益財団法人京都文化財団",
+     "title": "理事長兼法学部教授、理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "小濱 妙美",
+     "role": "reviewer",
+     "role_ja": "選考委員長",
+     "affiliation": "京都市立芸術大学",
+     "title": "名誉教授・特任教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "重松 聡",
+     "role": "reviewer",
+     "role_ja": "選考副委員長",
+     "affiliation": "武蔵野音楽大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "漆原 啓子",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "国立音楽大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "河合 摂子",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "大阪芸術大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐々木 典子",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "東京藝術大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "ドミトリー フェイギン",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "東京音楽大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "鳥居 知行",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "大阪音楽大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "長谷川 潤",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "桐朋学園大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "藤田 茂",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "東京音楽大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "松本 健司",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "洗足学園音楽大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山本 裕樹",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "同志社女子大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは同財団の旧サイト（micro.rohm.com）にある助成募集ページ。現在の公式サイトはrmf.or.jp。公式の財団紹介ページに役員・評議員・選考委員が一括掲載されている。役員は2026年5月1日現在、評議員は2026年4月13日現在、選考委員は2025年3月31日現在。fiscal_yearは役員・評議員の最新基準年に合わせて2026とした。顧問は指定された収集対象外のため除外。『元』と明記された企業役職は現任の兼任ではないためis_corporate_exec=false。"
+  },
+  "url_hint": "https://micro.rohm.com/jp/rmf/recruitment/subsidy/index.html#start_area"
+ },
+ "公益財団法人豊田都市交通研究所": {
+  "codex": {
+   "foundation_name": "公益財団法人豊田都市交通研究所",
+   "source_url": "https://www.ttri.or.jp/cms/wp-content/themes/ttri/pdf/koukoku/yakuin/ttri_yakuin_2025.pdf",
+   "fiscal_year": 2025,
+   "officers": [
+    {
+     "person_name": "太田 稔彦",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "豊田市",
+     "title": "市長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "原田 昇",
+     "role": "director",
+     "role_ja": "副理事長",
+     "affiliation": "東京大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "石田 裕康",
+     "role": "director",
+     "role_ja": "専務理事",
+     "affiliation": "公益財団法人豊田都市交通研究所",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "大矢 伸明",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "豊田商工会議所",
+     "title": "副会頭",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "加藤 昭男",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "豊田市 都市整備部",
+     "title": "部長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "森脇 峻",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "トヨタ自動車株式会社 総務部",
+     "title": "担当課長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "戸田 友介",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "一般社団法人おいでん・さんそん",
+     "title": "代表理事",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "森川 高行",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "名古屋大学 未来社会創造機構",
+     "title": "特任教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "石川 良",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": null,
+     "title": "税理士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "髙島 渉",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "あいおいニッセイ同和損害保険株式会社",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "大籔 正光",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "トヨタ自動車株式会社 総務部",
+     "title": "総務室長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "大橋 宏",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "豊田信用金庫",
+     "title": "理事長",
+     "is_corporate_exec": true,
+     "corporate_name": "豊田信用金庫"
+    },
+    {
+     "person_name": "木村 篤弘",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "三井住友海上火災保険株式会社",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "鈴木 学",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "豊田市",
+     "title": "副市長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "中村 文彦",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "東京大学大学院",
+     "title": "特任教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "鷲辺 秀宣",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "損害保険ジャパン株式会社",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "渡邊 崇志",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "東京海上日動火災保険株式会社",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトと確認。公式PDF「役員名簿（令和7年6月19日）」から役員・評議員を収集した。PDFには研究企画委員も掲載されているが、助成事業の選考委員・審査委員であることを公式情報から確認できないため収録していない。企業所属のみで役員職の記載がない人物はis_corporate_exec=falseとした。"
+  },
+  "url_hint": "https://www.ttri.or.jp"
+ },
+ "公益財団法人田村科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人田村科学技術振興財団",
+   "source_url": "https://www.disclo-koeki.org/06b/00895/1.pdf",
+   "fiscal_year": null,
+   "officers": [],
+   "confidence": "low",
+   "notes": "参考URL（niigata-mf.or.jp）は「公益財団法人新潟医学振興会」の公式サイトであり、対象財団とは異なる。富山県の公益法人一覧に掲載された対象財団の公開先（公益法人共同サイト）を特定し、公式情報公開ページに役員名簿PDFが存在することを確認した。しかし、PDF本文を取得できず、氏名・役職・年度を公式資料から検証できなかったため、officersは空とした。公式公開資料内では選考委員・審査委員の名簿も確認できなかった。非公式・第三者データベースの人物情報は採用していない。"
+  },
+  "url_hint": "http://www.niigata-mf.or.jp"
  }
 }

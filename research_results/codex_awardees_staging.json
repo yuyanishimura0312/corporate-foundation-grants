@@ -9621,5 +9621,429 @@
   },
   "url_hint": "https://www.af-info.or.jp",
   "elapsed_s": 246
+ },
+ "小野薬品がん・免疫・神経研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人小野薬品がん・免疫・神経研究財団",
+   "source_url": "https://ono-pharma.fdn.or.jp/research/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "片岡圭亮",
+     "affiliation": "国立がん研究センター 研究所 分子腫瘍学分野",
+     "position": "分野長",
+     "project_title": "マルチ機能スクリーニングによる発がんの遺伝学的基盤の包括的解明",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "川﨑健太",
+     "affiliation": "慶應義塾大学 医学部 腫瘍センター",
+     "position": "助教",
+     "project_title": "神経内分泌癌の転移開始細胞を標的とした転移制御療法の開発",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "昆彩奈",
+     "affiliation": "東京大学 医科学研究所 血液・腫瘍生物学分野",
+     "position": "准教授",
+     "project_title": "ドライバー異常をもつ細胞と微小環境の相互作用に着目した造血器腫瘍の発症・進展メカニズムの解明",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "植畑拓也",
+     "affiliation": "京都大学大学院医学研究科",
+     "position": "准教授",
+     "project_title": "mRNA 分解機構を起点とした加齢性造血異常のメカニズム解明と創薬基盤の創出",
+     "field_hint": "免疫領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "河本新平",
+     "affiliation": "東北大学 加齢医学研究所",
+     "position": "教授",
+     "project_title": "組織老化に関与する細菌・免疫・線維芽細胞の分子連関機構の解明",
+     "field_hint": "免疫領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤本康介",
+     "affiliation": "大阪大学微生物病研究所 感染機構研究部門 微生物制御学分野",
+     "position": "教授",
+     "project_title": "Enterococcus faecalis による移植片対宿主病の増悪機構の解明",
+     "field_hint": "免疫領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "内田康雄",
+     "affiliation": "広島大学 大学院医系科学研究科",
+     "position": "教授",
+     "project_title": "無染色のヒト病理組織切片を用いて細胞種ごとにタンパク質の絶対発現量を網羅的に解明する技術の構築",
+     "field_hint": "神経領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "坂本雅行",
+     "affiliation": "京都大学 大学院生命科学研究科",
+     "position": "准教授",
+     "project_title": "タンパク質言語モデルを応用した高感度カルシウムプローブの開発",
+     "field_hint": "神経領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "塩田倫史",
+     "affiliation": "熊本大学 発生医学研究所",
+     "position": "教授",
+     "project_title": "グアニン四重鎖によるプリオノイドタンパク質凝集メカニズムの解明と医学応用",
+     "field_hint": "神経領域",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認した。公式「研究助成」ページ掲載の「2025年度（第3回）研究助成対象者」全9名（がん・免疫・神経各3名）を収録。2026年度は調査時点で募集中のため、採択者が公表済みの直近年度は2025年度。対象者一覧には個別の採択金額が記載されていないため、amount_jpyはnullとした。"
+  },
+  "url_hint": "https://ono-pharma.fdn.or.jp",
+  "elapsed_s": 38
+ },
+ "ローム株式会社　研究公募事務局": {
+  "codex": {
+   "foundation_name": "ローム株式会社　研究公募事務局",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "high",
+   "notes": "参考URLはローム株式会社の公式「研究公募」ページ（https://www.rohm.co.jp/rd/offer）であり、対象事務局の公式サイトであることを確認した。同ページには最近の採択件数として2025年度5件と記載されているが、採択者の氏名・所属・研究テーマの一覧は掲載されていない。さらに公式ページは、共同研究期間満了後の成果論文の紹介等を除き、原則として応募者・採択者・テーマ名を公表しないと明記している。このため、公式の採択者一覧URLおよび個々の採択者を確認できず、source_urlとfiscal_yearはnull、awardeesは空とした。確認日：2026-07-15。"
+  },
+  "url_hint": "https://www.rohm.co.jp/rd/offer?utm_source=fields.canpan.info&utm_medium=cpc&utm_campaign=jp_ba_kenkyukobo_2026",
+  "elapsed_s": 43
+ },
+ "日工組社会安全研究財団": {
+  "codex": {
+   "foundation_name": "日工組社会安全研究財団",
+   "source_url": "https://www.syaanken.or.jp/?p=14436",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "金子 泰之",
+     "affiliation": "静岡大学教職センター",
+     "position": "准教授",
+     "project_title": "生徒に対する教員の不適切な指導を予防する学校組織要因の解明",
+     "field_hint": "一般研究助成",
+     "amount_jpy": 1592000
+    },
+    {
+     "awardee_name": "瀧 久範",
+     "affiliation": "関西学院大学 法学部",
+     "position": "教授",
+     "project_title": "オンライン賭博の私法上の問題に関する比較法研究",
+     "field_hint": "一般研究助成",
+     "amount_jpy": 820000
+    },
+    {
+     "awardee_name": "太幡 直也",
+     "affiliation": "愛知学院大学 総合政策学部",
+     "position": "教授",
+     "project_title": "SNS上でのドキシング行為の心理学的介入による抑止―若年層を対象として―",
+     "field_hint": "一般研究助成",
+     "amount_jpy": 822400
+    },
+    {
+     "awardee_name": "原田 隆之",
+     "affiliation": "筑波大学人間系",
+     "position": "教授",
+     "project_title": "遅延価値割引に基づく性犯罪者治療モジュールの開発とパイロット効果検証",
+     "field_hint": "一般研究助成",
+     "amount_jpy": 2234000
+    },
+    {
+     "awardee_name": "山岡 あゆち",
+     "affiliation": "東京大学 教養学部・総合文化研究科附属 教養教育高度化機構 社会連携部門",
+     "position": "特任講師",
+     "project_title": "受刑者の金銭管理とメタ認知特性の測定尺度開発と生活再建支援教材の開発に関する研究",
+     "field_hint": "一般研究助成",
+     "amount_jpy": 2500000
+    },
+    {
+     "awardee_name": "雨霧 旭穂",
+     "affiliation": "奈良女子大学大学院 人間文化総合科学研究科",
+     "position": "博士後期課程",
+     "project_title": "女性被害者の回復を促進する心理・社会的要因の検討：被害の自己非難的帰属に着目して",
+     "field_hint": "若手研究助成",
+     "amount_jpy": 995070
+    },
+    {
+     "awardee_name": "坂本 珠祈",
+     "affiliation": "立教大学大学院 コミュニティ福祉学研究科",
+     "position": "博士後期課程",
+     "project_title": "繁華街に滞留する若年女性に対する支援方策に関する研究",
+     "field_hint": "若手研究助成",
+     "amount_jpy": 984000
+    },
+    {
+     "awardee_name": "富永 京子",
+     "affiliation": "立命館大学 産業社会学部",
+     "position": "准教授",
+     "project_title": "若年層の社会的孤立・逸脱を防ぐ自治型ネットワークの役割と課題",
+     "field_hint": "若手研究助成",
+     "amount_jpy": 771000
+    },
+    {
+     "awardee_name": "山脇 望美",
+     "affiliation": "人間環境大学 心理学部犯罪心理学科",
+     "position": "准教授",
+     "project_title": "闇バイト選好の促進要因に関する基礎的研究",
+     "field_hint": "若手研究助成",
+     "amount_jpy": 999000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URL（https://www.syaanken.or.jp/?p=14196）は同財団の公式サイト上に実在するが、2026年度安全事業の募集ページであり、研究助成の採択結果ではない。直近で確認できた公式採択結果「2026年度研究助成実績」（2026年度、一般研究助成5件・若手研究助成4件）から全9件を収録。所属は公式ページ記載の申請当時の情報。field_hintには公式の助成区分を記載した。"
+  },
+  "url_hint": "https://www.syaanken.or.jp/?p=14196",
+  "elapsed_s": 53
+ },
+ "ホソカワ粉体工学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人ホソカワ粉体工学振興財団",
+   "source_url": "https://www.kona.or.jp/jp/files/items/1894/File/Grants-2025.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "安達 眞聡",
+     "affiliation": "京都大学大学院工学研究科機械理工学専攻",
+     "position": "助教",
+     "project_title": "粉体毛細管・噴水現象に基づく搬送技術の基礎研究",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "大崎 修司",
+     "affiliation": "大阪公立大学工学研究科物質化学生命系専攻化学工学分野",
+     "position": "准教授",
+     "project_title": "多粒子有限要素法を用いた高速粉体圧縮過程の数値解析",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "河村 暁文",
+     "affiliation": "関西大学化学生命工学部化学物質工学科",
+     "position": "教授",
+     "project_title": "高防汚性を示す双性イオン微粒子型塗料の開発",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "北川 裕一",
+     "affiliation": "北海道大学大学院工学研究院先端材料化学研究室",
+     "position": "准教授",
+     "project_title": "メカノケミカル反応を利用した多色蓄光粉末の開発",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "佐藤根 大士",
+     "affiliation": "兵庫県立大学大学院工学研究科化学工学専攻",
+     "position": "准教授",
+     "project_title": "粒子形状が沈降堆積現象に及ぼす影響の解析",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "辛 韵子",
+     "affiliation": "名古屋工業大学先進セラミックス研究センター",
+     "position": "特任准教授",
+     "project_title": "自転・公転制御MC固相反応による次世代PQDの精密合成",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "新戸 浩幸",
+     "affiliation": "福岡大学工学部化学システム工学科",
+     "position": "教授",
+     "project_title": "固体表面上でのぬれ挙動と表面間力の工学的モデル開発",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "高井 千加",
+     "affiliation": "名古屋工業大学先進セラミックス研究センター",
+     "position": "教授",
+     "project_title": "非破壊NMRによる食品スラリー解析",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "辻 拓也",
+     "affiliation": "大阪大学大学院工学研究科機械工学専攻",
+     "position": "准教授",
+     "project_title": "凹部を含む複雑形状を有する粉粒体の高精度モデリング",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "綱澤 有輝",
+     "affiliation": "国立研究開発法人産業技術総合研究所地質調査総合センター地圏資源環境研究部門",
+     "position": "主任研究員",
+     "project_title": "粉体シミュレーションによる揺動テーブル選別の最適化",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "藤井 秀司",
+     "affiliation": "大阪工業大学工学部応用化学科",
+     "position": "教授",
+     "project_title": "ドライリキッド工学に基づく水系接着剤の粉体化",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "松井 淳",
+     "affiliation": "山形大学理学部",
+     "position": "教授",
+     "project_title": "カテコール誘導体高分子の自在活性化によるハイブリッド超階層構造形成",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "谷地 赳拓",
+     "affiliation": "東北大学多元物質科学研究所",
+     "position": "助教",
+     "project_title": "ナノ粒子からなるYolk/Shell構造の自在構築",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "矢野 武尊",
+     "affiliation": "九州大学大学院工学研究院化学工学部門",
+     "position": "助教",
+     "project_title": "機械学習を用いた離散要素法の粒子間パラメータ較正",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "山内 紀子",
+     "affiliation": "茨城大学学術研究院応用理工学野物質科学工学領域",
+     "position": "准教授",
+     "project_title": "表面機能化・磁性粒子内包ポリマー粒子合成法の開発",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "山本 徹也",
+     "affiliation": "名古屋大学大学院工学研究科化学システム工学専攻",
+     "position": "准教授",
+     "project_title": "ガラスビーズ充填層内部マイクロ・ナノ空間での晶析",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "MCNAMEE, Cathy Elizabeth",
+     "affiliation": "京都大学大学院工学研究科化学工学専攻",
+     "position": "教授",
+     "project_title": "可聴音を用いたナノ粒子-高分子均一混合薄膜形成",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式「助成採択者リスト」に掲載された直近の2025年度（令和7年度）研究助成PDFから全17件を収集した。金額欄は全員100万円。分野の独立した公式記載がないためfield_hintはnull。所属・役職は公式資料注記のとおり申請時点。"
+  },
+  "url_hint": "https://www.kona.or.jp/jp/grants",
+  "elapsed_s": 54
+ },
+ "臨床研究奨励基金": {
+  "codex": {
+   "foundation_name": "公益財団法人 臨床研究奨励基金",
+   "source_url": "https://crpf.jp/wp-content/uploads/2026/03/92512afb3ae2e8264ea3baca4f2991f3.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "平川 豊文",
+     "affiliation": "福岡大学医学部産科婦人科学講座",
+     "position": "講師",
+     "project_title": "ウルトラファインバブル誘導エクソソームによる新規生殖補助液の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "日髙 壮意",
+     "affiliation": "九州大学病院腎・高血圧・脳血管内科",
+     "position": "医員",
+     "project_title": "脳梗塞後の組織修復におけるNOX4依存的CD34陽性細胞分化機構の解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "柴田 磨己",
+     "affiliation": "福岡大学医学部生理学講座",
+     "position": "助教",
+     "project_title": "心不全病態形成機構をBulkとSingle-cell時系列トランスクリプトミクスで解明する",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "若松 佳代",
+     "affiliation": "福岡大学医学部心臓血管外科学",
+     "position": "大学院生",
+     "project_title": "心筋梗塞の心筋修復におけるリンパ管新生の意義の証明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "安松 聖滉",
+     "affiliation": "福岡大学医学部精神医学教室",
+     "position": "大学院生",
+     "project_title": "統合失調症における治療反応性とバイオマーカーについての研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤田 政道",
+     "affiliation": "九州大学病院内分泌代謝・糖尿病内科",
+     "position": "特任助教",
+     "project_title": "腫瘍微小環境に着目したコルチゾール産生腺腫の病態解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "土肥 憲一郎",
+     "affiliation": "福岡大学医学部整形外科学教室",
+     "position": "助教",
+     "project_title": "有限要素解析を用いた大腿骨頭軟骨下脆弱性骨折の力学的発生機序の解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "甲斐 悠斗",
+     "affiliation": "九州大学病院病理診断科・病理部",
+     "position": "医員",
+     "project_title": "紡錘形細胞腫瘍の細胞配列パターンの数理解析による客観的病理診断・悪性度指標の確立",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松岡 良平",
+     "affiliation": "九州大学大学院医学研究院発生再生医学分野",
+     "position": "助教",
+     "project_title": "糖尿病合併妊娠と遺伝的素因が先天性心疾患を誘導する機序の解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山田 健人",
+     "affiliation": "福岡大学医学部精神医学教室",
+     "position": "大学院生",
+     "project_title": "マルチファセットアプローチによるうつ病就労予測因子の探索",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLのcrpf.jpが公益財団法人臨床研究奨励基金の公式サイトであることを確認。公式の「臨床研究助成一覧」PDFに掲載された最新の令和7年度（2025年度）全10件を収録した。資格欄をpositionとして転記。公式一覧に個別助成金額および分野区分の記載がないため、amount_jpyとfield_hintはnullとした。"
+  },
+  "url_hint": "http://crpf.jp",
+  "elapsed_s": 77
  }
 }
