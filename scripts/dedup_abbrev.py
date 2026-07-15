@@ -10,9 +10,10 @@ APPLY = "--apply" in sys.argv
 def norm2(s):
     if not s: return ""
     s = unicodedata.normalize("NFKC", s)
-    s = re.sub(r'[（(](公財|公社|一財|一社|特非|社福|独|国|地独|福|学|宗)[）)]', '', s)
+    s = re.sub(r'[（(](公財|公社|一財|一社|特非|社福|独|国|地独|福|学|宗|財|社|一|特|医|地財|学財)[）)]', '', s)
     s = re.sub(r'(公益|一般|特定非営利活動|認定特定非営利活動)?(財団|社団)?法人', '', s)
-    return re.sub(r'[\s　・,，.。()（）「」『』]', '', s).strip().lower()
+    s = s.replace('ー','').replace('・','')
+    return re.sub(r'[\s　,，.。()（）「」『』]', '', s).strip().lower()
 
 c = sqlite3.connect(DB); c.row_factory = sqlite3.Row
 g = defaultdict(list)
@@ -31,7 +32,7 @@ def richness(oid):
 MERGE_COLS = ["koeki_verified", "koeki_matched_name", "admin_agency", "prefecture", "municipality",
               "established_year", "total_assets", "annual_grant_amount", "annual_grant_year", "jfc_rank",
               "url", "description", "name_en", "founder_name", "established_year", "primary_field",
-              "primary_field_method", "research_relevance"]
+              "primary_field_method", "research_relevance", "contact_address", "koeki_id"]
 merged = 0; deleted = 0; log = []
 for k, ids in groups:
     ids.sort(key=richness, reverse=True)
@@ -56,6 +57,7 @@ for k, ids in groups:
                     c.execute("DELETE FROM foundation_focus_areas WHERE organization_id=? AND category_id=?", (d, fr["category_id"]))
                 else:
                     c.execute("UPDATE foundation_focus_areas SET organization_id=? WHERE organization_id=? AND category_id=?", (keep, d, fr["category_id"]))
+            c.execute("UPDATE cross_db_mapping SET cfg_id=? WHERE cfg_id=?", (keep, d))
             c.execute("DELETE FROM organizations WHERE id=?", (d,))
         merged += 1; deleted += 1
 if APPLY: c.commit()
