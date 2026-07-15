@@ -92,11 +92,16 @@ for oid, rec in staging.items():
                "education", "welfare", "environment", "international", "regional", "interdisciplinary"}
     gf = [f for f in (cx.get("grant_fields") or []) if f in VALID_F][:5]  # cap top-5 (primary + 4)
     if gf and APPLY:
+        # resolve dual-primary: demote any pre-existing primary before setting codex primary (fable #1)
+        c.execute("UPDATE foundation_focus_areas SET is_primary=0 WHERE organization_id=? AND source!='llm_classified'", (oid,))
+        ev = ((cx.get("grant_scope_text") or "")[:260])
+        if cx.get("grant_field_source_url"):  # traceability (fable #3)
+            ev = (ev + " | src:" + cx["grant_field_source_url"])[:400]
         for i, fld in enumerate(gf):
             c.execute("""INSERT OR IGNORE INTO foundation_focus_areas
                 (organization_id,category_id,weight,is_primary,evidence,source)
                 VALUES (?,?,?,?,?, 'llm_classified')""",
-                (oid, fld, 1.0 if i == 0 else 0.4, 1 if i == 0 else 0, (cx.get("grant_scope_text") or "")[:300]))
+                (oid, fld, 1.0 if i == 0 else 0.4, 1 if i == 0 else 0, ev))
         c.execute("UPDATE organizations SET primary_field=?, primary_field_method='codex' WHERE id=?", (gf[0], oid))
         plan.setdefault("grant_fields_written", 0); plan["grant_fields_written"] += 1
     if sets:
