@@ -44577,5 +44577,4532 @@
   },
   "url_hint": "https://www.miyazaki-nikkiso.co.jp/ichiju",
   "elapsed_s": 55
+ },
+ "黒松内生物多様性保全奨励事業運営委員会": {
+  "codex": {
+   "foundation_name": "黒松内生物多様性保全奨励事業運営委員会",
+   "source_url": "https://bunacent.host.jp/grantaward.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "三枝 弘典",
+     "affiliation": "北海道大学大学院環境科学院",
+     "position": null,
+     "project_title": "朱太川水系における絶滅危惧種ヤツメウナギ類の分布域の再考",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "黒松内町ブナセンター公式ページの「過去の受賞者」に掲載された最新の採択年度（2025年）を参照。2025年のブナセンター賞受賞者は三枝弘典氏1名。個別助成額および職位は掲載されていないためnull。参考URLの旧ドメインと同じページに相当する現行URLをsource_urlに採用した。"
+  },
+  "url_hint": "http://www.host.or.jp/user/bunacent/grantaward.html",
+  "elapsed_s": 38
+ },
+ "梅津奨学院": {
+  "codex": {
+   "foundation_name": "公益財団法人梅津奨学院",
+   "source_url": "https://www.zai-umezu.or.jp/enterprise/index.html",
+   "fiscal_year": 2025,
+   "awardees": [],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人梅津奨学院の公式サイトであることを確認。公式「奨学金事業について」ページには、2025年度の採用人数70名（別枠の入学一時金16名）と給付額は掲載されているが、奨学生個人の氏名・所属校などの一覧は公開されていない。情報公開資料も事業計画・事業報告等であり、確認できる個人名付き採択者一覧は見つからなかったため、awardeesは空とした。確認日: 2026-07-15。"
+  },
+  "url_hint": "http://www.zai-umezu.or.jp",
+  "elapsed_s": 41
+ },
+ "化学物質評価研究機構": {
+  "codex": {
+   "foundation_name": "一般財団法人 化学物質評価研究機構",
+   "source_url": "https://www.cerij.or.jp/research_assistant_project/public_offering.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "根岸 淳",
+     "affiliation": "信州大学繊維学部",
+     "position": "准教授",
+     "project_title": "細胞外マトリックスを有する全層角膜モデルの開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "守岩 友紀子",
+     "affiliation": "東京薬科大学薬学部",
+     "position": "助教",
+     "project_title": "選択的濃縮と質量分析を基盤とする環境水中の生体リスク医薬品の高感度多成分同時分析技術の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは一般財団法人化学物質評価研究機構（CERI）の公式サイトであることを確認。公式の「CERI公募型研究助成」ページに掲載された最新の採択者一覧は令和7年度（2025年度）で、採択者は全2名。公式ページに独立した分野および個別助成金額の記載がないためnullとした。確認日: 2026-07-15。"
+  },
+  "url_hint": "https://www.cerij.or.jp",
+  "elapsed_s": 42
+ },
+ "北村メンタルヘルス学術振興財団": {
+  "codex": {
+   "foundation_name": "一般財団法人北村メンタルヘルス学術振興財団",
+   "source_url": "https://www.kitamura-foundation.org/images/study/study_josei_2025.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "福島 綾",
+     "affiliation": "一宮メンタルクリニック",
+     "position": "心理士（臨床心理士・公認心理師）",
+     "project_title": "初学者の倫理教育に対する認知プロセスの解明",
+     "field_hint": null,
+     "amount_jpy": 1430000
+    },
+    {
+     "awardee_name": "勝島 倫子",
+     "affiliation": "京都大学大学院医学研究科人間健康科学系専攻先端看護科学コース先端広域看護科学講座周産期疫学分野",
+     "position": "助教",
+     "project_title": "妊娠・出産を契機に顕在化した母親の「こころの傷」を癒すための個別化ケアモデル構築",
+     "field_hint": null,
+     "amount_jpy": 500000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式サイトの研究助成ページからリンクされた「2025年度研究助成一覧」PDF（2026年7月15日確認）に掲載された全2名を収録。福島綾氏の種類は「研究助成」、勝島倫子氏は「研究アイデア・計画作成助成」。公式資料に分野欄がないためfield_hintはnull。"
+  },
+  "url_hint": "https://www.kitamura-foundation.org",
+  "elapsed_s": 48
+ },
+ "安心ネットづくり促進協議会": {
+  "codex": {
+   "foundation_name": "一般社団法人安心ネットづくり促進協議会",
+   "source_url": "https://www.good-net.jp/information/news_report/666",
+   "fiscal_year": 2023,
+   "awardees": [
+    {
+     "awardee_name": "渡部 春佳",
+     "affiliation": "NIRA総合研究開発機構",
+     "position": null,
+     "project_title": "ソーシャルメディアにおける著作物の利用に関する調査 若者の権利意識と求められる対策",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松本 多恵",
+     "affiliation": "新潟大学DX推進機構情報基盤センター",
+     "position": "教授",
+     "project_title": "「親子で学ぶSNS処方インターネットリスク箋」を楽しく学ぶためのボードゲームの開発と普及の研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "葛西 真理",
+     "affiliation": "東北大学未来科学技術共同研究センター",
+     "position": "特任教授",
+     "project_title": "高齢者や認知症者に適したインターネット環境やIT技術の検討",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "medium",
+   "notes": "参考URLは同協議会の公式サイトであることを確認。公式サイト上で採択結果そのものの最新一覧は確認できなかったため、直近で研究支援対象者を氏名・所属・研究題目まで確認できる公式記事「2023年度研究発表会」（2024年3月29日掲載）を採用した。記事の研究成果発表欄に掲載された3名を全員収録。個別助成額、渡部春佳氏の職位、公式な分野区分は記事に記載がないためnull。研究発表者一覧であり、明示的な採択通知ページではないためconfidenceはmedium。"
+  },
+  "url_hint": "https://www.good-net.jp/investigation/reseach-support",
+  "elapsed_s": 49
+ },
+ "応用微生物学研究奨励会": {
+  "codex": {
+   "foundation_name": "一般財団法人 漁港漁場漁村総合研究所",
+   "source_url": "https://www.jific.or.jp/project/later_subsidy.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "徳江 卓",
+     "affiliation": "神奈川県三浦市",
+     "position": "理事兼市長室長兼市長室統括課長",
+     "project_title": "PPP（官民連携）による海業の推進における連携パートナーの選定と推進組織に関する研究",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "菅原 遼",
+     "affiliation": "日本大学理工学部海洋建築工学科",
+     "position": "助教",
+     "project_title": "東北沿岸部の漁業集落における職住分離型の漁業への適応を図るための生活形態及び漁業活動の変容に関する研究",
+     "field_hint": null,
+     "amount_jpy": 1650000
+    },
+    {
+     "awardee_name": "渡慶次 力",
+     "affiliation": "福井県立大学海洋生物資源学部",
+     "position": "准教授",
+     "project_title": "漁家民宿を起点とした海業振興施策の提案",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公式サイトであることを確認。対象名の「漁港漁場漁村技術研究所」は旧名称で、公式の組織概要によると2013年2月20日に「一般財団法人漁港漁場漁村総合研究所」へ名称変更された。公式の研究助成事業ページに掲載された直近の確定年度「令和7年度（2025年度）」は32件応募・3件採択で、上記はその全採択者。amount_jpyは公式表の「計」（初年度と2年度の合計、単位：万円）を円換算した金額。公式な分野欄はないためfield_hintはnull。"
+  },
+  "url_hint": "http://ammcb.info",
+  "elapsed_s": 52
+ },
+ "漁港漁場漁村技術研究所": {
+  "codex": {
+   "foundation_name": "一般財団法人 漁港漁場漁村総合研究所",
+   "source_url": "https://www.jific.or.jp/project/later_subsidy.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "徳江 卓",
+     "affiliation": "神奈川県三浦市",
+     "position": "理事兼市長室長兼市長室統括課長",
+     "project_title": "PPP（官民連携）による海業の推進における連携パートナーの選定と推進組織に関する研究",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "菅原 遼",
+     "affiliation": "日本大学理工学部海洋建築工学科",
+     "position": "助教",
+     "project_title": "東北沿岸部の漁業集落における職住分離型の漁業への適応を図るための生活形態及び漁業活動の変容に関する研究",
+     "field_hint": null,
+     "amount_jpy": 1650000
+    },
+    {
+     "awardee_name": "渡慶次 力",
+     "affiliation": "福井県立大学海洋生物資源学部",
+     "position": "准教授",
+     "project_title": "漁家民宿を起点とした海業振興施策の提案",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公式サイトであることを確認。対象名の「漁港漁場漁村技術研究所」は旧名称で、公式の組織概要によると2013年2月20日に「一般財団法人漁港漁場漁村総合研究所」へ名称変更された。公式の研究助成事業ページに掲載された直近の確定年度「令和7年度（2025年度）」は32件応募・3件採択で、上記はその全採択者。amount_jpyは公式表の「計」（初年度と2年度の合計、単位：万円）を円換算した金額。公式な分野欄はないためfield_hintはnull。"
+  },
+  "url_hint": "http://www.jific.or.jp",
+  "elapsed_s": 52
+ },
+ "外務省総合外交政策局政策企画室": {
+  "codex": {
+   "foundation_name": "外務省総合外交政策局政策企画室",
+   "source_url": "https://www.mofa.go.jp/mofaj/fp/pp/page23_004248_00001.html",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "日本国際問題研究所",
+     "affiliation": null,
+     "position": null,
+     "project_title": "我が国を取り巻く新しい安全保障の脅威 現状と対処のあり方",
+     "field_hint": "発展型総合事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東京大学先端科学技術研究センター",
+     "affiliation": null,
+     "position": null,
+     "project_title": "「法の支配」に基づく自由で開かれた国際秩序のための国際連携のあり方",
+     "field_hint": "発展型総合事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "日本国際問題研究所",
+     "affiliation": null,
+     "position": null,
+     "project_title": "米国第一主義時代の日米関係：日米同盟に与える影響と日本の防衛力",
+     "field_hint": "発展型総合事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "日本国際問題研究所",
+     "affiliation": null,
+     "position": null,
+     "project_title": "インド太平洋をめぐる伝統的安全保障の現状把握とOSAを含む日本の安全保障協力の目指すべき方向性",
+     "field_hint": "総合事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "日本国際問題研究所",
+     "affiliation": null,
+     "position": null,
+     "project_title": "グローバル・サウス外交：日本及び中露の影響力の現状、日本のとるべき方針とBRICSの動向",
+     "field_hint": "総合事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東京大学先端科学技術研究センター",
+     "affiliation": null,
+     "position": null,
+     "project_title": "科学技術外交の新地平：日本のコア・ケイパビリティに基づく多層的ガバナンス設計と官民連携レジリエンス体制の統合検証",
+     "field_hint": "総合事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "地球環境戦略研究機関",
+     "affiliation": null,
+     "position": null,
+     "project_title": "気候変動下における日本とインド太平洋地域の安全保障の実現：経済安全保障との関連を中心に",
+     "field_hint": "総合事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "日本国際フォーラム",
+     "affiliation": null,
+     "position": null,
+     "project_title": "管理され始めた世界秩序と日本の戦略的位置 分有化時代における接続と調整の外交モデル",
+     "field_hint": "総合事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "日本国際フォーラム",
+     "affiliation": null,
+     "position": null,
+     "project_title": "北極圏を巡る情勢の変化と対応",
+     "field_hint": "調査研究事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中曽根康弘世界平和研究所",
+     "affiliation": null,
+     "position": null,
+     "project_title": "社会の分断を利用したハイブリッド戦に対応するために我が国がとるべき方策及び国家間協力のあり方",
+     "field_hint": "調査研究事業",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "日本国際問題研究所",
+     "affiliation": null,
+     "position": null,
+     "project_title": "欧州の軍備拡張の動向と政策的インプリケーション",
+     "field_hint": "調査研究事業",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "外務省公式サイトの2026年度「外交・安全保障調査研究事業費補助金」に関する審査結果（令和8年4月20日公表）から、掲載された全11採択企画を収録。公式結果は個人ではなく「事業者名」を採択先として掲載しているため、awardee_nameには事業者名を記録し、個人の所属・職位はnullとした。個別交付額は結果ページに記載がないためnull。参考URLは外務省公式サイト上の2023年度再公募ページであり所管事業には関係するが、採択結果ページではない。"
+  },
+  "url_hint": "https://www.mofa.go.jp/mofaj/fp/pp/page24_002124.html",
+  "elapsed_s": 54
+ },
+ "花王健康科学研究会": {
+  "codex": {
+   "foundation_name": "花王健康科学研究会",
+   "source_url": "https://www.kao.com/jp/healthscience/report/report078/report078_06/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "島 孟留",
+     "affiliation": "群馬大学 共同教育学部 保健体育講座",
+     "position": null,
+     "project_title": "低糖質・高タンパク質食による認知機能低下の機構解明―脳の保護に関わる腸内細菌の同定―",
+     "field_hint": "食事・栄養・食品成分の研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "内村 康寛",
+     "affiliation": "滋賀医科大学 解剖学講座 生体機能形態学部門",
+     "position": null,
+     "project_title": "低栄養ストレスに起因する生活習慣病発症メカニズム",
+     "field_hint": "食事・栄養・食品成分の研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "星野 太佑",
+     "affiliation": "電気通信大学大学院 情報理工学研究科 基盤理工学専攻",
+     "position": null,
+     "project_title": "体脂肪の増加が運動効果を減弱させる分子メカニズムの解明―RNA網羅解析とDNAメチル化解析を用いて―",
+     "field_hint": "食事・栄養・食品成分の研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "延生 卓也",
+     "affiliation": "和歌山県立医科大学 薬学部 薬物治療学研究室",
+     "position": null,
+     "project_title": "消化管内分泌細胞による脂質感知機構の解明",
+     "field_hint": "食事・栄養・食品成分の研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西田 萌乃",
+     "affiliation": "筑波大学 グローバル教育院 ヒューマニクス学位プログラム",
+     "position": null,
+     "project_title": "『運動＋報酬』後に睡眠が深くなる神経基盤",
+     "field_hint": "睡眠に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "柏木 光昭",
+     "affiliation": "筑波大学 国際統合睡眠医科学研究機構",
+     "position": null,
+     "project_title": "レム睡眠中のメカニズムと意義の解明",
+     "field_hint": "睡眠に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "根岸 淳",
+     "affiliation": "信州大学 繊維学部 応用生物科学科",
+     "position": null,
+     "project_title": "歯周病研究に向けた歯周組織模倣モデルの開発",
+     "field_hint": "衛生に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "安部 公博",
+     "affiliation": "国立健康危機管理研究機構 国立感染症研究所 細菌第一部",
+     "position": null,
+     "project_title": "口腔内バイオフィルムにおける遺伝子水平伝達機構",
+     "field_hint": "衛生に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "加藤 貴史",
+     "affiliation": "国立病院機構 東京病院 臨床研究部 生化学研究室",
+     "position": null,
+     "project_title": "口腔のフレイル・細菌叢・炎症に着目した、誤嚥性肺炎の病態解明",
+     "field_hint": "衛生に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大高 恵莉",
+     "affiliation": "藤田医科大学 医学部 リハビリテーション医学講座",
+     "position": null,
+     "project_title": "オーラルフレイルにおける摂食嚥下機能の特徴の解明―嚥下CTを用いた運動学的パラメータの定量的評価―",
+     "field_hint": "衛生に関する研究",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "花王公式サイトの「2025年度 第23回花王健康科学研究会研究助成 助成者10名が決定」を2026-07-15に確認。参考URLも同研究会の花王公式「研究助成」ページで正しい。公式発表に職位および個別助成金額の記載がないためnullとした。"
+  },
+  "url_hint": "https://www.kao.com/jp/healthscience/enqaid",
+  "elapsed_s": 54
+ },
+ "大川情報通信基金（略称：大川財団）": {
+  "codex": {
+   "foundation_name": "がん集学的治療研究財団",
+   "source_url": "https://www.jfmc.or.jp/update/40249/",
+   "fiscal_year": 2023,
+   "awardees": [
+    {
+     "awardee_name": "家里 明日美",
+     "affiliation": "がん研究 NEXT-Gankenプログラム がん細胞多様性解明プロジェクト",
+     "position": "クリニカルリサーチフェロー",
+     "project_title": "産後乳腺内リンパ管を用いた癌との相互作用を標的とした新規治療法の開発",
+     "field_hint": "がん薬物療法部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "井田 智",
+     "affiliation": "熊本大学大学院生命科学研究部 消化器外科学",
+     "position": "助教",
+     "project_title": "多職種により構成される栄養・運動支持療法チームによる胃癌の短期的・長期的予後改善プログラムの開発と分子メカニズムの解明",
+     "field_hint": "がん薬物療法部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 晃司",
+     "affiliation": "大阪大学大学院 外科学講座 消化器外科学",
+     "position": "助教",
+     "project_title": "食道癌に対する集学的治療におけるctDNAによる微小癌細胞検出と個別化治療戦略の開発",
+     "field_hint": "がん薬物療法部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "米村 祐輔",
+     "affiliation": "九州大学病院別府病院 外科",
+     "position": "講師",
+     "project_title": "空間的シングルセル解析によるMSI-H進行大腸がん治療におけるパラダイムシフト",
+     "field_hint": "がん薬物療法部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "薛 宇孝",
+     "affiliation": "国立病院機構九州がんセンター 整形外科",
+     "position": "医長",
+     "project_title": "長管骨転移性腫瘍に対するラジオ波焼灼療法と髄内釘固定の併用療法の有効性・安全性の探索",
+     "field_hint": "医療機器部門",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLのドメイン jfmc.or.jp は、公益財団法人がん集学的治療研究財団の公式サイトであることを確認。公式発表「2023年度第44回一般研究助成者が決定しました」（2023年10月27日）掲載の採択者5名を全員収録した。公式サイトでは2024年度の一般研究助成募集を中止しており、2025年度以降の採択結果も確認できなかったため、採択者が判明する直近年度は2023年度。個別助成額は当該採択結果ページに記載がないためnull。"
+  },
+  "url_hint": "http://www.okawa-foundation.or.jp",
+  "elapsed_s": 56
+ },
+ "がん集学的治療研究財団": {
+  "codex": {
+   "foundation_name": "がん集学的治療研究財団",
+   "source_url": "https://www.jfmc.or.jp/update/40249/",
+   "fiscal_year": 2023,
+   "awardees": [
+    {
+     "awardee_name": "家里 明日美",
+     "affiliation": "がん研究 NEXT-Gankenプログラム がん細胞多様性解明プロジェクト",
+     "position": "クリニカルリサーチフェロー",
+     "project_title": "産後乳腺内リンパ管を用いた癌との相互作用を標的とした新規治療法の開発",
+     "field_hint": "がん薬物療法部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "井田 智",
+     "affiliation": "熊本大学大学院生命科学研究部 消化器外科学",
+     "position": "助教",
+     "project_title": "多職種により構成される栄養・運動支持療法チームによる胃癌の短期的・長期的予後改善プログラムの開発と分子メカニズムの解明",
+     "field_hint": "がん薬物療法部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 晃司",
+     "affiliation": "大阪大学大学院 外科学講座 消化器外科学",
+     "position": "助教",
+     "project_title": "食道癌に対する集学的治療におけるctDNAによる微小癌細胞検出と個別化治療戦略の開発",
+     "field_hint": "がん薬物療法部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "米村 祐輔",
+     "affiliation": "九州大学病院別府病院 外科",
+     "position": "講師",
+     "project_title": "空間的シングルセル解析によるMSI-H進行大腸がん治療におけるパラダイムシフト",
+     "field_hint": "がん薬物療法部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "薛 宇孝",
+     "affiliation": "国立病院機構九州がんセンター 整形外科",
+     "position": "医長",
+     "project_title": "長管骨転移性腫瘍に対するラジオ波焼灼療法と髄内釘固定の併用療法の有効性・安全性の探索",
+     "field_hint": "医療機器部門",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLのドメイン jfmc.or.jp は、公益財団法人がん集学的治療研究財団の公式サイトであることを確認。公式発表「2023年度第44回一般研究助成者が決定しました」（2023年10月27日）掲載の採択者5名を全員収録した。公式サイトでは2024年度の一般研究助成募集を中止しており、2025年度以降の採択結果も確認できなかったため、採択者が判明する直近年度は2023年度。個別助成額は当該採択結果ページに記載がないためnull。"
+  },
+  "url_hint": "http://www.jfmc.or.jp",
+  "elapsed_s": 56
+ },
+ "神奈川県立産業技術総合研究所": {
+  "codex": {
+   "foundation_name": "神奈川県立産業技術総合研究所",
+   "source_url": "https://www.kistec.jp/aboutus/press/pr20260212/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "長谷川 真也",
+     "affiliation": "東海大学 総合科学技術研究所",
+     "position": "教授",
+     "project_title": "流体振動による仕事を電力変換するリニア発電機の開発",
+     "field_hint": null,
+     "amount_jpy": 13000000
+    },
+    {
+     "awardee_name": "嘉副 裕",
+     "affiliation": "慶應義塾大学 理工学部",
+     "position": "教授",
+     "project_title": "超微量・超高感度質量分析に向けたマイクロ流体技術の開発",
+     "field_hint": null,
+     "amount_jpy": 13000000
+    },
+    {
+     "awardee_name": "木戸 丈友",
+     "affiliation": "東京大学 定量生命科学研究所",
+     "position": "特任准教授",
+     "project_title": "心不全線維化の評価・制御法の開発",
+     "field_hint": null,
+     "amount_jpy": 13000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URL https://www.kistec.jp は地方独立行政法人神奈川県立産業技術総合研究所（KISTEC）の公式サイトであることを確認。公式プレスリリース「令和8年度より3件の新規研究プロジェクトを開始します」（2026年2月12日）に掲載された、戦略的研究シーズ育成事業の令和8年度（2026年度）採択課題全3件を収録した。所属の部局名は公式事業ページ https://www.kistec.jp/r_and_d/senryaku_p/ の採択研究テーマ欄で補完した。金額は個別の確定交付額ではなく、公式発表に明記された各課題の年間予算1,300万円（実施期間2年）である。課題別の公式分野表記はないためfield_hintはnull。"
+  },
+  "url_hint": "https://www.kistec.jp",
+  "elapsed_s": 57
+ },
+ "うま味研究会": {
+  "codex": {
+   "foundation_name": "大塚製薬工場",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "high",
+   "notes": "参考URLは株式会社大塚製薬工場の公式サイト（Copyright © Otsuka Pharmaceutical Factory, Inc.）であることを確認した。公式の「研究者主導研究の支援」ページ（https://www.otsukakj.jp/rd/investigator-sponsored-studies/）にはNEXT Research Supportの2026年度募集、採択研究への研究費提供、審査結果通知予定（7月）は記載されているが、採択者・採択課題の一覧は掲載されていない。公式サイト内および関連する採択結果・授与式ページも検索したが、本制度の採択者を氏名・課題単位で確認できる公式一覧は見つからなかったため、年度を特定せずawardeesを空とした。"
+  },
+  "url_hint": "http://www.srut.org",
+  "elapsed_s": 59
+ },
+ "大塚製薬工場": {
+  "codex": {
+   "foundation_name": "大塚製薬工場",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "high",
+   "notes": "参考URLは株式会社大塚製薬工場の公式サイト（Copyright © Otsuka Pharmaceutical Factory, Inc.）であることを確認した。公式の「研究者主導研究の支援」ページ（https://www.otsukakj.jp/rd/investigator-sponsored-studies/）にはNEXT Research Supportの2026年度募集、採択研究への研究費提供、審査結果通知予定（7月）は記載されているが、採択者・採択課題の一覧は掲載されていない。公式サイト内および関連する採択結果・授与式ページも検索したが、本制度の採択者を氏名・課題単位で確認できる公式一覧は見つからなかったため、年度を特定せずawardeesを空とした。"
+  },
+  "url_hint": "https://www.otsukakj.jp/rd/investigator-sponsored-studies",
+  "elapsed_s": 59
+ },
+ "金萬有科学振興会": {
+  "codex": {
+   "foundation_name": "金萬有科学振興会",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "参考URL「http://www.kimmanyu-spa.or.jp」は、文部科学省の第54回「教育・文化週間」関連行事資料（2012年）に金萬有科学振興会のURLとして掲載されており、同財団の公式サイトだったことを確認した。しかし、2026年7月15日現在はHTTP・HTTPSともアクセスできず、検索でも公式の採択者一覧・受賞者一覧を確認できなかった。第三者の研究者プロフィール等には個別の受賞記録が存在するが、公式一覧ではないため収録していない。したがって、出典URLと年度はnull、awardeesは空とした。"
+  },
+  "url_hint": "http://www.kimmanyu-spa.or.jp",
+  "elapsed_s": 61
+ },
+ "大分がん研究振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人大分がん研究振興財団",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "2026-07-15確認。参考URL http://www.oita-crf.com/ は、UMIN研究費補助機関データベース（https://center6.umin.ac.jp/cgi-open-bin/josei/select/index.cgi?kikan_cd=00016628）で当財団のURLとして登録されており、財団自体の実在も大分県の所管公益法人一覧（https://www.pref.oita.jp/soshiki/11720/28koueki.html）で確認した。ただし公式サイトはHTTP/HTTPSともに502 Bad Gatewayで閲覧できず、検索エンジンにも公式の採択者一覧・助成先・研究課題・贈呈式ページが見つからなかった。公式資料で直近1年度分の採択者を確認できないため、source_urlとfiscal_yearはnull、awardeesは空とした。個別研究室等に助成実績の記載はあるが、公式採択結果ではないため収録していない。"
+  },
+  "url_hint": "http://www.oita-crf.com",
+  "elapsed_s": 62
+ },
+ "風戸研究奨励会": {
+  "codex": {
+   "foundation_name": "公益財団法人 風戸研究奨励会",
+   "source_url": "https://www.kazato.org/about/winner/kazato_research_prize.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "佐々野 駿",
+     "affiliation": "東京大学大学院 工学系研究科",
+     "position": "助教",
+     "project_title": "原子分解能STEMによる次世代全固体電池界面のその場観察",
+     "field_hint": "材料系",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "高場 圭章",
+     "affiliation": "ポールシェラー研究所 SLS MXビームラインチーム",
+     "position": "サイエンティスト",
+     "project_title": "電荷積分型ハイブリッド素子検出器による高速TEM結晶構造解析",
+     "field_hint": "材料系",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "櫻木 崇晴",
+     "affiliation": "大阪大学 免疫学フロンティア研究センター",
+     "position": "特任助教",
+     "project_title": "クライオ電子顕微鏡によるリン脂質スクランブラーゼの構造解析",
+     "field_hint": "生物系",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山口 博史",
+     "affiliation": "東京大学大学院 医学系研究科",
+     "position": "助教",
+     "project_title": "クライオ電顕トモグラフィーによる繊毛軸糸・中心小体の非対称構造の解明",
+     "field_hint": "生物系",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式「＜風戸研究奨励賞＞受賞者一覧」の最新掲載年度である令和7年度（2025年度）から全4名を収集した。所属・職位は受賞時点の公式表記。2026年3月7日開催の公式授賞式報告（https://www.kazato.org/pdf/2026/kazato_20260307.pdf?0312=）でも4名を照合した。受賞者一覧・授賞式報告に個別助成額の記載がないため、amount_jpyはnullとした。確認日：2026-07-15。"
+  },
+  "url_hint": "https://www.kazato.org",
+  "elapsed_s": 65
+ },
+ "オルトメディコ": {
+  "codex": {
+   "foundation_name": "株式会社オルトメディコ（BEST LIFE AWARD）",
+   "source_url": "https://www.orthomedico.jp/study-group-management/best-life-award/5th.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "株式会社ひむか農園",
+     "affiliation": null,
+     "position": null,
+     "project_title": "宮崎特産の幻の柑橘類「ヘベす」の果皮を原材料とした機能性表示食品の届出",
+     "field_hint": "日本の特産食品部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "株式会社ユニアル",
+     "affiliation": "製品開発部",
+     "position": null,
+     "project_title": "機能性表示食品届出を目標とした探索的ヒト臨床試験の実施",
+     "field_hint": "食品（素材）部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "三菱ケミカル株式会社",
+     "affiliation": null,
+     "position": null,
+     "project_title": "オリーブ抽出物の血糖値上昇抑制作用ならびに日中の眠気・活力への影響に関する探索的研究",
+     "field_hint": "食品（素材）部門",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは株式会社オルトメディコの公式サイトであることを確認。公式の「第5回 BEST LIFE AWARD」ページに、2025年の選考日程（申請締切2025年8月4日、選考結果2025年8月末まで）と受賞3団体が掲載されているため、年度を2025年とした。公式発表は個人名ではなく団体名を掲載している。個別助成金額、代表者の氏名・職位は記載されていないためnull。取得・確認日: 2026-07-15。"
+  },
+  "url_hint": "https://www.orthomedico.jp/study-group-management/best-life-award.html",
+  "elapsed_s": 68
+ },
+ "小野医学研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 小野医学研究財団",
+   "source_url": "https://www.ono-pharma.com/sites/default/files/zaidan/joseilist_2025.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "青木 淳賢",
+     "affiliation": "東京大学大学院薬学系研究科 衛生化学教室",
+     "position": "教授",
+     "project_title": "リン脂質脂肪酸非対称性の分子機構とその生物学的意義の解明",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "大石 智一",
+     "affiliation": "公益財団法人 微生物化学研究会 微生物化学研究所 第1生物活性研究部",
+     "position": "主任研究員",
+     "project_title": "膜リン脂質リモデリングの破綻が引き起こす赤血球機能障害",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "大石 由美子",
+     "affiliation": "東京科学大学大学院 医歯学総合研究科 病態代謝解析学",
+     "position": "教授",
+     "project_title": "クッパー細胞のプラズマローゲンによる肝恒常性とMASH病態制御機構の解明",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "喜田 聡",
+     "affiliation": "東京大学大学院農学生命科学研究科",
+     "position": "教授",
+     "project_title": "プロスタグランジンを中心とする海馬における恐怖記憶消去制御機構の分子基盤の解明",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "桑原 知樹",
+     "affiliation": "東京大学大学院医学系研究科 神経病理学分野",
+     "position": "講師",
+     "project_title": "ホスホイノシチド代謝異常がもたらすパーキンソン病発症機構の解明",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "篠原 恭介",
+     "affiliation": "東京農工大学大学院工学研究院 生命機能科学部門",
+     "position": "教授",
+     "project_title": "哺乳類運動繊毛膜の脂質組成とその生理的意義の解明",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "志甫谷 渉",
+     "affiliation": "慶應義塾大学 医学部 坂口光洋記念講座（シグナル探求学）",
+     "position": "准教授",
+     "project_title": "脂質代謝異常治療を志向したFFAR3アロステリック調節薬の構造機能解析",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "菅波 孝祥",
+     "affiliation": "名古屋大学環境医学研究所 分子代謝医学分野",
+     "position": "教授",
+     "project_title": "脳肝連関による肝臓の免疫代謝制御に基づくMASH病態の解明",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "多喜 正泰",
+     "affiliation": "岐阜大学 糖鎖生命コア研究所",
+     "position": "教授",
+     "project_title": "脂質代謝異常に起因する糖鎖修飾の再構築と腫瘍悪性化機構の解明",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "中村 修平",
+     "affiliation": "奈良県立医科大学 生化学講座",
+     "position": "教授",
+     "project_title": "リソソーム-ペルオキシソーム間脂質輸送を介したリソソーム膜修復機構と細胞老化における役割の解明",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "平林 哲也",
+     "affiliation": "公益財団法人 東京都医学総合研究所 先端基礎医科学研究分野",
+     "position": "主席研究員",
+     "project_title": "鉄代謝異常を伴う神経変性疾患におけるリン脂質分解の役割",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "三原田 賢一",
+     "affiliation": "熊本大学国際先端医学研究機構 幹細胞プロテオスタシス学講座",
+     "position": "特別招聘教授",
+     "project_title": "脂質代謝異常に起因する貧血誘導機構の解明と治療法の開発",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "安田 大恭",
+     "affiliation": "秋田大学 大学院医学系研究科 生体防御学講座",
+     "position": "講師",
+     "project_title": "生理活性リゾリン脂質が制御するリンパ管関連病態の解明と治療薬開発へ向けた分子基盤の構築",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "柳田 圭介",
+     "affiliation": "東京慈恵会医科大学 分子生物学講座",
+     "position": "講座担当教授",
+     "project_title": "リゾリン脂質が制御する脳血管内皮ケトン供給転写プログラム",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "山田 健一",
+     "affiliation": "九州大学大学院薬学研究院 分子病態解析学分野",
+     "position": "主幹教授",
+     "project_title": "細胞膜リン脂質の膜非対称性と酸化障害",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人小野医学研究財団の公式サイトであることを確認。公式サイトが2025年12月15日に公表した「第38回（2025年度）研究助成対象者」PDFから、掲載された15名全員を収録した。助成額は公式PDFに「1件に付き300万円」と明記。研究奨励助成は別制度・別一覧のため、この配列には含めていない。"
+  },
+  "url_hint": "https://www.ono-pharma.com/ja/zaidan",
+  "elapsed_s": 72
+ },
+ "小浜市": {
+  "codex": {
+   "foundation_name": "小浜市",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "参考URLは小浜市の公式行政サイトであることを確認した。ただし、小浜市は研究助成財団ではなく、公式サイト内を「研究助成」「採択者」「採択課題」「助成先」等で検索しても、研究者を対象とする研究助成の採択結果は確認できなかった。令和8年度（2026年度）の「みんなで潤う☆小浜づくり事業」採択事業は存在するが、市民・学生団体による地域課題解決事業であり、募集要項でも公益に資さない個人的研究を対象外としているため、本データには含めていない。確認日: 2026-07-15。"
+  },
+  "url_hint": "http://www1.city.obama.fukui.jp",
+  "elapsed_s": 75
+ },
+ "桐山奨学会": {
+  "codex": {
+   "foundation_name": "一般財団法人 桐山奨学会",
+   "source_url": "https://www.kiriyama-syougakukai.or.jp/information/img_info/josei3.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "谷口信子",
+     "affiliation": "大阪成蹊短期大学 栄養学科",
+     "position": "教授",
+     "project_title": "ベーグルづくりで食育",
+     "field_hint": "食品産業発展支援",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは一般財団法人桐山奨学会の公式サイトであることを確認。公式「助成金採用実績」PDFに掲載された直近の確認可能な採用実績（2025年度）から全1件を収録した。個別の交付金額は採用実績PDFに明記されていないためnull。公式サイトには2026年度大学等研究事業費の募集情報があるが、確認できた採用実績PDFは2025年度版であり、未確認の2026年度採用者は収録していない。"
+  },
+  "url_hint": "http://kiriyama-syougakukai.or.jp",
+  "elapsed_s": 80
+ },
+ "MSD株式会社": {
+  "codex": {
+   "foundation_name": "MSD株式会社",
+   "source_url": "https://www.msd.co.jp/grant_for_medical_education_project_2025_v2/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "株式会社健康プロダクション",
+     "affiliation": null,
+     "position": null,
+     "project_title": "脂質異常症をコアとしたヘルスケアアカデミー",
+     "field_hint": "脂質異常症",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人日本心エコー図学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "肺高血圧の診断治療のための包括的心エコー教育 オンデマンド動画教材プロジェクト",
+     "field_hint": "肺高血圧症",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "学校法人帝京大学",
+     "affiliation": null,
+     "position": null,
+     "project_title": "肺高血圧症ケアに携わる看護師のためのポケットエコーを用いた右心不全および感染フィジカルアセスメント研修プログラム",
+     "field_hint": "肺高血圧症",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "国立大学法人神戸大学",
+     "affiliation": null,
+     "position": null,
+     "project_title": "肺高血圧の早期診断スキルアップセミナー in 関西",
+     "field_hint": "肺高血圧症",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人スマートヘルスケア協会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "薬局店頭における HPV ワクチン未接種者対策サービス",
+     "field_hint": "HPV関連疾患",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "国立大学法人三重大学",
+     "affiliation": null,
+     "position": null,
+     "project_title": "男性への HPV ワクチン接種に関する知識の向上と普及のための医学教育事業",
+     "field_hint": "HPV関連疾患",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "国立大学法人千葉大学",
+     "affiliation": null,
+     "position": null,
+     "project_title": "産婦人科と小児科の連携による効果的な小児呼吸器感染症予防推進のための教育啓発事業",
+     "field_hint": "小児呼吸器感染症",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "国立大学法人金沢大学",
+     "affiliation": null,
+     "position": null,
+     "project_title": "予防医療の未来を北陸から―肺炎球菌感染症対策のための多職種連携教育プログラム―",
+     "field_hint": "肺炎球菌感染症",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "国立大学法人東北大学",
+     "affiliation": null,
+     "position": null,
+     "project_title": "臓器移植患者のための VPDs 予防推進教育プログラム開発：肺炎球菌ワクチン接種の理解と実践を高める多職種連携型モデル",
+     "field_hint": "肺炎球菌感染症",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "国立大学法人琉球大学",
+     "affiliation": null,
+     "position": null,
+     "project_title": "沖縄県における高齢者肺炎球菌ワクチン接種率の向上を目指して",
+     "field_hint": "肺炎球菌感染症",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "国立大学法人鳥取大学",
+     "affiliation": null,
+     "position": null,
+     "project_title": "多職種で築く、糖尿病・慢性腎臓病・透析患者へのワクチン予防戦略",
+     "field_hint": "肺炎球菌感染症",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人日本がんサポーティブケア学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "肺がん薬物療法における多職種協働のための高齢者機能評価普及プログラム",
+     "field_hint": "非小細胞肺癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人日本泌尿器科学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "主要泌尿器癌（腎細胞癌、膀胱癌、前立腺癌）に対する診療科横断的集学的治療体系の理解・運用を促進するための若手医師育成を目的とした教育プログラムの確立",
+     "field_hint": "泌尿器癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人日本頭頸部癌学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "頭頸部癌の周術期治療におけるガイドライン及び薬物療法への理解を深めるための教育事業と再発又は転移性頭頸部がん治療への理解を深めるための教育事業",
+     "field_hint": "頭頸部癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東京慈恵会医科大学",
+     "affiliation": null,
+     "position": null,
+     "project_title": "悪性黒色腫における術後・薬物療法の最前線を理解するためのコメディカル教育プログラムの構築と実践",
+     "field_hint": "悪性黒色腫",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人日本胃癌学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "第7版 胃癌治療ガイドラインに記載された集学的治療に関する理解を深めるための多職種を対象とした教育事業",
+     "field_hint": "胃癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人日本食道学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "食道がんにおける免疫チェックポイント阻害剤の理解向上事業",
+     "field_hint": "食道癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "国立大学法人東海国立大学機構",
+     "affiliation": null,
+     "position": null,
+     "project_title": "胆道癌診療をともに学ぶ ～多職種で取り組むこれからの医療～",
+     "field_hint": "胆道癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "公益社団法人日本婦人科腫瘍学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "婦人科がん薬物療法に関する Tumor Board の確立",
+     "field_hint": "婦人科癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人婦人科悪性腫瘍研究機構",
+     "affiliation": null,
+     "position": null,
+     "project_title": "JGOG 子宮体がんセミナー",
+     "field_hint": "婦人科癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人日本がんサポーティブケア学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "乳がんにおける複合免疫療法関連オンコロジックエマージェンシーへの早期対応教育と人材育成事業",
+     "field_hint": "乳癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人西日本がん研究機構",
+     "affiliation": null,
+     "position": null,
+     "project_title": "乳癌薬物療法における副作用マネジメント力を育成する多職種参加型教育プログラム",
+     "field_hint": "乳癌",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人日本血液学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "日本血液学会 MPN スクール",
+     "field_hint": "造血器腫瘍",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人日本泌尿器科学会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "泌尿器科領域における遺伝性腫瘍の基礎知識習得および遺伝カウンセリングの理解深化を通してゲノム情報の適切な運用を促進するための若手医師育成を目的とした教育プログラムの確立",
+     "field_hint": "癌腫横断",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLはMSD株式会社の公式サイトにある（公募型）医学教育事業助成ページであることを確認。そこからリンクされた公式PDF「2025年（公募型）医学教育事業助成 採択結果について」（2026年3月更新）に掲載された全24件を収録した。本制度は個人ではなく施設・団体を助成対象としており、公式一覧にも個人名・職位・個別助成額の記載がないため、awardee_nameには助成先団体名を収録し、affiliation、position、amount_jpyはnullとした。"
+  },
+  "url_hint": "https://www.msd.co.jp/about/responsibility/ime/jigyo",
+  "elapsed_s": 91
+ },
+ "ゴールドリボン・ネットワーク": {
+  "codex": {
+   "foundation_name": "ゴールドリボン・ネットワーク",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "参考URL（http://www.goldribbon.jp）および検索サービスへのアクセスを試みましたが、検索サービスはHTTP 429、参考URLは名前解決エラーとなり、公式サイトの同定と公式採択結果の確認ができませんでした。捏造を避けるため、採択者・年度・出典URLは記載していません。"
+  },
+  "url_hint": "http://www.goldribbon.jp",
+  "elapsed_s": 35
+ },
+ "かなえ医薬振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人一般用医薬品セルフメディケーション振興財団",
+   "source_url": "https://www.otc-spf.jp/symposium/applications2025/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "槇田 崇志",
+     "affiliation": "岡山大学病院 薬剤部",
+     "position": "副薬剤部長",
+     "project_title": "セルフメディケーションに特化した電子患者報告アウトカムアプリの開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "関根 祐子",
+     "affiliation": "千葉大学大学院 薬学研究院",
+     "position": "教授",
+     "project_title": "とろみ調整剤を使用した服薬が睡眠導入剤の効果に与える影響に関する研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "牧野 利明",
+     "affiliation": "名古屋市立大学大学院 薬学研究科医療機能薬学専攻生薬学分野",
+     "position": "教授",
+     "project_title": "甘草含有医薬品による偽アルドステロン症発症を事前に回避のための検査キットの開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "水野 忠快",
+     "affiliation": "国立大学法人 東京大学大学院 薬学系研究科",
+     "position": "助教",
+     "project_title": "言語AIによるOTC医薬品の安全性情報抽出とリスク数値化",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "関 徹也",
+     "affiliation": "一般社団法人 上田薬剤師会",
+     "position": "副会長",
+     "project_title": "薬局での受診勧奨およびフォローアップの質的向上のための地域連携フォーマットに関する研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "染谷 由希",
+     "affiliation": "順天堂大学 スポーツ健康科学部",
+     "position": "准教授",
+     "project_title": "マラソン競技中の鎮痛剤の使用実態と予防使用に関連する因子の検討",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "坂本 優子",
+     "affiliation": "順天堂大学 医学部附属練馬病院整形外科",
+     "position": "准教授",
+     "project_title": "「正しい情報」が導くセルフメディケーション：妊婦・若年層のボーンヘルス支援の実装",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 真司",
+     "affiliation": "東京大学 医学部附属病院腎臓・内分泌内科",
+     "position": "助教",
+     "project_title": "消化管−神経−免疫連関を標的とした慢性腎臓病に対する一般用医薬品の開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "水谷 壮利",
+     "affiliation": "国立健康危機管理研究機構 国立感染症研究所 エイズ研究センター",
+     "position": "主任研究官",
+     "project_title": "COVID-19 後遺症の病態診断と治療を目指した腸内細菌由来の細胞外小胞の活用",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "奈邉 健",
+     "affiliation": "摂南大学 薬学部薬効薬理学研究室",
+     "position": "教授",
+     "project_title": "食事由来アリルハイドロカーボン受容体（AhR）リガンドによるステロイド抵抗性アレルギー改善作用",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "五十里 彰",
+     "affiliation": "岐阜薬科大学 生化学研究室",
+     "position": "副学長 教授",
+     "project_title": "老人性乾皮症のセルフメディケーションに向けたマグネシウム吸収促進食品の探索",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山田 幸平",
+     "affiliation": "静岡県立大学 薬学部 薬剤学分野",
+     "position": "助教",
+     "project_title": "User friendly な点鼻型OTC 睡眠薬の開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "岡田 康太郎",
+     "affiliation": "富山大学 学術研究部薬学・和漢系製剤設計学研究室",
+     "position": "特命准教授",
+     "project_title": "NMR とデータサイエンスで探る3D プリンター錠剤の放出制御基盤",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "五十嵐 裕貴",
+     "affiliation": "慶應義塾大学 薬学部 薬効解析学講座",
+     "position": "助教",
+     "project_title": "MA-T技術を活用した新規消毒剤の開発研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "高橋 秀人",
+     "affiliation": "帝京平成大学 薬学部",
+     "position": "教授",
+     "project_title": "薬学部学生との地域住民交流によるセルフメディケーション意識向上の評価に関する研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田 雨時",
+     "affiliation": "大阪大学大学院 薬学研究科",
+     "position": "助教",
+     "project_title": "AI技術を活用したセルフメディケーション支援ツールの開発と評価",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田島 靖久",
+     "affiliation": "公益財団法人 浜松市医療公社 浜松医療センター 感染症内科",
+     "position": "部長",
+     "project_title": "セルフ検査活用のインフルエンザ遠隔診療評価研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "堀内 正子",
+     "affiliation": "星薬科大学 生物制御科学研究室",
+     "position": "助教",
+     "project_title": "現場から見えてくる「薬のゲートキーパー」の役割と課題～オーバードーズ防止に向けて",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "加藤 久幸",
+     "affiliation": "公益社団法人 大和綾瀬薬剤師会",
+     "position": "会長",
+     "project_title": "セルフケア、セルフメディケーション推進のための評価項目の設定と調査",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "河野 奨",
+     "affiliation": "就実大学 薬学部社会薬学研究室",
+     "position": "講師",
+     "project_title": "スマートフォンを活用した、くすり実験教室用教材の開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐伯 勇",
+     "affiliation": "広島大学病院 小児外科",
+     "position": "講師",
+     "project_title": "小児・AYA世代がん患者のためのフォローアップアプリ製作",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐藤 いずみ",
+     "affiliation": "東京医療保健大学大学院 看護研究科 母性看護学・助産学",
+     "position": "准教授",
+     "project_title": "プレコンセプションケアを教育として介入するデジタルコンテンツの開発と評価",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "仲田 真理子",
+     "affiliation": "筑波大学 人間系",
+     "position": "助教",
+     "project_title": "「発達障害の当事者とまわりの人のための薬はじめてガイド」医療者・支援者を対象とした広報活動",
+     "field_hint": "啓発事業等",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "辻 大樹",
+     "affiliation": "静岡県立大学 薬学部臨床薬剤学分野",
+     "position": "教授",
+     "project_title": "薬とのつきあい方を学ぶスポーツ薬学教育プログラム 〜遊びと体験で伝えるOD対策〜",
+     "field_hint": "啓発事業等",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "倉田 香織",
+     "affiliation": "東京薬科大学 薬学部 総合学修・教育センター",
+     "position": "助教",
+     "project_title": "「くすりを使う時の12の約束」の副読本（やさしい日本語版等）の開発",
+     "field_hint": "啓発事業等",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の「2025年度 一般用医薬品セルフメディケーションシンポジウム」ページに掲載された令和7年度（2025年度）助成対象者25名（調査・研究22名、啓発事業等3名）を全件収録した。個別助成額は同ページに記載がないためnull。確認日: 2026-07-15。"
+  },
+  "url_hint": "http://www.kanae-zaidan.com",
+  "elapsed_s": 97
+ },
+ "一般用医薬品セルフメディケーション振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人一般用医薬品セルフメディケーション振興財団",
+   "source_url": "https://www.otc-spf.jp/symposium/applications2025/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "槇田 崇志",
+     "affiliation": "岡山大学病院 薬剤部",
+     "position": "副薬剤部長",
+     "project_title": "セルフメディケーションに特化した電子患者報告アウトカムアプリの開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "関根 祐子",
+     "affiliation": "千葉大学大学院 薬学研究院",
+     "position": "教授",
+     "project_title": "とろみ調整剤を使用した服薬が睡眠導入剤の効果に与える影響に関する研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "牧野 利明",
+     "affiliation": "名古屋市立大学大学院 薬学研究科医療機能薬学専攻生薬学分野",
+     "position": "教授",
+     "project_title": "甘草含有医薬品による偽アルドステロン症発症を事前に回避のための検査キットの開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "水野 忠快",
+     "affiliation": "国立大学法人 東京大学大学院 薬学系研究科",
+     "position": "助教",
+     "project_title": "言語AIによるOTC医薬品の安全性情報抽出とリスク数値化",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "関 徹也",
+     "affiliation": "一般社団法人 上田薬剤師会",
+     "position": "副会長",
+     "project_title": "薬局での受診勧奨およびフォローアップの質的向上のための地域連携フォーマットに関する研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "染谷 由希",
+     "affiliation": "順天堂大学 スポーツ健康科学部",
+     "position": "准教授",
+     "project_title": "マラソン競技中の鎮痛剤の使用実態と予防使用に関連する因子の検討",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "坂本 優子",
+     "affiliation": "順天堂大学 医学部附属練馬病院整形外科",
+     "position": "准教授",
+     "project_title": "「正しい情報」が導くセルフメディケーション：妊婦・若年層のボーンヘルス支援の実装",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 真司",
+     "affiliation": "東京大学 医学部附属病院腎臓・内分泌内科",
+     "position": "助教",
+     "project_title": "消化管−神経−免疫連関を標的とした慢性腎臓病に対する一般用医薬品の開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "水谷 壮利",
+     "affiliation": "国立健康危機管理研究機構 国立感染症研究所 エイズ研究センター",
+     "position": "主任研究官",
+     "project_title": "COVID-19 後遺症の病態診断と治療を目指した腸内細菌由来の細胞外小胞の活用",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "奈邉 健",
+     "affiliation": "摂南大学 薬学部薬効薬理学研究室",
+     "position": "教授",
+     "project_title": "食事由来アリルハイドロカーボン受容体（AhR）リガンドによるステロイド抵抗性アレルギー改善作用",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "五十里 彰",
+     "affiliation": "岐阜薬科大学 生化学研究室",
+     "position": "副学長 教授",
+     "project_title": "老人性乾皮症のセルフメディケーションに向けたマグネシウム吸収促進食品の探索",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山田 幸平",
+     "affiliation": "静岡県立大学 薬学部 薬剤学分野",
+     "position": "助教",
+     "project_title": "User friendly な点鼻型OTC 睡眠薬の開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "岡田 康太郎",
+     "affiliation": "富山大学 学術研究部薬学・和漢系製剤設計学研究室",
+     "position": "特命准教授",
+     "project_title": "NMR とデータサイエンスで探る3D プリンター錠剤の放出制御基盤",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "五十嵐 裕貴",
+     "affiliation": "慶應義塾大学 薬学部 薬効解析学講座",
+     "position": "助教",
+     "project_title": "MA-T技術を活用した新規消毒剤の開発研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "高橋 秀人",
+     "affiliation": "帝京平成大学 薬学部",
+     "position": "教授",
+     "project_title": "薬学部学生との地域住民交流によるセルフメディケーション意識向上の評価に関する研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田 雨時",
+     "affiliation": "大阪大学大学院 薬学研究科",
+     "position": "助教",
+     "project_title": "AI技術を活用したセルフメディケーション支援ツールの開発と評価",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田島 靖久",
+     "affiliation": "公益財団法人 浜松市医療公社 浜松医療センター 感染症内科",
+     "position": "部長",
+     "project_title": "セルフ検査活用のインフルエンザ遠隔診療評価研究",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "堀内 正子",
+     "affiliation": "星薬科大学 生物制御科学研究室",
+     "position": "助教",
+     "project_title": "現場から見えてくる「薬のゲートキーパー」の役割と課題～オーバードーズ防止に向けて",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "加藤 久幸",
+     "affiliation": "公益社団法人 大和綾瀬薬剤師会",
+     "position": "会長",
+     "project_title": "セルフケア、セルフメディケーション推進のための評価項目の設定と調査",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "河野 奨",
+     "affiliation": "就実大学 薬学部社会薬学研究室",
+     "position": "講師",
+     "project_title": "スマートフォンを活用した、くすり実験教室用教材の開発",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐伯 勇",
+     "affiliation": "広島大学病院 小児外科",
+     "position": "講師",
+     "project_title": "小児・AYA世代がん患者のためのフォローアップアプリ製作",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐藤 いずみ",
+     "affiliation": "東京医療保健大学大学院 看護研究科 母性看護学・助産学",
+     "position": "准教授",
+     "project_title": "プレコンセプションケアを教育として介入するデジタルコンテンツの開発と評価",
+     "field_hint": "調査・研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "仲田 真理子",
+     "affiliation": "筑波大学 人間系",
+     "position": "助教",
+     "project_title": "「発達障害の当事者とまわりの人のための薬はじめてガイド」医療者・支援者を対象とした広報活動",
+     "field_hint": "啓発事業等",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "辻 大樹",
+     "affiliation": "静岡県立大学 薬学部臨床薬剤学分野",
+     "position": "教授",
+     "project_title": "薬とのつきあい方を学ぶスポーツ薬学教育プログラム 〜遊びと体験で伝えるOD対策〜",
+     "field_hint": "啓発事業等",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "倉田 香織",
+     "affiliation": "東京薬科大学 薬学部 総合学修・教育センター",
+     "position": "助教",
+     "project_title": "「くすりを使う時の12の約束」の副読本（やさしい日本語版等）の開発",
+     "field_hint": "啓発事業等",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の「2025年度 一般用医薬品セルフメディケーションシンポジウム」ページに掲載された令和7年度（2025年度）助成対象者25名（調査・研究22名、啓発事業等3名）を全件収録した。個別助成額は同ページに記載がないためnull。確認日: 2026-07-15。"
+  },
+  "url_hint": "https://www.otc-spf.jp",
+  "elapsed_s": 97
+ },
+ "小笠原科学技術振興財団": {
+  "codex": {
+   "foundation_name": "小笠原科学技術振興財団（現・公益財団法人 小笠原敏晶記念財団）",
+   "source_url": "https://ogasawarazaidan.or.jp/science/pdf-cms/24d2f81b6d589de49fb33a84e08623e4da9bddf9.pdf",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "神野伸一郎",
+     "affiliation": "愛知学院大学 薬学部 生体有機化学講座",
+     "position": "教授",
+     "project_title": "光誘起型リビングラジカル重合を指向した第2近赤外（NIR-Ⅱ）色素の創製と分子変換機能の開発",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "福元博基",
+     "affiliation": "茨城大学 大学院理工学研究科 量子線科学専攻",
+     "position": "教授",
+     "project_title": "フルオロアルケンをビルディングブロックとする低誘電性含フッ素ポリイミドの開発",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森 裕樹",
+     "affiliation": "岡山大学 異分野基礎科学研究所研究",
+     "position": "准教授",
+     "project_title": "複素多環芳香族化合物を主骨格とする半導体高分子の開発と高効率有機太陽電池への展開",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "依馬 正",
+     "affiliation": "岡山大学 学術研究院環境生命自然科学学域",
+     "position": "教授",
+     "project_title": "二酸化炭素が固定化された新規ポリマーの合成と特性評価",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西澤佑一朗",
+     "affiliation": "岡山大学 学術研究院環境生命自然科学学域",
+     "position": "助教（特任）",
+     "project_title": "エマルションを長期安定化可能な疎水化ハイドロゲル微粒子の創製",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "原 光生",
+     "affiliation": "香川大学 創造工学部 材料物質科学領域",
+     "position": "准教授",
+     "project_title": "ポリシロキサンアイオノマーの機能再定義に向けた研究",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "金 仁華",
+     "affiliation": "神奈川大学 化学生命学部 応用化学科",
+     "position": "教授",
+     "project_title": "高分子ベシクル薄膜の散逸亀裂パターンを利用したクラックリソグラフィー：高密着性透明導電膜・透明電極の開発",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "逢坂直樹",
+     "affiliation": "九州大学 ネガティブエミッション研究センター",
+     "position": "准教授",
+     "project_title": "正方格子型配位高分子からなる二酸化炭素分離膜の開発",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山田重之",
+     "affiliation": "京都工芸繊維大学 分子化学系",
+     "position": "准教授",
+     "project_title": "高分子分散型イオン液晶による温度応答性蛍光センシングフィルムの創製",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大木靖弘",
+     "affiliation": "京都大学 化学研究所",
+     "position": "教授",
+     "project_title": "酵素を超越する炭素固定を志向した高分子錯体触媒の開発",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "武政雄大",
+     "affiliation": "京都大学 大学院工学研究科 分子工学専攻",
+     "position": "特定助教",
+     "project_title": "Non-bonding π conjugationを制御した共有結合性有機構造体の作成と伝導性評価",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "新留琢郎",
+     "affiliation": "熊本大学 大学院先端科学研究部 医工学部門",
+     "position": "教授",
+     "project_title": "生分解性ポリマーナノ粒子を使った細胞内寄生菌への抗菌剤送達技術の開発",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松原輝彦",
+     "affiliation": "慶応義塾大学 理工学部 生命情報学科",
+     "position": "准教授",
+     "project_title": "ウイルス捕捉する中分子の高分子化による超高感度センシングシステムの構築",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "黒川成貴",
+     "affiliation": "東京工業大学 物質理工学院 応用化学系",
+     "position": "助教",
+     "project_title": "液晶性ポリ置換メチレンの生体親和性ポリマーへの展開",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "相良剛光",
+     "affiliation": "東京工業大学 物質理工学院 材料系",
+     "position": "准教授",
+     "project_title": "分子内回転抑制による発光機構を導入したロタキサン型超分子メカノフォア",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "岩井智弘",
+     "affiliation": "東京大学 大学院総合文化研究科",
+     "position": "講師",
+     "project_title": "可視光駆動型超分子-高分子ハイブリッド触媒の創製",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "寺尾 潤",
+     "affiliation": "東京大学 総合文化研究科 広域科学専攻 相関基礎科学系",
+     "position": "教授",
+     "project_title": "超分子構造設計に基づく高電荷輸送有機半導体材料の創成",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "雨夜 徹",
+     "affiliation": "名古屋市立大学 大学院理学研究科 理学情報専攻",
+     "position": "教授",
+     "project_title": "有機高分子スピン液体の合理的合成",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "井改知幸",
+     "affiliation": "名古屋大学 大学院工学研究科 有機高分子化学専攻",
+     "position": "准教授",
+     "project_title": "ヘリカルグラフェンナノリボンのテーラード合成と集積化に基づく機能開拓",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "日出間るり",
+     "affiliation": "名古屋大学 大学院工学研究科 機械システム工学専攻",
+     "position": "教授",
+     "project_title": "流体中の高分子にかかる力測定に基づく弾性不安定の起源の解明",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "井澤浩則",
+     "affiliation": "宮崎大学 工学部 応用物質化学プログラム",
+     "position": "教授",
+     "project_title": "再生ナノキチンの科学の探求",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "住谷陽輔",
+     "affiliation": "山口大学 大学院創成科学研究科 工学系学域",
+     "position": "助教",
+     "project_title": "水中利用可能な接着性高分子開発を指向した接着分子理論の構築",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "宮武健治",
+     "affiliation": "山梨大学 クリーンエネルギー研究センター",
+     "position": "教授",
+     "project_title": "有機レドックス電極と高分子電解質を用いた全固体空気二次電池の開発",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西口昭広",
+     "affiliation": "国立研究開発法人 物質・材料研究機構 高分子・バイオ材料研究センター",
+     "position": "主幹研究員",
+     "project_title": "液-液相分離誘導技術による構造制御インジェクタブルゲルの開発",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "南 安規",
+     "affiliation": "国立研究開発法人 産業技術総合研究所 材料・化学領域 触媒化学融合研究センター",
+     "position": "主任研究員",
+     "project_title": "高安定樹脂の解重合を基盤とする機能性樹脂の作成と触媒利用",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "QUADER, Sabina",
+     "affiliation": "公益財団法人 川崎市産業振興財団 ナノ医療イノベーションセンター",
+     "position": "副主幹研究員",
+     "project_title": "ヒストン脱アセチル化酵素阻害剤の薬物キャリアとして高分子ミセルが自動的な自己会合で形成されるヒドロキサム酸基官能基化ポリエチレングリコール-b-ポリアミノ酸ブロック共重合体プラットフォームの設計と合成",
+     "field_hint": "一般研究助成（高分子分野）",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公式サイトであることを確認。小笠原科学技術振興財団は2020年6月に「小笠原敏晶記念財団」へ改称している。公式サイトで公開されている科学技術分野「一般研究助成」の直近の採択者一覧は2024年度分で、全26件を収録した。PDFには総助成額11,885万円の記載があるが、個別金額は掲載されていないためamount_jpyはすべてnull。所属・職位・研究課題は公式PDFの表記に基づき、半角カナ等のみ可読性のため正規化した。"
+  },
+  "url_hint": "http://ogasawarazaidan.or.jp",
+  "elapsed_s": 98
+ },
+ "宇部興産学術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人UBE学術振興財団（旧称：宇部興産学術振興財団）",
+   "source_url": "https://www.ube.co.jp/ube_s_zaidan/grants.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "伊藤 大樹",
+     "affiliation": "東北医科薬科大学医学部",
+     "position": "講師",
+     "project_title": "静脈性高血圧による腎うっ血の分子病態解明と新規治療戦略の確立",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小栗 靖生",
+     "affiliation": "奈良女子大学研究院",
+     "position": "専任講師 (PI)",
+     "project_title": "脂肪組織を介したエネルギー代謝調節機構の解明と生活習慣病への応用",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松﨑 賢寿",
+     "affiliation": "大阪大学大学院工学研究科附属フューチャーイノベーションセンター",
+     "position": "テクノアリーナ准教授",
+     "project_title": "小腸再生の起点となる力学場の定量解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "安達 洋平",
+     "affiliation": "広島大学大学院先進理工学系科学研究科",
+     "position": "助教",
+     "project_title": "新規カップリング法に基づく非対称過密アルケンの創製と多重応答性クロミック材料への展開",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "石津 帆高",
+     "affiliation": "国立大学法人北海道大学 北海道大学病院整形外科",
+     "position": "医員",
+     "project_title": "変形性関節症における骨免疫異常とITAM–Syk経路の解明 -新規疾患修飾型治療への基盤構築-",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "石野 貴雅",
+     "affiliation": "国立大学法人岡山大学 学術研究院医歯薬学域",
+     "position": "研究准教授",
+     "project_title": "腫瘍浸潤T細胞のゲノム異常と抗腫瘍免疫応答の関係解明",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "今西 貴之",
+     "affiliation": "北里大学医学部",
+     "position": "助教",
+     "project_title": "病原性CD4CTLの分化誘導と加齢関連疾患発症の分子機構の解明",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "牛丸 理一郎",
+     "affiliation": "九州大学高等研究院",
+     "position": "准教授",
+     "project_title": "酵素反応における不安定化学種の精密制御による非天然生物活性分子の創出",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "太田 英介",
+     "affiliation": "早稲田大学高等研究所",
+     "position": "准教授",
+     "project_title": "選択的C–F結合開裂によるパーフルオロアルキル化合物のアップサイクル",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "太田 俊",
+     "affiliation": "国立大学法人弘前大学",
+     "position": "准教授",
+     "project_title": "金属錯体を基盤とする揮発性有機化合物の吸着およびセンシング材料の開発",
+     "field_hint": "無機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大竹 真央",
+     "affiliation": "弘前大学",
+     "position": "助教",
+     "project_title": "再生医療応用に向けた間葉系幹細胞の大スケール遠心分取",
+     "field_hint": "機械・計測制御・システム",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "岡田 寛之",
+     "affiliation": "東京大学大学院医学系研究科",
+     "position": "講師",
+     "project_title": "ケモバイオトランスオミクスで開拓する骨と生体適合性材料",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "荻野 学芳",
+     "affiliation": "産業医科大学第３内科学",
+     "position": "助教",
+     "project_title": "ヒト血中細胞外小胞画分の好中球エラスターゼに着目した新規バイオマーカーの開発",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "金井 祐太",
+     "affiliation": "和歌山県立医科大学",
+     "position": "教授",
+     "project_title": "ゲノムサイズ制約下におけるウイルスタンパク質の多機能化機構",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "川上 正敬",
+     "affiliation": "東京大学大学院医学系研究科",
+     "position": "講師",
+     "project_title": "KIFC1阻害による過剰中心体収束阻害と多極性分裂誘導を基盤とした癌特異的肺癌治療戦略の開発",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "河野 和",
+     "affiliation": "熊本大学大学院生命科学研究部",
+     "position": "助教",
+     "project_title": "プロテオミクスデータを用いた多発性骨髄腫の新規治療開発",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "黒田 悠介",
+     "affiliation": "京都大学大学院薬学研究科",
+     "position": "特定助教",
+     "project_title": "人工樹脂触媒によるマクロ環化の革新",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小島 知也",
+     "affiliation": "東京農工大学大学院工学研究院",
+     "position": "特任助教",
+     "project_title": "液滴型分子集合体からアプローチする万能キャリア材料の開発",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐藤 英祐",
+     "affiliation": "岡山大学学術研究院",
+     "position": "助教",
+     "project_title": "電気化学的な環化反応によるアルカロイド骨格の形成と天然物全合成",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "澤田 敏樹",
+     "affiliation": "国立大学法人東京科学大学物質理工学院",
+     "position": "准教授",
+     "project_title": "遺伝子改変と機械学習に基づく繊維状ウイルスを素材とする二酸化炭素分離膜の構築",
+     "field_hint": "高分子化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "手跡 雄太",
+     "affiliation": "京都大学",
+     "position": "特定助教",
+     "project_title": "Paracrystallizationを鍵とするガラス構造の秩序化と高機能化設計",
+     "field_hint": "無機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "瀬川 尋貴",
+     "affiliation": "芝浦工業大学",
+     "position": "准教授",
+     "project_title": "偏光分解ラマン分光法に基づく錯体型呈色試験の高度化",
+     "field_hint": "機械・計測制御・システム",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "高橋 秀典",
+     "affiliation": "山口大学大学院医学系研究科",
+     "position": "准教授",
+     "project_title": "門脈血エクソソーム解析による膵癌肝転移のSeeds and Soil機構の解明：新規治療開発に向けたProof-of-Concept確立",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "髙橋 幸奈",
+     "affiliation": "九州大学カーボンニュートラル・エネルギー国際研究所",
+     "position": "准教授",
+     "project_title": "次世代プラズモン誘起電荷分離システムによる革新的光触媒の創出",
+     "field_hint": "電気・電子",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "鶴田 朗人",
+     "affiliation": "九州大学大学院薬学研究院",
+     "position": "講師",
+     "project_title": "腫瘍内T細胞のCXCR4発現変容により生じる免疫チェックポイント阻害薬耐性を標的としたがん治療法の構築",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西川 慶祐",
+     "affiliation": "大阪公立大学大学院理学研究科",
+     "position": "講師",
+     "project_title": "紅藻由来含臭素トリテルペノイド骨格を利用した抗アメーバ性コンタクトレンズ材料の創製",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "浜田 翔平",
+     "affiliation": "金沢大学医薬保健研究域薬学系",
+     "position": "准教授",
+     "project_title": "非共有結合性相互作用に基づく高活性ヒドリド移動型酸化触媒の創製と創薬への活用",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "原田 真至",
+     "affiliation": "上智大学理工学部",
+     "position": "准教授",
+     "project_title": "酸化還元適応型オートタンデム触媒法の高度化と精密合成化学への展開",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松本 拓也",
+     "affiliation": "神戸大学大学院工学研究科",
+     "position": "講師",
+     "project_title": "超臨界を利用した高分子の固体構造選択的ラベリング修飾と構造・物性の理解の深化",
+     "field_hint": "高分子化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "村上 順一",
+     "affiliation": "山口大学大学院医学系研究科",
+     "position": "助教",
+     "project_title": "プロバイオティクスによる術後呼吸器感染症予防における口腔-下気道関連メカニズムの解明",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "村上 千明",
+     "affiliation": "愛知県がんセンター研究所",
+     "position": "任期付研究員（若手型）",
+     "project_title": "新タイプの脂質代謝酵素群の発見と腫瘍免疫応答における生理的意義の解析",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森田 知佳",
+     "affiliation": "山口大学大学院医学系研究科",
+     "position": "助教",
+     "project_title": "創薬展開に向けた脳動脈瘤の生体模倣システムの開発",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山崎 礼二",
+     "affiliation": "自治医科大学",
+     "position": "講師",
+     "project_title": "脳梗塞後の運動応答による組織の線維化抑制機構の解明",
+     "field_hint": "医学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山田 道夫",
+     "affiliation": "東京学芸大学大学院連合学校教育学研究科",
+     "position": "教授",
+     "project_title": "原子レベルで構造制御された多孔性ナノ炭素の創出",
+     "field_hint": "有機化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山本 遼介",
+     "affiliation": "大阪大学大学院理学研究科",
+     "position": "講師",
+     "project_title": "繊毛病タンパク質FBB18による繊毛モーター組み立て機構の解明",
+     "field_hint": "医学",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトの「助成実績」に掲載された第66回（2025年度）の受賞者全35名（渡辺記念特別奨励賞3名、学術奨励賞32名）を収録。対象財団は2022年8月1日に「宇部興産学術振興財団」から「UBE学術振興財団」へ名称変更されている。参考URLは旧ドメインだったが、現在の公式ページは https://www.ube.co.jp/ube_s_zaidan/ 配下に実在する。研究分野は公式課題名末尾に明記されたもののみ記録し、渡辺記念特別奨励賞3名は分野記載がないためnull。個別助成金額は当該一覧に記載がないためnull。確認日：2026-07-15。"
+  },
+  "url_hint": "http://www.ube-ind.co.jp/ube_s_zaidan",
+  "elapsed_s": 99
+ },
+ "康本徳守記念結節性硬化症関連神経難病研究基金": {
+  "codex": {
+   "foundation_name": "公益信託 康本徳守記念結節性硬化症関連神経難病研究基金",
+   "source_url": "https://www.smtb.jp/-/media/tb/personal/entrustment/public/example/pdf/YasumotoTokumoriShinkeinanbyou_c.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "阿部 裕一",
+     "affiliation": "国立研究開発法人国立成育医療研究センター 小児内科系専門診療部 神経内科",
+     "position": "診療部長",
+     "project_title": "患者及び家族側からみた結節性硬化症の移行医療に関する調査研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "石井 清朗",
+     "affiliation": "国立研究開発法人国立長寿医療研究センター 運動器疾患研究部",
+     "position": "研究員",
+     "project_title": "結節性硬化症におけるフェロトーシス抵抗性の分子基盤解明と治療標的化の可能性",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山本 泰憲",
+     "affiliation": "神戸大学大学院医学研究科 生理学・細胞生物学講座 膜動態学分野",
+     "position": "准教授",
+     "project_title": "ＥＲファジーを作用点とする結節性硬化症への対処",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小林 敏之",
+     "affiliation": "公益財団法人環境科学技術研究所 生物影響研究部",
+     "position": "部長",
+     "project_title": "結節性硬化症遺伝子変異による放射線被ばく応答・影響の修飾",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤原 悠紀",
+     "affiliation": "大阪大学 大学院連合小児発達学研究科",
+     "position": "助教",
+     "project_title": "TSC-mTOR 経路の下流で神経発達を支えるプロテオスタシス維持機構の解明と結節性硬化症および関連疾患の治療法開発",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "三井住友信託銀行の公式サイトに掲載された研究助成者一覧PDFを確認。直近掲載年度は助成年度2025年度（研究期間2026年4月～2027年3月）で、掲載された5名全員を収録した。個別助成金額および個別の分野欄は一覧に記載されていないためnull。参考URLは同銀行の公益信託募集案内ページであり、対象基金の公式掲載元として適合する。"
+  },
+  "url_hint": "https://www.smtb.jp/personal/entrustment/management/public/example/list.html",
+  "elapsed_s": 51
+ },
+ "機能水研究振興財団": {
+  "codex": {
+   "foundation_name": "一般財団法人機能水研究振興財団",
+   "source_url": "https://www.fwf.or.jp/data_files/view/8367/mode%3Ainline",
+   "fiscal_year": 2025,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "参考URLは同財団の公式サイトであることを確認。公式「財団について」ページ（https://www.fwf.or.jp/about.html）に、機能水研究への助成を毎年実施している旨と、最新の「令和7年度事業報告書」へのリンクが掲載されている。ただし、リンク先PDF本文を取得できず、2025年度の採択者氏名・所属・課題を公式資料で確認できなかったため、awardeesは空とした。非公式な研究者・大学資料からの補完は行っていない。"
+  },
+  "url_hint": "http://www.fwf.or.jp",
+  "elapsed_s": 99
+ },
+ "高齢者眼疾患研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 高齢者眼疾患研究財団",
+   "source_url": "https://www.nichigan.or.jp/member/news/detail.html?TabModule796=0&dispmid=917&itemid=950",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "山下 勝幸",
+     "affiliation": "東北大学",
+     "position": null,
+     "project_title": "iPS細胞による視神経再生：電気的軸索誘導による神経束形成",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "齋藤 瞳",
+     "affiliation": "東京大学",
+     "position": null,
+     "project_title": "強膜生体力学と乳頭深部構造脆弱性に基づく緑内障進行リスク層別化研究",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "山名 智志",
+     "affiliation": "九州大学",
+     "position": null,
+     "project_title": "高齢者ぶどう膜炎におけるMAIT細胞を標的とした新規治療法の開発",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "三木 篤也",
+     "affiliation": "愛知医科大学",
+     "position": null,
+     "project_title": "視野検査による患者負担の定量的評価法の確立",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "住岡 孝吉",
+     "affiliation": "和歌山県立医科大学",
+     "position": null,
+     "project_title": "増殖硝子体網膜症の治療標的としてのメカノセンサーTRPV4の機能解明",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "新藤 隆行",
+     "affiliation": "信州大学",
+     "position": null,
+     "project_title": "高齢者眼疾患における網膜浮腫克服に向けた血管バリア修復法の開発",
+     "field_hint": null,
+     "amount_jpy": 1000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URL http://www.rfeda.or.jp/ は、日本眼科学会掲載の財団告知およびUMINの機関情報で公式サイトと確認。出典は日本眼科学会会員向けサイトに掲載された財団名義の「2025年度研究助成交付対象者決定について」（2026年6月10日掲載）。同告知に助成対象者6名、所属、研究内容、および「1件につき100万円交付」と明記されているため全6名に100万円を記録した。職位と個別の分野表記はないためnull。"
+  },
+  "url_hint": "http://www.rfeda.or.jp",
+  "elapsed_s": 49
+ },
+ "岩垂育英会": {
+  "codex": {
+   "foundation_name": "一般財団法人 岩垂育英会",
+   "source_url": "https://www.dent.osaka-u.ac.jp/wp-content/uploads/2026/05/List-of-Prize-Recipients2.pdf",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "牛尾 綾",
+     "affiliation": "東京医科歯科大学（現・東京科学大学）口腔病理学分野",
+     "position": "講師",
+     "project_title": null,
+     "field_hint": "歯科基礎医学",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "medium",
+   "notes": "参考URLは、岩垂育英会大阪オフィスが置かれる大阪大学大学院歯学研究科内の公式案内ページであることを確認。source_urlは同ページが「歴代岩垂育英会賞受賞者一覧」として直接リンクする公式PDF。直近で受賞者を確認できた令和6年度（2024年度）を採用した。牛尾綾氏の受賞は所属機関の公式ページにも「2024年8月15日、岩垂育英会賞を受賞」「2025年3月15日、受賞講演」と掲載されている。研究課題名と個別授与額は当該年度の受賞者情報として確認できなかったためnull。"
+  },
+  "url_hint": "https://www.dent.osaka-u.ac.jp/pharm/index-html/iwadare-top",
+  "elapsed_s": 101
+ },
+ "かんぽ財団": {
+  "codex": {
+   "foundation_name": "公益財団法人かんぽ財団",
+   "source_url": "https://www.kampozaidan.or.jp/pdf/grant/322_S1.pdf",
+   "fiscal_year": 2026,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "参考URLは公式サイトであることを確認。公式「研究助成」ページ（https://www.kampozaidan.or.jp/grant.html）に令和8年度の「助成対象者氏名及び調査研究テーマ等」として上記PDFへのリンクがあり、2026年7月10日付のお知らせでも決定が公表されている。ただし、PDF本文を取得できず個々の採択者を検証できなかったため、捏造防止のためawardeesは空とした。"
+  },
+  "url_hint": "https://www.kampozaidan.or.jp",
+  "elapsed_s": 104
+ },
+ "岐阜県産業経済振興センター（旧：岐阜県研究開発財団）": {
+  "codex": {
+   "foundation_name": "公益財団法人岐阜県産業経済振興センター（旧：公益財団法人岐阜県研究開発財団）",
+   "source_url": "https://www.gpc-gifu.or.jp/fund/sangakukan/result_R08.pdf",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "明智セラミックス株式会社",
+     "affiliation": null,
+     "position": null,
+     "project_title": "黒鉛粉末への酸化物コートによるレート特性向上の基礎研究",
+     "field_hint": "産学官共同研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "ハイジェントテクノロジー株式会社",
+     "affiliation": null,
+     "position": null,
+     "project_title": "コオロギフラスを用いた有機土壌改質資材の研究開発",
+     "field_hint": "産学官共同研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "株式会社MARUKA",
+     "affiliation": null,
+     "position": null,
+     "project_title": "粒子接触ネットワーク設計による低充填型BN熱伝導フィラーの創製",
+     "field_hint": "産学官共同研究",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "medium",
+   "notes": "参考URLは公式サイトと確認。公式沿革によると、同センターは平成31年4月に公益財団法人岐阜県研究開発財団を吸収合併した。直近の令和8年度（2026年度）「産学官共同研究助成金」1次募集の公式採択一覧から全3件を収録。採択先は個人ではなく、公式PDFの「研究実施者」である法人。個人氏名、職位、個別助成額は掲載されていないためnull。同年度には2次募集の公式一覧も存在するが、PDF本文を取得・検証できなかったため、未確認の採択先は追加していない。"
+  },
+  "url_hint": "https://www.gpc-gifu.or.jp",
+  "elapsed_s": 107
+ },
+ "がんの子どもを守る会": {
+  "codex": {
+   "foundation_name": "がんの子どもを守る会",
+   "source_url": "https://www.ccaj-found.or.jp/wp-content/uploads/2025/12/2024%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "藍原 康雄",
+     "affiliation": "東京女子医科大学病院",
+     "position": null,
+     "project_title": "小児松果体部腫瘍患児に対する神経心理学的支援の導入～あらゆる合併症を視野に入れた長期フォローアップ手順の確立を目指して～",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "青山 貴洋",
+     "affiliation": "愛知県がんセンター病院",
+     "position": null,
+     "project_title": "日本における小児放射線治療の普及率と地域差の解明：国際的視点からの検討",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "生田 国大",
+     "affiliation": "名古屋大学医学部附属病院",
+     "position": null,
+     "project_title": "小児・AYA患者のパラスポーツ参加支援とQOL向上に向けた取り組み",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "井上 健",
+     "affiliation": "地方独立行政法人大阪市民病院機構 大阪市立総合医療センター",
+     "position": null,
+     "project_title": "小児がんのグループスタディの基盤となる小児腫瘍病理診断に関する資料の作成および小児腫瘍病理診断の教育研修活動",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "梅田 雄嗣",
+     "affiliation": "京都大学大学院医学研究科",
+     "position": null,
+     "project_title": "ダウン症候群における胚細胞腫瘍発症メカニズムの解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大植 孝治",
+     "affiliation": "兵庫医科大学",
+     "position": null,
+     "project_title": "小児腎腫瘍に対する新規治療法開発のための国際臨床試験 UMBRELLA-J",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "金沢 英恵",
+     "affiliation": "国立成育医療研究センター",
+     "position": null,
+     "project_title": "小児がん患児のWell-beingを支えるファシリティドッグの役割～唾液α－アミラーゼによる歯科治療時のストレス評価～",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "川久保尚徳",
+     "affiliation": "九州大学",
+     "position": null,
+     "project_title": "神経芽腫モデルマウスを用いたICGナビゲーション手術の最適化－臨床応用に向けて－",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "工藤 節美",
+     "affiliation": "大阪成蹊大学",
+     "position": null,
+     "project_title": "小児がんの子どもと家族の在宅療養を支えるための往診医と訪問看護師の連携",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "慶野 大",
+     "affiliation": "神奈川県立こども医療センター",
+     "position": null,
+     "project_title": "小児・思春期女性がん患者の妊孕性温存を志向して行われた卵巣組織凍結保存切片におけるdroplet digital PCR法を用いた微小残存病変の評価",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小池 隆志",
+     "affiliation": "東海大学医学部付属病院",
+     "position": null,
+     "project_title": "小児がん入院療養中の学童に対する質問票を用いた辛さと悩みの共有とその解決",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小幡 裕希",
+     "affiliation": "国立がん研究センター研究所",
+     "position": null,
+     "project_title": "小児神経芽腫の小胞体領域から発信されるがんシグナル～ALKチロシンキナーゼのオルガネラ停留機構、その理解に基づく新機序阻害法～",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小堀 宅郎",
+     "affiliation": "大阪大谷大学薬学部",
+     "position": null,
+     "project_title": "細胞内の“足場”を標的とした免疫チェックポイント分子の阻害に基づく神経膠芽腫に対する新規がん免疫療法の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐伯 勇",
+     "affiliation": "広島大学病院",
+     "position": null,
+     "project_title": "「VRはたらく細胞」制作と患児を対象とした臨床研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "坂口 大俊",
+     "affiliation": "国立研究開発法人 国立成育医療研究センター",
+     "position": null,
+     "project_title": "小児・若年成人世代の再発難治性B細胞性急性リンパ性白血病に対する同種造血細胞移植後のブリナツモマブ維持療法の再発予測バイオマーカーの確立",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "白坂 真紀",
+     "affiliation": "滋賀医科大学",
+     "position": null,
+     "project_title": "長期入院中の「こどものよろづ相談」を引き受ける多職種支援のアクションリサーチ～こどもが安心して遊び学習できる場の保障を目指して～",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐治木大知",
+     "affiliation": "名古屋大学医学部附属病院",
+     "position": null,
+     "project_title": "エラー修正次世代シーケンス法による若年性骨髄単球性白血病における低アリル頻度変異の検出と微小残存病変解析への応用",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "末松 正也",
+     "affiliation": "京都府立医科大学",
+     "position": null,
+     "project_title": "CAR-T細胞とHMG-CoA還元酵素阻害薬の新規併用療法の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "髙田 尊信",
+     "affiliation": "金沢医科大学",
+     "position": null,
+     "project_title": "食事性AGEsが引き起こす口内炎に対する半夏瀉心湯エキスの緩和・予防効果",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "津村 悠介",
+     "affiliation": "国立がん研究センター",
+     "position": null,
+     "project_title": "本邦の小児悪性腎腫瘍の発症機序、病態の解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "德村 亜依",
+     "affiliation": "東京大学大学院医学系研究科",
+     "position": null,
+     "project_title": "小児がん患者の療養生活を支える、遊びを通じた看護ケアの探索的研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西村 明紘",
+     "affiliation": "神戸大学大学院医学研究科",
+     "position": null,
+     "project_title": "新規プロテオーム・ネットワーク解析を駆使した神経芽腫の治療標的探索",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西村 雄宏",
+     "affiliation": "千葉大学大学院医学研究院",
+     "position": null,
+     "project_title": "神経芽腫に対する抗GD2抗体及びiPS細胞由来NKT細胞を用いた免疫療法開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西村 範行",
+     "affiliation": "神戸大学大学院",
+     "position": null,
+     "project_title": "高リスク神経芽腫患者における微小残存病変（MRD）評価法の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "原（野上）愛",
+     "affiliation": "就実大学薬学部",
+     "position": null,
+     "project_title": "L-アスパラギナーゼアレルギーならびに薬剤耐性に関わるサイトカインプロファイルの解析",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤崎 弘之",
+     "affiliation": "大阪市立総合医療センター",
+     "position": null,
+     "project_title": "難治性B前駆細胞性急性リンパ性白血病に対するブリナツモマブ併用化学療法の単施設臨床試験（ER-Blina試験）",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "福井 郁子",
+     "affiliation": "帝京科学大学",
+     "position": null,
+     "project_title": "就労期の小児がん経験者への食習慣改善プログラムにおけるAIを活用した自動コーチングの構築",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "福岡 講平",
+     "affiliation": "埼玉県立小児医療センター",
+     "position": null,
+     "project_title": "小児脳腫瘍における髄液ctDNAメチル化解析による低侵襲分子診断法の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "福島 紘子",
+     "affiliation": "筑波大学",
+     "position": null,
+     "project_title": "小児がん患者の陽子線照射後の消化管出血・潰瘍発生の解析、新たなバイオマーカー探索",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "細谷 要介",
+     "affiliation": "聖路加国際病院",
+     "position": null,
+     "project_title": "一般総合病院の機能を活かした小児がん経験者の人間ドックシステムによる晩期合併症とQOLの生涯コホート調査と自立的な健康管理能力の育成～他機関との連携",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "三村 和哉",
+     "affiliation": "京都府立医科大学",
+     "position": null,
+     "project_title": "神経芽腫骨髄転移モデルマウスを用いた骨髄転移メカニズム解析と間葉系幹細胞を用いた腫瘍特異的ドラッグデリバリーシステムによる新規免疫治療開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "宮城島沙織",
+     "affiliation": "日本医療大学",
+     "position": null,
+     "project_title": "小児がん経験者のサルコペニアの実態調査ならびに身体活動と心身機能の関連",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森 健",
+     "affiliation": "兵庫県立こども病院",
+     "position": null,
+     "project_title": "標準的化学療法を行った進行期小児リンパ芽球性リンパ腫の予後因子探索を主目的とした多施設共同研究 JPLSG-ALB-NHL-14",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "渡邉 潤",
+     "affiliation": "新潟大学脳研究所",
+     "position": null,
+     "project_title": "小児脳幹部腫瘍に対するエピゲノム標的療法",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLのドメインは公益財団法人がんの子どもを守る会の公式サイトであることを確認。公式「2024年度事業報告書」の「2024年度 がんの子どもを守る会研究助成一覧」に掲載された全34件を収録した。助成期間は2024年10月1日～2025年9月30日、所属は決定時点。公式資料には助成総額9,280,000円との記載はあるが個別金額、職位および各採択者の分野区分は掲載されていないためnullとした。2026年度は募集終了段階で採択結果未公表、2025年度事業報告書も確認できなかったため、採択者が判明する直近の2024年度を採用した。"
+  },
+  "url_hint": "http://www.ccaj-found.or.jp",
+  "elapsed_s": 109
+ },
+ "大阪認知症研究会": {
+  "codex": {
+   "foundation_name": "公益財団法人 大阪認知症研究会",
+   "source_url": "https://www.dementia-osaka.jp/houkoku_R07.html",
+   "fiscal_year": 2025,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "参考URLは大阪認知症研究会の公式サイトであることを、助成財団センターの団体情報および大学の採択報告から確認。令和7年度（2025年度）の公式「医学研究助成」採択一覧URLも実在を確認したが、公式ページ本文がタイムアウト／取得エラーとなり、採択者全員を公式掲載内容から検証できなかった。和泉大学の公式発表では白岩圭悟講師の採択が確認できるものの、財団公式一覧本文を直接確認できていないため、厳格な収録条件に従いawardeesには収録していない。推測による補完なし。"
+  },
+  "url_hint": "http://www.dementia-osaka.jp",
+  "elapsed_s": 109
+ },
+ "サンスター財団": {
+  "codex": {
+   "foundation_name": "一般財団法人 サンスター財団",
+   "source_url": "https://www.sunstar-foundation.org/grants/received-list",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "三浦 雅臣",
+     "affiliation": "Joslin Diabetes Center, Harvard Medical School",
+     "position": null,
+     "project_title": "ヒトiPSCを用いた脳内インスリン抵抗性の解明",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは一般財団法人サンスター財団の公式サイトであることを確認。公式「受給者一覧」に2025年度受給者は1名と明記され、氏名、留学先、申請時の研究課題を収録した。affiliationには公式記載の留学先を入力。職位、公式な分野表記、個人別の円建て金額は掲載されていないためnull。確認日: 2026-07-15。"
+  },
+  "url_hint": "https://www.sunstar-foundation.org",
+  "elapsed_s": 40
+ },
+ "健康・体力づくり事業財団": {
+  "codex": {
+   "foundation_name": "健康・体力づくり事業財団",
+   "source_url": "https://www.health-net.or.jp/tyousa/josei/josei_kenkyulistR08.html",
+   "fiscal_year": 2026,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "参考URLは公益財団法人健康・体力づくり事業財団の公式サイトであることを確認。公式の健康運動指導研究助成ページ（https://www.health-net.or.jp/tyousa/josei/index.html）には、令和8年度（2026年度）の採択課題が実践研究12件・調査研究2件・指定研究1件の計15件であること、および年度別一覧へのリンクが掲載されている。ただし、年度別一覧の本文を取得できず、15件全員の氏名・所属・課題名を公式情報から検証できなかったため、捏造防止のためawardeesは空とした。"
+  },
+  "url_hint": "http://www.health-net.or.jp/tyousa/josei",
+  "elapsed_s": 79
+ },
+ "高分子研究所": {
+  "codex": {
+   "foundation_name": "高分子研究所",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "参考URLへの接続を試みましたが、ホスト名を解決できませんでした。また、Web検索サービスは応答制限、ブラウザは利用不可で、公式サイトおよび公式の採択者一覧を確認できませんでした。参考URLが当該財団の公式ページであるかも検証不能です。捏造を避けるため、採択者・年度・出典URLは記載していません。"
+  },
+  "url_hint": "http://www.chem.sci.osaka-u.ac.jp/graduate/mms/macromol_home/macro_kenkyusho.html",
+  "elapsed_s": 68
+ },
+ "国際文化交流事業財団": {
+  "codex": {
+   "foundation_name": "公益財団法人国際文化交流事業財団",
+   "source_url": "https://www.jicef.or.jp/untitled-c5xb",
+   "fiscal_year": 2023,
+   "awardees": [],
+   "confidence": "high",
+   "notes": "参考URL（jicef.or.jp）は対象財団の公式サイトと確認。公式「採択例」ページの直近掲載は令和5年度（2023年度）で、派遣5名・招聘3名の採択を掲載しているが、採択者の氏名は公開されていない。所属機関、渡航先・国籍、目的のみの匿名掲載であり、awardee_nameを公式情報から確認できないため収録しなかった。"
+  },
+  "url_hint": "http://www.jicef.or.jp",
+  "elapsed_s": 68
+ },
+ "京都大学ウイルス・再生医科学研究所": {
+  "codex": {
+   "foundation_name": "京都大学ウイルス・再生医科学研究所",
+   "source_url": "https://www.infront.kyoto-u.ac.jp/kyoten/01-list-r8/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "黒田 大祐",
+     "affiliation": "日本大学・文理学部生命科学科",
+     "position": "准教授",
+     "project_title": "大規模言語モデルに基づく中和抗体理論設計のための分子基盤",
+     "field_hint": "①ウイルス感染研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐藤 佳",
+     "affiliation": "東京大学・医科学研究所",
+     "position": "教授",
+     "project_title": "新規SARS-CoV-2変異株の性状解明",
+     "field_hint": "①ウイルス感染研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "前仲 勝実",
+     "affiliation": "北海道大学大学院薬学研究院",
+     "position": "教授",
+     "project_title": "コロナウイルス感染症を制御する中和抗体のエピトープ解析",
+     "field_hint": "①ウイルス感染研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松郷 宙倫",
+     "affiliation": "東京大学大学院農学生命科学研究科",
+     "position": "助教",
+     "project_title": "ゲノムワイドCRISPR-activationスクリーニングによるボルナ病ウイルス感染受容体の同定",
+     "field_hint": "①ウイルス感染研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "高松 由基",
+     "affiliation": "長崎大学・熱帯医学研究所",
+     "position": "教授",
+     "project_title": "エボラウイルスの転写・複製型のヌクレオカプシドの構造解析による形成機構の解明",
+     "field_hint": "①ウイルス感染研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "浦木 隆太",
+     "affiliation": "東京大学国際高等研究所新世代感染症センター",
+     "position": "准教授",
+     "project_title": "蚊の唾液腺因子が昆虫媒介性RNA ウイルスの増殖に与える影響の研究",
+     "field_hint": "①ウイルス感染研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "桂 廣亮",
+     "affiliation": "理化学研究所生命機能科学研究センター呼吸器形成研究チーム",
+     "position": "上級研究員",
+     "project_title": "感染指向性改変システムを用いたインフルエンザウイルスによる肺炎重症化機構の解明",
+     "field_hint": "①ウイルス感染研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Nobuhiro Morone",
+     "affiliation": "University of Cambridge, Medical Research Council (MRC) Toxicology Unit, UK",
+     "position": "Head of Electron Microscopy and Ultrastructural Pathology",
+     "project_title": "Ultrastructural pathology for cardiotoxicity induced by Anti-Cancer Drug",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "野村 紀通",
+     "affiliation": "京都大学・大学院生命科学研究科",
+     "position": "准教授",
+     "project_title": "ウイルス膜蛋白質の動的構造の解明と創薬応用",
+     "field_hint": "①ウイルス感染研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "縣 保年",
+     "affiliation": "国立大学法人滋賀医科大学・生化学・分子生物学講座（分子生理化学部門）",
+     "position": "教授",
+     "project_title": "iPS細胞とゲノム編集を用いた効率のよいがん抗原特異的キラーT細胞の再生",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "宝田 剛志",
+     "affiliation": "岡山大学 学術研究院医歯薬学域医学系",
+     "position": "教授",
+     "project_title": "ヒトiPS 細胞由来がんモデルと人工リンパ組織を統合した HLA 拘束性腫瘍免疫応答のマウス体内再構築",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Soki Kashima",
+     "affiliation": "Yale Cancer Center",
+     "position": "Associate Research Scientist",
+     "project_title": "次世代型の患者由来ゼノグラフトモデルを用いた、免疫チェックポイント阻害薬の抵抗性機序の解明と克服",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "堀 昌平",
+     "affiliation": "東京大学・大学院薬学系研究科",
+     "position": "教授",
+     "project_title": "制御性T細胞におけるFoxp3依存的クロマチン高次構造形成機構の解明",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "長澤 丘司",
+     "affiliation": "大阪大学 大学院生命機能研究科 幹細胞・免疫発生研究室",
+     "position": "教授",
+     "project_title": "試験管内で造血幹細胞と造血を維持できるニッチ細胞培養法の樹立",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "宿南 知佐",
+     "affiliation": "広島大学・大学院医系科学研究科",
+     "position": "教授",
+     "project_title": "腱･靱帯形成におけるScleraxis発現誘導機構の解明",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "月田 早智子",
+     "affiliation": "帝京大学・先端総合研究機構健康科学研究部門",
+     "position": "特任教授",
+     "project_title": "クローディンファミリー多様性の体系化と機能原理の解明",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Hiroki Kato",
+     "affiliation": "Bonn university, Institute of Cardiovascular Immunology",
+     "position": "Director, Professor",
+     "project_title": "内因性Y-RNAによるRIG-I活性化が駆動する間質性腎炎の病態機構解明",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "内田 智士",
+     "affiliation": "東京科学大学 総合研究院 難治疾患研究所",
+     "position": "教授",
+     "project_title": "免疫寛容誘導型 mRNA ワクチンの開発",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Kim Jeonghyun",
+     "affiliation": "九州大学・大学院工学研究院 機械工学部門",
+     "position": "准教授",
+     "project_title": "マイクロ流体デバイスを用いた骨オルガノイドの静水圧メカノトランスダクション機構の解明",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "三浦 重徳",
+     "affiliation": "広島大学・大学院医系科学研究科",
+     "position": "准教授",
+     "project_title": "in vitro/in silico統合アプローチによるヒト椎間板線維輪オルガノイドモデルの創成",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Nicola Vassena",
+     "affiliation": "Leipzig University",
+     "position": "Postdoctoral Researcher",
+     "project_title": "A Structural Theory of Modular Biological Oscillations",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山根 万里子",
+     "affiliation": "東京科学大学 総合研究院 難治疾患研究所",
+     "position": "助教",
+     "project_title": "ヒトの初期三胚葉分化に関わるシグナル伝達経路の網羅的同定",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Masaki Kinoshita",
+     "affiliation": "School of Biosciences, University of Nottingham",
+     "position": "Assistant Professor",
+     "project_title": "Decoding human formative pluripotency",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐々木 真理子",
+     "affiliation": "国立遺伝学研究所・遺伝子量生物学研究室",
+     "position": "准教授",
+     "project_title": "がん細胞における染色体外DNA維持に関与する候補因子の網羅的探索",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "古関 明彦",
+     "affiliation": "理化学研究所 生命医科学研究センター",
+     "position": "チームディレクター",
+     "project_title": "CRISPR スクリーニングを用いた BCOR-ITD 駆動性小児腫瘍の病因機構の解明",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "門之園 哲哉",
+     "affiliation": "東京科学大学・生命理工学院",
+     "position": "准教授",
+     "project_title": "休眠がん細胞の休眠状態を制御する遺伝子ネットワークの網羅的探索",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "川島 茂裕",
+     "affiliation": "東京大学・大学院薬学系研究科",
+     "position": "准教授",
+     "project_title": "化学触媒によるがん幹細胞運命操作技術の開発",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Vu Quang Cong",
+     "affiliation": "Nano Life Science Institute (WPI-NanoLSI), Kanazawa University",
+     "position": "Assistant Professor",
+     "project_title": "Fluorescence lifetime biosensors for live-cell quantitative imaging of branched-chain amino acids",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "平林 祐介",
+     "affiliation": "東京大学・大学院工学系研究科・化学生命工学専攻",
+     "position": "准教授",
+     "project_title": "マウス成体神経幹細胞の分化過程において細胞内超微細構造変化の果たす役割",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "奥野 浩行",
+     "affiliation": "鹿児島大学大学院医歯学総合研究科",
+     "position": "教授",
+     "project_title": "認知的柔軟性に関わる神経機構の分子―細胞―回路レベルの統合解析",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "鈴木 淳",
+     "affiliation": "京都大学・高等研究院アイセムス",
+     "position": "教授",
+     "project_title": "ELASTomicsを用いた細胞膜脂質非対称性変化と遺伝子発現制御の解明",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Aniruddha Ray",
+     "affiliation": "The University of Toledo, Department of Physics and Astronomy",
+     "position": "Associate Professor",
+     "project_title": "A Portable Microfluidic Imager for Daphnia Studies",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Ian Hoffecker",
+     "affiliation": "KTH Royal Institute of Technology, Department of Gene Technology (SciLifeLab)",
+     "position": "Docent/Group Leader",
+     "project_title": "Spatial transcriptome based on matching of proximity network of hydrogel beads",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤井 耕太郎",
+     "affiliation": "University of Florida, Molecular Genetics & Microbiology",
+     "position": "Assistant Professor",
+     "project_title": "Understanding translational fidelity through simultaneous sequencing of tRNA and mRNA footprint in single ribosomes (TandM-Ribo-seq)",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大池 秀明",
+     "affiliation": "国立研究開発法人農業・食品産業技術総合研究機構 畜産研究部門",
+     "position": "上級研究員",
+     "project_title": "乳酸菌による老化制御機構の解明とプロ/ポストバイオティクスへの応用",
+     "field_hint": "③生命システム研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田久保 圭誉",
+     "affiliation": "国立健康危機管理研究機構・国立国際医療研究所",
+     "position": "造血システム研究部長",
+     "project_title": "造血幹細胞の骨髄間移動におけるメカノセンサーチャネルPIEZO1の機能解明と幹細胞移植への応用",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "八木田 和弘",
+     "affiliation": "京都府立医科大学・大学院医学研究科",
+     "position": "教授",
+     "project_title": "母子間同調シグナル抑制機構の解明",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "竹内 理",
+     "affiliation": "京都大学・大学院医学研究科",
+     "position": "教授",
+     "project_title": "mRNA分解機構を起点としたクローン性造血のメカニズム解明",
+     "field_hint": "②幹細胞・組織再生研究",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "京都大学の公式ドメインにある京都大学医生物学研究所の「ウイルス・幹細胞システム医生物学共同研究拠点 令和8年度採択一覧」を根拠に、研究代表者38名を全件収録した（確認日：2026-07-15）。対象名の「京都大学ウイルス・再生医科学研究所」は旧称で、現在の公式名称は「京都大学医生物学研究所」。参考URLと同じ infront.kyoto-u.ac.jp ドメインは公式サイトだが、指定パスは旧拠点用。金額は一覧に個別記載がないため全件null。外国人等の氏名は推測で日本語化せず、公式掲載表記を保持した。"
+  },
+  "url_hint": "http://www.infront.kyoto-u.ac.jp/virus-kyoten",
+  "elapsed_s": 130
+ },
+ "女性科学者に明るい未来をの会": {
+  "codex": {
+   "foundation_name": "女性科学者に明るい未来をの会",
+   "source_url": "https://saruhashisho.or.jp/jushosha-list/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "今田由紀子",
+     "affiliation": "東京大学大気海洋研究所",
+     "position": "准教授",
+     "project_title": "近年の気候変動と異常気象の要因分析に関する研究",
+     "field_hint": null,
+     "amount_jpy": 500000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは、一般財団法人「女性科学者に明るい未来をの会」の公式サイトであることを確認。公式の受賞者一覧に、第46回（2026年）の受賞者として今田由紀子氏、所属・職位・研究題目が掲載されている。公式の第46回募集要項（https://saruhashisho.or.jp/suisen-oubo-old/boshu-youkou/）には、贈呈は年1件（1名）、副賞の褒賞金は50万円と明記されているため、amount_jpyを500000とした。公式な分野区分の記載は確認できないためfield_hintはnull。"
+  },
+  "url_hint": "https://saruhashisho.or.jp",
+  "elapsed_s": 33
+ },
+ "自治医科大学　遺伝子治療研究センター": {
+  "codex": {
+   "foundation_name": "自治医科大学　遺伝子治療研究センター",
+   "source_url": "https://www.jichi.ac.jp/jmu-cgtr/laboratory/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "加藤 朋子",
+     "affiliation": "東京都医学総合研究所 再生医療プロジェクト",
+     "position": "研究員",
+     "project_title": "APOBEC3CとHypaSpCas9の相乗効果を利用した相同組換え修復による生体内ゲノム編集の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "久保 純",
+     "affiliation": "大阪大学大学院 薬学研究科 再生適応学分野",
+     "position": "助教",
+     "project_title": "精密な遺伝子導入の実現に向けて：感染指向性とプロモーター設計による組織特異性の強化",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "椎葉 一心",
+     "affiliation": "学習院大学",
+     "position": "助教",
+     "project_title": "ミトコンドリアの構造に着目した心疾患に対する新規遺伝子治療法の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "篠原 孝也",
+     "affiliation": "国立健康危機管理機構 膵島移植プロジェクト",
+     "position": "特任研究員",
+     "project_title": "ブタ膵島不死化細胞を用いた異種移植における免疫回避メカニズムの解明と最適化",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "菅原 亨",
+     "affiliation": "公立大学法人横浜市立大学",
+     "position": "准教授",
+     "project_title": "Universal ヒトES細胞の作製",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "多胡 憲治",
+     "affiliation": "群馬大学大学院保健学研究科生体情報検査科学",
+     "position": "教授",
+     "project_title": "小胞体ストレスによるオートファジー細胞死を用いた新規がん治療法の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "蜷川 暁",
+     "affiliation": "神戸大学バイオシグナル総合研究センター",
+     "position": "助教",
+     "project_title": "血液凝固因子の分泌効率向上を起点とした遺伝子治療法開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松本 大亮",
+     "affiliation": "東京都医学総合研究所",
+     "position": "主任研究員",
+     "project_title": "SaCas9の最適化と細胞周期依存的な活性化による血友病治療法の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "2026年7月15日確認。参考URL https://jmu-cgtr.jp は、自治医科大学公式ドメイン内の現行サイト https://www.jichi.ac.jp/jmu-cgtr/ に対応する同センターのサイトであることを確認。公式「研究支援・相談」ページの「採択者」欄に掲載された直近の完結年度「2025年」全8件を収録した。公式欄に個別金額および分野の明記がないためnull。氏名後の「(2)」は採択者名の一部ではないため除外した。"
+  },
+  "url_hint": "https://jmu-cgtr.jp",
+  "elapsed_s": 36
+ },
+ "サムコ科学技術振興財団": {
+  "codex": {
+   "foundation_name": "一般財団法人サムコ科学技術振興財団",
+   "source_url": "https://www.samco.co.jp/foundation/prize/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "猪瀬 朋子",
+     "affiliation": "京都大学 高等研究院／理化学研究所",
+     "position": "特定拠点准教授／ユニットリーダー",
+     "project_title": "細胞膜内外微小界面環境のリアルタイム計測技術開発",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "金澤 直也",
+     "affiliation": "東京大学 生産技術研究所",
+     "position": "准教授",
+     "project_title": "単一キラルドメイン薄膜成長技術の開発と巨大スピン選択性の実証",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "倉科 佑太",
+     "affiliation": "東京農工大学工学研究院 先端機械システム部門",
+     "position": "准教授",
+     "project_title": "細胞接着領域の制御による細胞膜に発現する超音波応答性イオンチャネルの足場表面への依存性解明",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "田村 朋則",
+     "affiliation": "京都大学大学院 工学研究科",
+     "position": "准教授",
+     "project_title": "生体膜－膜間界面特異的脂質同定技術の開発",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "塚本 孝政",
+     "affiliation": "東京大学 生産技術研究所",
+     "position": "講師",
+     "project_title": "クラスター物質固有の表面原子配列を利用したGHS変換触媒の新規開拓",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "中根 大介",
+     "affiliation": "電気通信大学大学院 情報理工学研究科",
+     "position": "准教授",
+     "project_title": "宿主微小環境を模倣した細菌選別マイクロ流体デバイスの開発",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "橋川 祥史",
+     "affiliation": "京都大学 化学研究所",
+     "position": "助教",
+     "project_title": "究極の分子界面制御に基づく機能性炭素材料の創製",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "原 征大",
+     "affiliation": "大阪大学大学院工学研究科附属フューチャーイノベーションセンター",
+     "position": "助教",
+     "project_title": "窒化ガリウム半導体表面近傍プロセス誘起欠陥の解明と制御",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "藤井 茉美",
+     "affiliation": "立命館大学 理工学部 電気電子工学科",
+     "position": "准教授",
+     "project_title": "ダイヤモンド半導体と異種材料界面の結合状態解析による電気・熱制御技術の開発",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "蒲 江",
+     "affiliation": "東京科学大学 理学院物理学系",
+     "position": "准教授",
+     "project_title": "原子層半導体による超高性能電気制御型円偏光発光デバイスの開発",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "茂木 裕幸",
+     "affiliation": "筑波大学 数理物質系 物理工学域",
+     "position": "助教",
+     "project_title": "ナノ励起点からの局所表面伝導ダイナミクス可視化手法の開発",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "山崎 賢",
+     "affiliation": "岡山大学 学術研究院 環境生命自然科学学域",
+     "position": "研究准教授",
+     "project_title": "可視光応答性ニトロソアミン計測薄膜デバイスの創出",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当財団の公式サイトであることを確認。公式「受賞者一覧」に掲載された直近の2026年度（第10回）全12名を収録した。公式ページは各人200万円、総額2,400万円と明記。個人別の分野表記はないためfield_hintはnull。課題名を含む各項目は公式掲載表記に従った。確認日: 2026-07-15。"
+  },
+  "url_hint": "https://www.samco.co.jp/foundation",
+  "elapsed_s": 71
+ },
+ "里見奨学会": {
+  "codex": {
+   "foundation_name": "公益財団法人里見奨学会",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "参考URL（https://www.satomi-s.or.jp）を含めて公式サイトおよび採択者一覧の確認を試みたが、調査時に検索サービスの応答制限と外部サイトへの接続制限が発生し、公式ページ本文を確認できなかった。ローカル収録データでは法人名の存在のみ確認できたが、採択者情報はなかった。公式情報で裏付けられた採択者がいないため、推測せず空配列とした。"
+  },
+  "url_hint": "https://www.satomi-s.or.jp",
+  "elapsed_s": 75
+ },
+ "大西・アオイ記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人大西・アオイ記念財団",
+   "source_url": "https://www.onishi-aoi.or.jp/wp-content/uploads/2025/02/2022_Business_report.pdf",
+   "fiscal_year": 2022,
+   "awardees": [
+    {
+     "awardee_name": "三木町少年少女発明クラブ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "発明くふう展出展準備、電子工作等　17日間　419名",
+     "field_hint": "科学技術奨励事業",
+     "amount_jpy": 300000
+    },
+    {
+     "awardee_name": "三木町少年少女発明クラブ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "発明くふう展入賞作品1件の実用新案出願費用",
+     "field_hint": "科学技術奨励事業",
+     "amount_jpy": 50000
+    },
+    {
+     "awardee_name": "三豊市少年少女発明クラブ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "ロボット教室、チャレンジづくり等　18日間　597名",
+     "field_hint": "科学技術奨励事業",
+     "amount_jpy": 300000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイトであることを公式の財団概要ページで確認。公式「2022年度事業報告書」の助成事業表に掲載された全3件（2団体）を収録した。この財団の助成対象は研究者個人ではなく、児童・生徒の科学技術活動を行う団体。公式開示ページには2024年度事業報告書も存在するが、助成先の表を確実に読み取れなかったため、個別助成先と金額を確認できた直近年度である2022年度を採用した。"
+  },
+  "url_hint": "http://www.onishi-aoi.or.jp",
+  "elapsed_s": 138
+ },
+ "情報通信学会": {
+  "codex": {
+   "foundation_name": "公益財団法人 情報通信学会",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "参考URL（https://www.jsicr.jp/）は公益財団法人情報通信学会の公式サイトであることを確認した。公式サイト内および検索結果を「研究助成」「助成先」「採択者」「採択課題」「助成金」で調査したが、同学会自身が実施する研究助成の採択者一覧は確認できなかった。公式サイトには情報通信学会論文賞の受賞者ページ（https://www.jsicr.jp/publication/award/index.html）があるが、これは研究助成の採択結果ではないため収録していない。推測による転用を避け、年度・採択者一覧URLはnull、awardeesは空とした。"
+  },
+  "url_hint": "http://www.jsicr.jp",
+  "elapsed_s": 38
+ },
+ "昭和医科大学発達障害医療研究所": {
+  "codex": {
+   "foundation_name": "昭和医科大学発達障害医療研究所",
+   "source_url": "https://www.showa-u.ac.jp/albums/abm.php?d=1959&f=abm00064486.pdf&n=%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E5%BA%A6%E6%8E%A1%E6%8A%9E%E8%AA%B2%E9%A1%8C%E4%B8%80%E8%A6%A7_.pdf",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "熊谷 晋一郎",
+     "affiliation": "東京大学先端科学技術研究センター",
+     "position": "教授",
+     "project_title": "昭和大学発達障害医療研究所における大人の自閉症スペクトラム専門プログラム前後の自伝的記憶検査を含めた心理検査値の変化",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐藤 洋輔",
+     "affiliation": "昭和医科大学脳機能解析・デジタル医学研究所",
+     "position": "准教授",
+     "project_title": "ガンマ波規則性解析を用いた発達障害当事者における巨視的ネットワークおよび興奮性/抑制性バランスの研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "久保田 学",
+     "affiliation": "京都大学大学院医学研究科",
+     "position": "講師",
+     "project_title": "微小脳構造およびその結合性に着目した自閉スペクトラム症の病態解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "島田 隆史",
+     "affiliation": "順天堂大学医学部",
+     "position": "准教授",
+     "project_title": "多発家系を用いた自閉スペクトラム症表現促進遺伝基盤の検討",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤野 純也",
+     "affiliation": "東京科学大学精神行動医科学分野",
+     "position": "講師",
+     "project_title": "社会相互作用場面における自閉スペクトラム症の意思決定プロセスに関する研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "宮脇 陽一",
+     "affiliation": "国立大学法人電気通信大学",
+     "position": "教授",
+     "project_title": "自閉スペクトラム症における画像特徴量による視線誘引性の研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "前田 友吾",
+     "affiliation": "玉川大学脳科学研究所",
+     "position": "教授",
+     "project_title": "自閉症スペクトラム障害における称賛回避傾向",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "清水 日智",
+     "affiliation": "長崎大学病院精神科神経科",
+     "position": "医員",
+     "project_title": "自閉スペクトラム症幼児の睡眠障害に関連する感覚特性とアデノシンシグナル関連遺伝子の網羅的解析",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森本 千恵",
+     "affiliation": "新潟リハビリテーション大学",
+     "position": "講師",
+     "project_title": "小脳構造に着目した自閉スペクトラム症と精神疾患の異同性と共通性",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "戸田 重誠",
+     "affiliation": "静岡県立こころの医療センター",
+     "position": "研究部長",
+     "project_title": "発達障害の聴覚過敏は adaptive gain theory で説明できるか:pupillometry を用いた検証",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "上田 彩子",
+     "affiliation": "日本女子大学人間社会学部",
+     "position": "准教授",
+     "project_title": "ASD が再認しやすい情動表出刺激についての基礎的研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "常岡 俊昭",
+     "affiliation": "昭和医科大学医学部",
+     "position": "准教授",
+     "project_title": "ギャンブル依存症の症状変化によるCARRSの点数変化について",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "砂川 芽吹",
+     "affiliation": "お茶の水女子大学",
+     "position": "助教",
+     "project_title": "成人期注意欠如多動症を感情制御困難から捉える―感情制御困難を含む ADHD 尺度開発及び実態解明",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは昭和医科大学の公式サイト内にある対象研究所のページと確認。公式の「過年度採択件数及び課題内訳」では2024年度（令和6年度）の13件が最新の掲載結果であり、リンク先の公式PDF「令和6年度採択課題一覧」から全13件を収集した。分野および個別助成金額は同PDFに記載がないためnull。"
+  },
+  "url_hint": "https://www.showa-u.ac.jp/research/midd",
+  "elapsed_s": 43
+ },
+ "せりか基金": {
+  "codex": {
+   "foundation_name": "せりか基金",
+   "source_url": "https://landing-page.koyamachuya.com/serikafund/award",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "金沢 貴憲",
+     "affiliation": "徳島大学大学院医歯薬学研究部",
+     "position": "教授",
+     "project_title": "家族性ALSの発症早期からの長期的治療を目的とした非侵襲的な核酸ナノ医薬の開発",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "石黒 亮",
+     "affiliation": "法政大学 マイクロ・ナノテクノロジー研究センター",
+     "position": "研究員",
+     "project_title": "牟婁病(ALS/PDC)の危険因子と疑われるリチウム同位体効果の研究",
+     "field_hint": null,
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "齋尾 智英",
+     "affiliation": "徳島大学先端酵素学研究所",
+     "position": "教授",
+     "project_title": "液-液相分離の品質管理機構から解き明かすALSの分子病態",
+     "field_hint": null,
+     "amount_jpy": 2000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは、運営団体を「一般社団法人せりか基金」と明記する公式サイトの「せりか基金賞 受賞者一覧」ページであることを確認。公式一覧に掲載された直近の受賞年度は第八回（2024年12月）で、受賞者は全3名。ページには2025年度募集要項も掲載されているが、2025年度の受賞者一覧は確認できないため採用していない。field_hintは受賞者ごとの公式な分野表記がないためnull。確認日: 2026-07-15。"
+  },
+  "url_hint": "https://landing-page.koyamachuya.com/serikafund/award",
+  "elapsed_s": 34
+ },
+ "倶進会": {
+  "codex": {
+   "foundation_name": "公益財団法人倶進会",
+   "source_url": "https://www.gushinkai.com/jyosei/list.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "一般社団法人チーム・ヒューマン・コメディ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "児童養護施設に入所している若者への求人サイトの構築",
+     "field_hint": "事業・活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人京都DARC",
+     "affiliation": null,
+     "position": null,
+     "project_title": "運動プログラムを通して心と身体の健康を取り戻す目的とたの施設とのソフトボール交流",
+     "field_hint": "事業・活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "キッカケ学園",
+     "affiliation": null,
+     "position": null,
+     "project_title": "様々な理由により不登校になり、公立校へ行けない子ども達への支援",
+     "field_hint": "事業・活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人アメラジアンスクール・イン・オキナワ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "アメラジアンスクールの子ども達に対するスクールカウンセリングの継続提供",
+     "field_hint": "事業・活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "個人",
+     "affiliation": null,
+     "position": null,
+     "project_title": "航空会社による障害者支援活動との連携事業",
+     "field_hint": "事業・活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人てとてと",
+     "affiliation": null,
+     "position": null,
+     "project_title": "年間を通じて、居場所の提供と無料勉強会を開催",
+     "field_hint": "事業・活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "ボランティア任意団体　Sum the Sky",
+     "affiliation": null,
+     "position": null,
+     "project_title": "児童養護施設への訪問ダンスレッスン",
+     "field_hint": "事業・活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人カウンセリングオフィスSARA",
+     "affiliation": null,
+     "position": null,
+     "project_title": "臨床心理士・公認心理士によるメンタルヘルスに関する市民講座を開催してカウンセリングや心理療法の知見を多くの人に届ける",
+     "field_hint": "事業・活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人慈有塾",
+     "affiliation": null,
+     "position": null,
+     "project_title": "無料塾「慈有塾」における継続的な学習支援事業の実施",
+     "field_hint": "事業・活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人京都DARC",
+     "affiliation": null,
+     "position": null,
+     "project_title": "デスクトップパソコン他購入",
+     "field_hint": "設備・備品",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人仙台YWCA",
+     "affiliation": null,
+     "position": null,
+     "project_title": "ノートパソコン購入",
+     "field_hint": "設備・備品",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人神戸ダルクヴィレッジ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "防犯用品購入",
+     "field_hint": "設備・備品",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "個人",
+     "affiliation": null,
+     "position": null,
+     "project_title": "音声発話の言語・音響学的分析による発話流暢性障害の鑑別方法の開発",
+     "field_hint": "研究・一般",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東京大学大学院生",
+     "affiliation": "東京大学",
+     "position": "大学院生",
+     "project_title": "深層学習クラスタリングを用いた思春期メンタルヘルスの時間変化パターンの日英国際比較研究：助けを求められず自殺リスクの高い児童に着目して",
+     "field_hint": "研究・学生",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東京大学大学院生",
+     "affiliation": "東京大学",
+     "position": "大学院生",
+     "project_title": "児童期アトピー性障害と思春期以降の心理的ストレス：日英両国のコホート比較による保護因子の解明",
+     "field_hint": "研究・学生",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東洋大学大学院生",
+     "affiliation": "東洋大学",
+     "position": "大学院生",
+     "project_title": "セルフ・ヘルプ・グループに参加する精神障害者家族の経験に関する研究",
+     "field_hint": "研究・学生",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人倶進会の公式サイトであることを確認。公式「助成情報－過去の助成先」ページに掲載された直近の2025年度全16件を収録した。公式表の「団体名」をawardee_nameとして転記しており、「個人」および「大学院生」とだけ掲載された採択先は実名が公表されていないため、公式表記のままとした。個別助成額は同表に記載がないためnull。テーマ中の表記も公式掲載どおりで、明らかな誤記らしき箇所も推測修正していない。確認日: 2026-07-15。"
+  },
+  "url_hint": "http://www.gushinkai.com",
+  "elapsed_s": 103
+ },
+ "榊原記念財団　（旧 日本心臓血圧研究振興会）": {
+  "codex": {
+   "foundation_name": "公益財団法人 榊原記念財団（旧 日本心臓血圧研究振興会）",
+   "source_url": "https://www.hq.heart.or.jp/research-g/pub-research/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "今村 亮俊",
+     "affiliation": "千葉大学大学院医学研究院 疾患システム医学",
+     "position": null,
+     "project_title": "心不全を規定する造血幹細胞エピゲノムストレス記憶の多様性の解明",
+     "field_hint": "心不全に迫る：基礎と臨床から",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "久野 舟平",
+     "affiliation": "神戸大学大学院医学研究科 生体構造解剖学分野",
+     "position": null,
+     "project_title": "心筋サルコメア形成とその不全を表裏一体となす、微小管網形成の分子スイッチのしくみ",
+     "field_hint": "心不全に迫る：基礎と臨床から",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "増川 太輝",
+     "affiliation": "横浜市立大学大学院医学研究科 薬理学教室",
+     "position": null,
+     "project_title": "脳内炎症を起点とした多臓器ネットワークの破綻に着目した心筋梗塞後心不全形成メカニズムの解明",
+     "field_hint": "心不全に迫る：基礎と臨床から",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLのドメインは榊原記念財団の公式サイトであることを確認。公式「研究助成事業について」ページ（2026年7月15日確認）に、2026年5月30日の公募研究採択委員会で決定した第24回（2026年度）採択者3名が掲載されている。職位と個別助成額は掲載されていないためnull。募集要項には1件200万円を上限とあるが、個別の確定額ではないためamount_jpyには採用していない。"
+  },
+  "url_hint": "http://www.hq.heart.or.jp",
+  "elapsed_s": 82
+ },
+ "MSD生命科学財団": {
+  "codex": {
+   "foundation_name": "MSD生命科学財団",
+   "source_url": "https://www.msd-life-science-foundation.or.jp/news/news_20251222_002.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "阿尻 大雅",
+     "affiliation": "東京科学大学生命理工学院 安井研究室",
+     "position": null,
+     "project_title": "細胞機械特性に基づくがん動態一細胞解析技術の開発",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "池田 英樹",
+     "affiliation": "千葉大学大学院医学研究院 呼吸器内科学",
+     "position": null,
+     "project_title": "ミトコンドリアゲノムが駆動する老化関連発がん機構の解明",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "石原 誠一郎",
+     "affiliation": "北海道大学大学院先端生命科学研究院 生命融合科学研究部門細胞ダイナミクス科学研究室",
+     "position": null,
+     "project_title": "圧縮ストレスによるがん細胞の薬剤耐性獲得機構",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大谷 理浩",
+     "affiliation": "岡山大学学術研究院 医歯薬学域脳神経外科学",
+     "position": null,
+     "project_title": "神経膠腫のPassenger Deletionによる腫瘍代謝変化の解明と治療応用",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "雁金 大樹",
+     "affiliation": "東京科学大学大学院医歯学総合研究科 血液内科",
+     "position": null,
+     "project_title": "成熟B細胞リンパ腫の発症基盤解明とin vivoモデルの確立",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "川﨑 健太",
+     "affiliation": "慶應義塾大学医学部 腫瘍センター",
+     "position": null,
+     "project_title": "消化器神経内分泌癌オルガノイドを用いた治療標的遺伝子変異の生物学的機能解析",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "栗本 遼太",
+     "affiliation": "千葉大学大学院医学研究院 分子病態解析学講座",
+     "position": null,
+     "project_title": "新規メチル化mRNA修飾による翻訳制御機構とがんEMTの制御の解明",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小西 義延",
+     "affiliation": "京都大学医学部付属病院 血液内科",
+     "position": null,
+     "project_title": "骨髄腫腫瘍免疫微小環境の空間的免疫プロファイリングに基づく治療効果予測モデルの確立",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中村 和貴",
+     "affiliation": "昭和医科大学大学院歯学研究科 口腔生化学分野",
+     "position": null,
+     "project_title": "Stromal Defense Against Cancer機構の理解と制御",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西田 奈央",
+     "affiliation": "早稲田大学高等研究所",
+     "position": null,
+     "project_title": "転移性乳がん細胞外小胞の標的輸送機構の分子基盤の解明と治療応用",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "野村 アニラ",
+     "affiliation": "理化学研究所生命医科学研究センター 免疫記憶研究チーム",
+     "position": null,
+     "project_title": "Runx3 変異体を用いた疲弊耐性型 CAR-T 細胞療法の開発",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山嵜 博未",
+     "affiliation": "大阪大学大学院医学系研究科 がん病理学",
+     "position": null,
+     "project_title": "セレノプロテインを軸とした加齢性疾患の理解と治療戦略の探索",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "渡邉 美佳",
+     "affiliation": "北海道大学病院 皮膚科",
+     "position": null,
+     "project_title": "四次元オミクス解析による早期皮膚癌のクラスタリング",
+     "field_hint": "がん領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "秋葉 庸平",
+     "affiliation": "東京歯科大学市川総合病院 循環器内科",
+     "position": null,
+     "project_title": "血管内皮細胞を介した炎症制御による心不全に対する新規治療法開発",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "新井 洋平",
+     "affiliation": "東京科学大学病院 血液浄化療法部腎臓内科",
+     "position": null,
+     "project_title": "後天性Y染色体喪失(mLOY)に着目した血管疾患の新規治療戦略",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "荒木 雅弥",
+     "affiliation": "富山大学和漢医薬学総合研究所 複雑系解析分野",
+     "position": null,
+     "project_title": "脂質異常を起点とした小腸の機能障害が脂肪肝の増悪化に与える影響",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "植木 響政",
+     "affiliation": "順天堂大学大学院医学部医学科 代謝内分泌内科学講座",
+     "position": null,
+     "project_title": "膵β細胞におけるカテプシンDの病態生理学的意義の検討",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大橋 夏子",
+     "affiliation": "滋賀医科大学医学部 内科学講座糖尿病内分泌・腎臓内科",
+     "position": null,
+     "project_title": "miR-494を標的とした糖尿病・肥満症・サルコペニアに対する横断的治療戦略の確立",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "角 朝信",
+     "affiliation": "富山大学学術研究部 医学系第一内科",
+     "position": null,
+     "project_title": "脂肪組織常在性マクロファージによる糖代謝・脂質代謝維持機構の解明",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "後藤 佐和子",
+     "affiliation": "東北大学病院 腎臓・高血圧内科",
+     "position": null,
+     "project_title": "糖尿病関連腎臓病における性差の解明と性差特異的な治療ターゲットの探索",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "白川 公亮",
+     "affiliation": "慶應義塾大学医学部 循環器内科",
+     "position": null,
+     "project_title": "弁間質細胞を標的とした免疫学的介入による大動脈弁変性制御戦略の開発",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "戴 哲皓",
+     "affiliation": "東京大学大学院医学系研究科 先端循環器医科学講座",
+     "position": null,
+     "project_title": "心筋梗塞急性期における心筋組織中の好中球細胞外トラップによる心筋リモデリングの制御機構の解明",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "髙橋 佑典",
+     "affiliation": "国立循環器病研究センター研究所 分子薬理部",
+     "position": null,
+     "project_title": "ミトコンドリアを標的とした心不全治療薬開発のための基盤研究",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田口 慎也",
+     "affiliation": "横浜市立大学 先端医科学研究センター",
+     "position": null,
+     "project_title": "皮膚組織レニン・アンジオテンシン系に着目した食塩感受性高血圧の新規病態解明",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "霍田 裕明",
+     "affiliation": "国立健康危機管理機構 国立国際医療研究所糖尿病研究センター分子糖尿病医学研究部",
+     "position": null,
+     "project_title": "腸管の摂食応答からみた糖尿病合併症の新規治療薬の開発",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中道 蘭",
+     "affiliation": "慶應義塾大学医学部 内科学教室腎臓内分泌代謝科",
+     "position": null,
+     "project_title": "DNA損傷に起因する腎老化ニッチが誘発するTreg機能不全を標的とした腎保護戦略の開発",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松本 あゆみ",
+     "affiliation": "大阪大学医学部付属病院 腎臓内科",
+     "position": null,
+     "project_title": "慢性リン過剰摂取による性別依存的代謝異常と生命予後悪化機序の解明",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "萬代 新太郎",
+     "affiliation": "東京科学大学大学院医歯学総合研究科 腎臓内科学分野",
+     "position": null,
+     "project_title": "糖尿病関連腎臓病の病期進行と臓器連関に基づく診断・治療の革新",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "吉田 賢明",
+     "affiliation": "九州大学大学院医学研究院 循環器内科学",
+     "position": null,
+     "project_title": "左心疾患関連肺高血圧症におけるPDGFRβを介した肺血管リモデリングの新規イメージング技術ならびに治療手段の確立",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "吉田 尚史",
+     "affiliation": "国立循環器病研究センター研究所 先端医療技術開発部",
+     "position": null,
+     "project_title": "ヒト動脈硬化プラークの後天的遺伝子変異解析から迫る動脈硬化の病態解明",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "渡辺 博文",
+     "affiliation": "新潟大学医歯学総合病院 腎・膠原病内科",
+     "position": null,
+     "project_title": "腎輸入細動脈肥厚抑制による新規高血圧治療シーズの創出",
+     "field_hint": "生活習慣病領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "青木 弘太郎",
+     "affiliation": "東邦大学医学部 微生物・感染症学講座",
+     "position": null,
+     "project_title": "血液培養陽性検体ダイレクト全ゲノム解析による網羅的原因菌同定、薬剤耐性、ならびに院内伝播検出タイムリーフィードバック検査法の開発と検証",
+     "field_hint": "感染症領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "今井 優",
+     "affiliation": "信州大学アクア・リジェネレーション機構 下里ユニット",
+     "position": null,
+     "project_title": "線虫共生細菌を活用した薬剤耐性グラム陽性細菌に有効な抗生物質の創薬研究",
+     "field_hint": "感染症領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "内田 尚宏",
+     "affiliation": "九州大学大学院医学研究院 病態制御内科",
+     "position": null,
+     "project_title": "敗血症による副腎血管障害に対するACTH介在性保護作用の解明と臨床応用の可能性",
+     "field_hint": "感染症領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "春日井 大介",
+     "affiliation": "名古屋大学大学院医学系研究科 救急・集中治療医学分野",
+     "position": null,
+     "project_title": "急性呼吸促迫症候群後遺症に対する新規治療開発に向けた非臨床評価",
+     "field_hint": "感染症領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "橘 優汰",
+     "affiliation": "大阪大学微生物病研究所 感染病態分野",
+     "position": null,
+     "project_title": "病原性寄生虫トキソプラズマの細胞外脱出の謎に挑み新たな治療標的とする",
+     "field_hint": "感染症領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "村居 和寿",
+     "affiliation": "金沢大学医薬保健研究域 保健学系病態検査学講座",
+     "position": null,
+     "project_title": "感染症における血中循環リパーゼの免疫調節機能とその生物学的意義の解明",
+     "field_hint": "感染症領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "八木 一馬",
+     "affiliation": "慶應義塾大学医学部 感染症学教室",
+     "position": null,
+     "project_title": "腸―肺軸を介したマイクロバイオーム変容と肺非結核性抗酸菌症の病態との関連解析",
+     "field_hint": "感染症領域",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山本 健太郎",
+     "affiliation": "国立健康危機管理研究機構国立感染症研究所 ハンセン病研究センター",
+     "position": null,
+     "project_title": "肺非結核性抗酸菌症における気管支拡張とバイオフィルム形成の全肺三次元イメージング解析",
+     "field_hint": "感染症領域",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人MSD生命科学財団の公式サイトであることを確認。公式発表「2025年度研究助成の交付者が決定しました。」からリンクされた3領域の全交付者39名を収録した。公式一覧URLは、がん領域 https://www.msd-life-science-foundation.or.jp/research/cancer/cancer_list/cancer_list2025.html 、生活習慣病領域 https://www.msd-life-science-foundation.or.jp/category/research/lrd/lrd_list 、感染症領域 https://www.msd-life-science-foundation.or.jp/research/kansen/kansen_list/kansen_list2025.html 。所属は公式記載の応募時情報。職位は一覧に記載がないためnull。募集要項には生活習慣病・感染症領域で1名200万円との記載があるが、交付者一覧に個別金額の記載がなく、3領域すべてを同一基準で確認できないためamount_jpyはnullとした。"
+  },
+  "url_hint": "https://www.msd-life-science-foundation.or.jp",
+  "elapsed_s": 142
+ },
+ "坂口光洋記念慶應義塾医学振興基金": {
+  "codex": {
+   "foundation_name": "坂口光洋記念慶應義塾医学振興基金",
+   "source_url": "https://www.ms-fund.keio.ac.jp/shorei/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "貞廣 威太郎",
+     "affiliation": "慶應義塾大学医学部 循環器内科",
+     "position": "助教",
+     "project_title": "心不全の心臓を修復する心臓再生・抗線維化治療法の開発",
+     "field_hint": "医学・生命科学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "勝俣 良紀",
+     "affiliation": "慶應義塾大学医学部 スポーツ医学総合センター",
+     "position": "専任講師",
+     "project_title": "革新的医療機器の開発及び社会実装のための基盤の構築と実践",
+     "field_hint": "医学・生命科学",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLのドメインは当基金の公式サイトであることを確認。公式「研究奨励」ページの歴代受賞者欄に掲載された最新の2025年度全2名を収録した。所属・職位は基金公式の2025年度受賞記念研究発表資料（https://www.ms-fund.keio.ac.jp/f1774a1d7e5a969632abf24abfcfcca90be90cd9.pdf）でも確認。募集要項には1賞につき副賞100万円（予定）とあるが、採択結果ページに個別の確定金額が明記されていないためamount_jpyはnullとした。"
+  },
+  "url_hint": "http://www.ms-fund.keio.ac.jp/index_jp.htm",
+  "elapsed_s": 84
+ },
+ "滋賀医学国際協力会": {
+  "codex": {
+   "foundation_name": "公益財団法人 滋賀医学国際協力会",
+   "source_url": "https://shigamedical.org/02_jyosei.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "新谷修平",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "菅原礼知安",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "前平博充",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "角幸頼",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "木村英憲",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "髙林健介",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "高畑翔吾",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "星野真介",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "成瀬延康",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大西正人",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "医学系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "服部聖子",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "看護系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "河上圭代",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "看護系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "清原麻衣子",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "看護系研究者海外渡航助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "上本伸二",
+     "affiliation": null,
+     "position": null,
+     "project_title": "滋賀医科大学で医学を学ぶ外国人留学生・外国人研究者の学術交流",
+     "field_hint": "国際学術交流助成",
+     "amount_jpy": 350000
+    },
+    {
+     "awardee_name": "小寺利美",
+     "affiliation": null,
+     "position": null,
+     "project_title": "国際学術交流講演会（ベトナム医療の現状と課題）",
+     "field_hint": "国際学術交流助成",
+     "amount_jpy": 350000
+    },
+    {
+     "awardee_name": "GUO XIAOKAI",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "外国人留学生等修学助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "XIN WENYU",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "外国人留学生等修学助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Sun Zhiying",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "外国人留学生等修学助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "KHAN MD ABDUL JABBAR",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "外国人留学生等修学助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "TSEDENBAL BATCHIMEG",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "外国人留学生等修学助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "AKTER OAHIDA",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "外国人留学生等修学助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Pitu Rani Baroi",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "外国人留学生等修学助成",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。公式「助成事業について」に掲載された直近の2025（令和7）年度助成事業から、氏名が公表された22名を収録した。医学系学生海外渡航助成30件、医学系学生学会発表海外渡航助成2件、看護系学生海外渡航助成5件は個人名が掲載されておらず、「滋賀医科大学 学生」「聖泉大学 学生」とのみ記載されているため除外。所属・職位・課題名・個別金額は公式ページに記載がない項目をnullとした。国際学術交流助成は2件総額70万円かつ1件35万円と明記されているため、各350,000円とした。"
+  },
+  "url_hint": "http://shigamedical.org",
+  "elapsed_s": 51
+ },
+ "新技術振興渡辺記念会": {
+  "codex": {
+   "foundation_name": "一般財団法人 新技術振興渡辺記念会",
+   "source_url": "https://www.watanabe-found.or.jp/activities/subsidy/achieve/R08.html",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "高木 彩",
+     "affiliation": "横浜国立大学",
+     "position": null,
+     "project_title": "自然を活かす気候変動適応策の受容と防災行動：分断なき対話への心理的基盤",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "井出 和希",
+     "affiliation": "大阪大学",
+     "position": null,
+     "project_title": "オープンおよびメタサイエンスの動向にみるこれからの学術研究のあり方の探索",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "時松 宏治",
+     "affiliation": "東京科学大学",
+     "position": null,
+     "project_title": "付加製造法を用いたアルミニウム製品の温室効果ガス排出削減効果の定量評価研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "米澤 千夏",
+     "affiliation": "東北大学",
+     "position": null,
+     "project_title": "シチズンサイエンスに基づいた藻場のモニタリング体制の構築",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 幹人",
+     "affiliation": "早稲田大学",
+     "position": null,
+     "project_title": "メディア上の科学的議論へ専門的意見を反映させるラピッド・デルファイ手法の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "酒井 厚",
+     "affiliation": "東京都立大学",
+     "position": null,
+     "project_title": "AI翻訳ツールが母国語の異なる個人間のコミュニケーションで機能するプロセスの検討",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "高木 俊暢",
+     "affiliation": "一般財団法人 日本宇宙フォーラム",
+     "position": null,
+     "project_title": "日本におけるプラネタリーディフェンスを目的とした国内体制構築構想の提案",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 祐耕",
+     "affiliation": "一般社団法人 科学技術と経済の会",
+     "position": null,
+     "project_title": "フェーズフリーを実現する技術の体系化と社会実装条件の整理",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "齋藤 太郎",
+     "affiliation": "公益財団法人 全日本科学技術協会",
+     "position": null,
+     "project_title": "再生プラスチック材の社会受容性醸成に向けた規格に関する調査研究",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "栁下 正治",
+     "affiliation": "一般社団法人 環境政策対話研究所",
+     "position": null,
+     "project_title": "気候市民会議の日本社会への定着のための事例分析と課題抽出―試行5年間の総括―",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式「調査研究の助成 実績紹介（令和8年度）」掲載の上期採択課題632～641番、全10件を収録した（2026-07-15確認）。公式発表では2026年3月24日決定、助成総額20百万円。職位、課題別分野、個別助成額は一覧に記載がないためnull。"
+  },
+  "url_hint": "http://www.watanabe-found.or.jp",
+  "elapsed_s": 48
+ },
+ "材料科学技術振興財団": {
+  "codex": {
+   "foundation_name": "一般財団法人材料科学技術振興財団",
+   "source_url": "https://www.mst.or.jp/about/research-grants/",
+   "fiscal_year": 2025,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "参考URLの https://www.mst.or.jp/ は当該財団の公式サイトであることを確認。公式の研究助成・共同研究ページには「令和7年度実績：研究助成 11件」と記載され、2025年11月27日に令和7年度研究助成贈呈式が開催されたことも公式サイトで確認できた。しかし、確認可能な公式ページには11件の採択者氏名・所属・研究課題の一覧が掲載されていないため、推測せずawardeesを空とした。source_urlは採択実績件数を確認できる公式ページであり、個人別の採択者一覧ページではない。"
+  },
+  "url_hint": "http://www.mst.or.jp",
+  "elapsed_s": 56
+ },
+ "Ｊミルク内 乳の学術連合「牛乳乳製品健康科学会議」": {
+  "codex": {
+   "foundation_name": "Ｊミルク内 乳の学術連合「牛乳乳製品健康科学会議」",
+   "source_url": "https://m-alliance.j-milk.jp/koubo/2026/kenkokagaku.html",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "柄澤 拓也",
+     "affiliation": "日本体育大学",
+     "position": "研究員",
+     "project_title": "乳脂肪に特有な奇数脂肪酸の摂取後動態と骨格筋における健康機能の解明",
+     "field_hint": "牛乳の成分や特徴的な栄養素が持つ医学的・生理学的・栄養学的価値に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中﨑 公隆",
+     "affiliation": "日本大学 医学部小児科学系小児科学分野",
+     "position": "助教",
+     "project_title": "低出生体重-非肥満型2型糖尿病モデルマウスにおけるホエイタンパクによるミトコンドリア機能改善と高血糖発症抑制の検証",
+     "field_hint": "牛乳の成分や特徴的な栄養素が持つ医学的・生理学的・栄養学的価値に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "疋田 智也",
+     "affiliation": "静岡県立大学 薬学部",
+     "position": "助教",
+     "project_title": "Milk EVsを用いた慢性腎臓病に伴う腸内環境破綻の制御",
+     "field_hint": "牛乳の成分や特徴的な栄養素が持つ医学的・生理学的・栄養学的価値に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "堺 弘道",
+     "affiliation": "島根大学 総合科学研究支援センター",
+     "position": "助教",
+     "project_title": "2型糖尿病改善のための栄養因子ミリスチン酸の骨格筋と脂肪滴形成への影響評価",
+     "field_hint": "牛乳の成分や特徴的な栄養素が持つ医学的・生理学的・栄養学的価値に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 清",
+     "affiliation": "静岡県立総合病院 リサーチサポートセンター",
+     "position": "臨床研究部長",
+     "project_title": "高齢者のビタミンB12供給源としての牛乳乳製品の意義、及びその骨粗鬆症・サルコペニアに対する影響に関する研究",
+     "field_hint": "牛乳の成分や特徴的な栄養素が持つ医学的・生理学的・栄養学的価値に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中山 佳子",
+     "affiliation": "信州大学 医学部保健学科",
+     "position": "教授",
+     "project_title": "小児・青年期IBSにおける牛乳・乳製品摂取反応を規定する腸内菌叢の解明と個別化栄養戦略",
+     "field_hint": "食品としての牛乳乳製品やこれを構成要素とする食事の健康への役割に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田村 典久",
+     "affiliation": "広島大学 大学院人間社会科学研究科",
+     "position": "准教授",
+     "project_title": "乳製品摂取と光環境が睡眠紡錘波を介して小児の脳成熟に及ぼす影響",
+     "field_hint": "食品としての牛乳乳製品やこれを構成要素とする食事の健康への役割に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小野 未侑",
+     "affiliation": "国立病院機構 三重病院",
+     "position": "医員",
+     "project_title": "新生児期における人工乳補充のあり方は牛乳アレルギーの予後と関連するか？",
+     "field_hint": "食品としての牛乳乳製品やこれを構成要素とする食事の健康への役割に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田村 好史",
+     "affiliation": "順天堂大学 大学院医学研究科 スポーツ医学・スポートロジー／代謝内分泌内科学",
+     "position": "教授",
+     "project_title": "女性の低体重／低栄養症候群（FUS）予防における牛乳乳製品摂取の役割に関する実証研究 — AI推定骨密度を用いた職域コホート解析 —",
+     "field_hint": "女性の健康に対する牛乳乳製品の有用性に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "髙畑 陽子",
+     "affiliation": "岡山大学 学術研究院保健学域",
+     "position": "准教授",
+     "project_title": "妊娠期・産後の乳製品摂取と心理的指標の関連：母子保健における新たな支援戦略の提案",
+     "field_hint": "女性の健康に対する牛乳乳製品の有用性に関する研究",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLのドメインは公式の「乳の学術連合」サイトであることを確認。公式掲載の「2026年度『牛乳乳製品健康科学』学術研究の選考結果について」（2026年3月9日公開）から、採択件数10件の全員を収録した。氏名・所属・役職・課題名・分野は同ページの申請書記載情報に基づく。個別金額は選考結果ページに記載がないためnull。"
+  },
+  "url_hint": "https://m-alliance.j-milk.jp",
+  "elapsed_s": 48
+ },
+ "黒住医学研究振興財団": {
+  "codex": {
+   "foundation_name": "黒住医学研究振興財団",
+   "source_url": "https://www.kmf.or.jp/disclosure/winner/research_list6.html",
+   "fiscal_year": 2022,
+   "awardees": [
+    {
+     "awardee_name": "相澤 健一",
+     "affiliation": "自治医科大学附属病院臨床薬理センター",
+     "position": "室長（准教授）",
+     "project_title": "病理質量分析による心アミロイドーシス診断法の開発と臨床応用",
+     "field_hint": "臨床化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "青沼 宏佳",
+     "affiliation": "東京慈恵会医科大学医学部熱帯医学講座",
+     "position": "講師",
+     "project_title": "vDNAを標的とした迅速・簡便なウイルス媒介蚊検査技術の開発",
+     "field_hint": "感染危機管理",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "浅田 健",
+     "affiliation": "国立研究開発法人理化学研究所 革新知能総合研究（AIP）センター",
+     "position": "研究員",
+     "project_title": "融合遺伝子解析を含めた新規肺がん統合マルチオミックス解析プラットフォームの構築",
+     "field_hint": "分子生物学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "畝田 篤仁",
+     "affiliation": "国立がん研究センター研究所脳腫瘍連携研究分野",
+     "position": "研究員",
+     "project_title": "2021WHO中枢神経腫瘍分類に対応した網羅的脳腫瘍カスタムパネルによる遺伝子診断体制の構築",
+     "field_hint": "分子生物学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "沖 健司",
+     "affiliation": "広島大学病院内分泌・糖尿病内科",
+     "position": "講師",
+     "project_title": "原発性アルドステロン症の早期診断バイオマーカーの開発と臨床応用",
+     "field_hint": "臨床化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小椋 英樹",
+     "affiliation": "兵庫医科大学医学部病原微生物学講座",
+     "position": "講師",
+     "project_title": "SARS-CoV-2特異的CTL解析を基盤としたCOVID-19病態モニタリング法の開発",
+     "field_hint": "臨床免疫学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "片山 彩香",
+     "affiliation": "群馬大学大学院医学系研究科病理診断学",
+     "position": "講師",
+     "project_title": "AIを用いた病理組織画像解析によるStageⅡ大腸癌の術後補助化学療法の最適化",
+     "field_hint": "人体病理学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "神尾 成美",
+     "affiliation": "国際医療福祉大学成田病院検査部",
+     "position": "臨床検査技師",
+     "project_title": "フローサイトメトリーを用いた環状鉄芽球判定法の開発",
+     "field_hint": "検査血液学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "河村 吉紀",
+     "affiliation": "藤田医科大学医学部小児科学",
+     "position": "講師",
+     "project_title": "イムノクロマト法による突発性発疹（ヒトヘルペスウイルス6B初感染）の迅速診断法開発",
+     "field_hint": "臨床微生物学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "川村 良一",
+     "affiliation": "愛媛大学大学院医学系研究科糖尿病内科学講座（糖尿病内科・臨床検査医学）",
+     "position": "特任講師",
+     "project_title": "レジスチンSNP・白血球特異的遺伝子発現相乗効果を標的とした2型糖尿病の高精度医療の確立",
+     "field_hint": "疫学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "柴 瑛介",
+     "affiliation": "産業医科大学第1病理学",
+     "position": "助教",
+     "project_title": "脂肪肉腫におけるMDM2 cRNA in site hybridization の診断学的有用性の検討",
+     "field_hint": "人体病理学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "谷 里奈",
+     "affiliation": "奈良県立医科大学分子病理学講座",
+     "position": "講師",
+     "project_title": "ヒト剖検症例におけるがん性悪液質関連心筋障害の病理組織学的検討",
+     "field_hint": "人体病理学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "鳥居 裕太",
+     "affiliation": "神戸市立医療センター中央市民病院 臨床検査技術部",
+     "position": "臨床検査技師",
+     "project_title": "うっ血性心不全患者におけるエコーを用いた包括的うっ血評価と心血管イベント発症の関連",
+     "field_hint": "一般・生理学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "菱田 朝陽",
+     "affiliation": "名古屋大学大学院医学系研究科予防医学",
+     "position": "准教授",
+     "project_title": "血清中金属元素測定によるがん早期診断・リスクマーカーとしての感度分析",
+     "field_hint": "疫学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "前川 正充",
+     "affiliation": "東北大学病院",
+     "position": "准教授・副薬剤部長",
+     "project_title": "液体クロマトグラフィー／タンデム質量分析法を用いた尿中抱合型コレステロール代謝物の超高感度・高速分析法の構築とニーマンピック病C型の診断スクリーニングへの応用",
+     "field_hint": "臨床化学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "丸山 和晃",
+     "affiliation": "三重大学大学院医学系研究科修復再生病理学",
+     "position": "学内講師",
+     "project_title": "小児COVID-19関連多系統炎症性症候群の心臓検体による炎症細胞動態の解析",
+     "field_hint": "感染危機管理",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "三浦 里織",
+     "affiliation": "福島県立医科大学保健科学部臨床検査学科／同大学附属病院 輸血・移植免疫部",
+     "position": "助教",
+     "project_title": "白血病関連遺伝子変異を有する血球が血栓症を惹起する機序の解明とバイオマーカーの開発",
+     "field_hint": "分子生物学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "三木田 馨",
+     "affiliation": "慶應義塾大学医学部感染症学教室",
+     "position": "専任講師",
+     "project_title": "LAMP法とDNAクロマトグラフィを組み合わせたMycobacterium avium complex 臨床分離株のマクロライド耐性変異に関する簡易検査法の開発",
+     "field_hint": "臨床微生物学",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山本 景一",
+     "affiliation": "熊本大学病院中央検査部微生物検査室",
+     "position": "主任臨床検査技師",
+     "project_title": "熊本地域の感染制御ネットワークによる独自の微生物サーベイランスシステムを利用したMRSAの分子疫学解析",
+     "field_hint": "感染危機管理",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "medium",
+   "notes": "参考URLは公益財団法人黒住医学研究振興財団の公式サイトであることを確認。公式トップページには2025年度第33回研究助成金の受贈者決定告知が存在するが、今回取得できた検索結果では受贈者全員の詳細を検証できなかった。このため、公式「研究助成金 贈呈者一覧」で全員の氏名・所属・課題・分野を確認できた最新掲載年度（第30回、令和4年〔2022年〕10月）を収録した。個別助成額は同一覧に記載がないためnull。検索取得時に文字化けしていた明白な日本語箇所は文脈に沿って復元したため、confidenceはmediumとした。"
+  },
+  "url_hint": "http://www.kmf.or.jp",
+  "elapsed_s": 149
+ },
+ "山陽放送学術文化財団": {
+  "codex": {
+   "foundation_name": "山陽放送学術文化財団",
+   "source_url": "https://www.rsk.co.jp/company/zaidan/r07list.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "大久保 範子",
+     "affiliation": "岡山大学学術研究院 社会文化科学学域",
+     "position": "准教授",
+     "project_title": "四角い土俵の起源と継承―絵画資料から見る土俵の成立―",
+     "field_hint": "教育・社会文化科学分野（学術奨励賞）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤井 ひかる",
+     "affiliation": "岡山理科大学獣医学部",
+     "position": "講師",
+     "project_title": "ウイルスを活用したイヌの新規がん治療法開発に向けた基盤構築",
+     "field_hint": "自然・環境生命科学分野（学術奨励賞）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 健太",
+     "affiliation": "岡山大学学術研究院 環境生命自然科学学域",
+     "position": "助教",
+     "project_title": "赤色光をエネルギー源とする有機光触媒の開発と応用",
+     "field_hint": "自然・環境生命科学分野（学術奨励賞）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "福井 裕介",
+     "affiliation": "岡山大学学術研究院 医療開発領域 脳神経内科",
+     "position": "助教",
+     "project_title": "海馬血管網の再構築と神経新生誘導によるアルツハイマー病の認知機能再生",
+     "field_hint": "保健・医歯薬学分野（学術奨励賞）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "渡部 智文",
+     "affiliation": "岡山大学病院 腎泌尿器科",
+     "position": "医員",
+     "project_title": "腫瘍関連マクロファージのコレステロール代謝改変による新規免疫療法の開発",
+     "field_hint": "保健・医歯薬学分野（学術奨励賞）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤井 智香子",
+     "affiliation": "岡山大学病院小児医療センター 小児科・小児心身医療科／岡山大学学術研究院 医療開発領域 ダイバーシティ推進センター",
+     "position": "講師",
+     "project_title": "成長期の健康と心理社会的発達を支える回避・制限性食物摂取症（摂食障害）への早期介入に関する研究",
+     "field_hint": "保健・医歯薬学分野（学術奨励賞）",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトの「研究助成者一覧」に掲載された最新の「第63回（令和7年度）学術研究助成受賞者一覧」を2026-07-15に確認。令和7年度は西暦2025年度。掲載者6名を全員収録した。個別助成金額は一覧に記載がないためnull。参考URLは公式サイトであるが、財団は2020年8月7日に「公益財団法人山陽放送学術文化・スポーツ振興財団」へ名称変更している。"
+  },
+  "url_hint": "http://www.rsk.co.jp/company/zaidan.html",
+  "elapsed_s": 70
+ },
+ "先端加工機械技術振興協会": {
+  "codex": {
+   "foundation_name": "先端加工機械技術振興協会",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "参考URL http://www.amtda.or.jp は、2025年度の研究費補助機関データベースにも当協会のURLとして登録されており、対象財団の公式サイトと確認できた。公式の研究助成ページは http://www.amtda.or.jp/enjyo.html と案内されているが、調査時点では公式サイトが502エラーとなり閲覧できなかった。検索でも、公式ドメイン上の直近年度の採択者一覧・助成先一覧・贈呈式資料を確認できなかった。大学等による個別の採択報告は見つかったが、公式の採択結果に掲載された全員を確認できないため収録していない。推測や非公式情報による補完は行っていない。"
+  },
+  "url_hint": "http://www.amtda.or.jp",
+  "elapsed_s": 43
+ },
+ "近藤記念医学財団": {
+  "codex": {
+   "foundation_name": "近藤記念医学財団",
+   "source_url": "https://www.tomisaka.or.jp/news/tabid/69/Default.aspx?dispmid=463&itemid=204",
+   "fiscal_year": 2025,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "参考URL（tomisaka.or.jp）は一般財団法人近藤記念医学財団の公式サイトであることを確認。公式のお知らせには、2025年度学術奨励賞（臨床検査医学研究に対する研究助成金）の受賞者決定が2025年12月1日付で掲載されている。ただし、確認可能なページ本文には受賞者の氏名・所属・研究課題等が表示されず、「詳細は下記ページ」とのみ記載されており、リンク先の採択者一覧も取得・確認できなかった。捏造を避けるためawardeesは空とした。"
+  },
+  "url_hint": "https://www.tomisaka.or.jp",
+  "elapsed_s": 96
+ },
+ "日本動脈硬化予防研究基金": {
+  "codex": {
+   "foundation_name": "日本動脈硬化予防研究基金",
+   "source_url": "https://doumyaku.jp/koubo/img/kobetsu.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "籔本 直也",
+     "affiliation": "国立循環器病研究センター 心臓血管内科・心臓血管集中治療科",
+     "position": null,
+     "project_title": "突然死の原因となる石灰化結節への治療戦略確立研究：薬物を用いた炎症介入治療ならびに音圧波パルスを用いたカテーテルインターベンション治療の有効性の解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山浦 大輝",
+     "affiliation": "大阪公立大学大学院 医学研究科 循環器内科学",
+     "position": null,
+     "project_title": "慢性炎症に基づく冠動脈プラーク不安定化機序の包括的解析と新規バイオマーカー探索",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "平野 雄大",
+     "affiliation": "東京大学医学部附属病院 脳神経外科",
+     "position": null,
+     "project_title": "頭蓋内動脈狭窄症およびもやもや病におけるヒストン修飾変異による血管内皮細胞・平滑筋細胞の発現変化と血管リモデリング機構の共通性の解明",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "原嶋 敦子",
+     "affiliation": "北海道大学大学院医学院",
+     "position": null,
+     "project_title": "血管石灰化性動脈硬化に対する新規治療開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山名 史男",
+     "affiliation": "大阪大学大学院医学系研究科 外科学講座 心臓血管外科学",
+     "position": null,
+     "project_title": "動脈硬化性大動脈疾患の発生・進展機構を解明するための多層的オミクス解析と標的探索",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URL https://doumyaku.jp は「公益信託 日本動脈硬化予防研究基金」の公式サイトと確認。公式サイト掲載の「公益信託日本動脈硬化予防研究基金 研究助成先」PDFの最新欄（2025年度）から全5名を収録した。PDFに職位、公式の分野区分、個別助成金額の記載がないためnull。確認日: 2026-07-15。"
+  },
+  "url_hint": "https://doumyaku.jp",
+  "elapsed_s": 103
+ },
+ "総合研究奨励会": {
+  "codex": {
+   "foundation_name": "一般財団法人 総合研究奨励会",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "公式サイトは https://www.erf.or.jp/ と確認した。参考URLは東京大学工学系研究科配下の旧案内ページとみられるが、現在の財団公式サイトは erf.or.jp。公式の助成・顕彰事業ページ（https://www.erf.or.jp/02a.html）には、2025年度若手研究者海外渡航助成について「2025年11月中に申請者本人へ採択結果を通知」とあるものの、採択者氏名・所属・発表課題等の一覧は掲載されていない。工学研究顕彰についても募集資料のみで、直近年度の受賞者一覧は確認できなかった。公式公開資料から採択者を特定できないため、source_url・fiscal_yearはnull、awardeesは空とした（確認日: 2026-07-15）。"
+  },
+  "url_hint": "http://www.t.u-tokyo.ac.jp/tpage/institution/shoureikai",
+  "elapsed_s": 33
+ },
+ "産業構造調査研究支援機構": {
+  "codex": {
+   "foundation_name": "公益財団法人産業構造調査研究支援機構",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "参考URL http://nsr.t-zaidan.jp/ は、名古屋大学の令和8年度公募案内（https://jigyoka.aip.nagoya-u.ac.jp/contents/7713.html）および岡山大学の公募情報（https://www.rfund.orsd.okayama-u.ac.jp/detail/250949）で当財団のホームページとして案内されており、財団との対応は確認できた。ただし調査時点では同ドメインをDNS解決できず、検索で確認できた公式発信も募集案内・助成要綱のみだった。公式の採択者一覧、助成先一覧、採択課題または贈呈式記録は確認できなかったため、年度および採択者を推測せずnull／空配列とした。"
+  },
+  "url_hint": "http://nsr.t-zaidan.jp",
+  "elapsed_s": 83
  }
 }
