@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "foundation_name": { "type": "string" },
+    "source_url": { "type": ["string", "null"], "description": "助成金額・件数の出典URL(募集要項/助成概要・実在)" },
+    "programs": {
+      "type": "array",
+      "description": "この財団の研究助成プログラムごとの金額・件数情報。公式の募集要項/助成概要から。捏造禁止・不明はnull",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "program_name": { "type": ["string", "null"], "description": "助成プログラム名(例:研究助成/若手研究者助成)" },
+          "amount_per_award_jpy": { "type": ["integer", "null"], "description": "1件あたり助成額(円)。定額ならその額、幅があれば代表額" },
+          "amount_min_jpy": { "type": ["integer", "null"], "description": "1件あたり下限(円・幅がある場合)" },
+          "amount_max_jpy": { "type": ["integer", "null"], "description": "1件あたり上限(円・幅がある場合)" },
+          "num_awards_per_year": { "type": ["integer", "null"], "description": "年間採択件数" },
+          "total_budget_jpy": { "type": ["integer", "null"], "description": "年間助成総額(円)" },
+          "fiscal_year": { "type": ["integer", "null"] },
+          "target_field": { "type": ["string", "null"], "description": "対象分野(要旨)" }
+        },
+        "required": ["program_name", "amount_per_award_jpy", "amount_min_jpy", "amount_max_jpy", "num_awards_per_year", "total_budget_jpy", "fiscal_year", "target_field"]
+      }
+    },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "notes": { "type": "string" }
+  },
+  "required": ["foundation_name", "source_url", "programs", "confidence", "notes"]
+}
