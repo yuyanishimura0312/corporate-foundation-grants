@@ -23874,5 +23874,800 @@
    "notes": "公式サイトの「基本情報」掲載の役員名簿から収集。名簿の基準日・年度が明記されていないためfiscal_yearはnull。公式の助成FAQ（https://www.kakehashi-foundation.jp/activity/support/faq/）には、審査機関が理事・評議員から選ばれた数名と外部1名で構成される旨のみが記載され、個人名は非公表のためreviewerは収録していない。名誉顧問は指定された収集対象外。元会長・元取締役など過去の企業役職は現在の兼任と確認できないためis_corporate_exec=falseとした。"
   },
   "url_hint": "http://www.kakehashi-foundation.jp/activity/support/2019_require_grant"
+ },
+ "公益財団法人ふくい産業支援センター": {
+  "codex": {
+   "foundation_name": "公益財団法人ふくい産業支援センター",
+   "source_url": "https://www.fisc.jp/main/wp-content/uploads/2026/04/yakuin_20260401.pdf",
+   "fiscal_year": 2026,
+   "officers": [
+    {
+     "person_name": "白嵜 淳",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "公益財団法人ふくい産業支援センター",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐々木 智宏",
+     "role": "director",
+     "role_ja": "常務理事",
+     "affiliation": "公益財団法人ふくい産業支援センター",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山本 幸男",
+     "role": "director",
+     "role_ja": "常務理事",
+     "affiliation": "公益財団法人ふくい産業支援センター",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "岩崎 行玄",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井県立大学",
+     "title": "学長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "梅田 晃代",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井県商工会議所女性会連合会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "加藤 英樹",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井県中小企業団体中央会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "西行 茂",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井県市長会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐々木 英二",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "一般社団法人福井県眼鏡協会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "白﨑 誠一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井県商工会連合会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "杉本 博文",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井県町村会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "内木 宏延",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井大学",
+     "title": "学長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "中山 浩行",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井県鉄工業協同組合連合会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "長谷川 英一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "一般社団法人福井県銀行協会",
+     "title": "代表理事",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "馬場口 登",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井工業大学",
+     "title": "学長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "藤原 宏一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "一般社団法人福井県繊維協会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "三宅 晃司",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "北陸デジタルものづくりセンター",
+     "title": "所長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "八木 誠一郎",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "一般社団法人福井県商工会議所連合会",
+     "title": "会頭",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山本 厚",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "一般社団法人福井県建設業協会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "田中 睦",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "福井県産業労働部",
+     "title": "部長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "井田 洋",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "福井県信用保証協会",
+     "title": "専務理事",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "中村 直幸",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "福井市",
+     "title": "会計管理者",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "五十嵐 康三",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社五十嵐製紙",
+     "title": "代表取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社五十嵐製紙"
+    },
+    {
+     "person_name": "岡本 一夫",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "福井県信用金庫協会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "奥村 繁子",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社リヴル",
+     "title": "代表取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社リヴル"
+    },
+    {
+     "person_name": "河野 通郎",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "武生特殊鋼材株式会社",
+     "title": "代表取締役社長",
+     "is_corporate_exec": true,
+     "corporate_name": "武生特殊鋼材株式会社"
+    },
+    {
+     "person_name": "坂田 守正",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "デザイン文化科学研究所",
+     "title": "所長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "進藤 哲次",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "福井県IT産業団体連合会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "鈴木 洋平",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社商工組合中央金庫 福井支店",
+     "title": "支店長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "髙嶋 宏明",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "光生アルミニューム工業株式会社",
+     "title": "生産統括兼福井製作所所長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "徳本 達郎",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社ジャクエツ",
+     "title": "代表取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社ジャクエツ"
+    },
+    {
+     "person_name": "南部 隆保",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社南部酒造場",
+     "title": "代表取締役社長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社南部酒造場"
+    },
+    {
+     "person_name": "野尻 章博",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "野尻産業株式会社",
+     "title": "代表取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "野尻産業株式会社"
+    },
+    {
+     "person_name": "橋本 洋子",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "仁愛女子短期大学",
+     "title": "非常勤講師",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "花山 優",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "花山工業株式会社",
+     "title": "代表取締役社長",
+     "is_corporate_exec": true,
+     "corporate_name": "花山工業株式会社"
+    },
+    {
+     "person_name": "山本 岳由",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "大喜株式会社",
+     "title": "代表取締役社長",
+     "is_corporate_exec": true,
+     "corporate_name": "大喜株式会社"
+    },
+    {
+     "person_name": "吉田 幸市",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "福井県産業労働部",
+     "title": "副部長（経営改革）",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトと確認。理事・監事は公式名簿（令和8年4月1日現在）、評議員は公式名簿 https://www.fisc.jp/main/wp-content/uploads/2026/01/hyougiinn_20251001.pdf （令和7年10月1日現在）に基づく。公式サイトの助成・補助金ページでは審査委員会または選考委員会の設置は確認できたが、委員氏名を掲載した公式ページ・名簿は確認できなかったためreviewerは収録していない。企業の支店長・製作所長等は、名簿上で取締役等の企業役員であることを確認できないためis_corporate_exec=falseとした。"
+  },
+  "url_hint": "https://www.fisc.jp"
+ },
+ "公益財団法人お酒の科学財団": {
+  "codex": {
+   "foundation_name": "公益財団法人お酒の科学財団",
+   "source_url": "https://www.osake-kagaku.or.jp/about/pdf/yakuin_2025.pdf",
+   "fiscal_year": 2025,
+   "officers": [
+    {
+     "person_name": "鳥井 信吾",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "サントリーホールディングス株式会社",
+     "title": "副会長",
+     "is_corporate_exec": true,
+     "corporate_name": "サントリーホールディングス株式会社"
+    },
+    {
+     "person_name": "松澤 佑次",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "住友病院／大阪大学",
+     "title": "名誉院長・最高顧問／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "猪木 武徳",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "大阪大学／国際日本文化研究センター",
+     "title": "名誉教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "安井 正人",
+     "role": "chair",
+     "role_ja": "代表理事",
+     "affiliation": "慶応義塾大学医学部薬理学教室",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "松下 幸生",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "独立行政法人国立病院機構久里浜医療センター",
+     "title": "院長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "岡村 智教",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "慶応義塾大学医学部衛生学公衆衛生学教室",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "池嶋 健一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "順天堂大学大学院医学研究科消化器内科学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "青山 謙二郎",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "同志社大学心理学部",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "田中 慶司",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "公益社団法人アルコール健康医学協会",
+     "title": "理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "伊藤 洋",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "日本洋酒酒造組合",
+     "title": "顧問",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "岡 賀根雄",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "サントリーホールディングス株式会社",
+     "title": "専務取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "サントリーホールディングス株式会社"
+    },
+    {
+     "person_name": "中原 光一",
+     "role": "director",
+     "role_ja": "業務執行理事",
+     "affiliation": "サントリーホールディングス株式会社",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "石黒 訓",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "石黒公認会計士事務所",
+     "title": "代表",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "三浦 亮太",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "三浦法律事務所",
+     "title": "法人パートナー",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "廣中 直行",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員長",
+     "affiliation": "一般社団法人マーケティング共創協会",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "松下 幸生",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "独立行政法人国立病院機構久里浜医療センター",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "橋本 望",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "地方独立行政法人岡山県精神科医療センター",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "池嶋 健一",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "順天堂大学大学院医学研究科消化器内科学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "正宗 淳",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "東北大学大学院医学系研究科消化器病態学分野",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "岡村 智教",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "慶応義塾大学医学部衛生学公衆衛生学教室",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "松尾 恵太郎",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "愛知県がんセンター研究所がん予防研究分野",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "青山 謙二郎",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "同志社大学心理学部心理学科",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "横光 健吾",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "人間環境大学総合心理学部総合心理学科",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "岸本 泰士郎",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "慶應義塾大学医学部医科学研究連携推進センター",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "吉本 潤一郎",
+     "role": "reviewer",
+     "role_ja": "研究助成選考委員",
+     "affiliation": "藤田医科大学医学部医用データ科学講座",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトと確認。役員・評議員は公式の「2025年4月1日現在」名簿から収集。選考委員は公式の2026年4月1日現在の名簿（https://www.osake-kagaku.or.jp/grant/pdf/meibo_2026.pdf）から収集したため、選考委員のみ基準日が異なる。公式公開情報ページには2026年版役員名簿へのリンクも存在するが、本文を取得・検証できなかったため、確認できた2025年版を採用した。選考委員名簿に肩書の記載がないためtitleはnull。中原光一については企業所属のみで企業役職が明記されていないためis_corporate_exec=falseとした。"
+  },
+  "url_hint": "https://www.osake-kagaku.or.jp"
+ },
+ "公益財団法人ハーモニック伊藤財団": {
+  "codex": {
+   "foundation_name": "公益財団法人ハーモニック伊藤財団",
+   "source_url": "https://www.harmonicito-f.or.jp/about/outline/",
+   "fiscal_year": null,
+   "officers": [
+    {
+     "person_name": "松本 由香",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "神奈川県立近代美術館",
+     "title": "学芸員",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "太田 美保",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社M-CUBE",
+     "title": "代表取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社M-CUBE"
+    },
+    {
+     "person_name": "中村 仁威",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "外務省",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "大島 光一",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "行政書士 あすみ事務所",
+     "title": "代表",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "丹羽 哲也",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "鍋屋バイテック会社",
+     "title": "専務取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "鍋屋バイテック会社"
+    },
+    {
+     "person_name": "森 美樹",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社foresterra",
+     "title": "代表取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社foresterra"
+    },
+    {
+     "person_name": "日野 有裕",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "太陽グラントソントン税理士法人",
+     "title": "パートナー 税理士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。公式「財団概要」の役員一覧（2026年2月27日現在）から収集した。選考委員会の存在と選考実施は公式サイトで確認できたが、選考委員の氏名一覧は確認できなかったため、reviewerは収録していない。役員一覧は年度表記ではなく基準日表記のためfiscal_yearはnull。"
+  },
+  "url_hint": "https://www.harmonicito-f.or.jp"
+ },
+ "公益財団法人フジクラ財団": {
+  "codex": {
+   "foundation_name": "公益財団法人フジクラ財団",
+   "source_url": "https://fujikura-foundation.or.jp/yakuin.html",
+   "fiscal_year": 2026,
+   "officers": [
+    {
+     "person_name": "山口 正恆",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "千葉大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "國分 泰雄",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "横浜国立大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "小柴 正則",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "北海道大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "栗原 進",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "藤倉化成株式会社",
+     "title": "代表取締役社長",
+     "is_corporate_exec": true,
+     "corporate_name": "藤倉化成株式会社"
+    },
+    {
+     "person_name": "森田 健司",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "藤倉コンポジット株式会社",
+     "title": "代表取締役社長",
+     "is_corporate_exec": true,
+     "corporate_name": "藤倉コンポジット株式会社"
+    },
+    {
+     "person_name": "岡田 直樹",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社フジクラ",
+     "title": "代表取締役社長CEO",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社フジクラ"
+    },
+    {
+     "person_name": "松尾 昌一郎",
+     "role": "chair",
+     "role_ja": "理事長（代表理事）",
+     "affiliation": "株式会社フジクラ",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "愛川 和彦",
+     "role": "director",
+     "role_ja": "常務理事",
+     "affiliation": "株式会社フジクラ",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "加島 宜雄",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "芝浦工業大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "石井 六哉",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "横浜国立大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "稲田 浩一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": null,
+     "title": "工学博士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "松島 裕一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "早稲田大学 次世代コンピューティング基盤研究所",
+     "title": "顧問",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "前田 讓治",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東京理科大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "町田 正人",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "株式会社フジクラ",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "志波 英男",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "沖電線株式会社",
+     "title": "社外監査役",
+     "is_corporate_exec": true,
+     "corporate_name": "沖電線株式会社"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。公式役員名簿は2026年度版。公式定款では3名以上で構成する審査委員会の設置が確認でき、2026年度研究助成募集要項にも同委員会が審査を行う旨が記載されているが、公式サイト内で委員氏名の公開は確認できなかったためreviewerは収録していない。株式会社フジクラへの所属だけが記載され、同社での役職が示されていない人物は、企業役員との兼任を確認できないためis_corporate_exec=falseとした。"
+  },
+  "url_hint": "https://fujikura-foundation.or.jp"
  }
 }
