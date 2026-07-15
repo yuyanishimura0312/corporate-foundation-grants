@@ -1,0 +1,3046 @@
+{
+ "公益財団法人持田記念医学薬学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人持田記念医学薬学振興財団",
+   "source_url": "https://www.mochidazaidan.or.jp/pdf/2026kenkyu_boshu.pdf?20260122=",
+   "programs": [
+    {
+     "program_name": "研究助成金",
+     "amount_per_award_jpy": 3000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 100,
+     "total_budget_jpy": 300000000,
+     "fiscal_year": 2026,
+     "target_field": "バイオ技術を基盤とする先端医療、ゲノム機能・病態解析、免疫・アレルギー・炎症・感染症、循環器・血液疾患、創薬・創剤の基盤、創薬とその臨床応用に関する研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトは https://www.mochidazaidan.or.jp/ 。参考URLの terumozaidan.or.jp は対象財団の公式サイトではありません。2026年度の公式募集要項には、研究助成金について「総額3億円、1件300万円、助成件数100件」と明記されています。"
+  },
+  "url_hint": "https://www.terumozaidan.or.jp"
+ },
+ "トヨタ財団": {
+  "codex": {
+   "foundation_name": "公益財団法人トヨタ財団",
+   "source_url": "https://www.toyotafound.or.jp/grant/research/",
+   "programs": [
+    {
+     "program_name": "2026年度研究助成プログラム「つながりがデザインする未来の社会システム」",
+     "amount_per_award_jpy": 8000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 8000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 60000000,
+     "fiscal_year": 2026,
+     "target_field": "人と人、人と自然、人とモノ・技術などの「つながり」を意識して社会課題に取り組み、社会システムの変革を目指す共同研究。分野・領域は限定しない。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトで、助成総額6,000万円、1件あたり上限800万円、助成期間2年間と確認。年間採択件数は助成概要に明記されていないためnull。amount_per_award_jpyには定額ではなく1件あたり上限額を収録し、amount_max_jpyにも同額を設定した。参考URLはトヨタ財団の公式サイトだが、2019年度の国際助成プログラムであり、研究助成プログラムの金額出典には使用していない。"
+  },
+  "url_hint": "https://www.toyotafound.or.jp/international/2019"
+ },
+ "長瀬科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 長瀬科学技術振興財団",
+   "source_url": "https://www.nagase-f.or.jp/wp-content/uploads/2025/07/2026_boshuyoukou.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成金",
+     "amount_per_award_jpy": 3000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 25,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "有機化学（材料化学を含む）および生化学、ならびに関連分野。医療研究、臨床研究、純然たる治療法の開発は対象外。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度公式募集要綱には「1件300万円、25件程度」と明記され、2026年4月1日の公式採択発表では生化学15件・有機化学10件、計25件と確認できる。年間助成総額は公式募集要綱に明記されていないためnull（単価×件数による推計はしていない）。確認日: 2026-07-16。"
+  },
+  "url_hint": "https://www.nagase-f.or.jp"
+ },
+ "日本生化学会": {
+  "codex": {
+   "foundation_name": "公益社団法人 日本生化学会",
+   "source_url": "https://www.jbsoc.or.jp/2026_kakiuchi_grant",
+   "programs": [
+    {
+     "program_name": "第23回 柿内三郎記念奨励研究賞",
+     "amount_per_award_jpy": 500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 2,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "生化学分野における、独立した独創的な個人研究"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "参考URLは公益社団法人日本生化学会の公式サイトであることを確認。募集要項には1件50万円、表彰件数は原則2件までと明記されているため、採択件数は2として収録した。年間総額は明記されていないためnull。なお、本制度の募集・選考窓口は日本生化学会だが、募集主体・助成金提供者は公益財団法人倶進会であり、倶進会理事会が承認する。日本生化学会奨励賞などの顕彰賞、他機関の助成、および研究費そのものではない海外渡航助成は除外した。"
+  },
+  "url_hint": "https://www.jbsoc.or.jp"
+ },
+ "日本薬学会": {
+  "codex": {
+   "foundation_name": "日本薬学会",
+   "source_url": "https://www.pharm.or.jp/images/NKS_boshuyoukou2027.pdf",
+   "programs": [
+    {
+     "program_name": "日本薬学会長井記念薬学研究奨励金（長井記念薬学研究奨励支援事業）",
+     "amount_per_award_jpy": 50000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 25,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "博士の学位を有する薬剤師・薬学研究者を目指す大学院生または大学院進学予定者。薬学研究の発展に寄与する研究者の育成。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益社団法人日本薬学会の公式サイトであることを確認。公式の2027年度採用分募集要項には、貸与予定額が「月額50,000円」、採用予定者数が「合計25名程度」、採用期間が原則3年間と明記されている。amount_per_award_jpyには年額へ換算せず、公式記載どおり月額50,000円を収録した。総額は明記されていないためnull。これは返還免除制度を伴う貸与型の研究奨励金であり、通常の給付型研究助成とは性質が異なる。"
+  },
+  "url_hint": "https://www.pharm.or.jp"
+ },
+ "萩原学術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 萩原学術振興財団",
+   "source_url": "https://hagiwara-foundation.or.jp/subsidy/application/grant2025.html",
+   "programs": [
+    {
+     "program_name": "2025年度 第6回研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 1000000,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": 11,
+     "total_budget_jpy": 33000000,
+     "fiscal_year": 2025,
+     "target_field": "活力ある社会の実現を目的とする科学技術研究（組込みシステム、AI技術、画像技術、およびこれらに関連する技術）"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトを確認。参考URLは同財団の公式サイトで、canonical URLは https://hagiwara-foundation.or.jp/ 。募集要綱には1件100万～300万円、総額3,300万円程度、予定件数11～13件程度と記載。num_awards_per_yearは公式の助成対象者一覧（https://hagiwara-foundation.or.jp/subsidy/object/2025.html）で公表された実採択数11件を採用。定額ではないためamount_per_award_jpyはnull。取得・確認日: 2026-07-16。"
+  },
+  "url_hint": "https://www.hagiwara-foundation.or.jp"
+ },
+ "化学及血清療法研究所": {
+  "codex": {
+   "foundation_name": "一般財団法人化学及血清療法研究所",
+   "source_url": "https://www.kaketsuken.org/josei.html",
+   "programs": [
+    {
+     "program_name": "化血研研究助成",
+     "amount_per_award_jpy": 15000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "感染症領域（人獣含む）及び血液領域を対象とした研究"
+    },
+    {
+     "program_name": "化血研若手研究奨励助成",
+     "amount_per_award_jpy": 3000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 20,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "感染症領域（人獣含む）及び血液領域を対象とした、次世代の研究者育成に資する若手研究者の研究"
+    },
+    {
+     "program_name": "化血研ステップアップ研究助成",
+     "amount_per_award_jpy": 6000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 8,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "感染症領域（人獣含む）及び血液領域を対象とした、若手研究者の研究をさらにステップアップするための研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。公式研究助成ページの2026年度情報を採用した。助成期間は、化血研研究助成が500万円×3年間、若手研究奨励助成が2年間で300万円、ステップアップ研究助成が300万円×2年間。total_budget_jpyは金額と予定件数から計算せず、公式ページに総額の明記がないためnullとした。"
+  },
+  "url_hint": "https://www.kaketsuken.org"
+ },
+ "SOMPO福祉財団（旧：損保ジャパン日本興亜福祉財団）": {
+  "codex": {
+   "foundation_name": "公益財団法人SOMPO福祉財団（旧：損保ジャパン日本興亜福祉財団）",
+   "source_url": "https://www.sompo-wf.org/jyosei/gerontology.html",
+   "programs": [
+    {
+     "program_name": "ジェロントロジー研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 8000000,
+     "fiscal_year": 2026,
+     "target_field": "ジェロントロジー（老年学）に関する社会科学・人文科学分野の独創的・先進的な研究。対象分野は社会学、社会福祉学、および社会科学・人文科学に関連する心理学、看護学、保健学。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公式サイトであることを確認。公式の2026年度募集要項には「1研究につき50万円を上限」「総額800万円を予定」と明記されている。定額ではないためamount_per_award_jpyはnullとし、上限をamount_max_jpyに記録した。年間採択件数と助成額の下限は明記されていないためnull。公式サイトは2020年4月1日にSOMPO福祉財団へ名称変更した旨も掲載している。"
+  },
+  "url_hint": "https://www.sompo-wf.org"
+ },
+ "公益財団法人稲盛財団": {
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/research_grants/",
+   "programs": [
+    {
+     "program_name": "稲盛研究助成 はぐくむ",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 50,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "自然科学分野（理工系・生物系）および人文・社会科学分野（人社系）"
+    },
+    {
+     "program_name": "稲盛研究助成 たかめる",
+     "amount_per_award_jpy": 10000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "自然科学分野（理工系・生物系）および人文・社会科学分野（人社系）"
+    },
+    {
+     "program_name": "稲盛科学研究機構（InaRIS）フェローシップ",
+     "amount_per_award_jpy": 100000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 2,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "基礎科学。2027年度の募集対象は「つながりの生物学」"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人稲盛財団の公式サイトであることを確認。金額・件数は公式研究助成概要の2027年度情報に基づく。「はぐくむ」は1件200万円・毎年50件、「たかめる」は1件1,000万円・毎年10件。InaRISは1人につき毎年1,000万円を10年間、総額1億円で、採択人数は2名。total_budget_jpyは各プログラムの年間助成総額として明記されていないため、掛け算による推測をせずnullとした。"
+  },
+  "url_hint": "https://www.inamori-f.or.jp"
+ },
+ "日本化学会": {
+  "codex": {
+   "foundation_name": "日本化学会",
+   "source_url": null,
+   "programs": [],
+   "confidence": "high",
+   "notes": "参考URL（https://www.chemistry.or.jp）は公益社団法人日本化学会の公式サイトであることを確認した。公式サイト内を「研究助成」「助成金額」「研究助成事業」等で調査したが、日本化学会自身が募集・交付する研究助成プログラムについて、助成金額を明記した公式募集要項・助成概要は確認できなかった。掲載されている助成情報は主に他機関が交付する賞・助成金の推薦募集または掲示情報であり、日本化学会の助成プログラムとしては収録しない。調査日: 2026-07-16。"
+  },
+  "url_hint": "https://www.chemistry.or.jp"
+ },
+ "公益財団法人三菱ＵＦＪ信託奨学財団": {
+  "codex": {
+   "foundation_name": "公益財団法人三菱ＵＦＪ信託奨学財団",
+   "source_url": "https://www.scholarship.or.jp/newgrant/",
+   "programs": [
+    {
+     "program_name": "研究助成事業",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "信託に関連した業務および法律に関する研究、ならびに金融に関する調査・研究。法律・経済・経営・商学の専門家を核とした研究グループが対象。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトは https://www.scholarship.or.jp/ であり、参考URLの otsukafoundation.org は対象財団の公式サイトではない。公式ページでは2026年度の上限を1グループ1年間あたり300万円、助成件数を1～3件と明記。件数は範囲表記で単一整数に確定できないため num_awards_per_year はnullとした。定額ではなく、応募内容等に応じて減額されるため amount_per_award_jpy と下限はnull。年間助成総額は明記されていない。"
+  },
+  "url_hint": "https://www.otsukafoundation.org"
+ },
+ "公益財団法人船井情報科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人船井情報科学振興財団",
+   "source_url": null,
+   "programs": [],
+   "confidence": "high",
+   "notes": "正しい公式サイトは https://funaifoundation.jp/ 。参考URL（https://www.marubeni.or.jp）は対象財団の公式サイトではない。公式サイトの事業・定款を確認したところ、実施事業は研究者への「褒賞」と海外留学生への「奨学金」であり、「研究助成」プログラムは確認できなかったため、programsは空とした。船井学術賞・船井研究奨励賞は公式に「褒賞事業」とされているため、研究助成には含めていない。"
+  },
+  "url_hint": "https://www.marubeni.or.jp"
+ },
+ "公益財団法人石橋財団": {
+  "codex": {
+   "foundation_name": "公益財団法人牧誠財団",
+   "source_url": "https://melco-foundation.jp/wp/wp-content/uploads/application_requirements20261.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成A（研究者・博士後期課程大学院生）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 300000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": 20,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "日本企業の優れた管理会計実務の定式化・理論化および周辺領域。特に管理会計技法、管理会計システム、事業承継システムと関連する管理システム。"
+    },
+    {
+     "program_name": "研究助成B（博士後期課程大学院生）",
+     "amount_per_award_jpy": 600000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "日本企業の優れた管理会計実務の定式化・理論化および周辺領域。博士後期課程大学院生が単独で行う独創的・先駆的研究。"
+    },
+    {
+     "program_name": "挑戦的萌芽研究助成（研究者・博士後期課程大学院生）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 300000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "対象分野において学術体系や方向の大きな変革・転換を志向し、飛躍的発展の潜在性を持つ探索的または芽生え期の研究。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは牧誠財団の公式サイトであることを確認。2026年度第一次募集要項による。研究助成Bの60万円は年額で、3年間毎年授与（総額換算180万円）。Aは20件程度。Bと挑戦的萌芽研究助成は「若干名」のため採択件数をnullとした。3プログラムを合わせた助成総額は2,680万円程度と明記されているが、プログラム別配分はないため各total_budget_jpyはnull。取得日: 2026-07-16。"
+  },
+  "url_hint": "http://www.ishibashi-foundation.or.jp"
+ },
+ "牧誠財団": {
+  "codex": {
+   "foundation_name": "公益財団法人牧誠財団",
+   "source_url": "https://melco-foundation.jp/wp/wp-content/uploads/application_requirements20261.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成A（研究者・博士後期課程大学院生）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 300000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": 20,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "日本企業の優れた管理会計実務の定式化・理論化および周辺領域。特に管理会計技法、管理会計システム、事業承継システムと関連する管理システム。"
+    },
+    {
+     "program_name": "研究助成B（博士後期課程大学院生）",
+     "amount_per_award_jpy": 600000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "日本企業の優れた管理会計実務の定式化・理論化および周辺領域。博士後期課程大学院生が単独で行う独創的・先駆的研究。"
+    },
+    {
+     "program_name": "挑戦的萌芽研究助成（研究者・博士後期課程大学院生）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 300000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "対象分野において学術体系や方向の大きな変革・転換を志向し、飛躍的発展の潜在性を持つ探索的または芽生え期の研究。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは牧誠財団の公式サイトであることを確認。2026年度第一次募集要項による。研究助成Bの60万円は年額で、3年間毎年授与（総額換算180万円）。Aは20件程度。Bと挑戦的萌芽研究助成は「若干名」のため採択件数をnullとした。3プログラムを合わせた助成総額は2,680万円程度と明記されているが、プログラム別配分はないため各total_budget_jpyはnull。取得日: 2026-07-16。"
+  },
+  "url_hint": "https://melco-foundation.jp"
+ },
+ "住友生命健康財団": {
+  "codex": {
+   "foundation_name": "公益財団法人サントリー文化財団",
+   "source_url": "https://www.suntory.co.jp/sfnd/research/",
+   "programs": [
+    {
+     "program_name": "研究助成「学問の未来を拓く」",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": 30,
+     "total_budget_jpy": 30000000,
+     "fiscal_year": 2026,
+     "target_field": "人文学・社会科学分野において、従来の研究や学問を問い直す、個人研究では実施できないグループ研究"
+    },
+    {
+     "program_name": "若手研究者のためのチャレンジ研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 15,
+     "total_budget_jpy": 14730000,
+     "fiscal_year": 2025,
+     "target_field": "原則として博士前期（修士）課程修了以上、35歳以下の若手研究者による人文学・社会科学分野の個人研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。現在公募・実施されている研究助成2プログラムを収録。「学問の未来を拓く」の採択予定件数・総額は2026年度公式募集概要（https://www.suntory.co.jp/news/article/2026/mt_items/14989.pdf）に基づく。「若手研究者のためのチャレンジ研究助成」の採択件数・総額は2025年度公式決定発表（https://www.suntory.co.jp/news/article/2026/15030.html）に基づく。金額が範囲または上限のみのため、amount_per_award_jpyは推測せずnullとした。非公募の鳥井フェローシップおよびサントリーフェローシップは公式ページに助成金額の記載がないため収録していない。"
+  },
+  "url_hint": "https://skzaidan.or.jp"
+ },
+ "市村清新技術財団": {
+  "codex": {
+   "foundation_name": "公益財団法人日本教育公務員弘済会",
+   "source_url": "https://www.nikkyoko.or.jp/business/education.html",
+   "programs": [
+    {
+     "program_name": "日教弘本部奨励金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "全国規模で行われ、初等中等教育および幼児教育の向上発展に寄与する有益な研究・活動"
+    },
+    {
+     "program_name": "教育研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10700,
+     "total_budget_jpy": 769000000,
+     "fiscal_year": 2026,
+     "target_field": "教職員・学校・教育団体による教育実践研究・活動"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。日教弘本部奨励金は令和8年度に募集し、令和9年度（2027年度）に実施する研究・活動への助成で、公式募集要項に「1件あたり100万円以内」と明記されているため上限のみ収録した。採択予定件数・総額は募集要項に記載がないためnull。教育研究助成の件数と総額は、同財団公式の令和8年度事業計画書（https://www.nikkyoko.or.jp/images/campany/file/dl_04.pdf）記載の予算額769百万円・募集予定10,700件程度に基づく。いずれも予定値を含む。"
+  },
+  "url_hint": "https://www.sgkz.or.jp/prize/science"
+ },
+ "公益財団法人サントリー文化財団": {
+  "codex": {
+   "foundation_name": "公益財団法人サントリー文化財団",
+   "source_url": "https://www.suntory.co.jp/sfnd/research/",
+   "programs": [
+    {
+     "program_name": "研究助成「学問の未来を拓く」",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": 30,
+     "total_budget_jpy": 30000000,
+     "fiscal_year": 2026,
+     "target_field": "人文学・社会科学分野において、従来の研究や学問を問い直す、個人研究では実施できないグループ研究"
+    },
+    {
+     "program_name": "若手研究者のためのチャレンジ研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 15,
+     "total_budget_jpy": 14730000,
+     "fiscal_year": 2025,
+     "target_field": "原則として博士前期（修士）課程修了以上、35歳以下の若手研究者による人文学・社会科学分野の個人研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。現在公募・実施されている研究助成2プログラムを収録。「学問の未来を拓く」の採択予定件数・総額は2026年度公式募集概要（https://www.suntory.co.jp/news/article/2026/mt_items/14989.pdf）に基づく。「若手研究者のためのチャレンジ研究助成」の採択件数・総額は2025年度公式決定発表（https://www.suntory.co.jp/news/article/2026/15030.html）に基づく。金額が範囲または上限のみのため、amount_per_award_jpyは推測せずnullとした。非公募の鳥井フェローシップおよびサントリーフェローシップは公式ページに助成金額の記載がないため収録していない。"
+  },
+  "url_hint": "https://www.suntory.co.jp/sfnd"
+ },
+ "公益財団法人日本教育公務員弘済会": {
+  "codex": {
+   "foundation_name": "公益財団法人日本教育公務員弘済会",
+   "source_url": "https://www.nikkyoko.or.jp/business/education.html",
+   "programs": [
+    {
+     "program_name": "日教弘本部奨励金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "全国規模で行われ、初等中等教育および幼児教育の向上発展に寄与する有益な研究・活動"
+    },
+    {
+     "program_name": "教育研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10700,
+     "total_budget_jpy": 769000000,
+     "fiscal_year": 2026,
+     "target_field": "教職員・学校・教育団体による教育実践研究・活動"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。日教弘本部奨励金は令和8年度に募集し、令和9年度（2027年度）に実施する研究・活動への助成で、公式募集要項に「1件あたり100万円以内」と明記されているため上限のみ収録した。採択予定件数・総額は募集要項に記載がないためnull。教育研究助成の件数と総額は、同財団公式の令和8年度事業計画書（https://www.nikkyoko.or.jp/images/campany/file/dl_04.pdf）記載の予算額769百万円・募集予定10,700件程度に基づく。いずれも予定値を含む。"
+  },
+  "url_hint": "https://www.nikkyoko.or.jp/business/education.html#menu-title08"
+ },
+ "公益財団法人SGH財団": {
+  "codex": {
+   "foundation_name": "公益財団法人SGH財団",
+   "source_url": "https://form.sgh-foundation.or.jp/ap_cancer/",
+   "programs": [
+    {
+     "program_name": "第38回（2026年度）SGHがん研究助成",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 25,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "がんの基礎研究または臨床研究。若手研究者の育成を目的とする。"
+    },
+    {
+     "program_name": "第8回（2026年度）SGHがん看護研究助成（研究部門・実践部門）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": 12,
+     "total_budget_jpy": 6000000,
+     "fiscal_year": 2026,
+     "target_field": "がん看護に関する研究、および臨床現場での新たな取り組み・研究実践開発。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人SGH財団の公式サイトであることを確認。がん研究助成は公式応募要項に「1件200万円（25件）」と明記。2026年度の総額は応募要項に明記されていないためnull。がん看護研究助成は公式応募要項（https://form.sgh-foundation.or.jp/wp/wp-content/uploads/2026/03/nassistance2026_youkou.pdf）に「1件50万円以内・12件程度（総額600万円）」と明記されているため、定額ではなく上限額として記録。件数は「程度」だが公式記載値を収録した。SGH特別賞・SGH看護特別賞は研究助成ではなく顕彰・賞金のため除外した。"
+  },
+  "url_hint": "https://www.sgh-foundation.or.jp"
+ },
+ "アステラス病態代謝研究会": {
+  "codex": {
+   "foundation_name": "公益財団法人アステラス病態代謝研究会",
+   "source_url": "https://www.astellas-foundation.or.jp/assist/gist.html",
+   "programs": [
+    {
+     "program_name": "研究助成金",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 80,
+     "total_budget_jpy": 160000000,
+     "fiscal_year": 2026,
+     "target_field": "疾患の解明と画期的治療法の開発に資する研究。基礎生命科学、創薬科学・医薬資源、疾患の基礎研究、人を対象とする生命科学・医学系研究など。研究領域は特に限定しない。"
+    },
+    {
+     "program_name": "ステップアップ研究助成",
+     "amount_per_award_jpy": 4000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 10000000,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": 40000000,
+     "fiscal_year": 2026,
+     "target_field": "過去に本財団から受けた研究助成の成果を基盤として発展・深化させる研究。共同研究や異分野融合型共同研究を含む。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人持田記念医学薬学振興財団のページであり、対象財団の公式サイトではない。対象財団の公式サイトは https://www.astellas-foundation.or.jp/ 。研究助成金は公式応募要領に「1件当たり200万円を80件、総額1億6,000万円」と明記。ステップアップ研究助成は公式応募要領 https://www.astellas-foundation.or.jp/assist/stepup.html に「標準400万円（最大1,000万円）、最大10件、総額4,000万円」と明記されているため、num_awards_per_yearには上限件数10を収録した。"
+  },
+  "url_hint": "https://www.mochidazaidan.or.jp/kenkyu.html"
+ },
+ "りそなアジア・オセアニア財団": {
+  "codex": {
+   "foundation_name": "公益財団法人りそなアジア・オセアニア財団",
+   "source_url": "https://www.resona-ao.or.jp/project/promotion/pdf/josei2027.pdf",
+   "programs": [
+    {
+     "program_name": "調査研究助成（個人研究）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "アジア・オセアニア諸国・地域に関する社会、文化、歴史、政治、経済等の人文・社会科学分野の調査・研究活動"
+    },
+    {
+     "program_name": "調査研究助成（共同研究）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "アジア・オセアニア諸国・地域に関する社会、文化、歴史、政治、経済等の人文・社会科学分野の調査・研究活動"
+    },
+    {
+     "program_name": "国際学術交流助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "アジア・オセアニア諸国・地域に関する社会、文化、歴史、政治、経済等の国際会議・シンポジウムの開催"
+    },
+    {
+     "program_name": "出版助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 1200000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "アジア・オセアニア諸国・地域に関する社会、文化、歴史、政治、経済等の調査研究成果に係る出版物の刊行"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。金額はいずれも1年間に対する額。2027年度の採択数は、調査研究助成が予算範囲内、国際学術交流助成が過去3年と同程度、出版助成が申込件数・内容に応じて決定（上限5件）とされ、確定した年間採択件数ではないためnull。年間助成総額も2027年度募集要項に明記されていないためnull。"
+  },
+  "url_hint": "https://www.resona-ao.or.jp"
+ },
+ "公益財団法人わかやま産業振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人わかやま産業振興財団",
+   "source_url": "https://yarukiouendan.or.jp/news/r7_kennkyuukai/",
+   "programs": [
+    {
+     "program_name": "令和7年度専門技術研究会補助金事業",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 200000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2025,
+     "target_field": "県内の様々な産業分野における専門技術・専門知識の普及および情報交換を行う研究会"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイト。公式公募ページには、1研究会につき補助対象経費の3分の2以内、上限20万円と明記されている。年間採択件数、年間助成総額、下限額は確認できないためnull。Go-Techは経済産業省の事業で当財団は事業管理機関、ファンド事業は商品・サービス等の開発支援であるため、財団固有の研究会助成とは区別して収録対象外とした。"
+  },
+  "url_hint": "https://www.yarukiouendan.or.jp"
+ },
+ "太陽生命厚生財団": {
+  "codex": {
+   "foundation_name": "公益財団法人太陽生命厚生財団",
+   "source_url": "https://www.taiyolife-zaidan.or.jp/promotion_recruitment/research/",
+   "programs": [
+    {
+     "program_name": "調査研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 300000,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 3000000,
+     "fiscal_year": 2026,
+     "target_field": "健康寿命の延伸などの社会的課題の解決に向けた、高齢者保健・医療、生活習慣病に関する研究または高齢者福祉に関する調査・研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の2026年度調査研究助成応募要項に「1件30万円～50万円、合計300万円」と明記されている。年間採択件数は応募要項に明記されていないためnull。幅のある助成額について代表額は設定せず、下限・上限のみ収録した。確認日: 2026-07-16。"
+  },
+  "url_hint": "http://www.taiyolife-zaidan.or.jp"
+ },
+ "公益財団法人キヤノン財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 金原一郎記念医学医療振興財団",
+   "source_url": "https://www.kanehara-zaidan.or.jp/boshuyoko",
+   "programs": [
+    {
+     "program_name": "第41回基礎医学医療研究助成金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 100000,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 30000000,
+     "fiscal_year": 2026,
+     "target_field": "基礎医学研究プロジェクトに必要な資材、機材、書籍、人材確保および研究成果発表の費用"
+    },
+    {
+     "program_name": "第10回生体の科学賞",
+     "amount_per_award_jpy": 5000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 1,
+     "total_budget_jpy": 5000000,
+     "fiscal_year": 2025,
+     "target_field": "基礎医学医療研究領域における独自性と発展性のある研究テーマ"
+    },
+    {
+     "program_name": "第40回研究交流助成金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 3000000,
+     "fiscal_year": 2025,
+     "target_field": "海外で行われる基礎医学医療研究関連の学会、研究会、セミナー等で発表する研究者の渡航・滞在・参加費等"
+    },
+    {
+     "program_name": "第40回留学生受入助成金",
+     "amount_per_award_jpy": 1200000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 6000000,
+     "fiscal_year": 2025,
+     "target_field": "基礎医学医療研究を目的として海外から日本の研究施設へ留学する大学院生、研究員またはpostdoctoral fellowshipの研究費・生活費"
+    },
+    {
+     "program_name": "第39回研究出版助成金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 300000,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2025,
+     "target_field": "基礎医学医療研究成果の公表を目的とする自費出版"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度上期および公式ページ上で最新の2025年度下期募集要項を採用した。採択件数は公式募集要項に明記された場合のみ記録し、予算額からの割り算による推定は行っていない。生体の科学賞は公式要項の「1件500万円・予算500万円」に加え、公式英語版が各募集期間で最適な1件に交付すると明記しているため年間1件とした。"
+  },
+  "url_hint": "https://www.nomurafoundation.or.jp"
+ },
+ "金原一郎記念医学医療振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 金原一郎記念医学医療振興財団",
+   "source_url": "https://www.kanehara-zaidan.or.jp/boshuyoko",
+   "programs": [
+    {
+     "program_name": "第41回基礎医学医療研究助成金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 100000,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 30000000,
+     "fiscal_year": 2026,
+     "target_field": "基礎医学研究プロジェクトに必要な資材、機材、書籍、人材確保および研究成果発表の費用"
+    },
+    {
+     "program_name": "第10回生体の科学賞",
+     "amount_per_award_jpy": 5000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 1,
+     "total_budget_jpy": 5000000,
+     "fiscal_year": 2025,
+     "target_field": "基礎医学医療研究領域における独自性と発展性のある研究テーマ"
+    },
+    {
+     "program_name": "第40回研究交流助成金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 3000000,
+     "fiscal_year": 2025,
+     "target_field": "海外で行われる基礎医学医療研究関連の学会、研究会、セミナー等で発表する研究者の渡航・滞在・参加費等"
+    },
+    {
+     "program_name": "第40回留学生受入助成金",
+     "amount_per_award_jpy": 1200000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 6000000,
+     "fiscal_year": 2025,
+     "target_field": "基礎医学医療研究を目的として海外から日本の研究施設へ留学する大学院生、研究員またはpostdoctoral fellowshipの研究費・生活費"
+    },
+    {
+     "program_name": "第39回研究出版助成金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 300000,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2025,
+     "target_field": "基礎医学医療研究成果の公表を目的とする自費出版"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度上期および公式ページ上で最新の2025年度下期募集要項を採用した。採択件数は公式募集要項に明記された場合のみ記録し、予算額からの割り算による推定は行っていない。生体の科学賞は公式要項の「1件500万円・予算500万円」に加え、公式英語版が各募集期間で最適な1件に交付すると明記しているため年間1件とした。"
+  },
+  "url_hint": "http://www.kanehara-zaidan.or.jp"
+ },
+ "日本数学会": {
+  "codex": {
+   "foundation_name": "一般社団法人日本数学会",
+   "source_url": "https://www.mathsoc.jp/assets/file/publications/tushin/3003/kaiho303-zaigai-fellowship-app.pdf",
+   "programs": [
+    {
+     "program_name": "日本数学会在外研究奨励フェロー",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 4,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "日本数学会会員の若手研究者による国外での研究、または国外機関所属研究者との共同研究"
+    },
+    {
+     "program_name": "加藤敏夫フェロー",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 6000000,
+     "num_awards_per_year": 1,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "東南アジア在住の若手数学研究者による日本の大学・研究所での研究滞在"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは日本数学会の公式サイトであることを確認。2026年度の在外研究奨励フェローは年額100万円、支給期間2年間、採用人数は年間4人程度。加藤敏夫フェローは600万円を限度とし、採択人数は1人。加藤敏夫フェローの公式募集要項URL: https://www.mathsoc.jp/assets/file/publicity/news20250623/guidline-j2026.pdf 。総額は公式資料に明記がないためnull。"
+  },
+  "url_hint": "https://mathsoc.jp"
+ },
+ "公益財団法人とくしま産業振興機構": {
+  "codex": {
+   "foundation_name": "公益財団法人とくしま産業振興機構",
+   "source_url": "https://www.our-think.or.jp/327914/",
+   "programs": [
+    {
+     "program_name": "「LED×藍」産業応援ファンド 新商品・技術開発支援事業",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "LEDまたは藍の活用、あるいは農林水産業の振興に資する新商品開発・技術開発（次世代LEDを活用する開発を含む）"
+    },
+    {
+     "program_name": "とくしま経済飛躍ファンド（地域資源産業応援枠）新商品・技術開発支援事業",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "地域資源または未来技術（IoT、ビッグデータ、AI、ロボット等）を活用した新商品開発・技術開発"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URL https://www.our-think.or.jp は対象法人の公式サイトであることを、公式サイトの法人名・所在地・法人番号表示および募集要項で確認。令和8年度第1回の公式募集ページと各募集要項に基づく。両プログラムとも助成率は4分の3以内、助成額は1件50万円～500万円。定額ではないためamount_per_award_jpyはnullとした。年間採択件数と年間助成総額は募集要項に明記されていないためnull。販路開拓、人づくり、にぎわいづくり等は研究・技術開発助成ではないため除外した。"
+  },
+  "url_hint": "https://www.our-think.or.jp"
+ },
+ "中外創薬科学財団（旧：東京生化学研究会）": {
+  "codex": {
+   "foundation_name": "公益財団法人 中外創薬科学財団（旧：東京生化学研究会）",
+   "source_url": "https://c-finds.com/business/grant/research/",
+   "programs": [
+    {
+     "program_name": "研究助成金Ⅰ",
+     "amount_per_award_jpy": 5000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 15,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "化学・物理学を基盤とした創薬・創薬関連研究、生物学・基礎医学を基盤とした基礎・応用研究、臨床医学を基盤とした研究、がんに関する基礎・応用研究"
+    },
+    {
+     "program_name": "研究助成金Ⅱ",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 24,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "化学・物理学を基盤とした創薬・創薬関連研究、生物学・基礎医学を基盤とした基礎・応用研究、臨床医学を基盤とした研究、がんに関する基礎・応用研究"
+    },
+    {
+     "program_name": "特別研究助成金 SRG2023",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 4,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "創薬並びに生命科学に関する基礎・応用研究における独創的かつ先進的な研究テーマ（45歳以下の女性研究者等が対象）"
+    },
+    {
+     "program_name": "特別研究助成金 SRG2022",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 7,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "創薬並びに生命科学に関する基礎・応用研究。独立して新たに研究室を立ち上げた、または立ち上げ予定の研究者が対象で、研究テーマは問わない"
+    },
+    {
+     "program_name": "国際交流研究助成金（受入研究者向け研究助成金）",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 4,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "日本国内の受入研究者と日本国外の若手研究者による、創薬並びに生命科学に関する国際交流研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLの c-finds.com は当該財団の公式サイトと確認できた。採択件数は公式記載の「程度」を整数化した値。研究助成金Ⅰは総額500万円を初年度250万円・次年度250万円に分けて交付。国際交流研究助成金の150万円は受入研究者に対する年額で、助成期間は最長2年。招聘研究者には別途、月額32万円の滞在費、来日一時金20万円、渡航航空券代金があるが、研究助成金額とは区別して収録していない。公式に年間助成総額の明記がないため total_budget_jpy はすべてnull。募集終了済みのSRG2021、海外留学・海外派遣・招聘・奨学金等は、現行の研究助成プログラム集計から除外した。"
+  },
+  "url_hint": "https://c-finds.com"
+ },
+ "公益財団法人飯島藤十郎記念食品科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人飯島藤十郎記念食品科学振興財団",
+   "source_url": "https://www.iijima-kinenzaidan.or.jp/aid/#business_plan",
+   "programs": [
+    {
+     "program_name": "学術研究助成（個人研究）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 900000,
+     "amount_max_jpy": 2500000,
+     "num_awards_per_year": 50,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "米麦その他の主要食糧等を原料とする食品の生産・加工・流通および食品科学等に関する研究"
+    },
+    {
+     "program_name": "学術研究助成（共同研究）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 2000000,
+     "amount_max_jpy": 7000000,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "米麦その他の主要食糧等を原料とする食品の生産・加工・流通および食品科学等に関する研究"
+    },
+    {
+     "program_name": "研究者の海外派遣援助",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": 6,
+     "total_budget_jpy": 3000000,
+     "fiscal_year": 2026,
+     "target_field": "財団指定分野に係る食品科学等の研究について、海外の国際会議で特別講演または研究発表を行う研究者"
+    },
+    {
+     "program_name": "国際学術会議等開催援助",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": 6,
+     "total_budget_jpy": 3000000,
+     "fiscal_year": 2026,
+     "target_field": "財団指定分野に係る食品科学等の研究に関連する国内開催の国際会議またはシンポジウム等"
+    },
+    {
+     "program_name": "外国人留学生研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": 10000000,
+     "fiscal_year": 2026,
+     "target_field": "在日外国人留学生（博士課程後期相当）が行う、食生活、健康および食品産業に関する研究"
+    },
+    {
+     "program_name": "特定課題研究等助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 15000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 110000000,
+     "fiscal_year": 2026,
+     "target_field": "食品科学、栄養・健康科学、食生活・食文化、食品企業経営等に関し、財団が早急かつ着実に取り組むべきと認める研究・調査・普及啓発活動"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトは https://www.iijima-kinenzaidan.or.jp/ であり、参考URLの green.or.jp は当財団の公式サイトではない。2026年度事業計画による。学術研究助成の予算総額は個人研究・共同研究合計175,000,000円で、区分別内訳がないため両区分のtotal_budget_jpyはnull。件数は「内外」を整数化した。特定課題研究等助成は同ページに予算枠11,000万円と「計（エ）10,000万円」の不一致があるが、掲載合計39,780万円との整合から予算枠110,000,000円を採用した。"
+  },
+  "url_hint": "http://www.green.or.jp"
+ },
+ "加藤記念バイオサイエンス振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 加藤記念バイオサイエンス振興財団",
+   "source_url": "https://www.katokinen.or.jp/category/applications",
+   "programs": [
+    {
+     "program_name": "研究助成 M分野「メディカルサイエンス分野」・B分野「バイオテクノロジー分野」",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": 2000000,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": 27,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "バイオサイエンスの基礎分野における独創的かつ先駆的研究。M分野はメディカルサイエンス、B分野はバイオテクノロジー。"
+    },
+    {
+     "program_name": "研究助成 E分野「環境バイオ分野」",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": 1000000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": 4,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "バイオサイエンスの基礎分野における独創的かつ先駆的な環境バイオ研究。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイト。第38回（2026年度）研究助成を収録。M分野とB分野の採択件数は公式に合計27件程度との記載で、分野別内訳は不明。E分野は4件程度。通常額はM・B分野200万円、E分野100万円で、優れたテーマは優秀賞として各100万円増額されるため、その適用時の金額をamount_max_jpyに記録した。年間助成総額は公式ページに明記されていないためnull。"
+  },
+  "url_hint": "https://www.katokinen.or.jp"
+ },
+ "先進医薬研究振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 先進医薬研究振興財団",
+   "source_url": "https://www.smrf.or.jp/category/guide",
+   "programs": [
+    {
+     "program_name": "精神薬療分野 一般研究助成",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 30,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "精神疾患の病因・病態、症状・診断・治療に関する研究（統合失調症、気分障害、脳器質疾患・認知症、発達障害等）"
+    },
+    {
+     "program_name": "精神薬療分野 若手研究者助成",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "精神疾患の病因・病態、症状・診断・治療に関する研究（統合失調症、気分障害、脳器質疾患・認知症、発達障害等）"
+    },
+    {
+     "program_name": "血液医学分野 一般研究助成",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 30,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "血栓止血・血管機能、輸血・細胞療法、血液・血管に関連する再生医学、感染・免疫・アレルギーとその関連領域"
+    },
+    {
+     "program_name": "血液医学分野 若手研究者助成",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "血栓止血・血管機能、輸血・細胞療法、血液・血管に関連する再生医学、感染・免疫・アレルギーとその関連領域"
+    },
+    {
+     "program_name": "循環医学分野 一般研究助成",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 30,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "脳血管障害およびその関連領域、心疾患およびその関連領域"
+    },
+    {
+     "program_name": "循環医学分野 若手研究者助成",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "脳血管障害およびその関連領域、心疾患およびその関連領域"
+    },
+    {
+     "program_name": "先進研究助成",
+     "amount_per_award_jpy": 10000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 3,
+     "total_budget_jpy": 30000000,
+     "fiscal_year": 2026,
+     "target_field": "精神薬療、血液医学、循環医学の各分野。疾病の治療、診断または予防への直接的貢献が期待される、先進的かつ臨床上有用性の高い研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトは https://www.smrf.or.jp/ と確認。参考URLは大正製薬のニュースURLであり、財団の公式募集要項ではないため採用しなかった。件数は公式記載の「程度」を整数化した予定件数。3分野の応募要領には一般研究・若手研究者・海外留学を合わせた助成金総額8,000万円とあるが、研究助成プログラム別の総額ではないため、一般研究・若手研究者のtotal_budget_jpyはnull。海外留学助成は研究助成ではなく留学助成のためprogramsから除外した。先進研究助成は各分野1件、計3件、総額3,000万円と公式に明記されている。"
+  },
+  "url_hint": "https://www.taisho.co.jp/company/news/2023/20231213001469"
+ },
+ "ＪＫＡ": {
+  "codex": {
+   "foundation_name": "公益財団法人ＪＫＡ",
+   "source_url": "https://hojo.keirin-autorace.or.jp/shinsei/shikata/koji/2027/pdf/hojohoushin.pdf",
+   "programs": [
+    {
+     "program_name": "個別研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "機械振興に資する、大学等研究機関の研究者による独創的な研究"
+    },
+    {
+     "program_name": "若手研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "機械振興に資する、研究従事開始から概ね15年以内の若手研究者による研究"
+    },
+    {
+     "program_name": "開発研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 15000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "機械振興に資する、新技術または新製品の実用化を目的とする研究"
+    },
+    {
+     "program_name": "ステップアップ研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 10000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "過去5年以内に採択された個別研究・若手研究等の発展を目的とする研究"
+    },
+    {
+     "program_name": "複数年研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 10000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "機械振興に資する2年間の研究"
+    },
+    {
+     "program_name": "研究補助（国際交流）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "海外の国際会議・シンポジウム等で研究発表を行う大学院生の研究交流活動"
+    },
+    {
+     "program_name": "公益事業振興に資する研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "若手研究者による、幸せに暮らせる社会を創る活動、ギャンブル等依存症、女性のスポーツ機会向上、または女性アスリートの競技力・社会的評価向上に資する研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人ＪＫＡの公式法人サイトであり、金額情報は同法人の補助事業公式サイトに掲載された2027年度補助方針および募集要項で確認した。金額はいずれも定額ではなく上限額のため、amount_per_award_jpyはnullとした。複数年研究は年500万円を2年間、合計上限1,000万円として記録。年間採択件数と年間総額は2027年度募集要項に明記されていないためnull。国際交流の2027年度詳細募集は別途公表予定だが、補助方針には上限50万円と明記されている。"
+  },
+  "url_hint": "https://www.keirin-autorace.or.jp"
+ },
+ "公益財団法人中谷財団": {
+  "codex": {
+   "foundation_name": "公益財団法人中谷財団",
+   "source_url": "https://www.nakatani-foundation.jp/grant_tech/examination/",
+   "programs": [
+    {
+     "program_name": "特別研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 30000000,
+     "num_awards_per_year": 1,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "BME（Bio Medical Engineering）分野―生命科学と理工学の融合境界領域。実用化が見込まれる卓越した研究成果の創出に資する研究。"
+    },
+    {
+     "program_name": "開発研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 6000000,
+     "num_awards_per_year": 20,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "BME（Bio Medical Engineering）分野―生命科学と理工学の融合境界領域。独創的な発想に基づき、実用化が期待できる技術開発またはそれに寄与する研究。"
+    },
+    {
+     "program_name": "奨励研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": 30,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "BME（Bio Medical Engineering）分野―生命科学と理工学の融合境界領域。将来の実用化に向けた基盤技術として期待される、若手研究者による独創的な研究。"
+    },
+    {
+     "program_name": "調査研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": 3,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "BME分野における、基礎医学または臨床医学の計測・解析技術の有用性、活用状況、ニーズ、シーズ、研究動向などの調査研究。"
+    },
+    {
+     "program_name": "長期大型研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 300000000,
+     "num_awards_per_year": 1,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "BME（Bio Medical Engineering）分野―生命科学と理工学の融合境界領域。国内外の人材交流を伴う先進的・融合的研究と若手研究者育成に資する研究。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。通常の4プログラムは2027年度募集要項に基づく。金額はいずれも2年間の上限額であり、定額ではないため amount_per_award_jpy はnull、amount_max_jpyに収録した。採択件数は、特別研究助成が「1件」、開発研究助成が「20件前後」、奨励研究助成が「30件前後」、調査研究助成が「3件前後」であり、後三者は概数。長期大型研究助成の出典は https://www.nakatani-foundation.jp/longterm/requirements/ 。同助成は年間最大60,000,000円を最長5年間、総額最大300,000,000円で1件。ただし total_budget_jpy は年間助成総額を表す項目であり、公式には5年間の上限総額しか示されていないためnullとした。公式記載値から年間総額を計算・推定していない。"
+  },
+  "url_hint": "https://www.nakatani-foundation.jp"
+ },
+ "三井住友海上福祉財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 三井住友海上福祉財団",
+   "source_url": "https://www.ms-ins.com/welfare/research_grant.htm",
+   "programs": [
+    {
+     "program_name": "国内研究助成 A枠（交通事故・各種災害の防止等分野）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": 2,
+     "total_budget_jpy": 10000000,
+     "fiscal_year": 2026,
+     "target_field": "交通事故・各種災害の防止、被害軽減、医療などに関する研究"
+    },
+    {
+     "program_name": "国内研究助成 B枠（交通事故・各種災害の防止等分野）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 13500000,
+     "fiscal_year": 2026,
+     "target_field": "交通事故・各種災害の防止、被害軽減、医療などに関する研究"
+    },
+    {
+     "program_name": "国内研究助成 A枠（高齢者福祉分野）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": 2,
+     "total_budget_jpy": 10000000,
+     "fiscal_year": 2026,
+     "target_field": "高齢者福祉（医療、介護、予防、心理、環境など）に関する研究"
+    },
+    {
+     "program_name": "国内研究助成 B枠（高齢者福祉分野）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 36000000,
+     "fiscal_year": 2026,
+     "target_field": "高齢者福祉（医療、介護、予防、心理、環境など）に関する研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。令和8年度（2026年度）応募要項では、両分野ともA枠は1件当たり上限500万円、採択件数は「2件程度を想定」、B枠は上限200万円。したがってA枠の件数2は確定採択数ではなく募集時の想定値。定額助成ではないためamount_per_award_jpyはnull。年間予算は公式の令和8年度事業計画書（https://www.ms-ins.com/welfare/pdf/plan.pdf）記載額で、交通分野A枠1,000万円・B枠1,350万円、高齢者福祉分野A枠1,000万円・B枠3,600万円。"
+  },
+  "url_hint": "https://www.ms-ins.com/welfare"
+ },
+ "小野薬品がん・免疫・神経研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人小野薬品がん・免疫・神経研究財団",
+   "source_url": "https://ono-pharma.fdn.or.jp/research/",
+   "programs": [
+    {
+     "program_name": "研究助成事業（研究助成金）",
+     "amount_per_award_jpy": 10000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 9,
+     "total_budget_jpy": 90000000,
+     "fiscal_year": 2026,
+     "target_field": "がん・免疫・神経分野の基礎研究（各領域3件まで）"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式ページでは1件あたり年間1,000万円、3年間合計3,000万円、がん・免疫・神経の各領域3件まで（合計9件まで）と明記。amount_per_award_jpyには年間額を収録。total_budget_jpyは、公式記載の年間額と採択上限9件から算出した年間最大額であり、公式ページに総額としての直接記載はない。3年間の1件あたり総額は30,000,000円。"
+  },
+  "url_hint": "https://ono-pharma.fdn.or.jp"
+ },
+ "公益財団法人三菱財団": {
+  "codex": {
+   "foundation_name": "公益財団法人三菱財団",
+   "source_url": "https://www.mitsubishi-zaidan.jp/",
+   "programs": [
+    {
+     "program_name": "自然科学研究助成（一般助成）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 20000000,
+     "num_awards_per_year": 55,
+     "total_budget_jpy": 390000000,
+     "fiscal_year": 2026,
+     "target_field": "自然科学およびそれに関連するすべての分野の、独創的・先駆的研究"
+    },
+    {
+     "program_name": "自然科学研究助成（若手助成）",
+     "amount_per_award_jpy": 4000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 25,
+     "total_budget_jpy": 100000000,
+     "fiscal_year": 2026,
+     "target_field": "自然科学および関連分野における、若手研究者の挑戦的な研究"
+    },
+    {
+     "program_name": "人文科学研究助成（一般助成）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "人文科学および関連分野からなる人文社会系研究全般"
+    },
+    {
+     "program_name": "人文科学研究助成（社会的課題解決のための大型連携研究助成）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 10000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "異なる専門領域の複数メンバーが連携して、同一の社会的課題の解決に取り組む人文社会系研究"
+    },
+    {
+     "program_name": "社会福祉事業並びに研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 120000000,
+     "fiscal_year": 2026,
+     "target_field": "社会福祉に関する事業・活動、および開拓的・実験的な科学的調査研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトを確認。参考URLは法人情報サイトであり、募集要項の出典には使用していない。2026年度公式応募要領：自然科学 https://www.mitsubishi-zaidan.jp/support/data/2026natural-science-app-gui.pdf 、人文科学 https://www.mitsubishi-zaidan.jp/support/data/2026humanities-app-gui.pdf 、社会福祉 https://www.mitsubishi-zaidan.jp/support/data/2026social-welfare-app-gui.pdf 。自然科学一般助成の55件は応募要領記載の「前年度実績程度を目途」、若手助成は25件を目途。人文科学は一般・大型連携の合計予算95,000,000円、合計35件程度、大型連携1～2件程度とだけ明記され、プログラム別総額と一般助成単独件数を確定できないためnull。整数欄では1～2件という幅を表現できないため、大型連携の件数もnull。社会福祉は事業・活動と調査研究を合わせた総額であり、研究単独の金額・件数は不明。"
+  },
+  "url_hint": "https://info.gbiz.go.jp/hojin/ichiran?hojinbango=4120005014293"
+ },
+ "日工組社会安全研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 日工組社会安全研究財団",
+   "source_url": "https://www.syaanken.or.jp/?cat=48",
+   "programs": [
+    {
+     "program_name": "一般研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "少年・女性・高齢者を対象とする犯罪防止対策、組織犯罪対策、サイバー犯罪対策、オンラインカジノ防止対策、薬物犯罪対策、犯罪の国際化への対策、犯罪被害者支援、安全・安心なまちづくり等、社会安全問題に関する社会科学の研究"
+    },
+    {
+     "program_name": "若手研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "40歳以下の若手研究者による個人研究。対象分野は、少年・女性・高齢者を対象とする犯罪防止対策、組織犯罪対策、サイバー犯罪対策、オンラインカジノ防止対策、薬物犯罪対策、犯罪の国際化への対策、犯罪被害者支援、安全・安心なまちづくり等、社会安全問題に関する社会科学の研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイトだが、「2026年度安全事業」の募集ページであり研究助成ではない。最新の公式研究助成概要（2027年度）を採用した。助成額はいずれも定額ではなく上限額のため amount_per_award_jpy はnull、amount_max_jpyに収録。募集概要に年間採択件数と助成総額の明記がないためnull。"
+  },
+  "url_hint": "https://www.syaanken.or.jp/?p=14196"
+ },
+ "公益財団法人旭硝子財団": {
+  "codex": {
+   "foundation_name": "公益財団法人旭硝子財団",
+   "source_url": "https://af-info.or.jp/research/apply.html",
+   "programs": [
+    {
+     "program_name": "研究奨励",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": 65,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "化学・生命分野、物理・情報分野"
+    },
+    {
+     "program_name": "サステイナブルな未来への研究助成＜提案研究コース＞",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 1000000,
+     "amount_max_jpy": 2500000,
+     "num_awards_per_year": 15,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "建築・都市分野（100万～250万円）、人文・社会科学分野（100万～200万円）、環境フィールド研究分野（100万～200万円）"
+    },
+    {
+     "program_name": "サステイナブルな未来への研究助成＜発展研究コース＞",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 2500000,
+     "amount_max_jpy": 6000000,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "建築・都市分野（300万～600万円）、人文・社会科学分野（250万～400万円）、環境フィールド研究分野（300万～600万円）"
+    },
+    {
+     "program_name": "ブループラネット地球環境特別研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 10000000,
+     "amount_max_jpy": 30000000,
+     "num_awards_per_year": 3,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "化学・生命、物理・情報、建築・都市、人文・社会科学、環境フィールド研究の複数分野による融合研究"
+    },
+    {
+     "program_name": "若手継続グラント",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "化学・生命分野、物理・情報分野。過去3年間に旭硝子財団の助成研究を終了した対象者向け"
+    },
+    {
+     "program_name": "ステップアップ助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "過去3年間に旭硝子財団の助成研究を終了した将来有望な研究テーマ。対象者への個別案内方式"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは旭硝子財団の公式サイトであることを確認。2027年度（2026年度募集）の公式応募要項を使用した。研究奨励は「上限300万円」、採択予定65件程度。提案研究・発展研究は分野により金額幅が異なるため、全分野を包含する最小・最大を格納し、内訳をtarget_fieldに記載。ブループラネット助成は1チーム総額1000万～3000万円、採択予定3件程度（別途、原則として毎年1500万円以内）。「程度」も公式記載の予定件数として整数化した。若手継続グラントとステップアップ助成は公式応募ページ上で存在を確認したが、確認できた公開情報から金額・予定件数を取得できなかったためnull。年間助成総額はいずれも募集要項に明記がないためnull。"
+  },
+  "url_hint": "https://www.af-info.or.jp"
+ },
+ "住友財団": {
+  "codex": {
+   "foundation_name": "公益財団法人住友財団",
+   "source_url": "https://www.sumitomo.or.jp/pdf/kankyo/26_kankyo%20Boshu/kankyo_boshu%202026_jp.pdf",
+   "programs": [
+    {
+     "program_name": "基礎科学研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": 40,
+     "total_budget_jpy": 200000000,
+     "fiscal_year": 2026,
+     "target_field": "数学、物理学、化学、生物学、これらの複合分野および工学の基礎分野における萌芽的研究"
+    },
+    {
+     "program_name": "環境研究助成・一般研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": 35,
+     "total_budget_jpy": 70000000,
+     "fiscal_year": 2026,
+     "target_field": "環境に関する研究。助成趣旨に合えばテーマ・分野を問わない"
+    },
+    {
+     "program_name": "環境研究助成・課題研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 10000000,
+     "num_awards_per_year": 3,
+     "total_budget_jpy": 30000000,
+     "fiscal_year": 2026,
+     "target_field": "地球のネイチャーポジティブを実現するための学際的または国際的研究"
+    },
+    {
+     "program_name": "アジア諸国における日本関連研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": 70,
+     "total_budget_jpy": 50000000,
+     "fiscal_year": 2026,
+     "target_field": "主として東アジア・東南アジア諸国の研究者が行う、人文・社会科学分野の日本関連研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは住友財団の公式サイトであることを確認。金額は2026年度の公式募集要項・助成概要に基づく。「最大」と明記された金額はamount_max_jpyに収録し、定額ではないためamount_per_award_jpyはnullとした。件数は公式記載の「程度」を整数化。環境研究助成の課題研究総額3,000万円は最大額で、剰余は一般研究へ充当される。基礎科学研究助成の公式出典: https://www.sumitomo.or.jp/html/kiso/kisokagaku.htm 。アジア諸国における日本関連研究助成の公式募集要項: https://www.sumitomo.or.jp/pdf/jare/Jare_Application_2026/2026%20%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85%20%E5%92%8C%E6%96%87.pdf 。文化財関係は公式サイト上で「事業助成」に分類されているため、研究助成programsから除外した。"
+  },
+  "url_hint": "https://www.sumitomo.or.jp"
+ },
+ "花王芸術・科学財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 花王芸術・科学財団",
+   "source_url": "https://www.kao-foundation.or.jp/science/assist/",
+   "programs": [
+    {
+     "program_name": "花王科学奨励賞（研究助成）",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": 20000000,
+     "fiscal_year": 2027,
+     "target_field": "「表面の科学」の化学・物理学分野および医学・生物学分野"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の2027年度応募要項には、総額2,000万円、1件200万円、化学・物理学分野5件・医学・生物学分野5件を原則とすると明記されているため、年間採択件数は合計10件とした。"
+  },
+  "url_hint": "https://www.kao-foundation.or.jp"
+ },
+ "全国銀行学術研究振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 全国銀行学術研究振興財団",
+   "source_url": "https://www.zenginzaidan.jp/youkou/bosyuyoko_2026.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成（単独研究）",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "経済・金融およびこれらに関する法制に係る研究。経済理論、経済統計学、経済政策、経済史、財政学、金融論、民法、商法、経済法、その他の金融・経済に関する法律、および隣接・関連領域。"
+    },
+    {
+     "program_name": "研究助成（共同研究）",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "経済・金融およびこれらに関する法制に係る研究。経済理論、経済統計学、経済政策、経済史、財政学、金融論、民法、商法、経済法、その他の金融・経済に関する法律、および隣接・関連領域。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度公式募集要項では、単独研究は1件100万円以内、共同研究は1件150万円以内。研究助成全体の助成総額は2,500万円程度を予定しているが、単独研究・共同研究別の内訳は明記されていないため、各programのtotal_budget_jpyはnullとした。年間採択件数も募集要項に明記がないためnull。amount_per_award_jpyには各区分の上限額を収録した。"
+  },
+  "url_hint": "https://www.zenginzaidan.jp"
+ },
+ "公益財団法人大同生命厚生事業団": {
+  "codex": {
+   "foundation_name": "公益財団法人大同生命厚生事業団",
+   "source_url": "https://www.daido-life-welfare.or.jp/_src/47256/2026welfare.pdf?v=1716882292474",
+   "programs": [
+    {
+     "program_name": "地域保健福祉研究助成",
+     "amount_per_award_jpy": 360000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 11000000,
+     "fiscal_year": 2026,
+     "target_field": "地域保健・地域福祉、在宅・施設の医療・福祉・介護、その他住民の健康増進に役立つ研究（臨床研究を除く）"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度公式実施要領には「総額 原則1,100万円以内」「1件 原則36万円」「特に優秀な研究は50万円限度」と明記。正式な下限額と年間採択件数は記載されていないためnull。50万円は例外的な上限であり、通常額は36万円。ボランティア活動助成は研究助成ではないため除外した。"
+  },
+  "url_hint": "https://www.daido-life-welfare.or.jp"
+ },
+ "日本天文学会": {
+  "codex": {
+   "foundation_name": "公益社団法人 日本天文学会",
+   "source_url": "https://www.asj.or.jp/jp/activities/expenses/hayakawa_fund/",
+   "programs": [
+    {
+     "program_name": "早川幸男基金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 6000000,
+     "fiscal_year": null,
+     "target_field": "若手天文学研究者による海外での観測、国際共同研究、研究発表のための渡航費等"
+    },
+    {
+     "program_name": "国内研修支援金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 250000,
+     "fiscal_year": null,
+     "target_field": "天文学および関連分野について、日本国内の教育研究機関で行う短期研修・研究活動・調査活動"
+    },
+    {
+     "program_name": "若手国際交流研究会基金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "国内の若手研究者と海外研究者等との交流、国際共同研究・海外研究活動の促進につながる国際交流研究会の開催"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益社団法人日本天文学会の公式サイトであることを確認。早川幸男基金は公式概要に「一年に総額600万円程度」と明記されているため総額のみ収録。1件総額の上限はなく、滞在費上限10万円、宿泊費1泊13,000円、日当1日2,000円など費目別規定のため、1件当たり金額・上下限はnull。国内研修支援金は公式ページ（https://www.asj.or.jp/jp/activities/expenses/kensyu/）に「募集人員 若干名」「支給額 総額25万円」とあるため、件数は数値化せずnull。若手国際交流研究会基金は公式内規（https://www.asj.or.jp/jp/about/articles/）に必要経費の全額または一部を助成するとあるが、具体額・件数は明記されていないためnull。研究奨励賞などの表彰は研究助成プログラムから除外した。"
+  },
+  "url_hint": "https://www.asj.or.jp/jp"
+ },
+ "野口研究所": {
+  "codex": {
+   "foundation_name": "公益財団法人野口研究所",
+   "source_url": "https://noguchi.or.jp/wp/wp-content/themes/noguchi/assets/pdf/subsidy_entry/subsidy_2025.pdf",
+   "programs": [
+    {
+     "program_name": "2025年度 野口遵研究助成金",
+     "amount_per_award_jpy": 2200000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2025,
+     "target_field": "課題1：エネルギー・資源・環境・エレクトロニクスの革新に寄与する新材料や新プロセスに関する研究。課題2：ライフサイエンスの進展に寄与する研究。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人野口研究所の公式サイトであることを確認。公式応募要項では助成額は「1件につき原則220万円」、採択件数は「10～15件を目処」とされている。件数欄は単一整数のみのため推測せずnullとした。年間助成総額は明記を確認できないためnull。"
+  },
+  "url_hint": "https://noguchi.or.jp"
+ },
+ "臨床研究奨励基金": {
+  "codex": {
+   "foundation_name": "公益財団法人 臨床研究奨励基金",
+   "source_url": "https://crpf.jp/clinical-research-grant",
+   "programs": [
+    {
+     "program_name": "臨床研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "医学、医療、生命科学に関する研究や技術開発を行う若手研究者"
+    },
+    {
+     "program_name": "コメディカル臨床研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": 6,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "看護師、薬剤師、公認心理士、理学療法士、作業療法士、臨床工学技士などのコメディカル医療従事者等による、医学、医療、生命科学に関する研究や技術開発"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLの crpf.jp が公式サイトであることを確認。令和8年度（2026年度）の募集案内と公式募集要項を照合した。臨床研究助成は1件100万円以下・年間10件以内、コメディカル臨床研究助成は1件50万円以下・年間6件以内。いずれも定額ではないため amount_per_award_jpy はnull、上限を amount_max_jpy に収録。年間総額と下限は公式要項に明記がないためnull。コメディカル助成の金額出典: https://crpf.jp/co-medical_grant"
+  },
+  "url_hint": "http://crpf.jp"
+ },
+ "日本生命財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 日本生命財団",
+   "source_url": "https://www.nihonseimei-zaidan.or.jp/kourei/02.html",
+   "programs": [
+    {
+     "program_name": "高齢・地域共生社会助成 実践的課題研究助成（2年助成）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 4000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "地域包括ケア、高齢者の生きがい・自己実現・就業支援、認知症の人が安心して生活できるまちづくり、孤独・孤立の解消などに関する実践的研究"
+    },
+    {
+     "program_name": "高齢・地域共生社会助成 若手実践的課題研究助成（1年助成）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "高齢・地域共生社会に関する、45歳未満の研究者または実践家による実践的研究"
+    },
+    {
+     "program_name": "環境問題研究助成 学際的総合研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 10000000,
+     "amount_max_jpy": 15000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "持続型社会の構築に向けた地域循環共生圏の形成、自然再生による持続性ある地域づくりと生物多様性の回復"
+    },
+    {
+     "program_name": "環境問題研究助成 若手研究・奨励研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 1500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "財団の助成趣旨を踏まえた環境問題研究。基礎的・萌芽的研究、新分野への挑戦的研究（課題指定なし）"
+    },
+    {
+     "program_name": "児童・少年の健全育成助成 実践的研究助成（2年助成）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 4000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "子どもを巡る「真のウェルビーイング」の探求に関する重点募集分野の実践的研究"
+    },
+    {
+     "program_name": "児童・少年の健全育成助成 実践的研究助成（1年助成）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "子どもを巡る「真のウェルビーイング」の探求に関する重点募集分野の実践的研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは日本生命財団の公式ページであることを確認。2026年度公式資料に基づく。予定件数は整数でなく幅のため、推測せずnullとした（高齢・地域共生社会：実践的課題研究2～4件、若手4～6件。児童研究：2年助成2～4件、1年助成4～8件）。環境問題研究助成の助成金総額は2区分合計で4,000万円程度（予定）とだけ明記され、区分別総額ではないため各programのtotal_budget_jpyはnull。環境問題研究の出典：https://nihonseimei-zaidan.or.jp/kankyo/02.html ／児童研究の募集要項：https://www.nihonseimei-zaidan.or.jp/jidou2/pdf/2025_bosyu_youkou.pdf ／高齢・地域共生社会の実践的課題研究募集要項：https://www.nihonseimei-zaidan.or.jp/kourei/pdf/2026_jissen_bosyuyokou.pdf ／若手募集要項：https://www.nihonseimei-zaidan.or.jp/kourei/pdf/2026_wakate_bosyuyokou.pdf"
+  },
+  "url_hint": "https://nihonseimei-zaidan.or.jp/kourei/02.html"
+ },
+ "公益財団法人車両競技公益資金記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人車両競技公益資金記念財団",
+   "source_url": "https://www.vecof.or.jp/wp/wp-content/uploads/2024/09/%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E5%8C%BB%E7%99%82%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9A%84%E3%80%81%E5%85%88%E9%A7%86%E7%9A%84%E7%A0%94%E7%A9%B6%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%8A%A9%E6%88%90%E4%BA%8B%E6%A5%AD%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf",
+   "programs": [
+    {
+     "program_name": "令和7年度 医療の基礎的、先駆的研究に対する助成事業（新規申請者）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 10000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2025,
+     "target_field": "がん及び心臓病の基礎的、先駆的研究"
+    },
+    {
+     "program_name": "令和7年度 医療の基礎的、先駆的研究に対する助成事業（継続申請者）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2025,
+     "target_field": "がん及び心臓病の基礎的、先駆的研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "vecof.or.jpは対象財団の公式サイトであることを確認。公式募集要項では、新規申請者の助成限度額は1,000万円、継続申請者は原則として前年度助成金額と明記されている。継続申請者の具体額、年間採択件数、募集時の年間総額は明記されていないためnull。参考URLは同じ公式ドメインだが、今回の金額出典には使用していない。"
+  },
+  "url_hint": "http://www.vecof.or.jp/news/2017/06/292.html"
+ },
+ "公益財団法人みずほ学術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人みずほ学術振興財団",
+   "source_url": "https://www.disclo-koeki.org/02b/00475/69-1.pdf",
+   "programs": [
+    {
+     "program_name": "工学研究助成（第69回）",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 13,
+     "total_budget_jpy": 26000000,
+     "fiscal_year": 2026,
+     "target_field": "工学研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "財団公式の情報公開共同サイトに掲載された「2026年度（第69回）工学研究助成受賞者一覧表」で、全13件の助成額が各2,000千円、合計26,000千円と確認できる。参考URLはコニカミノルタのページであり、対象財団の公式サイトではない。"
+  },
+  "url_hint": "https://www.konicaminolta.jp/about/csr/contribution/science"
+ },
+ "ホソカワ粉体工学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人ホソカワ粉体工学振興財団",
+   "source_url": "https://www.kona.or.jp/jp/files/items/1319/File/2_r8_bosyu.pdf",
+   "programs": [
+    {
+     "program_name": "粉体工学に関する研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 20,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "国公私立大学その他の教育・研究機関で粉体工学に関する基礎研究に従事する研究者"
+    },
+    {
+     "program_name": "粉体工学に関する研究者育成の援助",
+     "amount_per_award_jpy": 300000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 5,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "粉体工学に関する基礎研究に従事する博士後期課程の大学院生または進学予定者"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。令和8（2026）年度の公式募集要項に、研究助成は「1件当たり100万円以下、20件程度」、研究者育成の援助は「1件当たり30万円（年額）、5件程度」と明記。総額は明記されていないためnull。KONA賞・ホソカワ研究奨励賞は褒賞、シンポジウム等開催援助は研究そのものへの助成ではないためprogramsから除外した。件数・金額は変更される場合があるとの注記あり。"
+  },
+  "url_hint": "https://www.kona.or.jp/jp/grants"
+ },
+ "公益財団法人豊田都市交通研究所": {
+  "codex": {
+   "foundation_name": "公益財団法人豊田都市交通研究所",
+   "source_url": null,
+   "programs": [],
+   "confidence": "high",
+   "notes": "参考URL（https://www.ttri.or.jp）は公式サイトであり、公式ABOUTページに法人名が明記されている。公式サイト内を「研究助成」「助成金」「募集要項」「公募」「共同研究」等で確認したが、同研究所が外部研究者へ提供する研究助成プログラムの募集要項・助成概要・助成金額は確認できなかった。公式の調査・研究ページおよび事業報告書にある「助成」は、同研究所または所属研究員が科研費や他財団の助成を受けた事例であり、同研究所自身による助成事業ではないため収録していない。"
+  },
+  "url_hint": "https://www.ttri.or.jp"
+ },
+ "公益財団法人日産財団": {
+  "codex": {
+   "foundation_name": "公益財団法人日産財団",
+   "source_url": "https://nissan.yoshida-p.net/doc/youkou.pdf",
+   "programs": [
+    {
+     "program_name": "理科教育助成",
+     "amount_per_award_jpy": 600000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "子どもの科学的思考能力を向上させる教育実践、または教師の理科指導力を向上させる授業研究を行う小中学校・研究会等"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLはパスに誤記があるとみられるが、ドメイン nissan-zaidan.or.jp は日産財団の公式サイトである。2027年度の公式Web登録システムからリンクされた募集要項を確認。助成額は1件につき2年間で60万円。募集要項に年間採択件数および助成総額の記載がないためnullとした。個人対象の学術研究助成ではなく、学校・研究会等による理科教育の実践・授業研究を対象とする現行助成である。"
+  },
+  "url_hint": "https://www.nissan-zaidan.or.jp/oitline-rika"
+ },
+ "三島海雲記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人三島海雲記念財団",
+   "source_url": "https://www.mishima-kaiun.or.jp/wp-mishima/wp-content/uploads/2025/12/64th_2026_shoreikin-ouboyoukou-shizen.pdf",
+   "programs": [
+    {
+     "program_name": "学術研究奨励金（自然科学部門・個人研究奨励金）",
+     "amount_per_award_jpy": 1500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1500000,
+     "num_awards_per_year": 37,
+     "total_budget_jpy": 56000000,
+     "fiscal_year": 2026,
+     "target_field": "食の科学に関する学術研究"
+    },
+    {
+     "program_name": "学術研究奨励金（自然科学部門・共同研究奨励金）",
+     "amount_per_award_jpy": 5000000,
+     "amount_min_jpy": 2000000,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": 8,
+     "total_budget_jpy": 40000000,
+     "fiscal_year": 2026,
+     "target_field": "食の科学に関する学術研究"
+    },
+    {
+     "program_name": "学術研究奨励金（人文科学部門・個人研究奨励金）",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 44,
+     "total_budget_jpy": 44000000,
+     "fiscal_year": 2026,
+     "target_field": "アジアに関する人文社会科学諸分野の学術研究（日本に関わる研究を含む）"
+    },
+    {
+     "program_name": "学術研究奨励金（人文科学部門・共同研究奨励金）",
+     "amount_per_award_jpy": 5000000,
+     "amount_min_jpy": 2000000,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": 4,
+     "total_budget_jpy": 20000000,
+     "fiscal_year": 2026,
+     "target_field": "アジアに関する人文社会科学諸分野の学術研究（日本に関わる研究を含む）"
+    },
+    {
+     "program_name": "特定研究助成金（萌芽研究助成金）",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": 5,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "「食の未来と人間社会」に関わる文理協働の学術研究"
+    },
+    {
+     "program_name": "特定研究助成金（創成研究助成金）",
+     "amount_per_award_jpy": 5000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 5000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "「食の未来と人間社会」に関わる文理協働の学術研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。金額は上限額をamount_per_award_jpyの代表額として収録した。自然科学部門の出典はsource_url。人文科学部門の公式要項は https://www.mishima-kaiun.or.jp/wp-mishima/wp-content/uploads/2025/12/64th_2026_shoreikin-ouboyoukou-jinbun.pdf 。特定研究助成金の公式要項は https://www.mishima-kaiun.or.jp/wp-mishima/wp-content/uploads/2025/11/tokuteijosei-ouboyoukou_2026_2.pdf 。創成研究助成金の採択件数は公式記載が「2～3件程度」で、単一整数に確定できないためnull。創成研究助成金は年間500万円以下、期間1～3年、期間総額1500万円以下。学術活動支援と三島海雲学術賞は研究助成プログラムではないため除外した。"
+  },
+  "url_hint": "http://www.mishima-kaiun.or.jp"
+ },
+ "公益財団法人りそな中小企業振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人りそな中小企業振興財団",
+   "source_url": null,
+   "programs": [],
+   "confidence": "high",
+   "notes": "公式サイトは https://www.resona-fdn.or.jp/ 。参考URL https://mizuho-ewf.org は「公益財団法人みずほ教育福祉財団」のサイトであり、対象財団とは異なる。対象財団の公式サイト、事業紹介、2026年度事業計画書を確認したが、研究者等に資金を交付する研究助成プログラムは確認できなかった。「調査・研究・情報提供事業」は財団自身による情報収集・提供事業であり、研究助成ではない。また「中小企業優秀新技術・新製品賞」は表彰事業のため、研究助成プログラムには含めていない。確認日: 2026-07-16。"
+  },
+  "url_hint": "https://mizuho-ewf.org"
+ },
+ "公益財団法人武田科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人武田科学振興財団",
+   "source_url": "https://www.takeda-sci.or.jp/research/assist/",
+   "programs": [
+    {
+     "program_name": "武田報彰医学研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "世界をリードする医学の先端研究（基礎研究・臨床研究）"
+    },
+    {
+     "program_name": "ハイリスク新興感染症研究助成",
+     "amount_per_award_jpy": 10000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "ハイリスク新興感染症対策に必要な基礎研究、臨床研究、疫学・社会医学的研究等"
+    },
+    {
+     "program_name": "生命科学研究助成",
+     "amount_per_award_jpy": 10000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 35,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "医・歯・薬・理・工・農・生命等。生命科学分野の進歩・発展の基盤となる独創的研究"
+    },
+    {
+     "program_name": "医学系研究助成",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 240,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "医学・歯学。がん、精神・神経・脳、感染、基礎、臨床"
+    },
+    {
+     "program_name": "医学系研究継続助成",
+     "amount_per_award_jpy": 3000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 40,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "2023年度・2024年度医学系研究助成の助成対象研究課題"
+    },
+    {
+     "program_name": "薬学系研究助成",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 40,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "薬学分野の進歩・発展に貢献する独創的研究"
+    },
+    {
+     "program_name": "薬学系研究継続助成",
+     "amount_per_award_jpy": 3000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 7,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "2023年度・2024年度薬学系研究助成の助成対象研究課題"
+    },
+    {
+     "program_name": "ライフサイエンス研究助成",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 50,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "理・工・農・生命等。生命科学分野の進歩・発展と人類の健康増進に寄与する独創的研究"
+    },
+    {
+     "program_name": "ライフサイエンス研究継続助成",
+     "amount_per_award_jpy": 3000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 7,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "2023年度・2024年度ライフサイエンス研究助成の助成対象研究課題"
+    },
+    {
+     "program_name": "特定研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 50000000,
+     "num_awards_per_year": 12,
+     "total_budget_jpy": 500000000,
+     "fiscal_year": 2026,
+     "target_field": "医学。研究機関内の複数部署・研究室が取り組む共同研究"
+    },
+    {
+     "program_name": "ビジョナリーリサーチ助成（スタート）",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 50,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "医学分野における斬新でチャレンジングな研究"
+    },
+    {
+     "program_name": "ビジョナリーリサーチ継続助成（ホップ）",
+     "amount_per_award_jpy": 5000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 15,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "ビジョナリーリサーチ助成（スタート）の助成対象研究課題"
+    },
+    {
+     "program_name": "ビジョナリーリサーチ継続助成（ステップ）",
+     "amount_per_award_jpy": 10000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 5,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "ビジョナリーリサーチ継続助成（ホップ）の助成対象研究課題"
+    },
+    {
+     "program_name": "ビジョナリーリサーチ継続助成（ジャンプ）",
+     "amount_per_award_jpy": 30000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 2,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "ビジョナリーリサーチ継続助成（ステップ）の助成対象研究課題"
+    },
+    {
+     "program_name": "理科教育振興助成",
+     "amount_per_award_jpy": 500000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 80,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "小学校・中学校・高等学校の理科教育に貢献する研究または実践"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度の公式研究助成一覧および各プログラムページに明記された額・件数を採録した。「程度」「最大」も掲載数値を収録。特定研究助成の1件額は「5,000万円以内」のため amount_max_jpy に記録し、定額を表す amount_per_award_jpy はnull。総額は明記のある特定研究助成のみ収録した。武田報彰医学研究助成は公式公開ページに2026年度の金額・件数が明記されていないためnull。理科教育振興助成は公式サイト上で研究助成に分類されているため収録した。"
+  },
+  "url_hint": "https://www.takeda-sci.or.jp"
+ },
+ "公益財団法人ヤマハ発動機スポーツ振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人ヤマハ発動機スポーツ振興財団",
+   "source_url": "https://www.ymfs.jp/support/20th_study/",
+   "programs": [
+    {
+     "program_name": "スポーツチャレンジ研究助成（奨励①）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 600000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "大学院博士課程（博士後期課程）在籍中または満期退学者による、スポーツ医・科学、スポーツ文化など、スポーツの普及・振興や競技水準向上につながる自然科学・人文社会の研究"
+    },
+    {
+     "program_name": "スポーツチャレンジ研究助成（奨励②）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 800000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "博士号取得後3年以内の研究者による、スポーツ医・科学、スポーツ文化など、スポーツの普及・振興や競技水準向上につながる自然科学・人文社会の研究"
+    },
+    {
+     "program_name": "スポーツチャレンジ研究助成（基本）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1200000,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "博士号取得後3年以上で大学・研究機関等において活動する研究者による、スポーツ医・科学、スポーツ文化など、スポーツの普及・振興や競技水準向上につながる自然科学・人文社会の研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。公式の2026年度（第20期生）研究分野募集要項に基づく。金額はいずれも定額ではなく「上限」のためamount_per_award_jpyはnullとし、amount_max_jpyへ収録。採択件数は奨励①・②合計で5件程度とされ、各区分への内訳がないため両区分のnum_awards_per_yearはnull。基本は10件程度を10として収録。年間助成総額と下限額は明記されていないためnull。"
+  },
+  "url_hint": "https://www.ymfs.jp"
+ },
+ "公益財団法人川西記念新明和教育財団": {
+  "codex": {
+   "foundation_name": "公益財団法人川西記念新明和教育財団",
+   "source_url": "https://www.kawanishi-shinmaywa.or.jp/wp/wp-content/uploads/2025/12/2026_jyosei.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成金（科学技術研究助成金支給事業）",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 6,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "兵庫県内の大学で行われる科学技術の基礎的または応用的研究。工学系（機械、電気・電子、情報、建築、応用化学等）および理学系（物理、化学等）。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の2026年度募集要項には「1件当たり100万円以内」「助成件数6件」と明記されている。100万円は定額ではなく上限額のため amount_max_jpy にも記録した。年間助成総額は募集要項に明記されていないため null。"
+  },
+  "url_hint": "http://www.kawanishi-shinmaywa.or.jp"
+ },
+ "公益財団法人岡三加藤文化振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人岡三加藤文化振興財団",
+   "source_url": "https://www.okasan-kato-zaidan.or.jp/pdf/guidebook_2026_requirements_list.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 18000000,
+     "fiscal_year": 2026,
+     "target_field": "自然科学の諸分野に貢献が期待される応用・開発および基礎研究のうち、先駆的かつ独創的な研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "令和8年度（2026年度・第39回）の公式研究助成募集要項を確認。研究助成の総額は1,800万円。1件当たりの助成額、金額範囲、採択予定件数は募集要項に明記されていないためnull。参考URL（casiozaidan.org）は当財団の公式サイトではなく、正しい公式サイトは https://www.okasan-kato-zaidan.or.jp/ 。"
+  },
+  "url_hint": "https://casiozaidan.org/naiyou/about.html"
+ },
+ "公益財団法人服部報公会": {
+  "codex": {
+   "foundation_name": "公益財団法人服部報公会",
+   "source_url": "https://www.hattori-hokokai.or.jp/shoreienjo.html",
+   "programs": [
+    {
+     "program_name": "工学研究奨励援助金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 800000,
+     "amount_max_jpy": 1200000,
+     "num_awards_per_year": 15,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "情報・生命・環境を含む広義の工学全般における、工学の発展に寄与する基礎的な理論研究または実験研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式応募要領では、1件当たり最高120万円、最低80万円程度、約15件を採択予定（一般公募枠12件、女性限定公募枠3件）。最低額と採択件数はいずれも概数。年間助成総額は公式ページに明記されていないためnull。報公賞および報公奨励賞は研究助成金ではなく賞であるためprogramsには含めていない。"
+  },
+  "url_hint": "http://www.hattori-hokokai.or.jp"
+ },
+ "公益財団法人コーセーコスメトロジー研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人コーセーコスメトロジー研究財団（現・公益財団法人コーセー小林財団）",
+   "source_url": "https://kose-kobayashi-foundation.or.jp/cosmetology/cosmetology-grants/cosmetology-research/",
+   "programs": [
+    {
+     "program_name": "コスメトロジー研究助成事業",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 500000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 60000000,
+     "fiscal_year": 2026,
+     "target_field": "コスメトロジーおよび関連分野の基礎研究・応用研究（第1分野：素材・物性、第2分野：生体作用・安全性、第3分野：精神・文化）"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは旧財団の公式サイトであることを確認。旧財団はコーセー小林スポーツ財団との合併により、2026年4月から「公益財団法人コーセー小林財団」へ名称変更した。2026年度の1件当たり助成額は50万円、100万円または200万円であるため、amount_per_award_jpyは単一額を置かずnullとし、最小・最大額を収録した。年間採択件数は公式資料で確認できないためnull。年間総額6,000万円は公式の2026年度事業計画（https://kose-kobayashi-foundation.or.jp/wpsys/wp-content/uploads/2026/03/2026_Jigyou-Keikaku.pdf）に基づく。特定課題研究助成事業は2026年度に公募を行わないため、programsには含めていない。"
+  },
+  "url_hint": "https://www.kose-cosmetology.or.jp"
+ },
+ "公益財団法人サントリー生命科学財団": {
+  "codex": {
+   "foundation_name": "公益財団法人サントリー生命科学財団",
+   "source_url": "https://www.sunbor.or.jp/jyosei/",
+   "programs": [
+    {
+     "program_name": "SUNBOR GRANT",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 6,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "生命現象を「観る」から「操作する」へと拡張するケミカルバイオロジー研究に関わる課題"
+    },
+    {
+     "program_name": "サントリーSunRiSE 生命科学研究者支援プログラム（第2期）",
+     "amount_per_award_jpy": 50000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": 500000000,
+     "fiscal_year": 2026,
+     "target_field": "分子を中心に据えた、生命現象のメカニズムの解明"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。SUNBOR GRANTは2026年度募集要項で原則1件あたり年100万円を3年間、採択予定は6件程度。SunRiSE第2期は1人あたり年1,000万円を5年間（総額5,000万円）、上限10名、プログラム総額5億円で、支援開始は2026年度。SUNBOR SCHOLARSHIPは奨学金、学術集会助成は研究集会の運営費助成であるため、研究助成プログラムから除外した。"
+  },
+  "url_hint": "http://www.sunbor.or.jp"
+ },
+ "公益財団法人同仁化学学術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人同仁化学学術振興財団",
+   "source_url": "https://dojindo-f.or.jp/subsidy/",
+   "programs": [
+    {
+     "program_name": "第2回（2026年度）研究助成",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 8,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "ライフサイエンス分野の基礎科学研究、またはライフサイエンスを指向した有機化学研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式募集要項に「助成金額：1件100万円」「採択件数：8件程度」と明記。採択件数は概数。年間助成総額は明記されていないためnull。参考URL（fost.or.jp）は公益財団法人科学技術融合振興財団のサイトであり、対象財団とは異なる。"
+  },
+  "url_hint": "https://www.fost.or.jp/guidelines.html"
+ },
+ "公益財団法人総合健康推進財団": {
+  "codex": {
+   "foundation_name": "公益財団法人総合健康推進財団",
+   "source_url": "https://soukensui.jp/files/libs/4362/202603131500417117.pdf",
+   "programs": [
+    {
+     "program_name": "第42回一般研究奨励助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": 10000000,
+     "fiscal_year": 2026,
+     "target_field": "幼少者から高齢者までの住民を対象とし、フィールドワークを主とする健康科学・予防医学等の研究。対象項目は、栄養と健康、老化と健康、保健対策と健康、衣食住と健康、代替医療と健康、生活環境と健康、福祉と健康、産業と健康、こどもと健康。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の2026年度事業計画書兼応募要項には、助成件数「10件程度」、1件当たり「100万円を上限」、予算額「1,000万円」と明記されている。定額ではなく上限額のため amount_per_award_jpy と下限額は null とした。"
+  },
+  "url_hint": "https://soukensui.jp"
+ },
+ "公益財団法人明治安田厚生事業団": {
+  "codex": {
+   "foundation_name": "公益財団法人明治安田厚生事業団",
+   "source_url": "https://www.my-zaidan.or.jp/josei/entry/doc/oubo_42.pdf",
+   "programs": [
+    {
+     "program_name": "第42回 若手研究者のための健康科学研究助成（指定課題）",
+     "amount_per_award_jpy": 3000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 1,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "健康増進のための実装研究（エビデンスに基づく健康増進策を社会に普及・定着させる方法の開発と評価を行う社会実装型研究）"
+    },
+    {
+     "program_name": "第42回 若手研究者のための健康科学研究助成（一般課題）",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 12,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "健康増進に寄与する学術研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLのドメインは当該財団の公式サイトであることを確認。2026年7月公募開始の公式「第42回応募要項」に基づく。採択件数は確定実績ではなく、指定課題「1件以内」、一般課題「12件以内」という募集上限。全プログラム合計の助成総額は15,000,000円と明記されているが、プログラム別総額は明記されていないためtotal_budget_jpyはnull。疾病の治療そのものおよび創薬に関するテーマは対象外。確認日: 2026-07-16。"
+  },
+  "url_hint": "http://www.my-zaidan.or.jp/josei"
+ },
+ "公益財団法人アサヒグループ財団": {
+  "codex": {
+   "foundation_name": "公益財団法人アサヒグループ財団",
+   "source_url": "https://www.asahigroup-foundation.com/about/pdf/foundation/2024_jh.pdf",
+   "programs": [
+    {
+     "program_name": "学術研究助成 食・生活部門",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 8,
+     "total_budget_jpy": 8500000,
+     "fiscal_year": 2025,
+     "target_field": "生活科学および生活文化に関する研究（食・生活分野）"
+    },
+    {
+     "program_name": "学術研究助成 環境・サステナビリティ部門",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 7,
+     "total_budget_jpy": 7500000,
+     "fiscal_year": 2025,
+     "target_field": "地球環境科学およびサステナブル社会・経済学に関する研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の2024年度事業報告書には、2025年度助成として食・生活部門8件・850万円、環境・サステナビリティ部門7件・750万円、合計15件・1,600万円と明記されている。確認できた公式資料には各採択案件の個別助成額や1件当たりの下限・上限が明記されていないため、該当項目はnullとした。公式募集ページは確認時点で募集終了中。"
+  },
+  "url_hint": "https://www.asahigroup-foundation.com"
+ },
+ "公益財団法人光科学技術研究振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人光科学技術研究振興財団",
+   "source_url": "https://www.refost-hq.jp/activities/research_grant/",
+   "programs": [
+    {
+     "program_name": "研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 1000000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": 25,
+     "total_budget_jpy": 50000000,
+     "fiscal_year": 2026,
+     "target_field": "第1課題：光科学の未知領域の研究―とくに光の本質について―／第2課題：光科学技術による生命科学分野の先端研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式ページでは、令和8年度（2026年度）の新規採択数は第1・第2課題合計で25件程度、1件あたり100万～200万円が目安、助成金総額は5,000万円と記載。総額は新規採択分だけではなく、公式記載上「令和7年度新規採択研究への初年度助成と令和6年度採択研究への継続助成の合計額」であるため注意。また、令和8年度募集要項内の課題欄は「令和7年度募集課題」と表記されており、年度表記に不整合がある。"
+  },
+  "url_hint": "http://www.refost-hq.jp"
+ },
+ "公益財団法人山口内分泌疾患研究振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人山口内分泌疾患研究振興財団",
+   "source_url": "https://yamaguchi-endocrine.org/pdf/jyosei_yoko2025.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成金",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 8,
+     "total_budget_jpy": null,
+     "fiscal_year": 2025,
+     "target_field": "内分泌疾患に関する成因・診断・治療・予防等に関する研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の2025年度研究助成金募集要項には「1件100万円、総助成件数8件」と明記されている。年間総額800万円は算術上導けるが、募集要項に総額として明記されていないためtotal_budget_jpyはnullとした。採択区分は原則として基礎・内科4件、産婦人科2件、泌尿器科2件。"
+  },
+  "url_hint": "https://www.yamaguchi-endocrine.org"
+ },
+ "公益財団法人杉浦記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人杉浦記念財団",
+   "source_url": "https://sugi-zaidan.jp/smf/wp-content/uploads/2024/10/%EF%BC%88%E7%A0%94%E7%A9%B6%E5%88%86%E9%87%8E%EF%BC%89%E7%AC%AC14%E5%9B%9E%E6%9D%89%E6%B5%A6%E5%9C%B0%E5%9F%9F%E5%8C%BB%E7%99%82%E6%8C%AF%E8%88%88%E5%8A%A9%E6%88%90%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf",
+   "programs": [
+    {
+     "program_name": "第14回 杉浦地域医療振興助成（研究分野）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 7500000,
+     "fiscal_year": 2025,
+     "target_field": "多職種が連携して行う「地域包括ケアの実現」「健康寿命の延伸」の推進に寄与する研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは旧サイトのURLで、現在の公式サイトは https://sugi-zaidan.jp/ 。公式募集要項で確認できる2025年度分を収録した。1件200万円は定額ではなく上限のためamount_per_award_jpyはnull、amount_max_jpyに記録。年間採択件数は募集要項に明記されていないためnull。2026年度の第15回募集は終了しており、現行の公式募集ページから募集要項PDFへのリンクが撤去されていたため、公式ドメイン上で金額を直接確認できる第14回募集要項を出典とした。"
+  },
+  "url_hint": "http://sugi-zaidan.jp/assist_decoration/boshuyoko.html"
+ },
+ "公益財団法人田村科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人田村科学技術振興財団",
+   "source_url": "https://www.disclo-koeki.org/06b/00895/5-2025.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2025,
+     "target_field": "富山県内の高等教育・研究機関に所属する教育・研究者による、医療・保健に直接的または間接的に関わる生命科学領域の研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "2025年度公式募集要項では、研究助成は1件あたり最高50万円。採択件数は明記なし。助成総額400万円は研究助成だけでなく、海外派遣・招聘、講演会・シンポジウム等を含む全助成活動の合計なので、研究助成のtotal_budget_jpyには計上せずnullとした。参考URL（niigata-mf.or.jp）は公益財団法人新潟医学振興会のサイトであり、対象財団とは異なる。対象財団は独自サイトではなく「公益法人等情報公開共同サイト」で公式資料を公開している。"
+  },
+  "url_hint": "http://www.niigata-mf.or.jp"
+ },
+ "公益財団法人電通育英会": {
+  "codex": {
+   "foundation_name": "公益財団法人電通育英会",
+   "source_url": "https://www.dentsu-ikueikai.or.jp/wp-content/uploads/subsidy/DI_JJ2026_guide.pdf",
+   "programs": [
+    {
+     "program_name": "2026年度 学生による「次世代リーダー育成活動」助成事業",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 15,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "大学生が主体となる次世代リーダー育成・リーダーシップ育成活動。社会・地域課題、地域貢献、教育、国際交流、防災・災害支援、科学・テクノロジー、文化・芸術など、分野は不問。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLと同一ドメインは公益財団法人電通育英会の公式サイトであることを確認。公式募集要項には「年間15団体程度」「1団体100万円（上限）」と明記されているため、上限額と年間件数を収録した。定額ではないためamount_per_award_jpy、下限の記載がないためamount_min_jpy、年間総額は明記がないためtotal_budget_jpyをnullとした。なお、本制度は研究そのものに限定した研究助成ではなく、研究・社会実装を含み得る学生主体の人材育成活動への助成である。"
+  },
+  "url_hint": "https://www.dentsu-ikueikai.or.jp/transmission/subsidy/about"
+ },
+ "公益財団法人昭和医科大学医療振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人昭和医科大学医療振興財団",
+   "source_url": null,
+   "programs": [],
+   "confidence": "high",
+   "notes": "公式サイトは https://showa-mf.jp/ 。参考URL（http://www.fukudakinen.or.jp）は別法人「公益財団法人福田記念医療技術振興財団」のサイト。公式サイトおよび公式の法人概要を確認したが、現在公募されているのは「昭和上條医療賞」「昭和上條医療奨励賞」という顕彰事業であり、研究助成プログラムは確認できなかったため programs は空とした。顕彰の副賞は研究助成金ではないため収録していない。"
+  },
+  "url_hint": "http://www.fukudakinen.or.jp"
+ },
+ "公益財団法人コニカミノルタ科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人コニカミノルタ科学技術振興財団",
+   "source_url": "https://www.konicaminoltastf.or.jp/prize.html",
+   "programs": [
+    {
+     "program_name": "コニカミノルタ画像科学奨励賞（優秀賞）",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 2,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "光と画像に関する材料・デバイス、システム・ソフトウェア、その他の先端的研究。社会課題の解決に寄与する斬新で挑戦的な研究。"
+    },
+    {
+     "program_name": "コニカミノルタ画像科学奨励賞",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 8,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "光と画像に関する材料・デバイス、システム・ソフトウェア、その他の先端的研究。社会課題の解決に寄与する斬新で挑戦的な研究。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトの令和8年度（2026年度）公募概要に、優秀賞は1件200万円・2件程度、奨励賞は1件100万円・8件程度と明記されています。採択件数は確定数ではなく「程度」です。年間助成総額は公式ページに明記されていないためnullとしました。令和8年度は連携賞の募集を休止しています。参考URL（dojindo-f.or.jp）は公益財団法人同仁化学学術振興財団のサイトであり、対象財団とは異なります。"
+  },
+  "url_hint": "https://dojindo-f.or.jp/subsidy"
+ },
+ "公益財団法人イハラサイエンス中野記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人イハラサイエンス中野記念財団",
+   "source_url": "https://www.ihara-zaidan.or.jp/wp-content/themes/ihara_foundation_v3/page-subsidy/2026_joseiyoukou.pdf",
+   "programs": [
+    {
+     "program_name": "配管システム等研究助成",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 20,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "機械装置等の配管システム及び配管の構成要素に関する研究で、日本国内の公的な学術研究機関において実施されるもの"
+    }
+   ],
+   "confidence": "high",
+   "notes": "2026年度公式実施要項に「1件当たり助成金100万円」「20件程度採用予定」と明記。採択件数は確定数ではなく予定概数。年間助成総額は明記されていないためnull。参考URL（ito-zaidan.jp）は公益財団法人伊藤医薬学術交流財団のサイトであり、対象財団とは異なる。対象財団の公式サイトは https://www.ihara-zaidan.or.jp/ 。確認日: 2026-07-16。"
+  },
+  "url_hint": "https://ito-zaidan.jp"
+ },
+ "公益財団法人荏原畠山記念文化財団": {
+  "codex": {
+   "foundation_name": "公益財団法人荏原畠山記念文化財団",
+   "source_url": "https://foundation.hatakeyama-museum.org/grants/",
+   "programs": [
+    {
+     "program_name": "2026年度 研究助成",
+     "amount_per_award_jpy": 700000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 9,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "風水力・流体機械、環境・エネルギー・バイオマス、半導体製造装置及びプロセス"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを財団概要ページで確認。公式の2026年度研究助成応募要領には「研究1件当たり70万円、9件の助成を基準」と明記されている。具体額・件数は研究内容および資金状況等を勘案して決定される。年間助成総額は明記されていないため、700,000円×9件による推計は行わずnullとした。"
+  },
+  "url_hint": "https://foundation.hatakeyama-museum.org"
+ },
+ "公益財団法人近藤記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人近藤記念財団",
+   "source_url": "https://www.kondo-zaidan.or.jp/research/application",
+   "programs": [
+    {
+     "program_name": "研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": 30000000,
+     "fiscal_year": 2026,
+     "target_field": "炭素材料に関する基礎研究、応用研究及び周辺技術"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイトですが、「近藤記念財団賞（研究表彰金）」のページです。研究助成については公式の2026年度募集要項を採用しました。募集要項には「事業総額3000万円」「限度額：1件あたり300万円」と明記されていますが、採択件数および1件あたりの定額・下限は記載されていないためnullとしました。"
+  },
+  "url_hint": "https://www.kondo-zaidan.or.jp/award"
+ },
+ "公益財団法人秋山記念生命科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人秋山記念生命科学振興財団",
+   "source_url": "https://www.akiyama-foundation.org/wp-content/uploads/2026/01/AxisTDu6ZstiH784.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成〈一般〉",
+     "amount_per_award_jpy": 1200000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 18,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "生命科学諸領域の基礎的研究分野（生物学、農学、水産学、畜産・獣医学、薬学、医学、歯学、看護学、医用工学）"
+    },
+    {
+     "program_name": "研究助成〈奨励〉",
+     "amount_per_award_jpy": 600000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 17,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "生命科学諸領域の基礎的研究分野（生物学、農学、水産学、畜産・獣医学、薬学、医学、歯学、看護学、医用工学）"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。2026年度公式申込書要項では、一般は1件120万円・18件程度、奨励は1件60万円・17件程度と明記。一般は申込件数が著しく多い場合に減額する可能性がある。年間助成総額は明記されていないためnull。採択件数は確定数ではなく予定件数（程度）。"
+  },
+  "url_hint": "https://www.akiyama-foundation.org"
+ },
+ "公益財団法人日本科学協会": {
+  "codex": {
+   "foundation_name": "公益財団法人日本科学協会",
+   "source_url": "https://www.jss.or.jp/ikusei/sasakawa/",
+   "programs": [
+    {
+     "program_name": "笹川科学研究助成 学術研究部門",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1500000,
+     "num_awards_per_year": 279,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "人文・社会科学および自然科学（数物・工学、化学、生物、複合。医学を除く）。「海に関係する研究」を重点テーマとして支援。"
+    },
+    {
+     "program_name": "笹川科学研究助成 実践研究部門",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 500000,
+     "num_awards_per_year": 8,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "博物館、美術館、資料館、文学館、図書館、科学館、天文台、プラネタリウム、動・植物園、水族館その他の文化施設等で行う、地域文化の保存・継承・発展など、社会的課題の解決に必要な研究。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度公式ページには、学術研究部門は1件当たり上限150万円、実践研究部門は上限50万円と明記されているため、定額を示すamount_per_award_jpyと下限はnullとした。採択件数は公式「採択情報・選考総評」（https://www.jss.or.jp/ikusei/sasakawa/senkou/）掲載の2026年度実績に基づく。学術研究部門は人文・社会系29件、数物・工学系33件、化学系32件、生物系139件、複合系46件の合計279件、実践研究部門は8件。年間助成総額は確認した公式ページ・募集要項に明記がないためnull。"
+  },
+  "url_hint": "https://www.jss.or.jp/ikusei/sasakawa"
+ },
+ "公益財団法人日比科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人日比科学技術振興財団",
+   "source_url": "https://www.hibizaidan.jp/asset/pdf/disclosure/bosyu_r08.pdf",
+   "programs": [
+    {
+     "program_name": "一般研究課題",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": 1000000,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "生活環境に関する研究、および生活環境の向上に資する科学・技術・文化の振興と地域産業の発展に寄与する研究。具体例は機械、電気・電子、情報・通信、応用化学、土木・建築、応用物理、メカトロニクス、新素材、エネルギー、バイオ、複雑系科学、農学、保健衛生、芸術、防災等。"
+    },
+    {
+     "program_name": "特別研究課題",
+     "amount_per_award_jpy": 3000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "生活環境に関する研究、および生活環境の向上に資する科学・技術・文化の振興と地域産業の発展に寄与する研究。具体例は機械、電気・電子、情報・通信、応用化学、土木・建築、応用物理、メカトロニクス、新素材、エネルギー、バイオ、複雑系科学、農学、保健衛生、芸術、防災等。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。令和8年度募集要項では、一般研究課題は1件100万円または200万円、助成件数40～50件程度、特別研究課題は1件300万円、助成件数5～8件程度と明記されている。num_awards_per_yearは整数型に範囲を格納できないためnullとし、件数範囲を本notesに記載した。年間助成総額は募集要項に明記がないためnull。"
+  },
+  "url_hint": "http://www.hibizaidan.jp"
+ },
+ "公益財団法人パナック財団": {
+  "codex": {
+   "foundation_name": "公益財団法人パナック財団",
+   "source_url": "https://www.panac-f.or.jp/requirements/",
+   "programs": [
+    {
+     "program_name": "研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 5,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "SDGsの課題解決に役立つ、地球環境に配慮した持続可能な世界の実現が期待される素材技術分野の研究。特に、省・創・蓄エネルギーのための先端素材、プラスチックフィルム資源の循環・クリーン廃棄、接着剤・粘着剤の解体・クリーン廃棄、廃プラスチックのケミカルリサイクル・マテリアルリサイクルを優先。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式の2026年度募集要項では、助成金額は1件あたり上限100万円、助成件数は5件程度と明記されています。定額ではないため amount_per_award_jpy はnull、下限および年間助成総額も明記がないためnullとしました。参考URLは公益財団法人東急財団のページであり、対象財団の公式サイトではありません。"
+  },
+  "url_hint": "https://foundation.tokyu.co.jp/environment/kankyo-josei/support/2024"
+ },
+ "公益財団法人松籟科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人松籟科学技術振興財団",
+   "source_url": "https://www.shorai-foundation.or.jp/subsidy/data/kenkyu_boshu.pdf",
+   "programs": [
+    {
+     "program_name": "研究助成事業",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 16,
+     "total_budget_jpy": 30000000,
+     "fiscal_year": 2026,
+     "target_field": "課題A：植物有用成分およびバイオマス資源の高度利用に関わる研究／課題B：エレクトロニクスの次世代を担う材料および周辺技術に関わる研究／課題C：持続可能な社会を実現する有機系新素材およびその機能化に関わる研究"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度公式募集要項PDFには、1件当たり200万円、16件程度と明記。年間総額3,000万円程度は公式募集ページ（https://www.shorai-foundation.or.jp/application/）の記載を採用した。ただし、200万円×16件は3,200万円となり、公式記載間に差異があるためconfidenceをmediumとした。"
+  },
+  "url_hint": "https://www.shorai-foundation.or.jp"
+ },
+ "公益財団法人双葉電子記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人双葉電子記念財団",
+   "source_url": "https://www.futaba-zaidan.org/business/research.html",
+   "programs": [
+    {
+     "program_name": "自然科学研究助成 B-1区分（基礎研究活動支援）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "自然科学・技術全般。情報通信、ロボティクス、先端材料・プロセス等に関する、独創的な発想に基づく挑戦的な基礎研究。特に若手研究者の萌芽的研究、研究室の立ち上げ研究等。"
+    },
+    {
+     "program_name": "自然科学研究助成 B-2区分（基礎研究活動支援）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "自然科学・技術全般。情報通信、ロボティクス、先端材料・プロセス等に関する、応用または実用化を視野に入れた基礎研究。共同研究や地域の特徴を生かした研究等。"
+    },
+    {
+     "program_name": "自然科学研究助成 S区分（科学技術研究に関する会議開催支援）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "助成対象分野に関係し、原則として国内で開催される、参加者がおおむね100名以上の科学技術研究会議（シンポジウム、ワークショップ、国際的研究集会を含む）。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の2026年度募集要項には、B-1は1件最大100万円、B-2は1件最大200万円、Sは1件最大100万円と明記されている。いずれも上限以下の希望額を申請し、最終額は選考委員会が決定するため、amount_per_award_jpyと下限はnullとした。2026年度の区分別採択件数および助成総額は当該募集要項に明記されていないためnull。"
+  },
+  "url_hint": "http://www.futaba-zaidan.org"
+ },
+ "公益財団法人肥後医育振興会": {
+  "codex": {
+   "foundation_name": "公益財団法人肥後医育振興会",
+   "source_url": "https://www.119higo.com/news/syosai.php?id=320",
+   "programs": [
+    {
+     "program_name": "肥後医育振興会学術奨励賞（副賞）",
+     "amount_per_award_jpy": 150000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 4,
+     "total_budget_jpy": null,
+     "fiscal_year": 2025,
+     "target_field": "熊本県内の医・歯・薬・保健学系教育機関または医療関係機関に所属し、財団の趣旨に沿った研究・活動を行う若手研究者（個人またはグループ）"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の令和7年度募集要項には「4件程度」「1件15万円の副賞」と明記されている。採択件数は予定値。年間総額は明記されていないためnull。令和5年度までは「肥後医育振興会医学研究助成金」の名称で募集され、令和6年度以降は学術奨励賞と副賞に変更されている。"
+  },
+  "url_hint": "http://www.119higo.com"
+ },
+ "公益財団法人遠藤斉治朗記念科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人遠藤斉治朗記念科学技術振興財団",
+   "source_url": "https://www.kai-group.com/news/id/65/",
+   "programs": [
+    {
+     "program_name": "研究助成金",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 12,
+     "total_budget_jpy": 3850000,
+     "fiscal_year": 2008,
+     "target_field": "岐阜県内における科学技術（機械・刃物・金属加工および関連分野）に関する学術・教育・試験研究。大学、高専、高校、公的試験研究機関等が対象。"
+    }
+   ],
+   "confidence": "medium",
+   "notes": "参考URLは別法人「公益財団法人鈴木謙三記念医科学応用研究財団」の公式サイトであり、対象財団とは異なる。対象財団の公式情報は貝印グループ公式サイト（https://www.kai-group.com/global/about/activity_foundation.html）で確認。現行の公式助成概要には助成額・予定件数の記載がないため、金額と件数を明記した対象財団の公式な2008年度助成実績を収録した。総額385万円は12研究テーマ分で、別途交付された2団体への寄附金90万円は研究助成総額に含めていない。テーマごとの個別金額は公式ページに記載がないためnull。"
+  },
+  "url_hint": "http://www.suzukenzaidan.or.jp"
+ },
+ "公益財団法人三豊科学技術振興協会": {
+  "codex": {
+   "foundation_name": "公益財団法人三豊科学技術振興協会",
+   "source_url": "https://www.mast.or.jp/h/app_rm_kenkyu.html",
+   "programs": [
+    {
+     "program_name": "研究助成",
+     "amount_per_award_jpy": 2000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "精密機械工業の発展に寄与する加工・計測・制御に関する科学技術及び、それらの基礎となる理工学における優れた研究"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLの mast.or.jp は当該財団の公式サイトと確認。令和8（2026）年度の公式研究助成応募要領には、助成額「1件あたり200万円」、年間件数「10件程度」と明記されているため、num_awards_per_year は10を収録した（概数）。年間助成総額は明記されておらず、掛け算による推測を避けて null とした。国際交流助成は研究助成プログラムではないため除外した。"
+  },
+  "url_hint": "http://www.mast.or.jp"
+ },
+ "公益財団法人東洋食品研究所": {
+  "codex": {
+   "foundation_name": "公益財団法人東洋食品研究所",
+   "source_url": "https://www.shokuken.or.jp/subsidize/",
+   "programs": [
+    {
+     "program_name": "一般研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "食品資源、食品科学、食品加工に関する先駆的・独創的研究（若手研究者対象）"
+    },
+    {
+     "program_name": "法人設定テーマ研究助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 2000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "高齢化社会に向けた食品関連研究、食品需給課題に関する食品資源研究、食品廃棄物削減、食品評価技術向上"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式の2027年度研究助成案内では、一般研究助成は1件最大2,000,000円、法人設定テーマ研究助成は年額最大2,000,000円。下限および年間助成総額は明記されていない。採択予定は両プログラム合計で15件程度とされ、プログラム別件数は不明のためnum_awards_per_yearはnull。定額ではなく上限額のためamount_per_award_jpyはnullとした。"
+  },
+  "url_hint": "https://www.shokuken.or.jp"
+ },
+ "公益財団法人クリタ水・環境科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人クリタ水・環境科学振興財団",
+   "source_url": "https://www.kwef.org/josei/josei_koku.html",
+   "programs": [
+    {
+     "program_name": "国内研究助成：自然科学・技術（1）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1500000,
+     "num_awards_per_year": 20,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "水処理に関する理論、技術、分析、材料などの研究"
+    },
+    {
+     "program_name": "国内研究助成：自然科学・技術（2）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1500000,
+     "num_awards_per_year": 20,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "水域生態系保全、循環に関する研究"
+    },
+    {
+     "program_name": "国内研究助成：人文・社会科学",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 10,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "水に関する文化、教育、歴史、政策、制度、経済、社会課題などの研究"
+    },
+    {
+     "program_name": "国内研究助成：特別テーマ",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1500000,
+     "num_awards_per_year": 5,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "「水を究める」研究／「水を制する」研究"
+    },
+    {
+     "program_name": "国内研究助成：萌芽的研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 25,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "新しい切り口・手法に基づく水や水環境の研究、または若手・独立して研究を開始する研究者による研究"
+    },
+    {
+     "program_name": "国内研究助成：継続助成",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 15,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "前年度に国内研究助成または継続助成を受けている研究者"
+    },
+    {
+     "program_name": "国内研究助成2（ネットワーク構築助成）",
+     "amount_per_award_jpy": 5000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 3,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "水と水環境の将来重要となる研究領域に関する国内外研究者の交流・ネットワーク構築"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLはSOMPO環境財団のページであり、対象財団とは異なる。公式サイトはkwef.org。国内研究助成1の金額は募集要項上「上限」のためamount_max_jpyに収録し、件数は「採択予定」。ネットワーク構築助成の採択件数は「3件以内」。継続助成は採択予定15件だが、区分ごとの適用額を一意に特定できないため金額はnull。年間助成総額は公式募集要項に明記がないためnull。"
+  },
+  "url_hint": "https://www.sompo-ef.org/about/about.html"
+ },
+ "公益財団法人ノバルティス科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人ノバルティス科学振興財団",
+   "source_url": "https://novartis-foundation-japan.or.jp/about/pdf/2026_plan.pdf",
+   "programs": [
+    {
+     "program_name": "第40回ノバルティス研究奨励金",
+     "amount_per_award_jpy": 1000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 35,
+     "total_budget_jpy": 35000000,
+     "fiscal_year": 2026,
+     "target_field": "生物・生命科学、関連する化学および情報科学の領域において、日本国内で行われる創造的な研究"
+    },
+    {
+     "program_name": "研究集会助成",
+     "amount_per_award_jpy": 400000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 5,
+     "total_budget_jpy": 2000000,
+     "fiscal_year": 2026,
+     "target_field": "生物・生命科学、関連する化学および情報科学の領域において、日本国内で開催される国際色豊かな研究集会"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLの旧ドメインではなく、財団名・所在地・事業内容を確認できる https://novartis-foundation-japan.or.jp/ を現行の公式サイトと特定。2026年度公式事業計画書に、研究奨励金は総額3,500万円（1件100万円、35件）、研究集会助成は総額200万円（1件40万円、5件）と明記されている。"
+  },
+  "url_hint": "http://www.novartisfound.or.jp"
+ },
+ "公益財団法人大阪ガス国際交流財団": {
+  "codex": {
+   "foundation_name": "公益財団法人大阪ガス国際交流財団",
+   "source_url": "https://www.osakagas.co.jp/company/efforts/international/enterprise/plan.html",
+   "programs": [
+    {
+     "program_name": "試験研究助成",
+     "amount_per_award_jpy": 1800000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": null,
+     "num_awards_per_year": 5,
+     "total_budget_jpy": 9000000,
+     "fiscal_year": 2025,
+     "target_field": "学術・科学技術分野。インドネシア大学、バンドン工科大学、ボゴール農業大学、サラワク大学、ワヤンバ大学への試験研究助成。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式の令和7年度事業計画書に、試験研究助成は総額60,000ドル（円換算約9,000千円）、5大学へ各12,000ドル（各1,800千円）と明記されているため、公式記載の円換算額を収録した。件数は研究課題数ではなく助成先大学数。助成テーマは各大学の学内委員会による選考後、財団が評価して決定する方式で、一般公募の募集要項は確認できなかった。参考URLの国際交流基金（jpf.go.jp）は別法人であり、対象財団の公式サイトではない。"
+  },
+  "url_hint": "https://www.jpf.go.jp/j/program"
+ },
+ "公益財団法人ファイザーヘルスリサーチ振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人ファイザーヘルスリサーチ振興財団",
+   "source_url": "https://www.health-research.or.jp/content/",
+   "programs": [
+    {
+     "program_name": "国際共同研究",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": 8,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "国内外におけるヘルスリサーチ領域の問題解決型共同研究。海外施設所属の共同研究者を1名以上含む。重点分野は制度・政策、医療経済、保健医療の評価、保健医療サービス、保健医療資源の開発、医療哲学・医療倫理など。生物医学的研究は対象外。"
+    },
+    {
+     "program_name": "国内共同研究（年齢制限なし）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1300000,
+     "num_awards_per_year": 14,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "国内におけるヘルスリサーチ領域の問題解決型共同研究。重点分野は制度・政策、医療経済、保健医療の評価、保健医療サービス、保健医療資源の開発、医療哲学・医療倫理など。生物医学的研究は対象外。"
+    },
+    {
+     "program_name": "国内共同研究（満39歳以下）",
+     "amount_per_award_jpy": null,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1000000,
+     "num_awards_per_year": 14,
+     "total_budget_jpy": null,
+     "fiscal_year": 2026,
+     "target_field": "国内におけるヘルスリサーチ領域の問題解決型共同研究。応募者は満39歳以下、共同研究者は全員満45歳以下。重点分野は制度・政策、医療経済、保健医療の評価、保健医療サービス、保健医療資源の開発、医療哲学・医療倫理など。生物医学的研究は対象外。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。2026年度（第35回）の公式研究助成公募ページおよび募集要項に基づく。各金額は定額ではなく「上限」のためamount_per_award_jpyはnullとし、amount_max_jpyへ収録した。件数は公式記載の「8件程度」「14件程度」であり、確定採択件数ではなく予定数。年間助成総額は明記されていないため、上限額×予定件数による推計を行わずnullとした。取得・確認日: 2026-07-16。"
+  },
+  "url_hint": "https://www.health-research.or.jp"
+ },
+ "公益財団法人立石科学技術振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人立石科学技術振興財団",
+   "source_url": "https://www.tateisi-f.org/research/application.html",
+   "programs": [
+    {
+     "program_name": "2027年度 研究助成(S)",
+     "amount_per_award_jpy": 30000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 30000000,
+     "num_awards_per_year": null,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "エレクトロニクスおよび情報工学分野。人間と機械の調和を促進し、統合技術・プロトタイプの開発、機能検証、実証実験による社会実装を目指す研究プロジェクト。"
+    },
+    {
+     "program_name": "2027年度 研究助成(A)",
+     "amount_per_award_jpy": 3000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 3000000,
+     "num_awards_per_year": 35,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "エレクトロニクスおよび情報工学分野で、人間と機械の調和を促進する研究活動。基礎研究活動も対象。"
+    },
+    {
+     "program_name": "2027年度 研究助成(B)",
+     "amount_per_award_jpy": 6000000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 6000000,
+     "num_awards_per_year": 2,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "エレクトロニクスおよび情報工学分野で、人間と機械の調和を促進する研究活動。基礎研究活動も対象。"
+    },
+    {
+     "program_name": "2027年度 研究助成(C)",
+     "amount_per_award_jpy": 1800000,
+     "amount_min_jpy": null,
+     "amount_max_jpy": 1800000,
+     "num_awards_per_year": 15,
+     "total_budget_jpy": null,
+     "fiscal_year": 2027,
+     "target_field": "エレクトロニクスおよび情報工学分野で、人間と機械の調和を促進する、博士課程在学中の若手研究者の研究活動。"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。公式の2027年度募集要項に基づく。金額はいずれも間接経費を含む上限額。研究助成(C)は年額上限600,000円、最長3年間で最大1,800,000円。採択件数はSが「1～2件程度」のため、整数1個で表せずnullとした。A・B・Cの件数も公式表記では「程度」。年間助成総額は募集要項に明記がないためnull。"
+  },
+  "url_hint": "https://www.tateisi-f.org/about/outline.html"
+ }
+}
