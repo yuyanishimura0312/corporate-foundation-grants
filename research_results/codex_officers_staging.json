@@ -35120,5 +35120,328 @@
    "notes": "公式サイトの情報公開ページに掲載された2024年8月22日現在の役員名簿・評議員名簿から収集した。役員名簿で文字を確定できなかった1名は除外。参考URLは北國新聞社の基金ページであり、対象財団とは無関係。公式サイトでは研究助成制度および選考委員・審査委員の公開名簿を確認できなかった。なお、2025年6月20日に山下幸政氏が会長へ就任しているが、配列は役員・評議員を同一基準日で扱える2024年名簿に統一した。"
   },
   "url_hint": "https://www.hokkoku.co.jp/kikin/gan"
+ },
+ "公益財団法人土屋文化振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人土屋文化振興財団",
+   "source_url": null,
+   "fiscal_year": null,
+   "officers": [],
+   "confidence": "low",
+   "notes": "参考URL http://www.tsuchiya-zaidan.or.jp/ は、独立行政法人日本芸術文化振興会の助成団体情報にも当財団のURLとして掲載されており、対象財団の公式サイトと判断できる。ただし調査時点で同サイトはタイムアウトし、検索結果からも公式の役員名簿・組織・選考委員／審査委員ページを確認できなかった。公式情報で氏名・役職を検証できないため、推測せず officers は空とした。"
+  },
+  "url_hint": "http://www.tsuchiya-zaidan.or.jp"
+ },
+ "公益財団法人図書館振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人図書館振興財団",
+   "source_url": "https://toshokan.or.jp/company/",
+   "fiscal_year": 2026,
+   "officers": [
+    {
+     "person_name": "小澤 嘉謹",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "株式会社図書館流通センター",
+     "title": "相談役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社図書館流通センター"
+    },
+    {
+     "person_name": "今村 正樹",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社偕成社",
+     "title": "代表取締役会長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社偕成社"
+    },
+    {
+     "person_name": "植松 貞夫",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "筑波大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "銭谷 眞美",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "公益財団法人新国立劇場運営財団",
+     "title": "理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "高井 昌史",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社紀伊國屋書店",
+     "title": "代表取締役会長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社紀伊國屋書店"
+    },
+    {
+     "person_name": "高山 正也",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "慶應義塾大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "谷一 文子",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社図書館流通センター",
+     "title": "取締役会長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社図書館流通センター"
+    },
+    {
+     "person_name": "岩下 圭一",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": null,
+     "title": "弁護士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "森 孝司",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "株式会社図書館流通センター",
+     "title": "取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社図書館流通センター"
+    },
+    {
+     "person_name": "糸賀 雅児",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "慶應義塾大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "岡本 光晴",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "日本児童図書出版協会",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "桜井 健夫",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": null,
+     "title": "弁護士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "高橋 安澄",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社図書館流通センター",
+     "title": "取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社図書館流通センター"
+    },
+    {
+     "person_name": "野口 武悟",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "青山学院大学 コミュニティ人間科学部",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "細川 博史",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社図書館流通センター",
+     "title": "取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社図書館流通センター"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは同財団の旧URLまたは無効なURLとみられる。公式サイトの組織概要に「2026年6月26日現在」として理事・監事・評議員が掲載されている。公式の助成ページ（https://toshokan.or.jp/guideline/）では選考委員会による審査を確認できたが、委員氏名は掲載されていないためreviewerは収録していない。"
+  },
+  "url_hint": "https://www.toshokan.or.jp/jyosei"
+ },
+ "公益財団法人原総合知的通信システム基金": {
+  "codex": {
+   "foundation_name": "公益財団法人原総合知的通信システム基金",
+   "source_url": "https://www.hara-rf.jp/overview/official/",
+   "fiscal_year": null,
+   "officers": [
+    {
+     "person_name": "原 丈人",
+     "role": "councilor",
+     "role_ja": "評議員・議長",
+     "affiliation": "株式会社デフタ・パートナーズ",
+     "title": "グループ会長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社デフタ・パートナーズ"
+    },
+    {
+     "person_name": "竹中 統一",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社竹中工務店",
+     "title": "代表取締役会長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社竹中工務店"
+    },
+    {
+     "person_name": "黒田 章裕",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "コクヨ株式会社",
+     "title": "会長",
+     "is_corporate_exec": true,
+     "corporate_name": "コクヨ株式会社"
+    },
+    {
+     "person_name": "矢作 恒雄",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "慶応義塾経営大学院",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山田 邦雄",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "ロート製薬株式会社",
+     "title": "代表取締役会長",
+     "is_corporate_exec": true,
+     "corporate_name": "ロート製薬株式会社"
+    },
+    {
+     "person_name": "磯野 昌英",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "一般財団法人アライアンス・フォーラム",
+     "title": "理事",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "田嶋 英雄",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "コニカミノルタ・ホールディング株式会社",
+     "title": "名誉顧問",
+     "is_corporate_exec": true,
+     "corporate_name": "コニカミノルタ・ホールディング株式会社"
+    },
+    {
+     "person_name": "鳥井 信吾",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "サントリーホールディングス株式会社",
+     "title": "代表取締役副会長",
+     "is_corporate_exec": true,
+     "corporate_name": "サントリーホールディングス株式会社"
+    },
+    {
+     "person_name": "原 健人",
+     "role": "director",
+     "role_ja": "代表理事",
+     "affiliation": "株式会社データコントロール",
+     "title": "代表取締役社長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社データコントロール"
+    },
+    {
+     "person_name": "伊藤 信太郎",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "衆議院",
+     "title": "議員",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐々木 浩二",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社アドイン研究所",
+     "title": "代表取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社アドイン研究所"
+    },
+    {
+     "person_name": "森永 規彦",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "大阪大学、広島国際大学",
+     "title": "名誉教授、名誉教授・元学長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "神野 明彦",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "アキ・マネジメントプロモーション",
+     "title": "代表、キャノンシステムアンドサポート株式会社元社長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "森永 規彦",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "大阪大学、広島国際大学",
+     "title": "名誉教授、名誉教授・元学長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "川野 真稔",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "総務省国際戦略局技術政策課",
+     "title": "課長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "王 健平",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "北京大学",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "三宅 眞",
+     "role": "reviewer",
+     "role_ja": "選考委員",
+     "affiliation": "三菱電機株式会社",
+     "title": "元主管技師長、工学博士（通信工学）",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象財団の公式サイトであることを確認。公式の「役員構成」ページに役員と選考委員が併記されている。掲載基準日・年度の記載がないためfiscal_yearはnull。代表理事は原文どおりrole_jaに記録し、roleはdirectorとした。元社長・元主管技師長など過去の企業役職のみが記載された人物は、現在の兼任を確認できないためis_corporate_exec=false。創設者は指定された収集対象の役職ではないため除外した。"
+  },
+  "url_hint": "http://www.hara-rf.jp"
  }
 }
