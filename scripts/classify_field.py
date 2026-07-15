@@ -38,17 +38,20 @@ for col in ("primary_field", "primary_field_method"):
 
 # authoritative first: if a foundation already has evidence-based focus_area (inferred_from_program),
 # use its primary (is_primary or max weight) level-1 as primary_field with method='evidence'
+# evidence auth: prefer llm_classified (codex) over inferred_from_program (old classifier)
 auth = {}
 for oid, cat in c.execute("""
     SELECT ffa.organization_id, fc.id FROM foundation_focus_areas ffa
     JOIN foundation_categories fc ON fc.id=ffa.category_id AND fc.level=1
-    WHERE ffa.source='inferred_from_program'
-    ORDER BY ffa.is_primary DESC, ffa.weight DESC""").fetchall():
-    auth.setdefault(oid, cat)  # first = primary
+    WHERE ffa.source IN ('llm_classified','inferred_from_program')
+    ORDER BY (ffa.source='llm_classified') DESC, ffa.is_primary DESC, ffa.weight DESC""").fetchall():
+    auth.setdefault(oid, cat)  # first = primary (llm_classified wins over inferred)
 
 from collections import Counter
 cnt = Counter(); method_cnt = Counter()
-for oid, name, desc in c.execute("SELECT id,name,description FROM organizations").fetchall():
+for oid, name, desc, cur_method in c.execute("SELECT id,name,description,primary_field_method FROM organizations").fetchall():
+    if cur_method == "codex":
+        continue  # never overwrite codex-verified classification (fable guard)
     if oid in auth:
         pf, method = auth[oid], "evidence"
     else:
