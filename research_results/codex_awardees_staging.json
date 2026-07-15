@@ -7851,5 +7851,1775 @@
   },
   "url_hint": "https://www.zenginzaidan.jp",
   "elapsed_s": 80
+ },
+ "公益財団法人持田記念医学薬学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人持田記念医学薬学振興財団",
+   "source_url": "https://www.mochidazaidan.or.jp/pdf/2025kenkyu_2.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "岩崎 未央",
+     "affiliation": "京都大学 iPS細胞研究所 未来生命科学開拓部門 岩崎研究室",
+     "position": null,
+     "project_title": "細胞の機能維持に必要な最小単位のリボソーム複合体構成要素と分化指向性の解明",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大久保 巧",
+     "affiliation": "京都大学 iPS細胞研究所 未来生命科学開拓部門 髙島研究室",
+     "position": null,
+     "project_title": "多能性幹細胞由来ヒト胚モデルを用いた胚発生機構の解明",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小幡 裕希",
+     "affiliation": "国立がん研究センター 研究所 がん細胞内トラフィック研究ユニット",
+     "position": null,
+     "project_title": "腫瘍細胞におけるがん原性レセプターチロシンキナーゼの局在異常、その原因マシナリーの探索",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "栗林和華子",
+     "affiliation": "国立感染症研究所 次世代生物学的製剤研究センター",
+     "position": null,
+     "project_title": "HTLV-1感染による造血幹細胞機能の撹乱と病態形成機序の解明",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "齋藤 諒",
+     "affiliation": "理化学研究所 開拓研究所 齋藤生命現象エンジニアリング理研ECL研究チーム",
+     "position": null,
+     "project_title": "真核生物性のCRISPR-Cas様酵素を用いたゲノム編集ツールの開発",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "酒井 大史",
+     "affiliation": "愛媛大学 プロテオサイエンスセンター 病態生理解析部門",
+     "position": null,
+     "project_title": "個別化医療を目指した男性ホルモン受容体による骨格筋線維制御メカニズムの解明",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐田亜衣子",
+     "affiliation": "九州大学 生体防御医学研究所 皮膚再生老化学分野",
+     "position": null,
+     "project_title": "皮膚炎症を制御する幹細胞シグナルネットワークの全容解明",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "高田 仁実",
+     "affiliation": "奈良先端科学技術大学院大学 先端科学技術研究科 幹細胞工学研究室",
+     "position": null,
+     "project_title": "ヒト胃幹細胞オルガノイドを活用した炎症性胃疾患の病態解明とその治療技術の開発",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "永田 瑞",
+     "affiliation": "東京科学大学 大学院医歯学総合研究科 歯周病学分野",
+     "position": null,
+     "project_title": "時空間特異的な間葉系幹細胞の運命追跡による歯髄・歯周組織再生メカニズムの解明",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "原 知明",
+     "affiliation": "大阪大学 医学系研究科 疾患データサイエンス学",
+     "position": null,
+     "project_title": "乳酸菌を介したmiR-155送達による腸管誘導型CAR-T様T（CARTLT）細胞の活性化とがん免疫療法の確立",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "吉岡 望",
+     "affiliation": "日本歯科大学 新潟生命歯学部 解剖学第1講座",
+     "position": null,
+     "project_title": "線維芽細胞による末梢神経再生の機序解明と新規人工神経への応用",
+     "field_hint": "バイオ技術を基盤とする先端医療に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "内野 鉱也",
+     "affiliation": "福岡大学 薬学部 臨床疾患薬理学研究室",
+     "position": null,
+     "project_title": "完全ヒト由来三者間シナプス解析モデルを構築し、レット症候群の病態解明に迫る",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大瀧 夏子",
+     "affiliation": "千葉大学 大学院医学研究院 人工知能（AI）医学",
+     "position": null,
+     "project_title": "マイクロ液滴技術と核酸標識技術を用いた高次元サイトカイン応答解析による肺線維症進行メカニズムの解明",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "奥舎 有加",
+     "affiliation": "岡山大学 学術研究院医歯薬学域 薬理学分野",
+     "position": null,
+     "project_title": "新規モデルマウスを用いた変異型PTEN結合タンパクを標的とする悪性腫瘍治療薬の開発",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "垣内美和子",
+     "affiliation": "東京大学 大学院医学系研究科 衛生学分野",
+     "position": null,
+     "project_title": "シングルセル空間オミクス解析による、免疫逃避性ニッチェに基づく胃上皮幹細胞ヒエラルキーの解明",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "児崎 達哉",
+     "affiliation": "慶應義塾大学 殿町先端研究教育連携スクエア",
+     "position": null,
+     "project_title": "大脳オルガノイド共培養系におけるヒトiPS細胞由来ミクログリアを使用した神経変性疾患の解明",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "白井 雄也",
+     "affiliation": "大阪大学 大学院医学系研究科 遺伝統計学",
+     "position": null,
+     "project_title": "ゲノム情報に紐付く線維化病態の層別化と個別化医療への応用",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東島 佳毅",
+     "affiliation": "宮崎大学 テニュアトラック推進室",
+     "position": null,
+     "project_title": "血管炎症を駆動する転写ファシリテーターの存在の証明",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "広浜大五郎",
+     "affiliation": "帝京大学 医学部 内科学講座 腎臓研究室",
+     "position": null,
+     "project_title": "腎臓オミクスと日本人GWASによる心腎代謝疾患解析",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "矢吹 悌",
+     "affiliation": "熊本大学 発生医学研究所 ゲノム神経学",
+     "position": null,
+     "project_title": "液－液相分離を介したTau凝集と神経変性機構の解明",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山口 幸佑",
+     "affiliation": "国立遺伝学研究所 分子細胞工学研究室",
+     "position": null,
+     "project_title": "新規スクリーニング手法を用いたタンパク質重要部位の一斉解析",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山田真太郎",
+     "affiliation": "東京都医学総合研究所 先端基礎医科学研究分野 ゲノム動態プロジェクト",
+     "position": null,
+     "project_title": "臨床データと新しい乳癌マウスモデルを組み合わせた早期乳癌発生機構の解析",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "LU YONGGANG",
+     "affiliation": "大阪大学 ヒューマン・メタバース疾患研究拠点 創造的破壊生物学",
+     "position": null,
+     "project_title": "網羅的ウイルス侵入プロセスの解析",
+     "field_hint": "バイオ技術を基盤とするゲノム機能／病態解析に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "有井 潤",
+     "affiliation": "神戸大学 大学院医学研究科 臨床ウイルス学分野",
+     "position": null,
+     "project_title": "ウイルス特異的核外輸送を制御する抗ウイルス戦略の創出",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "飯沼 智久",
+     "affiliation": "千葉大学医学部附属病院 耳鼻咽喉・頭頸部外科",
+     "position": null,
+     "project_title": "好酸球性副鼻腔炎におけるIL-4/13受容体抗体投与後の免疫学的変化および特異的嗅覚障害の解明",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "伊藤 崇",
+     "affiliation": "千葉大学 大学院医学研究院 アレルギー・臨床免疫学",
+     "position": null,
+     "project_title": "腸管GPR41陽性好酸球の機能解析",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "浦木 隆太",
+     "affiliation": "国立国際医療研究所 国際ウイルス感染症研究センター ウイルス感染動態部",
+     "position": null,
+     "project_title": "呼吸器ウイルス感染における宿主non-coding RNAの病態形成と制御に果たす役割の解明",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "奥野 友介",
+     "affiliation": "名古屋市立大学 大学院医学研究科 ウイルス学分野",
+     "position": null,
+     "project_title": "ハイスループット解析を可能にする新規ウイルス粒子産生能評価系の構築",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "勝俣 良紀",
+     "affiliation": "慶應義塾大学 医学部 スポーツ医学総合センター",
+     "position": null,
+     "project_title": "ウェルビーイングの向上を目指した、水素ガスによるアトピー性皮膚炎の新たな治療法の開発",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "金丸 栄樹",
+     "affiliation": "横浜市立大学附属病院 麻酔科 集中治療部",
+     "position": null,
+     "project_title": "敗血症関連脳症を標的とした硫黄代謝制御による革新的治療戦略の開発",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "久保 智史",
+     "affiliation": "産業医科大学 医学部第1内科学講座",
+     "position": null,
+     "project_title": "CD4⁺ TEMRA細胞を標的とした関節リウマチおよび免疫老化制御の新戦略",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "倉島 洋介",
+     "affiliation": "千葉大学 大学院医学研究院 イノベーション医学",
+     "position": null,
+     "project_title": "腸内微生物が生み出す代謝物による膵機能制御と感染予防戦略の構築",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "倉谷 歩見",
+     "affiliation": "大阪大学 微生物病研究所 感染病態分野",
+     "position": null,
+     "project_title": "腫瘍内に蓄積するNK細胞サブセットの機能解明と治療標的化",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小丸 陽平",
+     "affiliation": "東京大学医学部附属病院 救急・集中治療科",
+     "position": null,
+     "project_title": "重症敗血症における過剰な宿主免疫反応と微小循環障害による臓器障害機構の解明",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "白銀 勇太",
+     "affiliation": "東京科学大学 大学院医歯学総合研究科 生体環境応答学講座 ウイルス制御学分野",
+     "position": null,
+     "project_title": "神経薬理学的アプローチによるウイルス脳炎分子基盤の解明",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "榛葉 旭恒",
+     "affiliation": "京都大学 医学研究科がん免疫総合研究センター 高次統御システム間制御部門",
+     "position": null,
+     "project_title": "がん細胞が免疫細胞の概日リズムの乱れを誘導して抗がん免疫応答を減退させる機構の解明",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "辰川 英樹",
+     "affiliation": "名古屋大学 大学院創薬科学研究科 細胞生化学分野",
+     "position": null,
+     "project_title": "マクロファージの極性化を標的とした線維化の病態形成機構の解明",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "鍋倉 宰",
+     "affiliation": "愛知県がんセンター 研究所 腫瘍免疫応答研究分野",
+     "position": null,
+     "project_title": "免疫調節薬によるナチュラルキラー細胞の抗がん活性増強の分子機序解明とその応用",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "仁平 直江",
+     "affiliation": "聖マリアンナ医科大学 大学院医学研究科 応用分子腫瘍学",
+     "position": null,
+     "project_title": "腫瘍形成における細胞内PD-L1の機能解明と治療への応用",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "服部 祐季",
+     "affiliation": "名古屋大学 大学院医学系研究科 細胞生物学分野",
+     "position": null,
+     "project_title": "母体炎症・ストレスによる胎児脳内免疫細胞の応答と脳発生への影響",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤原 英晃",
+     "affiliation": "岡山大学病院 血液・腫瘍内科",
+     "position": null,
+     "project_title": "口腔ー肺相関から紐解く免疫細胞性肺障害発症機序の解明と治療応用",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "星野 良朋",
+     "affiliation": "東京大学医学部附属病院 腎臓・内分泌内科 内分泌・骨ミネラル代謝研究グループ",
+     "position": null,
+     "project_title": "骨Paget病の原因解明に向けた自己免疫機序の探索的研究",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "細見 晃司",
+     "affiliation": "大阪公立大学 獣医学研究科 獣医感染症学教室",
+     "position": null,
+     "project_title": "感染症と自己免疫疾患をつなぐ新たな免疫メカニズムの解明と制御法の開発",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "槇田 広佑",
+     "affiliation": "東京大学 大学院医学系研究科 内科学専攻 呼吸器内科学",
+     "position": null,
+     "project_title": "刺激物質曝露による遷延性好中球性気道炎症の分子病態解明と新規治療法の探索",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松下 一史",
+     "affiliation": "兵庫医科大学 医学部 免疫学講座",
+     "position": null,
+     "project_title": "気道アレルギーにおける肥満細胞を介したIgE応答の惹起ならびアレルゲン多重感作の誘導",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森 俊輔",
+     "affiliation": "大阪大学 微生物病研究所 免疫化学",
+     "position": null,
+     "project_title": "T細胞のネオセルフ認識機構がもたらす自己免疫疾患のメカニズム解明",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森田 覚",
+     "affiliation": "慶應義塾大学 医学部 外科学教室（一般・消化器）",
+     "position": null,
+     "project_title": "肝癌悪性化に寄与する線維化機構と微小免疫環境の本態解明に関する研究",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "夜久 圭介",
+     "affiliation": "富山大学 学術研究部医学系 分子医科薬理学講座",
+     "position": null,
+     "project_title": "BST1は慢性腎不全の発症を制御するのか",
+     "field_hint": "免疫／アレルギー／炎症／感染症の治療ならびに制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "新井 洋平",
+     "affiliation": "東京科学大学病院 血液浄化療法部 腎臓内科学研究室",
+     "position": null,
+     "project_title": "血液中に併存する後天性Y染色体喪失とクローン性造血が心血管・腎疾患の病態を助長する分子機序の解明",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "生島 芳子",
+     "affiliation": "東北大学 SiRIUS（医学イノベーション研究所）医学創生研究部",
+     "position": null,
+     "project_title": "正常造血・造血器悪性腫瘍制御における骨髄脂肪の機能の解明",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小野寺俊晴",
+     "affiliation": "大阪大学 大学院医学系研究科 肥満脂肪病態学寄附講座",
+     "position": null,
+     "project_title": "脂肪細胞、前駆脂肪細胞における生理的、病的線維化の構築メカニズムの探究",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "川瀬 治哉",
+     "affiliation": "名古屋大学医学部附属病院 循環器内科",
+     "position": null,
+     "project_title": "血管内皮特異的受容体を標的とした新規虚血性心疾患治療法の開発",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "木内謙一郎",
+     "affiliation": "慶應義塾大学 医学部 腎臓内分泌代謝内科",
+     "position": null,
+     "project_title": "概日リズム障害による炎症とTリンパ球における免疫代謝",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "楠山 譲二",
+     "affiliation": "東京科学大学 大学院医歯学総合研究科 生体情報継承学分野",
+     "position": null,
+     "project_title": "肥満・糖尿病発症の個人差起源を胎盤機能から探る",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "候 聡志",
+     "affiliation": "東京大学 大学院医学系研究科 先端循環器医科学講座",
+     "position": null,
+     "project_title": "不全型心筋細胞リプログラミングによる重症心不全遺伝子治療の開発",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "﨑谷 直義",
+     "affiliation": "産業技術総合研究所 生命工学領域 運動生理学・バイオメカニクス研究グループ",
+     "position": null,
+     "project_title": "糖代謝異常改善における力学的刺激応答機構の解明と運動効果模倣法開発のための基盤構築",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "白石 泰之",
+     "affiliation": "慶應義塾大学 医学部 循環器内科",
+     "position": null,
+     "project_title": "新規心不全薬の効果比較：個別化医療に向けた薬物反応性およびリスク層別化のための統合オミックス解析",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "杉山夏緒里",
+     "affiliation": "防衛医科大学校 防衛医学研究センター 生体情報・治療システム研究部門",
+     "position": null,
+     "project_title": "脂質因子に着目した胸部大動脈瘤破裂関連因子の探索",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田崎 雅義",
+     "affiliation": "熊本大学 大学院生命科学研究部 臨床分析科学講座",
+     "position": null,
+     "project_title": "新規アミロイドーシスにおける分泌異常を起点としたアミロイド形成機序の解明",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 真司",
+     "affiliation": "東京大学医学部附属病院 腎臓・内分泌内科",
+     "position": null,
+     "project_title": "障害耐性機構に基づいた急性腎障害治療薬の開発",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "霍田 裕明",
+     "affiliation": "国立国際医療研究所 分子糖尿病医学研究部",
+     "position": null,
+     "project_title": "腸管の摂食応答から見た老化および糖尿病合併症予防における新規治療法の解明",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中田 雄一郎",
+     "affiliation": "千葉大学 大学院医学研究院 疾患システム医学",
+     "position": null,
+     "project_title": "心不全誘導型自然免疫記憶の解明とその治療法の開発",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "廣瀬 勝俊",
+     "affiliation": "大阪大学 大学院歯学研究科 顎顔面口腔病理学講座",
+     "position": null,
+     "project_title": "難治性脈管奇形の遺伝子型と異常シグナル解析を基盤とした個別化医療の実現",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "渡辺 博文",
+     "affiliation": "新潟大学医歯学総合病院 腎・膠原病内科",
+     "position": null,
+     "project_title": "腎レニン細胞を標的とした次世代型レニン-アンジオテンシン系阻害薬の創出に関する基盤的研究",
+     "field_hint": "循環器／血液疾患の病態解析／治療制御に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "荒川 大",
+     "affiliation": "名古屋市立大学 大学院薬学研究科 レギュラトリーサイエンス分野",
+     "position": null,
+     "project_title": "胆汁成分が回収可能な肝細胞培養系icHepを用いた薬物代謝物の血中・胆汁中振り分け評価手法の構築",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "家田 直弥",
+     "affiliation": "北海道大学 大学院薬学研究院 生体分析化学研究室",
+     "position": null,
+     "project_title": "生体深部での薬剤活性制御のための低エネルギー光ケージド化合物",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "石川 文洋",
+     "affiliation": "近畿大学 薬学部 医療薬学科 有機薬化学研究室",
+     "position": null,
+     "project_title": "細菌におけるタンパク質分解創薬の開拓：脂肪酸合成酵素分解誘導剤の開発研究",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "磯部 洋輔",
+     "affiliation": "理化学研究所 生命医科学研究センター メタボローム研究チーム",
+     "position": null,
+     "project_title": "タンパク質間相互作用が駆動する新たな脂肪酸代謝ネットワークの解明および創薬展開",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小川 昂輝",
+     "affiliation": "名古屋市立大学 大学院薬学研究科 薬物送達学分野",
+     "position": null,
+     "project_title": "吸入粉末製剤を基盤とした肺感染症に対するmRNA治療薬開発",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "紅林 佑希",
+     "affiliation": "静岡県立大学 薬学部 生化学分野",
+     "position": null,
+     "project_title": "ノロウイルス感染因子の探索とその感染制御への応用",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "清水かほり",
+     "affiliation": "大阪大学 大学院薬学研究科 分子生物学分野",
+     "position": null,
+     "project_title": "DHA含有リン脂質に着目した、リン脂質代謝関連遺伝子のデリバリーによる薬物性肝障害の新規治療法の開発",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "髙橋 葉子",
+     "affiliation": "東京薬科大学 薬学部 薬物送達学教室",
+     "position": null,
+     "project_title": "炎症制御能・核酸搭載能を有する超音波応答性ナノバブルの開発と中枢神経系疾患治療の基盤構築",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "武田 行正",
+     "affiliation": "近畿大学 産業理工学部生物環境化学科 細胞機能生化学",
+     "position": null,
+     "project_title": "ヒト褐色脂肪細胞の発生メカニズムの解明による革新的増幅モデルの創出",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 浩揮",
+     "affiliation": "東北大学 大学院薬学研究科 薬物送達学研究室",
+     "position": null,
+     "project_title": "外来抗原特異的T細胞の抗原認識能の拡大によるIn vivo CAR-T細胞療法の開発",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "爲本 雄太",
+     "affiliation": "千葉大学 大学院薬学研究院 薬物学研究室",
+     "position": null,
+     "project_title": "腹腔内動態における分子サイズの影響の解明と腹膜播種治療への展開",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "出口 清香",
+     "affiliation": "東京科学大学 総合研究院難治疾患研究所 人体模倣システム学分野",
+     "position": null,
+     "project_title": "腸管組織チップを用いたエンテロウイルス感染症モデルの開発と創薬応用",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "戸井田 力",
+     "affiliation": "産業技術総合研究所 生命工学領域モレキュラーバイオシステム研究部門 バイオ分子機能制御研究グループ",
+     "position": null,
+     "project_title": "脾臓マクロファージに着目した遠隔臓器の炎症性疾患の制御",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "苫米地隆人",
+     "affiliation": "北里大学 薬学部 薬剤学教室",
+     "position": null,
+     "project_title": "PROTACsのエンドソーム/リソソームから細胞質への脱出機構の解明",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "豊田 優",
+     "affiliation": "防衛医科大学校 医学教育部医学科 分子生体制御学講座",
+     "position": null,
+     "project_title": "腋臭症リスク決定因子の機能阻害を目指した探索的研究と応用展開",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "平田 祐介",
+     "affiliation": "東北大学 大学院薬学研究科 衛生化学分野",
+     "position": null,
+     "project_title": "コレステロール代謝経路の新規制御機構の理解に基づくフェロトーシス関連疾患の治療戦略開発",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松尾 和哉",
+     "affiliation": "京都工芸繊維大学 分子化学系",
+     "position": null,
+     "project_title": "超硫黄種のin situ発生法の確立",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "向井 英史",
+     "affiliation": "長崎大学 大学院医歯薬学総合研究科（薬学系）医薬品情報学分野",
+     "position": null,
+     "project_title": "トリガー式放射性核種クリアランスによる高コントラスト・最小毒性ラジオセラノスティクス",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森廣 邦彦",
+     "affiliation": "東京大学 大学院工学系研究科",
+     "position": null,
+     "project_title": "核酸集合反応を利用した選択的セノリティック薬の開発",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山口 翔",
+     "affiliation": "名古屋大学 大学院理学研究科 神経行動学グループ",
+     "position": null,
+     "project_title": "神経伝達物質動態に着目したてんかん発作の分子メカニズムの解明",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山下 祐",
+     "affiliation": "東京慈恵会医科大学 整形外科学講座",
+     "position": null,
+     "project_title": "新規骨リモデリング因子を標的とする骨粗鬆症治療の革新的アプローチの構築",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山田 幸平",
+     "affiliation": "静岡県立大学 薬学部 薬剤学分野",
+     "position": null,
+     "project_title": "粘膜バリアを効率的に突破するdual mucosal drug delivery system開発：siRNAの経口製剤化",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山本 雄介",
+     "affiliation": "国立がん研究センター 研究所 病態情報学ユニット",
+     "position": null,
+     "project_title": "Y染色体欠損がん細胞株ライブラリの作製による合成致死性の探索",
+     "field_hint": "創薬・創剤の基盤に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "石坂 彩",
+     "affiliation": "東京大学 医科学研究所 感染症分野",
+     "position": null,
+     "project_title": "腸内細菌が分泌する細胞外小胞によるCOVID-19感染症の後遺症発症機序の解明とその治療を目指した基盤研究",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "川﨑 健太",
+     "affiliation": "慶應義塾大学 医学部 腫瘍センター",
+     "position": null,
+     "project_title": "転移幹細胞を標的とした神経内分泌癌の新規治療開発",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "川澄遼太郎",
+     "affiliation": "東京都立大学 理学研究科化学専攻 生物化学研究室",
+     "position": null,
+     "project_title": "コヒーシンを標的とした個別化がん治療法の開発",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "越山 太輔",
+     "affiliation": "東京大学医学部附属病院 精神神経科",
+     "position": null,
+     "project_title": "トランスレーショナルメディスンの実現に向けた統合失調症の新たな治療標的の創出研究",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "重光 孟",
+     "affiliation": "大阪大学 大学院工学研究科 応用化学専攻",
+     "position": null,
+     "project_title": "超分子×抗体融合による新規光治療モダリティの開拓",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "鈴木 博元",
+     "affiliation": "千葉大学 大学院薬学研究院 環境生体科学講座分子画像薬品学",
+     "position": null,
+     "project_title": "211At標識ペプチドの治療効果を向上する新規薬剤設計",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "千場 隆",
+     "affiliation": "がん研究会 がん研究所 発がん研究部",
+     "position": null,
+     "project_title": "空間マルチオミクス解析に基づくがん関連線維芽細胞の運命決定機構の解明と臨床応用",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "辻 翔平",
+     "affiliation": "岐阜薬科大学 薬理学研究室",
+     "position": null,
+     "project_title": "グリオーマ幹細胞特異的な合成致死ペアの同定",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "富田 洋平",
+     "affiliation": "慶應義塾大学 医学部 眼科学教室 脈絡網膜生物学研究室",
+     "position": null,
+     "project_title": "Photobiomodulationを応用した糖尿病網膜症に対する新規治療法の開発",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "弘津 陽介",
+     "affiliation": "山梨県立中央病院 ゲノム解析センター",
+     "position": null,
+     "project_title": "人工知能駆動型cfDNA解析と環状DNA・超並列増幅技術による早期がん診断法の開発",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山内 一郎",
+     "affiliation": "京都大学 大学院医学研究科 糖尿病・内分泌・栄養内科学",
+     "position": null,
+     "project_title": "TSH受容体シグナルの解明による甲状腺機能亢進症の創薬基盤開発",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山田 康隆",
+     "affiliation": "千葉大学 大学院医学研究院 泌尿器科学",
+     "position": null,
+     "project_title": "転移性前立腺癌におけるheterogeneityの解明と克服を目指した治療戦略の開発",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "吉田 彩舟",
+     "affiliation": "東邦大学 理学部 生物分子科学科 動物発生制御学研究室",
+     "position": null,
+     "project_title": "抗がん剤耐性変異の克服に立脚した次世代Hedgehog阻害薬の創出",
+     "field_hint": "創薬とその臨床応用に関する研究",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "2026年7月15日確認。公式サイトは https://www.mochidazaidan.or.jp/ であり、参考URLの terumozaidan.or.jp は対象財団の公式サイトではない。公式「受賞者一覧」からリンクされた「2025年度研究助成金交付対象者」PDFに掲載された全100名を収録。所属はPDF記載の申請時所属。PDFには職位および個別交付金額の記載がないため、positionとamount_jpyはnull。"
+  },
+  "url_hint": "https://www.terumozaidan.or.jp",
+  "elapsed_s": 235
+ },
+ "公益財団法人旭硝子財団": {
+  "codex": {
+   "foundation_name": "公益財団法人旭硝子財団",
+   "source_url": "https://www.af-info.or.jp/research/assets/pdf/awardees/2026adoptionlist.pdf",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "陳 旻究",
+     "affiliation": "北海道大学 総合イノベーション創発機構 化学反応創成研究拠点",
+     "position": "准教授",
+     "project_title": "固体中で電荷移動特性の精密制御を可能とする新規な結晶性分子ローターの開発と機能開拓",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "楊井 伸浩",
+     "affiliation": "東京大学 大学院理学系研究科",
+     "position": "教授",
+     "project_title": "量子制御型化学システムの構築",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "相良 剛光",
+     "affiliation": "東京科学大学 物質理工学院材料系",
+     "position": "准教授",
+     "project_title": "燐光のOn/Offスイッチを示すロタキサン型超分子メカノフォアの開発",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "前田 千尋",
+     "affiliation": "東京科学大学 物質理工学院応用化学系",
+     "position": "准教授",
+     "project_title": "ホウ素ドープした環状マルチヘリセンの開発と機能化",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "柏原 美勇斗",
+     "affiliation": "京都大学 大学院工学研究科化学理工学専攻",
+     "position": "助教",
+     "project_title": "高酸化度の地球温暖化ガスを分解する有機高分子触媒の創出",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "渡邊 雄一郎",
+     "affiliation": "京都大学 大学院工学研究科高分子化学専攻",
+     "position": "助教",
+     "project_title": "ランダム系低分子有機固体材料の創出",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "茅原 栄一",
+     "affiliation": "広島大学 大学院先進理工系科学研究科 化学プログラム",
+     "position": "特定教授",
+     "project_title": "らせん状トポロジカル半導体高分子の創製と機能開拓",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "川谷 諒",
+     "affiliation": "徳島大学 大学院社会産業理工学研究部",
+     "position": "助教",
+     "project_title": "ケミカルリサイクルを志向したアクリル酸ビニルエステルの環化重合",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "窪田 亮",
+     "affiliation": "九州大学 大学院工学研究院応用化学部門",
+     "position": "教授",
+     "project_title": "細胞に乾燥耐性を付与する超分子ガラスの開発",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "米里 健太郎",
+     "affiliation": "東京大学 大学院新領域創成科学研究科 物質系専攻",
+     "position": "助教",
+     "project_title": "酸素サイト置換型金属酸化物クラスターを基盤としたハイスループットな光・電気化学材料の開発",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "平野 知之",
+     "affiliation": "広島大学 大学院先進理工系科学研究科 先進理工系科学専攻",
+     "position": "助教",
+     "project_title": "火炎法による大過冷却融液/ガラス状態を経由した準安定相の創製",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "近藤 梓",
+     "affiliation": "東北大学 大学院理学研究科附属 巨大分子解析研究センター",
+     "position": "准教授",
+     "project_title": "高官能基化アルキン合成法の開発",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "中島 誠也",
+     "affiliation": "東京大学 大学院薬学系研究科",
+     "position": "准教授",
+     "project_title": "生合成模倣型脱ベンゼン的[2+2]環化付加反応による未踏分子合成",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "安川 直樹",
+     "affiliation": "名古屋工業大学 大学院工学研究科工学専攻",
+     "position": "助教",
+     "project_title": "ホウ素ラジカルが切り拓く重活性化の新フロンティア",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "下川 淳",
+     "affiliation": "京都大学 大学院理学研究科化学専攻",
+     "position": "准教授",
+     "project_title": "シラシクロブタン環拡大による含ケイ素環状骨格統一構築法",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "川本 拓治",
+     "affiliation": "山口大学 大学院創成科学研究科 工学系学域応用化学分野",
+     "position": "准教授",
+     "project_title": "環縮小反応に基づく含フッ素分解性ポリマー創製",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "大澤 歩",
+     "affiliation": "九州大学 大学院薬学研究院創薬科学部門 医薬化学講座反応創薬化学分野",
+     "position": "講師",
+     "project_title": "アミドを前駆体とする高反応性化学種発生法",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "倉科 佑太",
+     "affiliation": "東京農工大学 工学研究院先端機械システム部門",
+     "position": "准教授",
+     "project_title": "光の限界を超えた光学顕微鏡観察によるソフトマテリアルのin situ力学的特性の観察手法構築",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "石川 理史",
+     "affiliation": "東京科学大学 総合研究院 フロンティア材料研究所",
+     "position": "准教授",
+     "project_title": "結晶性硫酸化複合酸化物の創製と次世代アルカン異性化触媒への展開",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "後藤 知代",
+     "affiliation": "奈良先端科学技術大学院大学 先端科学技術研究科 物質創成科学領域",
+     "position": "教授",
+     "project_title": "液相プロセスを用いたナノ構造制御によるイオン交換機能の開拓",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "Ko Seongjae",
+     "affiliation": "東京大学 大学院工学系研究科 化学システム工学専攻",
+     "position": "講師",
+     "project_title": "静電相互作用制御による高イオン伝導性電解液の創成",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "齊藤 馨",
+     "affiliation": "東京科学大学 理学院化学系",
+     "position": "助教",
+     "project_title": "超プロトン伝導性電解質による中温燃料電池・電解セルの革新",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "渡邊 健太",
+     "affiliation": "東京科学大学 物質理工学院",
+     "position": "助教",
+     "project_title": "全固体電気化学系で動作するLi+脱挿入性p型半導体光電極の開発と動作原理解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "多々良 涼一",
+     "affiliation": "横浜国立大学 大学院工学研究院機能の創生部門",
+     "position": "准教授",
+     "project_title": "電解液設計を通じた真に資源制約のない蓄電池系の構築",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "木須 一彰",
+     "affiliation": "芝浦工業大学 工学部",
+     "position": "准教授",
+     "project_title": "配位構造制御による高速カルシウムイオン伝導体の開拓",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "石川 文洋",
+     "affiliation": "近畿大学 薬学部",
+     "position": "准教授",
+     "project_title": "アデニル化酵素の機能拡張によるファインケミカルの環境調和型製造法の開発",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "小川 亜希子",
+     "affiliation": "東北大学 大学院薬学研究科・薬学部 モドミクス薬学分野",
+     "position": "准教授",
+     "project_title": "修飾RNA由来の新規生理活性物質が織りなす生命現象の解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "沖田 ひかり",
+     "affiliation": "東京科学大学 総合研究院生体材料工学研究所",
+     "position": "助教",
+     "project_title": "高機能DNAzyme探索に向けた化学・酵素融合型SELEX法の開発",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "村井 正俊",
+     "affiliation": "京都大学 大学院農学研究科応用生命科学専攻",
+     "position": "教授",
+     "project_title": "病原性細菌のナトリウムポンプを標的とする新規抗菌剤候補化合物の創製",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "柏木 光昭",
+     "affiliation": "筑波大学 国際統合睡眠医科学研究機構",
+     "position": "研究員",
+     "project_title": "睡眠老化の神経・分子基盤の解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "福谷 洋介",
+     "affiliation": "東京農工大学 大学院工学研究院生命工学部門",
+     "position": "准教授",
+     "project_title": "嗅覚受容体の繊毛膜局在機構解明と人工嗅繊毛細胞による次世代匂いセンシングの創出",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "小坂田 拓哉",
+     "affiliation": "東京科学大学 生命理工学院生命理工学系",
+     "position": "特任准教授",
+     "project_title": "神経ペプチドセンサーのin vivo多点記録から切り拓く社会性の理解",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "諸石 寿朗",
+     "affiliation": "東京科学大学 総合研究院難治疾患研究所",
+     "position": "教授",
+     "project_title": "細胞内鉄動態制御による未病解明と疾患予防",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "野村 亘",
+     "affiliation": "信州大学 学術研究院農学系",
+     "position": "助教",
+     "project_title": "細胞成長過程における細胞壁と細胞膜との協調的連関機構の解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "田代 陽介",
+     "affiliation": "静岡大学 学術院工学領域",
+     "position": "准教授",
+     "project_title": "細菌の膜小胞超産生を駆動する分子基盤と一細胞動態の解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "橋本 将典",
+     "affiliation": "静岡大学 学術院農学領域",
+     "position": "テニュアトラック准教授",
+     "project_title": "根圏細菌叢による植物の重金属ストレス干渉メカニズムの解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "真鍋 良幸",
+     "affiliation": "大阪大学 大学院基礎工学研究科",
+     "position": "教授",
+     "project_title": "糖鎖ケミカルノックインで拓く膜タンパク質の機能制御",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "蜂谷 卓士",
+     "affiliation": "島根大学 総合科学研究支援センター 遺伝子機能解析部門",
+     "position": "准教授",
+     "project_title": "アンモニウム感受性の植物種間差に関与する遺伝子の探索",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "伊藤 太一",
+     "affiliation": "九州大学 基幹教育院自然科学実験系部門",
+     "position": "准教授",
+     "project_title": "新規睡眠制御メカニズムの解明とドラッガブルターゲットの探索",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "花田 保之",
+     "affiliation": "宮崎大学 医学部機能制御学講座 血管動態生化学",
+     "position": "助教",
+     "project_title": "基質粘弾性による血管新生の2つの異なる細胞極性と形態形成の統合機構の解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "井上 加奈子",
+     "affiliation": "奈良先端科学技術大学院大学 バイオサイエンス研究科 植物免疫学専攻",
+     "position": "博士研究員",
+     "project_title": "水稲の鉄ストレス耐性を増強する非菌根型細菌共生の分子基盤の解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "細 将貴",
+     "affiliation": "早稲田大学 教育学部理学科生物学専修",
+     "position": "准教授",
+     "project_title": "動物の「くさい」分泌物に含まれる生態系機能物質の特定",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "三宅 崇仁",
+     "affiliation": "関西学院大学 大学院理工学研究科生命医科学専攻",
+     "position": "准教授",
+     "project_title": "非ウイルス性シナプス依存トレーシング法による脳神経回路ネットワークの体系的理解",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "宗 正智",
+     "affiliation": "京都大学 大学院農学研究科応用生命科学専攻",
+     "position": "助教",
+     "project_title": "Rheo-NMRと常磁性緩和促進によるアミロイド線維多型形成の蛋白質間相互作用解析",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "田中 若奈",
+     "affiliation": "広島大学 大学院統合生命科学研究科 食品生命科学プログラム",
+     "position": "准教授",
+     "project_title": "植物分裂組織制御の新原理－イネ遺伝子と既知制御機構の相互作用を手がかりに解き明かす－",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "竹田 弘法",
+     "affiliation": "埼玉大学 大学院理工学研究科",
+     "position": "准教授",
+     "project_title": "ミトコンドリアが代謝産物を適切に取り込むメカニズムの解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "納戸 直木",
+     "affiliation": "名古屋大学 学際統合物質科学研究機構",
+     "position": "特任助教",
+     "project_title": "知識転移に基づく機械学習ベースの反応条件探索の効率化",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "高岡 洋輔",
+     "affiliation": "京都大学 大学院農学研究科応用生命科学専攻",
+     "position": "教授",
+     "project_title": "生体高分子の植物個体内送達を切り拓く次世代ケモキャリアの創成",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "髙野 哲也",
+     "affiliation": "九州大学 高等研究院",
+     "position": "准教授",
+     "project_title": "ストレスによる神経回路の動的変容を捉える時空間プロテオーム解析技術の開発",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "高田 啓",
+     "affiliation": "富山県立大学 工学部生物工学科",
+     "position": "講師",
+     "project_title": "翻訳がつまずく瞬間を捕まえる:品質管理を引き起こすペプチドの正体",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "中室 貴幸",
+     "affiliation": "広島大学 持続可能性に寄与するキラルノット超物質国際研究所",
+     "position": "特任教授",
+     "project_title": "動的分子プロセスの可視化と応用による次世代ものづくり科学",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "鈴木 祥仁",
+     "affiliation": "大阪公立大学 大学院工学研究科物質化学生命系専攻",
+     "position": "准教授",
+     "project_title": "地球冷却を可能にする25 nmスケール有機完全共役ナノ結晶の赤外発光",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "米田 勇祐",
+     "affiliation": "自然科学研究機構 分子科学研究所",
+     "position": "助教",
+     "project_title": "新規単一光子相関分光による物質材料の構造ゆらぎと機能の相関解明",
+     "field_hint": "化学・生命分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "奥村 正樹",
+     "affiliation": "東北大学 学際科学フロンティア研究所",
+     "position": "国際卓越准教授(PI)",
+     "project_title": "次世代in situタンパク質構造解析による小胞体内区画化の可視化",
+     "field_hint": "化学・生命分野／若手継続グラント",
+     "amount_jpy": 8000000
+    },
+    {
+     "awardee_name": "山岸 由和",
+     "affiliation": "千葉大学 大学院医学研究院附属 法医学教育研究センター",
+     "position": "特任助教",
+     "project_title": "薬物の死後分解物の網羅的同定と紫外線・過酸化水素を用いた死後分解物の迅速合成法の開発",
+     "field_hint": "化学・生命分野／若手継続グラント",
+     "amount_jpy": 8000000
+    },
+    {
+     "awardee_name": "矢島 健",
+     "affiliation": "名古屋大学 大学院工学研究科 材料デザイン工学専攻",
+     "position": "准教授",
+     "project_title": "単結晶で解き明かす協奏的拡散の双極性",
+     "field_hint": "化学・生命分野／若手継続グラント",
+     "amount_jpy": 8000000
+    },
+    {
+     "awardee_name": "後藤 佑樹",
+     "affiliation": "京都大学 大学院理学研究科化学専攻",
+     "position": "教授",
+     "project_title": "ペプチド相互作用の人工創出",
+     "field_hint": "化学・生命分野／若手継続グラント",
+     "amount_jpy": 8000000
+    },
+    {
+     "awardee_name": "田中 隆行",
+     "affiliation": "京都大学 大学院工学研究科化学理工学専攻",
+     "position": "准教授",
+     "project_title": "アザヘリセンを基盤とした高伝導性キラル分子システムの構築",
+     "field_hint": "化学・生命分野／若手継続グラント",
+     "amount_jpy": 8000000
+    },
+    {
+     "awardee_name": "小西 彬仁",
+     "affiliation": "大阪大学 大学院工学研究科附属フューチャーイノベーションセンター",
+     "position": "助教",
+     "project_title": "潜在的ラジカル性に着目した非交互炭化水素の反応場の追求",
+     "field_hint": "化学・生命分野／若手継続グラント",
+     "amount_jpy": 8000000
+    },
+    {
+     "awardee_name": "古山 渓行",
+     "affiliation": "兵庫県立大学 大学院工学研究科応用化学専攻",
+     "position": "教授",
+     "project_title": "近赤外光物質化学が導く反応制御技術",
+     "field_hint": "化学・生命分野／若手継続グラント",
+     "amount_jpy": 7900000
+    },
+    {
+     "awardee_name": "吉田 優",
+     "affiliation": "東京理科大学 先進工学部生命システム工学科",
+     "position": "教授",
+     "project_title": "N-N切断を伴う新反応を経る三成分連結の開発と擬ペプチド合成への展開",
+     "field_hint": "化学・生命分野／若手継続グラント",
+     "amount_jpy": 8000000
+    },
+    {
+     "awardee_name": "山本 拓矢",
+     "affiliation": "北海道大学 大学院工学研究院",
+     "position": "准教授",
+     "project_title": "環状PEG修飾ナノ粒子の形成原理追究と応用展開",
+     "field_hint": "化学・生命分野／ステップアップ助成",
+     "amount_jpy": 14000000
+    },
+    {
+     "awardee_name": "砂田 祐輔",
+     "affiliation": "東京大学 生産技術研究所",
+     "position": "教授",
+     "project_title": "貴金属フリー・省エネルギー化学的水素貯蔵法開発",
+     "field_hint": "化学・生命分野／ステップアップ助成",
+     "amount_jpy": 14000000
+    },
+    {
+     "awardee_name": "中村 崇司",
+     "affiliation": "名古屋大学 未来材料・システム研究所",
+     "position": "教授",
+     "project_title": "アニオン欠陥機能の活用による蓄電池材料開発の革新",
+     "field_hint": "化学・生命分野／ステップアップ助成",
+     "amount_jpy": 14000000
+    },
+    {
+     "awardee_name": "山岡 尚平",
+     "affiliation": "京都大学 大学院生命科学研究科 統合生命科学専攻",
+     "position": "准教授",
+     "project_title": "花粉発生の中核メカニズムの解明とその制御化合物の探索",
+     "field_hint": "化学・生命分野／ステップアップ助成",
+     "amount_jpy": 14000000
+    },
+    {
+     "awardee_name": "鷹谷 絢",
+     "affiliation": "大阪大学 大学院基礎工学研究科 物質創成専攻機能物質化学領域",
+     "position": "教授",
+     "project_title": "光芳香環分解反応による含窒素化合物合成の革新",
+     "field_hint": "化学・生命分野／ステップアップ助成",
+     "amount_jpy": 14000000
+    },
+    {
+     "awardee_name": "山内 翔",
+     "affiliation": "公立はこだて未来大学 システム情報科学部複雑系知能学科",
+     "position": "准教授",
+     "project_title": "アニマルセラピーの代替となる次世代型ペットロボットシステムの構築",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "五十嵐 アン",
+     "affiliation": "東北大学 大学院工学研究科電子工学専攻",
+     "position": "助教",
+     "project_title": "Zigzagリング共振器によるNVセンター光引き出し効率の高効率化",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "三木 颯馬",
+     "affiliation": "東北大学 材料科学高等研究所",
+     "position": "助教",
+     "project_title": "フェリ磁性体・磁性絶縁体におけるスキルミオン拡散とスピン波による制御",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "小林 真隆",
+     "affiliation": "東京大学 物性研究所",
+     "position": "助教",
+     "project_title": "機械学習を用いた半導体レーザーのフェムト秒パルス直接発生に向けた動作条件の解明",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 2700000
+    },
+    {
+     "awardee_name": "神野 莉衣奈",
+     "affiliation": "東京大学 先端科学技術研究センター",
+     "position": "助教",
+     "project_title": "短波長サブバンド間遷移光デバイスの実現を目指した超ワイドバンドギャップ酸化物結晶成長技術の開発",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "小山 知弘",
+     "affiliation": "大阪大学 産業科学研究所",
+     "position": "准教授",
+     "project_title": "触媒作用を利用した層界面への水素導入によるスピンカイラリティ制御",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "藤井 瞬",
+     "affiliation": "慶應義塾大学 理工学部",
+     "position": "専任講師",
+     "project_title": "波乗り励起子：原子層二次元材料における励起子の長距離輸送ダイナミクスの可視化",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "高邉 賢史",
+     "affiliation": "東京科学大学 情報理工学院",
+     "position": "准教授",
+     "project_title": "4元数勾配と深層学習を利用した量子誤り訂正符号のための汎用的復号法の開発",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "李 恒",
+     "affiliation": "中央大学 理工学部電気電子情報通信工学科",
+     "position": "助教",
+     "project_title": "カーボンナノチューブによる光熱起電力と降伏現象を組み合わせた超広帯域・超高感度・高速ミリ波-赤外センサシートの創出",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "Ernst David Herbschleb",
+     "affiliation": "高エネルギー加速器研究機構 量子場計測システム国際拠点",
+     "position": "准教授",
+     "project_title": "ダイヤモンド中のNV中心集団を用いた核スピン量子センシング",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "米田 成",
+     "affiliation": "神戸大学 大学院システム情報学研究科 システム情報学専攻",
+     "position": "准教授",
+     "project_title": "非線形光学作用による超解像1画素カメラの実現",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "吉光 喜太郎",
+     "affiliation": "東京科学大学 医療イノベーション機構",
+     "position": "特任准教授",
+     "project_title": "昆虫視覚と行動模倣による非言語的手術用インタフェースの構築に関する研究",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "小松 丈紘",
+     "affiliation": "福井工業高等専門学校 未来社会デザイン工学科電気電子系",
+     "position": "講師",
+     "project_title": "摩擦帯電型ナノ発電技術を用いた高齢者見守り用圧力検知システムの構築",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "橋本 優生",
+     "affiliation": "東京科学大学 工学院機械系",
+     "position": "助教",
+     "project_title": "ウェアラブルデータに基づく子供の生活空間における概日リズム変調因子の探求",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "神山 翼",
+     "affiliation": "お茶の水女子大学 基幹研究院",
+     "position": "講師",
+     "project_title": "気象学と生態学の融合による地球温暖化下の熱帯拡大がカツオ回遊ルートに与える影響の解明",
+     "field_hint": "物理・情報分野／研究奨励",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "勝見 亮太",
+     "affiliation": "豊橋技術科学大学 大学院工学研究科 電気・電子情報工学系",
+     "position": "准教授",
+     "project_title": "高性能集積ダイヤモンド量子センサーモジュールの創成",
+     "field_hint": "物理・情報分野／若手継続グラント",
+     "amount_jpy": 8000000
+    },
+    {
+     "awardee_name": "久保 結丸",
+     "affiliation": "沖縄科学技術大学院大学 サイエンステクノロジーグループ",
+     "position": "主幹研究員",
+     "project_title": "スピンメーザーを用いた極低温における超低雑音・広帯域マイクロ波増幅",
+     "field_hint": "物理・情報分野／若手継続グラント",
+     "amount_jpy": 8000000
+    },
+    {
+     "awardee_name": "酒井 英明",
+     "affiliation": "東北大学 金属材料研究所",
+     "position": "教授",
+     "project_title": "PT対称ディラック反強磁性体の新奇電流磁気効果の開拓",
+     "field_hint": "物理・情報分野／ステップアップ助成",
+     "amount_jpy": 14000000
+    },
+    {
+     "awardee_name": "池田 理哲",
+     "affiliation": "岡山理科大学 工学部建築学科",
+     "position": "講師",
+     "project_title": "解体危機に瀕するメタボリズム建築の現状とリビングヘリテージとしての持続的活用に関する研究",
+     "field_hint": "建築・都市分野／提案研究",
+     "amount_jpy": 2500000
+    },
+    {
+     "awardee_name": "湯淺 かさね",
+     "affiliation": "千葉大学 大学院工学研究院",
+     "position": "助教",
+     "project_title": "公共施設再編ワークショップ参加者等のまちづくり意識醸成プロセスと要因の解明",
+     "field_hint": "建築・都市分野／提案研究",
+     "amount_jpy": 1700000
+    },
+    {
+     "awardee_name": "王 益遜",
+     "affiliation": "東京科学大学 物質理工学院材料系",
+     "position": "助教",
+     "project_title": "積層造形による鋼構造物のサーキュラーエコノミーとライフサイクル評価",
+     "field_hint": "建築・都市分野／提案研究",
+     "amount_jpy": 2500000
+    },
+    {
+     "awardee_name": "江 文菁",
+     "affiliation": "工学院大学 建築学部建築学科",
+     "position": "准教授",
+     "project_title": "急性期病院における患者支援センターの建築計画的特徴に関する基礎研究",
+     "field_hint": "建築・都市分野／提案研究",
+     "amount_jpy": 1900000
+    },
+    {
+     "awardee_name": "張 海仲",
+     "affiliation": "山形大学 学術研究院",
+     "position": "准教授",
+     "project_title": "地震の不確実性を考慮した液状化ハザード解析手法の開発",
+     "field_hint": "建築・都市分野／提案研究",
+     "amount_jpy": 2100000
+    },
+    {
+     "awardee_name": "杉野 未奈",
+     "affiliation": "京都大学 大学院工学研究科建築学専攻",
+     "position": "准教授",
+     "project_title": "残留変形が木造建物の固有振動数に及ぼす影響評価",
+     "field_hint": "建築・都市分野／提案研究",
+     "amount_jpy": 2500000
+    },
+    {
+     "awardee_name": "塚本 由晴",
+     "affiliation": "東京科学大学 環境・社会理工学院 建築学系建築学コース",
+     "position": "教授",
+     "project_title": "Nocturnal City Behaviorology and “Nocturnal Tokyo”―蒸暑地域における夜型都市のふるまい学調査と東京でのケーススタディ―",
+     "field_hint": "建築・都市分野／発展研究",
+     "amount_jpy": 4500000
+    },
+    {
+     "awardee_name": "伊東 啓太郎",
+     "affiliation": "九州工業大学 大学院工学研究院建設社会工学専攻",
+     "position": "教授",
+     "project_title": "子どもの遊びと地域生態系をつなぐ自然再生デザイン",
+     "field_hint": "建築・都市分野／発展研究",
+     "amount_jpy": 5100000
+    },
+    {
+     "awardee_name": "野澤 千絵",
+     "affiliation": "明治大学 政治経済学部",
+     "position": "専任教授",
+     "project_title": "居住のアフォーダビリティ確保に向けた不動産投資に伴う非居住住宅化に対する国内外の都市・住宅政策の実態と課題",
+     "field_hint": "建築・都市分野／発展研究",
+     "amount_jpy": 4000000
+    },
+    {
+     "awardee_name": "山崎 義弘",
+     "affiliation": "東京科学大学 総合研究院",
+     "position": "准教授",
+     "project_title": "建築構造用木材の極低サイクル疲労現象の解明と大型木造建築物の普及促進に資する部材設計法の開発",
+     "field_hint": "建築・都市分野／発展研究",
+     "amount_jpy": 5900000
+    },
+    {
+     "awardee_name": "謝 子晋",
+     "affiliation": "北海道大学 経済学研究院",
+     "position": "講師",
+     "project_title": "消費者の環境配慮支払は一次生産者にどう伝わるか～サステナブル認証商品の推進と持続可能な生産・消費の実現に関する経済学的研究",
+     "field_hint": "人文・社会科学分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "藤本 丈史",
+     "affiliation": "筑波大学 人文社会系国際公共政策学域",
+     "position": "特任助教",
+     "project_title": "環境調和型の農閑期の貧困解消政策の模索：二期作とマメ科作物の供与",
+     "field_hint": "人文・社会科学分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "阿部 光利",
+     "affiliation": "神戸大学 大学院法学研究科",
+     "position": "准教授",
+     "project_title": "肥大化する特許明細書の統制：過剰記載抑制を考慮要素とした特許要件および後願排除効の解釈の試み",
+     "field_hint": "人文・社会科学分野／提案研究",
+     "amount_jpy": 1100000
+    },
+    {
+     "awardee_name": "平野 実晴",
+     "affiliation": "神戸大学 大学院法学研究科・法学部",
+     "position": "准教授",
+     "project_title": "権利にもとづく地球システムガバナンス――国際法化する「環境権」と「自然の権利」の可能性と限界",
+     "field_hint": "人文・社会科学分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "齊藤 豪大",
+     "affiliation": "久留米大学 経済学部経済学科",
+     "position": "准教授",
+     "project_title": "水産資源の有限性をめぐる論理：近世スウェーデンにおける水産資源変動の問題を事例に",
+     "field_hint": "人文・社会科学分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "三谷 羊平",
+     "affiliation": "京都大学 大学院農学研究科 生物資源経済学専攻",
+     "position": "准教授",
+     "project_title": "経済発展と環境保全の両立を目指した零細漁民のソーシャルキャピタルを高める市民科学手法の検討",
+     "field_hint": "人文・社会科学分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "井川 裕覚",
+     "affiliation": "東北大学 大学院文学研究科宗教学専攻分野",
+     "position": "特任助教",
+     "project_title": "宗教資源を活用した日本型「災害チャプレン」モデルの開発",
+     "field_hint": "人文・社会科学分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "秋山 公平",
+     "affiliation": "新潟大学 グローバル推進機構",
+     "position": "准教授",
+     "project_title": "持続可能な国際通商秩序の構築に向けた法的基盤形成に関する研究",
+     "field_hint": "人文・社会科学分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "小坂 理子",
+     "affiliation": "長崎大学 医学部",
+     "position": "准教授",
+     "project_title": "食生活の栄養学的妥当性と地球環境影響の同時評価：地域・国際比較研究",
+     "field_hint": "人文・社会科学分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "和泉田 保一",
+     "affiliation": "山形大学 人文社会科学部",
+     "position": "教授",
+     "project_title": "持続可能な社会を実現するためのマイクロプラスチック規制の国際比較：国際的動向を踏まえた日本の制度的課題の検討",
+     "field_hint": "人文・社会科学分野／発展研究",
+     "amount_jpy": 3700000
+    },
+    {
+     "awardee_name": "島村 健",
+     "affiliation": "京都大学 大学院法学研究科",
+     "position": "教授",
+     "project_title": "野生生物管理法制の空白を埋める：海棲哺乳類との共生のための法制度研究",
+     "field_hint": "人文・社会科学分野／発展研究",
+     "amount_jpy": 4000000
+    },
+    {
+     "awardee_name": "野津 喬",
+     "affiliation": "早稲田大学 大学院環境・エネルギー研究科",
+     "position": "教授",
+     "project_title": "農地の複層的空間利用による脱炭素化と食料安定供給の同時実現",
+     "field_hint": "人文・社会科学分野／発展研究",
+     "amount_jpy": 3300000
+    },
+    {
+     "awardee_name": "湯浅 陽一",
+     "affiliation": "関東学院大学 社会学部現代社会学科",
+     "position": "教授",
+     "project_title": "多層的なバイオ資源のリサイクル・システムの形成・作動・変動に関する環境社会学的研究",
+     "field_hint": "人文・社会科学分野／発展研究",
+     "amount_jpy": 3500000
+    },
+    {
+     "awardee_name": "越智 郁乃",
+     "affiliation": "東北大学 大学院文学研究科 広域文化学文化人類学専攻",
+     "position": "准教授",
+     "project_title": "戦跡ツーリズムにおける集団的記憶の共創：対面型ガイドの役割に注目して",
+     "field_hint": "人文・社会科学分野／発展研究",
+     "amount_jpy": 3900000
+    },
+    {
+     "awardee_name": "Pavin Chachavalpongpun",
+     "affiliation": "京都大学 東南アジア地域研究研究所",
+     "position": "教授",
+     "project_title": "希望のインフラ：東南アジアの都市部におけるソーシャル・イノベーション、若者の動員と持続可能な未来",
+     "field_hint": "人文・社会科学分野／発展研究",
+     "amount_jpy": 3700000
+    },
+    {
+     "awardee_name": "望月 昂",
+     "affiliation": "東京大学 大学院理学系研究科附属植物園",
+     "position": "准教授",
+     "project_title": "カモメヅル属の絶滅危惧植物2種における発酵臭擬態花仮説の検証",
+     "field_hint": "環境フィールド研究分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "清水 加耶",
+     "affiliation": "島根大学 生物資源科学部",
+     "position": "助教",
+     "project_title": "ボルネオ島熱帯雨林における昆虫のフェノロジー解明に向けた音響モニタリング法の確立",
+     "field_hint": "環境フィールド研究分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "三田 敏治",
+     "affiliation": "九州大学 大学院農学研究院",
+     "position": "准教授",
+     "project_title": "飛べない寄生蜂はいかに海洋島へ定着したか：小笠原諸島における受動分散とファウナ形成",
+     "field_hint": "環境フィールド研究分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "岡村 悠",
+     "affiliation": "東京都立大学 大学院理学研究科生命科学専攻",
+     "position": "准教授",
+     "project_title": "近縁種ゲノム比較から探る絶滅危惧蝶類の分布制限要因の解明",
+     "field_hint": "環境フィールド研究分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "岩崎 貴也",
+     "affiliation": "お茶の水女子大学 基幹研究院自然科学系",
+     "position": "准教授",
+     "project_title": "標本DNAを用いた網羅的ゲノム解析による超希少植物種の遺伝的多様性・集団構造解明",
+     "field_hint": "環境フィールド研究分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "櫻木 雄太",
+     "affiliation": "京都大学 野生動物研究センター",
+     "position": "特定助教",
+     "project_title": "グリーンランド北西部沿岸域に周年生息するアザラシ類の季節的な分布と生息地利用の解明",
+     "field_hint": "環境フィールド研究分野／提案研究",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "池田 紘士",
+     "affiliation": "東京大学 大学院農学生命科学研究科 森林科学専攻",
+     "position": "教授",
+     "project_title": "虫こぶの種内進化から見る現在進行形の多様化過程と将来の生物間相互作用の変化",
+     "field_hint": "環境フィールド研究分野／発展研究",
+     "amount_jpy": 6000000
+    },
+    {
+     "awardee_name": "兵藤 不二夫",
+     "affiliation": "岡山大学 学術研究院環境生命自然科学学域",
+     "position": "教授",
+     "project_title": "熱帯林における植物群集と土壌生物群集の機能的関連の解明",
+     "field_hint": "環境フィールド研究分野／発展研究",
+     "amount_jpy": 6000000
+    },
+    {
+     "awardee_name": "山崎 裕治",
+     "affiliation": "富山大学 学術研究部理学系",
+     "position": "准教授",
+     "project_title": "動的な景観変化が水田生態系を利用する生物（人も含む）の持続可能性に与える影響評価",
+     "field_hint": "環境フィールド研究分野／発展研究",
+     "amount_jpy": 5900000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人旭硝子財団の公式サイト。公式「2026年度新規採択 助成研究一覧」PDFを根拠に、国内研究助成118件を全件収録した。PDF記載の助成額は千円単位のため円へ換算。公式PDFには別枠で海外研究助成35件も掲載されているが、その個別助成額はUSD表記であり、amount_jpyへ推測換算できないため本配列には含めていない。PDF記載の国内採択総額469,400,000円と各レコードの対象範囲が対応する。"
+  },
+  "url_hint": "https://www.af-info.or.jp",
+  "elapsed_s": 246
  }
 }
