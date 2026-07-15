@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "foundation_name": { "type": "string" },
+    "source_url": { "type": ["string", "null"], "description": "役員一覧の出典URL(実在・公式)" },
+    "fiscal_year": { "type": ["integer", "null"] },
+    "officers": {
+      "type": "array",
+      "description": "財団の役員(理事・評議員・監事)および助成の審査員。公式の役員名簿/選考委員から。捏造禁止",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "person_name": { "type": "string", "description": "氏名" },
+          "role": { "type": "string", "enum": ["reviewer", "director", "councilor", "chair", "auditor", "other"], "description": "審査員reviewer/理事director/評議員councilor/理事長chair/監事auditor" },
+          "role_ja": { "type": ["string", "null"], "description": "原文の役職表記(理事長/専務理事/評議員/選考委員等)" },
+          "affiliation": { "type": ["string", "null"], "description": "所属(大学/企業/団体)" },
+          "title": { "type": ["string", "null"], "description": "肩書(教授/社長/会長等)" },
+          "is_corporate_exec": { "type": "boolean", "description": "企業の役員(社長/会長/取締役等)を兼任しているか" },
+          "corporate_name": { "type": ["string", "null"], "description": "兼任先企業名(is_corporate_exec時)" }
+        },
+        "required": ["person_name", "role", "role_ja", "affiliation", "title", "is_corporate_exec", "corporate_name"]
+      }
+    },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "notes": { "type": "string" }
+  },
+  "required": ["foundation_name", "source_url", "fiscal_year", "officers", "confidence", "notes"]
+}
