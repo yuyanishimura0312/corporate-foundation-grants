@@ -1913,5 +1913,82 @@
    "notes": "対象法人は公益財団法人ではなく公益社団法人。設立年は、公式沿革が前身の化学会の創立年として示す1878年を採用した（公益社団法人への移行は2011年）。総資産は2025年2月28日現在の2024年度貸借対照表（要約版）に記載された資産合計2,540,108千円を円換算。2024年度アニュアルレポートでは研究助成が定款上の事業として確認できるが、助成金支出の年間総額を独立して確認できないため、annual_grant_amount_jpyと年度はnullとした。他機関の助成金に対する推薦募集は日本化学会自身による助成実績とは扱っていない。"
   },
   "elapsed_s": 40
+ },
+ "org_0b732eacf9c8": {
+  "name": "日本生物物理学会",
+  "url": "https://www.biophys.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本生物物理学会",
+   "established_year": 1960,
+   "established_source_url": "https://www.biophys.jp/org/org04.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.biophys.jp/org/org07.html",
+   "grant_fields": [
+    "life_science",
+    "natural_science",
+    "international",
+    "education",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "日本生物物理学会会員を含む実施体制で開催される国際研究会・国際会議を支援し、海外研究者の招聘、会議運営、若手研究者支援などの経費を助成する。あわせて、若手の会への資金援助、サブグループ活動、教科書・専門書籍の出版等も支援している。",
+   "grant_field_source_url": "https://www.biophys.jp/news/lib/newsshow.php/7427",
+   "confidence": "medium",
+   "notes": "公式沿革には日本生物物理学会が1960年12月10日に設立されたとある。なお、現在の法人格は公益財団法人ではなく一般社団法人で、2014年1月に法人として再スタートしている。公式の公告・情報公開ページでは最新の令和7年度決算報告書が『事務局までお問い合わせください』とされ、貸借対照表の資産合計をウェブ上で確認できないため、総資産はnullとした。令和7年度事業報告書（https://www.biophys.jp/org/kokoku/r07/R07jigyo-houkoku.pdf）には若手の会への50万円の資金援助、ABAシンポジウム参加者への助成、サブグループ支援、出版支援が記載されているが、全支援・助成の金額が開示されておらず年間助成金支出総額を算出できないためnullとした。研究助成金・賞ページ（https://www.biophys.jp/mem/mem03.html）に掲載される山田科学振興財団等の助成は、学会自身の助成ではなく候補者推薦であるため年間助成額には含めていない。"
+  },
+  "elapsed_s": 40
+ },
+ "org_962ef403af70": {
+  "name": "日本数学会",
+  "url": "https://mathsoc.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本数学会",
+   "established_year": 1946,
+   "established_source_url": "https://www.mathsoc.jp/overview/history/",
+   "total_assets_jpy": 682427021,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.mathsoc.jp/assets/pdf/office/account2024.pdf",
+   "grant_fields": [
+    "natural_science",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "数学・数理科学分野の若手研究者の育成および在外研究・国際共同研究の支援、発展途上国を含む国外の数学活動・研究機関への支援を行う。",
+   "grant_field_source_url": "https://www.mathsoc.jp/assets/pdf/office/rep2025.pdf",
+   "confidence": "high",
+   "notes": "対象は公益財団法人ではなく一般社団法人。公式沿革では前身の東京数学会社は1877年設立だが、現在の名称の日本数学会は1946年に分離設立されたため1946年を採用。総資産は2025年3月31日現在（2024年度）の貸借対照表「資産合計」。2025年度事業報告には在外研究奨励フェローへの支援、15万円・10万円の拠出、米ドル・ユーロ建ての拠出等が記載されるが、フェロー支援額が示されず、外貨額の円換算根拠もないため、年間助成金支出総額は確認不能としてnull。"
+  },
+  "elapsed_s": 60
+ },
+ "org_a0cc6ca7e93f": {
+  "name": "日本生化学会",
+  "url": "https://www.jbsoc.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本生化学会",
+   "established_year": 1925,
+   "established_source_url": "https://www.jbsoc.or.jp/about",
+   "total_assets_jpy": 202013760,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 40000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.jbsoc.or.jp/seika/wp-content/uploads/2025/11/2_Financial_Report_2025.pdf",
+   "grant_fields": [
+    "life_science",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "生化学に関わる生命科学全般に従事する研究者を対象とし、海外留学・海外渡航、国際学会への参加、海外研究機関の訪問や共同研究を通じて、国際的研究ネットワークへの参画と次世代研究リーダーの育成を支援する。",
+   "grant_field_source_url": "https://www.jbsoc.or.jp/support/hayaishi_grant",
+   "confidence": "high",
+   "notes": "対象組織は公益財団法人ではなく公益社団法人。公式概要で1925年創立を確認。2025年度財務諸表（2025年8月31日現在）の貸借対照表で資産合計202,013,760円を確認。同年度の正味財産増減計算書に「早石修記念海外留学助成金」40,000,000円を確認したため、賞金（奨励賞賞金・JB論文賞賞金）は年間助成額に含めていない。事業年度は2024年9月1日から2025年8月31日まで。"
+  },
+  "elapsed_s": 49
  }
 }
