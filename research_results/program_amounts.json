@@ -4918,5 +4918,3425 @@
   "field": "次世代自動車、航空宇宙、ヘルスケア（医療機器・福祉用具等）、脱炭素・資源リサイクル、その他県内産業の高度化に資する研究開発",
   "source": "https://www.gpc-gifu.or.jp/fund/sangakukan/youryou_R8_02.pdf",
   "amount_type": "max"
+ },
+ {
+  "foundation": "産業医学振興財団",
+  "program": "産業医学調査研究助成事業（一般研究・自由課題）",
+  "amount": 2000000,
+  "num": 3,
+  "total": null,
+  "field": "労働者の健康確保、産業医活動の推進等に役立つ調査研究（自由課題）",
+  "source": "https://www.zsisz.or.jp/investigation/r8.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "黒住医学研究振興財団",
+  "program": "研究助成金（対象領域①～⑧）",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "臨床化学、分子生物学（医学）、臨床微生物学、臨床免疫学、検査血液学、人体病理学、疫学、一般・生理学",
+  "source": "https://www.kmf.or.jp/activity/guideline/research.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "黒住医学研究振興財団",
+  "program": "研究助成金（対象領域⑨ 感染危機管理）",
+  "amount": 1500000,
+  "num": null,
+  "total": null,
+  "field": "感染危機管理（次なるパンデミック対応、バイオリスク管理、施設内感染防止、感染制御、マスギャザリング対策等）",
+  "source": "https://www.kmf.or.jp/activity/guideline/research.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "積水化学工業株式会社",
+  "program": "自然に学ぶものづくり本賞",
+  "amount": 3000000,
+  "num": 12,
+  "total": null,
+  "field": "自然の機能をものづくりや社会課題の解決に活用する研究。素材開発、バイオテクノロジー、エネルギー、環境、医療、AI、建築など分野不問。",
+  "source": "https://www.sekisui.co.jp/news/2026/1451344_42699.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "積水化学工業株式会社",
+  "program": "若手奨励賞",
+  "amount": 1000000,
+  "num": 10,
+  "total": null,
+  "field": "本賞に準じる研究。40歳未満を目途とし、博士後期課程在籍者も対象。",
+  "source": "https://www.sekisui.co.jp/news/2026/1451344_42699.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "昭和医科大学発達障害医療研究所",
+  "program": "令和8年度 文理融合型の共同研究",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "発達障害（自閉スペクトラム症、注意欠如多動症など）に関する研究",
+  "source": "https://www.showa-u.ac.jp/research/midd/joint-research/index.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "成茂神経科学研究助成基金",
+  "program": "若手研究者への研究助成",
+  "amount": 700000,
+  "num": null,
+  "total": null,
+  "field": "神経科学の研究。国内の研究機関に所属する研究者が対象で、40歳以下または博士号取得後10年以内を優先。",
+  "source": "https://www.narishige.co.jp/japanese/fund/2026_nnrf.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "成茂神経科学研究助成基金",
+  "program": "講演会・研究集会等の開催および外国人学者招聘への費用補助",
+  "amount": 300000,
+  "num": null,
+  "total": null,
+  "field": "神経科学に関する講演会・研究集会等の開催、外国人学者の招聘に対する費用の補助。",
+  "source": "https://www.narishige.co.jp/japanese/fund/2026_nnrf.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "榊原記念財団　（旧 日本心臓血圧研究振興会）",
+  "program": "第24回（2026年度）榊原記念研究助成金",
+  "amount": 2000000,
+  "num": 5,
+  "total": null,
+  "field": "心不全に迫る：基礎と臨床から。循環器疾患診療の基礎・臨床研究を担う若手研究者が対象。",
+  "source": "https://www.hq.heart.or.jp/research-g/guidelines/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "坂口光洋記念慶應義塾医学振興基金",
+  "program": "2026年度慶應義塾大学医学研究助成事業 区分A",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "慶應義塾大学医学部における医学・生命科学の各領域。医学部の将来的発展のために特に振興すべき研究。",
+  "source": "https://www.ms-fund.keio.ac.jp/news/2026josei_JP_youkou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "坂口光洋記念慶應義塾医学振興基金",
+  "program": "2026年度慶應義塾大学医学研究助成事業 区分B",
+  "amount": 250000,
+  "num": null,
+  "total": null,
+  "field": "慶應義塾大学医学部における医学・生命科学の各領域。医学部の将来的発展のために特に振興すべき研究。対象者は医学部4・5・6年次在籍者。",
+  "source": "https://www.ms-fund.keio.ac.jp/news/2026josei_JP_youkou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "新技術振興渡辺記念会",
+  "program": "科学技術調査研究助成（令和8年度下期）",
+  "amount": 4000000,
+  "num": null,
+  "total": null,
+  "field": "科学技術政策の立案・推進、科学技術と社会経済との関連、科学技術のコミュニケーション、科学技術人材の育成、科学技術の発展動向、またはこれらに類する・複数分野にまたがる調査研究",
+  "source": "https://www.watanabe-found.or.jp/pdf/subsidy/bosyu_subsidy_R8_2.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "オリンパス医学振興財団（旧：内視鏡医学研究振興財団）",
+  "program": "研究助成（A）",
+  "amount": 1000000,
+  "num": 2,
+  "total": null,
+  "field": "内視鏡にかかわる日本国内の研究（個人またはグループ）",
+  "source": "https://www.endo-jfe.or.jp/application/01.php",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "オリンパス医学振興財団（旧：内視鏡医学研究振興財団）",
+  "program": "研究助成（B）",
+  "amount": 500000,
+  "num": 40,
+  "total": null,
+  "field": "内視鏡にかかわる日本国内の研究（個人またはグループ）",
+  "source": "https://www.endo-jfe.or.jp/application/01.php",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "オリンパス医学振興財団（旧：内視鏡医学研究振興財団）",
+  "program": "多施設共同研究助成",
+  "amount": 2000000,
+  "num": 3,
+  "total": null,
+  "field": "内視鏡にかかわる日本国内の多施設共同研究",
+  "source": "https://www.endo-jfe.or.jp/application/01.php",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "自治医科大学　遺伝子治療研究センター",
+  "program": "令和8年度 自治医科大学遺伝子治療研究センター共同研究（共同研究支援）",
+  "amount": 2000000,
+  "num": null,
+  "total": null,
+  "field": "医学、歯学、薬学、その他ライフサイエンス分野における、遺伝子治療技術を活用した領域横断的研究。遺伝子治療・ゲノム編集・ウイルスベクター作製に関する共同研究。",
+  "source": "https://www.jichi.ac.jp/jmu-cgtr/wp-content/uploads/2026/02/17705f74a6fed890a205a6950f007b29.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日母おぎゃー献金基金",
+  "program": "研究助成金（心身障がいの予防・治療等に関する研究）",
+  "amount": 1500000,
+  "num": null,
+  "total": null,
+  "field": "国内外の心身障がいの予防、治療等に関し、特に有意義と認められた研究",
+  "source": "https://www.ogyaa.or.jp/subsidy/subsidy03/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本新薬株式会社",
+  "program": "2026年度 日本新薬公募研究助成",
+  "amount": 3000000,
+  "num": 20,
+  "total": null,
+  "field": "基礎研究：造血器腫瘍領域、遺伝性神経筋疾患領域、肺高血圧症領域、泌尿器科領域（泌尿器癌／泌尿器癌以外）",
+  "source": "https://www.nippon-shinyaku.co.jp/research_support/document/outline2026.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "鷹野学術振興財団",
+  "program": "研究助成",
+  "amount": 3000000,
+  "num": 5,
+  "total": null,
+  "field": "電気電子工学、光学関連、画像処理関連、機械工学、物理学、情報工学、材料工学、化学関連、医療機器開発製造、健康・福祉機器開発製造、環境・エネルギー関連、農学（機能性食品開発等）。医学・薬学そのものの研究は対象外。",
+  "source": "https://www.takano-zaidan.com/app/download/11534367279/kenkyu_yoko2025.pdf?t=1751940587",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "滋賀医学国際協力会",
+  "program": "医学系研究者海外渡航助成",
+  "amount": 200000,
+  "num": 5,
+  "total": null,
+  "field": "滋賀県内の教育・研究機関または医療機関に在籍し、国際学会・共同研究等のため海外渡航する医学系研究者（大学院生を含む）",
+  "source": "https://shigamedical.org/04_boshu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "滋賀医学国際協力会",
+  "program": "看護系研究者海外渡航助成",
+  "amount": 200000,
+  "num": 2,
+  "total": null,
+  "field": "滋賀県内の教育・研究機関または医療機関に在籍し、国際学会・共同研究等のため海外渡航する看護系研究者（大学院生を含む）",
+  "source": "https://shigamedical.org/04_boshu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "滋賀医学国際協力会",
+  "program": "医学系学生海外研修渡航助成",
+  "amount": 200000,
+  "num": 30,
+  "total": null,
+  "field": "滋賀県内の教育機関に在籍し、海外の教育・研究機関または医療機関で教育・研究指導を受ける医学系学生（大学院生を除く）",
+  "source": "https://shigamedical.org/04_boshu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "滋賀医学国際協力会",
+  "program": "医学系・看護系学生学会発表海外渡航助成",
+  "amount": 100000,
+  "num": 3,
+  "total": null,
+  "field": "滋賀県内の教育機関に在籍し、海外で行われる学会で自ら研究成果を発表する医学系・看護系学生（大学院生を除く）",
+  "source": "https://shigamedical.org/04_boshu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "滋賀医学国際協力会",
+  "program": "看護系学生海外渡航助成",
+  "amount": 100000,
+  "num": 10,
+  "total": null,
+  "field": "滋賀県内の教育機関に在籍し、海外の教育・研究機関または医療機関で教育・研究指導を受ける看護系学生（大学院生を除く）",
+  "source": "https://shigamedical.org/04_boshu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "滋賀医学国際協力会",
+  "program": "外国人研究者招へい助成",
+  "amount": 300000,
+  "num": 1,
+  "total": null,
+  "field": "滋賀県内で医学研究に従事する、顕著な研究業績を有する外国人研究者の招へい",
+  "source": "https://shigamedical.org/04_boshu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "滋賀医学国際協力会",
+  "program": "国際学術交流助成",
+  "amount": 350000,
+  "num": 2,
+  "total": null,
+  "field": "滋賀県内の機関と外国の機関との医学に関する国際学術交流（滋賀県での国際学術研究集会・交流行事）",
+  "source": "https://shigamedical.org/04_boshu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "滋賀医学国際協力会",
+  "program": "外国人留学生等修学助成",
+  "amount": 600000,
+  "num": 10,
+  "total": null,
+  "field": "滋賀県内で医学を学ぶ外国人大学院生・研究生、または医科学分野で優れた成果が期待され経済的支援を必要とする外国人研究者",
+  "source": "https://shigamedical.org/04_boshu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "せりか基金",
+  "program": "2025年度「せりか基金」賞（原因究明及び治療法に関する研究）",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "ALS（筋萎縮性側索硬化症）の原因究明に関する研究、およびALSの治療法に関する研究",
+  "source": "https://landing-page.koyamachuya.com/serikafund/award",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "deleteC",
+  "program": "第8回 deleteC がん治療研究公募",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "がん治療につながる「立ち上がり研究」（挑戦的研究、橋渡し研究・臨床研究、新しい治療開発につながる研究・プロジェクト）",
+  "source": "https://www.delete-c.com/medical-research",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "郡山地域テクノポリス推進機構",
+  "program": "研究開発助成事業（一般）",
+  "amount": 2000000,
+  "num": null,
+  "total": null,
+  "field": "新技術・新製品の開発、生産工程の合理化、製品の高付加価値化、およびこれらに類する技術の高度化に関する研究開発",
+  "source": "https://www.techno-media.net6.or.jp/techno/wp-content/uploads/sites/2/2025/04/9b57d61206117c2977458e4c1012a825.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "郡山地域テクノポリス推進機構",
+  "program": "研究開発助成事業（重点分野）",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "再生可能エネルギー、医療福祉およびロボットに関する技術高度化研究",
+  "source": "https://www.techno-media.net6.or.jp/techno/wp-content/uploads/sites/2/2025/04/9b57d61206117c2977458e4c1012a825.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "郡山地域テクノポリス推進機構",
+  "program": "地域技術起業化助成事業",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "技術の製品化・商品化に必要な商品開発、情報収集、市場開拓等",
+  "source": "https://www.techno-media.net6.or.jp/techno/wp-content/uploads/sites/2/2025/04/9b57d61206117c2977458e4c1012a825.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本医療研究開発機構",
+  "program": "革新的がん医療実用化研究事業（3次公募）Field 4-1-3：より有効ながんの標準治療確立のための多施設共同臨床試験の研究実施計画書作成及び実施",
+  "amount": 13000000,
+  "num": null,
+  "total": null,
+  "field": "がんの標準治療の確立、ライフステージに応じたがん治療に関する研究",
+  "source": "https://www.amed.go.jp/koubo/03005/02/B_00020.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "東京顕微鏡院",
+  "program": "2026年度 遠山椿吉記念 第10回 食と環境の科学賞（遠山椿吉賞本賞）",
+  "amount": 3000000,
+  "num": 1,
+  "total": null,
+  "field": "食品の安全、食品の機能、水系・食品媒介の感染症・疾患、生活環境衛生",
+  "source": "https://www.kenko-kenbi.or.jp/koueki/koueki-chinkichi/application/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "東京顕微鏡院",
+  "program": "2026年度 山田和江賞（食と環境の科学賞部門）",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "遠山椿吉賞応募者のうち、40歳以下の個人または代表者が40歳以下の研究グループによる、食品の安全・食品の機能・水系／食品媒介の感染症や疾患・生活環境衛生に関する研究成果",
+  "source": "https://www.kenko-kenbi.or.jp/koueki/koueki-chinkichi/application/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本感染症医薬品協会（旧：日本抗生物質学術協議会）",
+  "program": "住木・梅澤記念賞",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "抗生物質をはじめとする生物活性物質に関連した、将来の発展が期待できる優れた研究業績",
+  "source": "https://www.antibiotics.or.jp/news/award-sumiki/requirements/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本感染症医薬品協会（旧：日本抗生物質学術協議会）",
+  "program": "日本感染症医薬品協会奨励賞",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "抗生物質および関連医薬品の領域における、主として臨床に関連した優れた研究",
+  "source": "https://www.antibiotics.or.jp/news/award-sumiki/requirements/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "時実利彦記念脳研究助成基金",
+  "program": "時実利彦記念賞",
+  "amount": 2000000,
+  "num": 1,
+  "total": null,
+  "field": "脳神経系の機能およびこれに関連した生体機能の解明に意義ある研究",
+  "source": "https://www.tokizane.net/guidelines.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本ベーリンガーインゲルハイム株式会社　ベルツ賞事務局",
+  "program": "第2回（2026年度）ベルツ研究助成",
+  "amount": 15000000,
+  "num": null,
+  "total": null,
+  "field": "インスリン分泌制御機構とインスリン分泌低下性糖尿病",
+  "source": "https://www.boehringer-ingelheim.com/jp/baelz-24-0001",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本製薬工業協会",
+  "program": "指定課題研究",
+  "amount": 2500000,
+  "num": null,
+  "total": null,
+  "field": "健康寿命の測定・影響要因、健康が経済にもたらすインパクトなど、指定された3テーマに関する学際的・分野横断的研究",
+  "source": "https://www.jpma.or.jp/information/industrial_policy/researchsupport/description/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本製薬工業協会",
+  "program": "自由課題研究",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "若手研究者による、医療・健康、社会保障制度、医薬品産業の振興・発展に寄与する社会科学系研究",
+  "source": "https://www.jpma.or.jp/information/industrial_policy/researchsupport/description/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本学術振興会",
+  "program": "科学研究費助成事業 基盤研究（A）",
+  "amount": 50000000,
+  "num": null,
+  "total": null,
+  "field": "人文学、社会科学から自然科学までの全分野にわたる、一人又は複数の研究者による独創的・先駆的研究",
+  "source": "https://www.jsps.go.jp/file/storage/kaken_kiban_2026_g_4978/r9_7_kobo.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本学術振興会",
+  "program": "科学研究費助成事業 基盤研究（B）",
+  "amount": 20000000,
+  "num": null,
+  "total": null,
+  "field": "人文学、社会科学から自然科学までの全分野にわたる、一人又は複数の研究者による独創的・先駆的研究",
+  "source": "https://www.jsps.go.jp/file/storage/kaken_kiban_2026_g_4978/r9_7_kobo.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本学術振興会",
+  "program": "科学研究費助成事業 基盤研究（C）",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "人文学、社会科学から自然科学までの全分野にわたる、一人又は複数の研究者による独創的・先駆的研究",
+  "source": "https://www.jsps.go.jp/file/storage/kaken_kiban_2026_g_4978/r9_7_kobo.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本学術振興会",
+  "program": "科学研究費助成事業 挑戦的研究（開拓）",
+  "amount": 20000000,
+  "num": null,
+  "total": null,
+  "field": "学術の体系・方向を大きく変革、転換させることを志向し、飛躍的に発展する潜在性を持つ研究",
+  "source": "https://www.jsps.go.jp/file/storage/kaken_kiban_2026_g_4978/r9_7_kobo.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本学術振興会",
+  "program": "科学研究費助成事業 挑戦的研究（萌芽）",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "学術の体系・方向を大きく変革、転換させることを志向する、探索的性質の強い研究または芽生え期の研究",
+  "source": "https://www.jsps.go.jp/file/storage/kaken_kiban_2026_g_4978/r9_7_kobo.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本学術振興会",
+  "program": "科学研究費助成事業 若手研究",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "博士の学位取得後8年未満の研究者が一人で行う研究",
+  "source": "https://www.jsps.go.jp/file/storage/kaken_kiban_2026_g_4978/r9_7_kobo.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本歯周病学会",
+  "program": "シーズ育成若手奨励研究助成",
+  "amount": 1000000,
+  "num": 1,
+  "total": null,
+  "field": "歯周病の研究・教育・医療・予防を推進する、若手学会員による発展可能性のある独創的なシーズ研究",
+  "source": "https://www.perio.jp/member/assist/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本歯周病学会",
+  "program": "企画調査研究助成",
+  "amount": 1000000,
+  "num": 1,
+  "total": null,
+  "field": "歯周病学分野において特色・独創性・貢献度が高く、大規模多施設研究へ発展する可能性のある研究",
+  "source": "https://www.perio.jp/member/assist/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本歯周病学会",
+  "program": "研究者育成ファンドによる奨学金助成",
+  "amount": 1000000,
+  "num": 2,
+  "total": 2000000,
+  "field": "次世代の歯周病学研究の質向上を目的とする若手研究者への研究支援",
+  "source": "https://www.perio.jp/member/assist/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本化学工業協会",
+  "program": "第14期 日化協LRI（長期自主研究）研究課題募集",
+  "amount": 10000000,
+  "num": 5,
+  "total": null,
+  "field": "（1）NAMs／動物実験代替法の開発、（2）NAMs／新規な課題を解決するための試験法の開発、（3）ヒトへのばく露に関する予測手法の開発、（4）環境に対するリスク評価に関する研究、（5）新しい特性を持つ化学物質の安全性評価、（6）規制利用における課題を解決するための評価法の開発",
+  "source": "https://www.j-lri.org/003-1_1.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本救急医療財団",
+  "program": "令和8年度日本救急医療財団助成金交付事業",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "救急医療に関する研究。公的機関、民間団体（個人を含む）が対象。",
+  "source": "https://qqzaidan.jp/kenkyujosei/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "MSD生命科学財団",
+  "program": "研究助成－がん領域－【若手研究者】",
+  "amount": 3000000,
+  "num": 13,
+  "total": 59000000,
+  "field": "医学系における、がんに関する独創的な基礎研究または臨床研究",
+  "source": "https://www.msd-life-science-foundation.or.jp/banyu/wp-content/uploads/2025/03/r07_jigyoukeikaku.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "MSD生命科学財団",
+  "program": "研究助成－生活習慣病領域－【若手研究者】",
+  "amount": 2000000,
+  "num": 18,
+  "total": 58000000,
+  "field": "生活習慣病領域の疾病の原因解明と新たな治療法の開発。循環器分野（血管障害を含む）、糖尿病・代謝分野（糖尿病性腎臓病・脂質代謝を含む）",
+  "source": "https://www.msd-life-science-foundation.or.jp/banyu/wp-content/uploads/2025/03/r07_jigyoukeikaku.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "MSD生命科学財団",
+  "program": "研究助成－感染症領域－【若手研究者】",
+  "amount": 2000000,
+  "num": 8,
+  "total": 26000000,
+  "field": "医学系における感染症の独創的な基礎研究、臨床研究または疫学研究",
+  "source": "https://www.msd-life-science-foundation.or.jp/banyu/wp-content/uploads/2025/03/r07_jigyoukeikaku.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本メディカルハーブ協会",
+  "program": "メディカルハーブ研究助成",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "メディカルハーブの有用性、機能性、相互作用に関する研究など、幅広い調査・研究",
+  "source": "https://www.medicalherb.or.jp/research/research-grant-program",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本骨髄腫患者の会",
+  "program": "2025年度特別助成 森広助成",
+  "amount": 2000000,
+  "num": 1,
+  "total": null,
+  "field": "多発性骨髄腫の治癒を目指す研究",
+  "source": "https://mpfj.org/wp-content/uploads/2025/03/application-guidelines2025.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "ヘルスケア・データサイエンス研究所",
+  "program": "第8回（2024年度）研究助成",
+  "amount": 300000,
+  "num": 3,
+  "total": 900000,
+  "field": "JMDC保険者データベース（レセプトデータ、健診データ）を使用するデータベース研究。若手研究者が対象。",
+  "source": "https://rihds.org/docs/2024_bosyuyoukou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "東海産業技術振興財団",
+  "program": "一般発展型",
+  "amount": 2000000,
+  "num": 3,
+  "total": null,
+  "field": "東海地域の研究者による産業技術研究。社会実装による成果が見込める産学官等の共同研究（研究期間2年間）",
+  "source": "https://www.tft.or.jp/wp-content/uploads/2025/07/ANNUAL-REPORT_R6-1.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "東海産業技術振興財団",
+  "program": "研究育成型",
+  "amount": 1000000,
+  "num": 15,
+  "total": null,
+  "field": "工学を基礎とする挑戦的または比較的初期段階の研究。40歳以下の研究者が対象（研究期間1年間）",
+  "source": "https://www.tft.or.jp/wp-content/uploads/2025/07/ANNUAL-REPORT_R6-1.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本健康アカデミー",
+  "program": "健康知識・教育に係る公募助成",
+  "amount": 600000,
+  "num": null,
+  "total": 4000000,
+  "field": "健康知識研究・教育活動、健康教育教材の開発、職員・指導者の資質向上に関する事業。病気の予防、早期の適切な診断、快癒などに寄与する調査研究・啓蒙・教育。",
+  "source": "https://www.jp-kenko.org/_src/53955052/2026JoseiBoshuYoukou.PDF?v=1782780434572",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本膵臓病研究財団",
+  "program": "第34回（令和8年度）膵臓病研究奨励賞",
+  "amount": 2000000,
+  "num": 20,
+  "total": null,
+  "field": "膵臓病の病態生理・診断・治療等に関する基礎研究および臨床研究",
+  "source": "https://www.jprf.or.jp/shoreisho.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本産業科学研究所",
+  "program": "研究助成事業",
+  "amount": 1000000,
+  "num": 10,
+  "total": null,
+  "field": "産業科学に関する研究の援助・奨励",
+  "source": "https://nissanken.org/2025gia/gia/2025-1.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本心臓財団",
+  "program": "第51回日本心臓財団研究奨励",
+  "amount": 2000000,
+  "num": 10,
+  "total": null,
+  "field": "心臓血管病（心臓病、脳卒中、高血圧、動脈硬化症等）の成因、治療または予防に関する独創的研究",
+  "source": "https://www.jhf.or.jp/action/josei/post/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本銅学会",
+  "program": "研究助成",
+  "amount": 500000,
+  "num": 15,
+  "total": null,
+  "field": "銅及び銅合金に関連する基礎研究、材料開発、物性、製造プロセス及び応用に関する研究",
+  "source": "https://www.copper-brass.gr.jp/wordpress/wp-content/uploads/2025/10/2026-kenkyu-josei-annai.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本臨床腫瘍薬学会",
+  "program": "2025年 JASPOがん研究助成事業",
+  "amount": 200000,
+  "num": 2,
+  "total": null,
+  "field": "がん領域のクリニカルクエスチョンを解決する研究、薬剤師の未来を切り拓く研究など",
+  "source": "https://jaspo-oncology.org/file/1607",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "粉体工学情報センター",
+  "program": "2026年度（第22回）粉体工学情報センター研究助成",
+  "amount": 1000000,
+  "num": 10,
+  "total": null,
+  "field": "食品粉体に関わる研究、粉体単位操作に関わる基礎研究",
+  "source": "https://www.icpt.jp/kenkyuu/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本女医会",
+  "program": "学術研究助成",
+  "amount": 300000,
+  "num": 3,
+  "total": null,
+  "field": "医学分野（日本国内在住の45歳未満の女性医師による優れた研究）",
+  "source": "https://www.jmwa.or.jp/学術研究助成",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本女医会",
+  "program": "学術研究助成 山﨑倫子賞",
+  "amount": 500000,
+  "num": 1,
+  "total": null,
+  "field": "学術研究助成の採択研究のうち、最も優秀と判断された研究",
+  "source": "https://www.jmwa.or.jp/学術研究助成",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "千代田健康開発事業団",
+  "program": "保健活動助成（チヨダ地域保健推進賞・第29回）",
+  "amount": 200000,
+  "num": 10,
+  "total": null,
+  "field": "地域保健活動の推進において、高齢者や成人に対する医療・介護に関し顕著な実績を上げている保健師（個人またはグループ）の活動",
+  "source": "https://www.chiyoda-kenko.jp/activities/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "パブリックヘルスリサーチセンター",
+  "program": "2026年度パブリックヘルス科学研究助成金（ストレス科学分野）",
+  "amount": 500000,
+  "num": 6,
+  "total": null,
+  "field": "ストレスマネジメント（キーワード：コーピング、うつ予防、職場のメンタルヘルス、孤立・孤独、女性の健康）",
+  "source": "https://www.phrf.jp/aboutus/pdf_grant/grant2026_bosyuyoukou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "パブリックヘルスリサーチセンター",
+  "program": "2026年度パブリックヘルス科学研究助成金（生命医科学分野）",
+  "amount": 1000000,
+  "num": 3,
+  "total": null,
+  "field": "健康とヘルスケア（キーワード：疾病予防、モバイルヘルス、栄養、母子の健康、環境、脳科学）",
+  "source": "https://www.phrf.jp/aboutus/pdf_grant/grant2026_bosyuyoukou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本老年医学会",
+  "program": "老化および老年医学研究助成（The JGS Research Grant Award in Geriatrics and Gerontology）",
+  "amount": 1000000,
+  "num": 3,
+  "total": null,
+  "field": "老化および老年医学に関する基礎研究、臨床研究、社会学・疫学研究",
+  "source": "https://www.jpn-geriat-soc.or.jp/josei/josei.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本老年医学会",
+  "program": "日本老年医学会 高齢者栄養研究助成（The JGS Grant for Geriatric Nutrition Research）",
+  "amount": 1000000,
+  "num": 5,
+  "total": null,
+  "field": "老年栄養学に関する臨床研究、レジストリ構築、基礎研究、調査等。ただし、特定製品を用いる臨床研究や企業が関わる研究は対象外",
+  "source": "https://www.jpn-geriat-soc.or.jp/josei/josei.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本発明振興協会",
+  "program": "発明研究奨励金",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "科学技術・産業の発展に資する中小企業および発明研究者の発明考案。登録済みの特許・実用新案について、実施化・展開に必要な試作、試験、調査研究を支援。",
+  "source": "https://www.jsai.org/uploads/2026/04/23/syoureikin_shinseiyouryou%20%281%29.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本医学医療国際交流財団（旧：日露医学医療交流財団）",
+  "program": "国際医学医療交流事業への助成",
+  "amount": 500000,
+  "num": 1,
+  "total": 500000,
+  "field": "国際医学医療交流に関する事業（2023年度実績は第33回アジア太平洋肝臓学会年次総会への助成）",
+  "source": "https://www.jimef.jp/dcms_media/other/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%A2%BA%E5%AE%9A2406.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本ゴマ科学会",
+  "program": "日本ゴマ科学会研究助成",
+  "amount": 1000000,
+  "num": 1,
+  "total": null,
+  "field": "ゴマの新たな機能性の探索",
+  "source": "https://www.jsnfs.or.jp/wp-content/uploads/file/job_grant/grant_20240722_u-toyama.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本網膜色素変性症協会",
+  "program": "第29回 JRPS研究助成",
+  "amount": 1000000,
+  "num": 2,
+  "total": null,
+  "field": "網膜色素変性、網脈絡膜変性、ロービジョンに関する研究。研究者または診療・教育・研究機関が対象。2名のうち1名は、40歳以下の若手研究者を対象とするライオンズ賞。",
+  "source": "https://jrps.org/news/%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88201508/page/15/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "やずや食と健康研究所",
+  "program": "2026年度助成研究 チャレンジ部門",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "大テーマ「食と健康」。食品・食物・食生活と健康との関係を明らかにする研究。小テーマは、食の安全、食と予防医療、食と運動、食と生活、食と社会、食と食育、食と文化、食と健康にかかわる歴史、その他。",
+  "source": "https://yazuken.jp/subsidy/outline/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "向科学技術振興財団",
+  "program": "研究助成",
+  "amount": 1500000,
+  "num": 8,
+  "total": null,
+  "field": "物質の分離技術の分野における素材、技法の基礎研究",
+  "source": "https://www.mukai-zaidan.or.jp/researchgrant/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本雪氷学会",
+  "program": "産学・産官共同研究助成事業",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "中小企業と大学または研究機関等が共同で行う雪氷研究活動",
+  "source": "https://www.seppyo.org/society/org/iinkai/jigyou/sangakusankan/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本雪氷学会",
+  "program": "井上フィールド科学研究基金 種目A-1（海外フィールド調査の補助）",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "40歳未満の正会員による、雪氷学の発展に寄与する海外フィールド調査",
+  "source": "https://www.seppyo.org/society/org/iinkai/jigyou/sangakusankan/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本雪氷学会",
+  "program": "井上フィールド科学研究基金 種目A-2（国際交流活動の補助）",
+  "amount": 300000,
+  "num": null,
+  "total": null,
+  "field": "40歳未満の正会員による、フィールド調査に関係する国際交流・研究推進活動",
+  "source": "https://www.seppyo.org/society/org/iinkai/jigyou/sangakusankan/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本雪氷学会",
+  "program": "井上フィールド科学研究基金 種目B（特別事業）",
+  "amount": 1000000,
+  "num": null,
+  "total": 1000000,
+  "field": "若手による海外の雪氷災害およびその防止に貢献する、緊急性を要する調査活動",
+  "source": "https://www.seppyo.org/society/org/iinkai/jigyou/sangakusankan/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "マルホ・高木皮膚科学振興財団",
+  "program": "高木賞",
+  "amount": 5000000,
+  "num": null,
+  "total": 25000000,
+  "field": "皮膚科領域の診断・予防・治療に直結する臨床研究（疫学調査を含む）、または臨床に即した病態研究",
+  "source": "https://www.mt-hifukagaku.or.jp/award/document/pdf/guidelines.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "マルホ・高木皮膚科学振興財団",
+  "program": "高木賞臨床研究奨励賞",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "皮膚科領域の臨床研究のうち、実地臨床で行う疫学調査や疾患の原因・背景因子調査など",
+  "source": "https://www.mt-hifukagaku.or.jp/award/document/pdf/guidelines.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "美原脳血管障害研究振興基金",
+  "program": "研究助成金（美原賞）",
+  "amount": 10000000,
+  "num": 1,
+  "total": null,
+  "field": "脳血管障害の基礎的・臨床的研究。目覚ましい業績を挙げている研究者の、個別かつ具体的な研究計画を対象とする。",
+  "source": "https://square.umin.ac.jp/mihara/recommend_j.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本訪問看護財団",
+  "program": "訪問看護等在宅ケア研究助成",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "優先テーマは「訪問看護の質」「訪問看護師と多職種の連携」「人材確保と定着」。そのほか、訪問看護等在宅ケアに関する研究。",
+  "source": "https://files.jvnf.or.jp/files/user/kenkyu/jyosei/2026jyosei_yoko.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "リカケンホールディングス株式会社",
+  "program": "2026年度 リカケンホールディングス 若手研究者支援助成",
+  "amount": 500000,
+  "num": 7,
+  "total": null,
+  "field": "ライフサイエンス分野（生命科学に関する化学、生物学、薬学、理学、工学等）の基礎研究・TR",
+  "source": "https://rikaken-hd.co.jp/research_grant/5874/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "利尻島調査研究事業事務局",
+  "program": "2026年度 利尻島調査研究事業",
+  "amount": 100000,
+  "num": 1,
+  "total": null,
+  "field": "利尻島に関する調査研究。2026年度は分野の限定なし。",
+  "source": "https://rishiri-island.sakura.ne.jp/RRP/application.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本コンクリート工学会",
+  "program": "研究助成金",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "コンクリート工学に関する優れた研究。日本国内の学校・企業等に所属する個人研究者（学生を含む）または研究グループが対象。",
+  "source": "https://www.jci-net.or.jp/j/jci/subsidy/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本白血病研究基金",
+  "program": "助成金申請（申請書1：荻村孝特別研究賞・一般研究賞）",
+  "amount": 2000000,
+  "num": 9,
+  "total": 8000000,
+  "field": "血液腫瘍に関する基礎的・臨床的分野。応募者の年齢制限なし。研究グループも申請可能。",
+  "source": "https://flrf.gr.jp/report/detail.html?id=340",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本白血病研究基金",
+  "program": "若手奨励研究賞（申請書2）",
+  "amount": 1000000,
+  "num": 5,
+  "total": 3000000,
+  "field": "血液腫瘍に関する基礎的・臨床的分野。原則として2026年4月1日現在40歳未満（休業期間・博士号取得後年数に関する特例あり）。",
+  "source": "https://flrf.gr.jp/report/detail.html?id=340",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本白血病研究基金",
+  "program": "一般研究賞（日本白血病研究基金臨床医学特別賞・学会推薦）",
+  "amount": 1000000,
+  "num": 2,
+  "total": 2000000,
+  "field": "血液腫瘍の治療研究を行う臨床医学研究者。日本血液学会または日本小児血液・がん学会の推薦が必要。",
+  "source": "https://flrf.gr.jp/report/detail.html?id=340",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本白血病研究基金",
+  "program": "小児領域特別研究賞",
+  "amount": 1000000,
+  "num": 2,
+  "total": 2000000,
+  "field": "小児造血器腫瘍などの治療成績またはQOLの向上に資する調査・研究を行う研究グループ（1期3年以内）。",
+  "source": "https://flrf.gr.jp/report/detail.html?id=340",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "山梨県庁",
+  "program": "山梨県若手研究者奨励事業（自然科学分野）",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "自然科学分野",
+  "source": "https://www.pref.yamanashi.jp/documents/94127/r8boshu.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "山梨県庁",
+  "program": "山梨県若手研究者奨励事業（人文・社会科学分野）",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "人文・社会科学分野",
+  "source": "https://www.pref.yamanashi.jp/documents/94127/r8boshu.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "臨床検査医学研究振興基金",
+  "program": "研究奨励金",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "臨床検査医学（臨床病理学、臨床検査診断学、検査診断学、病態検査学等）および臨床検査分野に関する研究のうち、基金の目的に合致するもの",
+  "source": "https://www.hugp.com/resources/file/pdf/promofund_lab_outline_R8.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "住友生命保険相互会社　未来を強くする子育てプロジェクト",
+  "program": "スミセイ女性研究者奨励賞",
+  "amount": 1000000,
+  "num": 10,
+  "total": null,
+  "field": "育児と研究の両立が困難な女性研究者による、人文・社会科学分野の萌芽的研究",
+  "source": "https://www.sumitomolife.co.jp/about/sustainability/important/stakeholder/community/mirai_child/woman/bosyu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "薬力学研究会",
+  "program": "研究者助成",
+  "amount": 1000000,
+  "num": 4,
+  "total": null,
+  "field": "若手研究者による薬力学に関する研究。医学・医療、歯学・歯科医療、薬学等の学術の発展と、疾病予防・健康維持増進への寄与を目的とする。",
+  "source": "https://yakuriki.umin.jp/pdf/R8_koubo.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "有機合成化学協会",
+  "program": "研究企画賞（研究助成事業）",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "有機合成化学分野における萌芽的研究（独創的な発想に基づく研究企画）",
+  "source": "https://www.ssocj.jp/award/project/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "野田産業科学研究所",
+  "program": "研究助成（発酵化学）",
+  "amount": 3000000,
+  "num": 6,
+  "total": null,
+  "field": "主として発酵化学を基盤とする産業に寄与する応用生命科学研究。微生物等に関する基礎・応用研究。",
+  "source": "https://www.nisr.or.jp/promotion/fermentation-science/recruitment/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "野田産業科学研究所",
+  "program": "奨励研究助成（発酵化学）",
+  "amount": 3000000,
+  "num": 6,
+  "total": null,
+  "field": "主として発酵化学を基盤とする産業に寄与する応用生命科学研究。2027年4月1日時点で45歳以下の研究者。",
+  "source": "https://www.nisr.or.jp/promotion/fermentation-science/recruitment/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "野田産業科学研究所",
+  "program": "若手研究者継続助成",
+  "amount": 5000000,
+  "num": 1,
+  "total": null,
+  "field": "奨励研究助成対象者のうち継続支援を希望する者。奨励研究助成後、さらに3年間助成。",
+  "source": "https://www.nisr.or.jp/promotion/fermentation-science/recruitment/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "野田産業科学研究所",
+  "program": "研究助成（持続可能分野）",
+  "amount": 3000000,
+  "num": 6,
+  "total": null,
+  "field": "持続可能な社会構築に貢献する微生物研究。環境浄化、食料生産、資源回収、バイオマス活用、バイオ化成品、バイオエネルギー、CO2固定等。",
+  "source": "https://www.nisr.or.jp/promotion/fermentation-science/recruitment/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "野田産業科学研究所",
+  "program": "特別助成金（発酵化学）",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "研究助成、奨励研究助成、研究助成（持続可能分野）の優れた申請に対する追加助成。",
+  "source": "https://www.nisr.or.jp/promotion/fermentation-science/recruitment/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "野田産業科学研究所",
+  "program": "研究助成（食と健康）",
+  "amount": 3000000,
+  "num": 6,
+  "total": null,
+  "field": "発酵過程や体内での消化・代謝・腸内細菌による食品成分の化学変化を通じて生じる、おいしさや健康増進作用の発現機構を物質（化合物）レベルで解明する研究。動物試験を含む研究は対象外。",
+  "source": "https://www.nisr.or.jp/promotion/fermentation-science/recruitment/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "野田産業科学研究所",
+  "program": "特別助成金（食と健康）",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "研究助成（食と健康）の優れた申請に対する追加助成。",
+  "source": "https://www.nisr.or.jp/promotion/fermentation-science/recruitment/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "バイオインダストリー協会",
+  "program": "2026年度 バイオインダストリー大賞",
+  "amount": 3000000,
+  "num": 1,
+  "total": null,
+  "field": "バイオサイエンス、バイオテクノロジー、バイオインダストリー分野における自然科学・人文社会科学の研究、技術開発および産業化推進活動。",
+  "source": "https://www.jba.or.jp/activity/award/application_requirements/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "バイオインダストリー協会",
+  "program": "2026年度 バイオインダストリー奨励賞",
+  "amount": 300000,
+  "num": 10,
+  "total": null,
+  "field": "持続的な社会と未来に貢献する、応用を指向したバイオテクノロジー・バイオサイエンス研究。対象分野は医薬・ヘルスケア、食品・農林水産、バイオプロセス開発、化学・材料、環境・エネルギーなど。",
+  "source": "https://www.jba.or.jp/activity/award/application_requirements/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "宮田心臓病研究振興基金",
+  "program": "未成年心臓血管病に携わる医学研修者・医学学究者に対する奨励金（1号事業）",
+  "amount": 1500000,
+  "num": 12,
+  "total": null,
+  "field": "小児心臓血管病の研究",
+  "source": "https://miyata-zaidan.or.jp/jigyou_keikaku/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "レントオール奨学財団",
+  "program": "研究助成",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "建設または建設機械の関連分野。土木・建築、機械・電気、建設・施工に関わる環境分野（材料・構造・地盤・水工・防災・交通・都市地域計画・森林、建築、デザイン、センシング技術、AI、IoT、機械制御、環境技術等）",
+  "source": "https://www.rentall-zaidan.jp/kenkyuuzyosei/img/r8%E5%B9%B4%E5%BA%A6%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "人工知能学会",
+  "program": "2025年度人工知能学会コンペティション開催支援制度（助成あり）",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "人工知能分野の発展に寄与する、新規立ち上げのコンペティションの開催支援",
+  "source": "https://www.ai-gakkai.or.jp/event/ai-seminar/competition_convening_support/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本損害保険協会  医研センター",
+  "program": "一般研究",
+  "amount": 1000000,
+  "num": null,
+  "total": 70000000,
+  "field": "後遺障害認定対策としての交通事故医療に関する臨床的研究（働き方改革に伴う救急医療体制のあり方に関する研究を含む）",
+  "source": "https://www.sonpo.or.jp/exam/kenkyujyosei/ctuevu000000ciwj-att/guide.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本損害保険協会  医研センター",
+  "program": "特定研究",
+  "amount": 5000000,
+  "num": null,
+  "total": 70000000,
+  "field": "交通事故医療にかかる指定研究課題（難治性慢性疼痛、骨盤外傷の新規治療法、交通事故後のリハビリテーションに有用なロボット技術）",
+  "source": "https://www.sonpo.or.jp/exam/kenkyujyosei/ctuevu000000ciwj-att/guide.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "研究機関に対する一般的助成（1年助成）",
+  "amount": 2000000,
+  "num": null,
+  "total": null,
+  "field": "川づくりや河川管理に貢献する、河川・水・流域に関する調査・研究",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "研究機関に対する一般的助成（2年助成）",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "川づくりや河川管理に貢献する、河川・水・流域に関する調査・研究",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "研究機関に対する緊急災害調査",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "水害、土砂災害、河川・ダム等に係る震災、水難事故などの発生時に行う緊急の調査・研究・広報",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "研究機関に対する学術図書出版助成",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "河川基金助成による研究成果を公開する学術図書・普及図書の出版",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "研究機関に対するアウトリーチ活動A",
+  "amount": 2000000,
+  "num": null,
+  "total": null,
+  "field": "河川に関する調査・研究成果を一般市民や次世代の生徒等へ普及する活動",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "一般研究者に対する一般的助成（1年助成、60歳未満）",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "生物・水環境、河川工学・理工系、人文社会系、文理融合型など、川づくりに貢献する調査・研究",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "一般研究者に対する一般的助成（2年助成、60歳未満）",
+  "amount": 1500000,
+  "num": null,
+  "total": null,
+  "field": "生物・水環境、河川工学・理工系、人文社会系、文理融合型など、川づくりに貢献する調査・研究",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "一般研究者に対する学術図書出版助成",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "河川基金助成による研究成果を公開する学術図書・普及図書の出版",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "一般研究者に対するアウトリーチ活動B",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "河川に関する調査・研究成果を一般市民や次世代の生徒等へ普及する活動",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "若手研究者に対する一般的助成（35歳以下）",
+  "amount": 600000,
+  "num": null,
+  "total": null,
+  "field": "若手研究者による、川づくりに貢献する河川・水・流域の調査・研究",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "ジュニア研究者・高等学校のクラブ活動",
+  "amount": 300000,
+  "num": null,
+  "total": null,
+  "field": "高校生が主体となって行う、川・水・流域に関するクラブ活動での調査・研究",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "河川財団（旧：河川環境管理財団）",
+  "program": "ジュニア研究者・中学校のクラブ活動",
+  "amount": 200000,
+  "num": null,
+  "total": null,
+  "field": "中学生が主体となって行う、川・水・流域に関するクラブ活動での調査・研究",
+  "source": "https://www.kasen.or.jp/wp-content/uploads/2025/08/ef421844a43dd755181ed07674ce5ced.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本人類学会",
+  "program": "若手会員のための河合正人記念人類学・考古学研究奨励賞",
+  "amount": 1500000,
+  "num": 2,
+  "total": null,
+  "field": "人類学・考古学（日本人類学会の若手正会員による研究）",
+  "source": "https://anthropology.jp/wakate_encouragement.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本女性科学者の会",
+  "program": "第31回（2026年度）日本女性科学者の会奨励賞",
+  "amount": 200000,
+  "num": 3,
+  "total": null,
+  "field": "広く理系の分野。研究業績をあげ、将来性が期待される同会の正会員・学生会員。",
+  "source": "https://sjws.or.jp/archives/encourage_require/%E7%AC%AC28%E5%9B%9E%EF%BC%882023%E5%B9%B4%E5%BA%A6%EF%BC%89%E5%A5%A8%E5%8A%B1%E8%B3%9E%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "渡邉財団（旧：磁気健康科学研究振興財団）",
+  "program": "第32回磁気健康科学研究助成",
+  "amount": 1000000,
+  "num": 15,
+  "total": 15000000,
+  "field": "磁気健康科学に関する基礎研究、応用研究、テーマ指定研究（磁場作用のメカニズム、免疫系・循環系・神経系・血流と磁場との関連）",
+  "source": "https://watanabe-zaidan.or.jp/jrequirement/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "油脂工業会館",
+  "program": "令和9年度 研究助成",
+  "amount": 1000000,
+  "num": 3,
+  "total": null,
+  "field": "①コロイド、界面科学および石鹸・界面活性剤工業に関する技術、②油脂・脂質に関する科学および油脂加工技術、③健康・美・清潔と生活の科学に関する研究・技術（周辺分野を含む）",
+  "source": "https://www.yushikaikan.or.jp/content/files/R09_Kenkyuujosei__Oubo_Youryou.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本金属学会",
+  "program": "第7回日本金属学会フロンティア研究助成",
+  "amount": 1000000,
+  "num": 10,
+  "total": null,
+  "field": "金属およびその関連材料分野に関連する材料またはプロセスに関する調査、試験、研究および開発",
+  "source": "https://jimm.jp/grant/adoption/frontier_07.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "鉄鋼環境基金　（旧：鉄鋼業環境保全技術開発基金）",
+  "program": "一般研究",
+  "amount": 1500000,
+  "num": null,
+  "total": 75000000,
+  "field": "鉄鋼業に関連する環境保全技術課題（地球環境問題、資源循環技術、大気環境保全技術、土壌・水質保全技術）",
+  "source": "https://www.sept.or.jp/02jyoseijigyou/01bosyuuyoukou/2026bosyuuyoukou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "鉄鋼環境基金　（旧：鉄鋼業環境保全技術開発基金）",
+  "program": "若手研究",
+  "amount": 1000000,
+  "num": null,
+  "total": 75000000,
+  "field": "鉄鋼業に関連する環境保全技術課題（地球環境問題、資源循環技術、大気環境保全技術、土壌・水質保全技術）。一般研究より基礎的な研究・広義の環境研究も対象",
+  "source": "https://www.sept.or.jp/02jyoseijigyou/01bosyuuyoukou/2026bosyuuyoukou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本心理学会",
+  "program": "「日中韓三カ国シンポジウム2027」研究助成",
+  "amount": 300000,
+  "num": 1,
+  "total": null,
+  "field": "社会・文化心理学、人格心理学、認知心理学、発達心理学、臨床・健康心理学、産業・組織心理学を対象とし、国際的または学際的な協働を含む研究計画",
+  "source": "https://psych.or.jp/relationship/2027_tri_national_sympo/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本癌学会",
+  "program": "JCA-KFCR若手研究助成",
+  "amount": 1000000,
+  "num": 10,
+  "total": null,
+  "field": "がん薬物療法、がん治療に関する研究",
+  "source": "https://www.cancer.or.jp/modules/recruiting/index.php?content_id=7",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人新産業創造研究機構",
+  "program": "成長産業育成のための研究開発支援事業（成長産業育成コンソーシアム発研究）",
+  "amount": 10000000,
+  "num": null,
+  "total": null,
+  "field": "ロボット・AI・IoT、航空・宇宙、環境・水素等新エネルギー、健康・医療",
+  "source": "https://www.niro.or.jp/uploads/2026/04/2026conso-bosyuyouryou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本地球化学会",
+  "program": "若手スタートアップ奨励金",
+  "amount": 200000,
+  "num": 1,
+  "total": null,
+  "field": "若手地球化学者が新たに開始する地球化学研究",
+  "source": "https://www.geochem.jp/wp-content/uploads/2024/01/wakatestartupsyoureikin_202305.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本生態学会",
+  "program": "日本生態学会中部地区会 研究助成制度",
+  "amount": 150000,
+  "num": 2,
+  "total": null,
+  "field": "生態学に関連する意義のある研究。中部地区会の学生会員または学位取得後3年以内の若手会員による研究。",
+  "source": "https://www.esj.ne.jp/chubu/grant.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "明治安田こころの健康財団",
+  "program": "第62回（2026年度）研究助成",
+  "amount": 1000000,
+  "num": 14,
+  "total": 12000000,
+  "field": "心理学的研究、医学・医療的研究、社会学・社会福祉学的研究。子ども、家族・家庭、高齢者に関する精神保健・福祉領域の基礎的・臨床的・実践的研究",
+  "source": "https://www.my-kokoro.jp/assist/pdf/2026_my-kokoro_assist_guideline.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本地質学会",
+  "program": "一般社団法人日本地質学会研究奨励金",
+  "amount": 200000,
+  "num": 5,
+  "total": null,
+  "field": "野外調査を中核とした研究を行う、2026年4月1日時点で32歳未満の日本地質学会正会員",
+  "source": "https://geosociety.jp/members/grants/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人浜松地域イノベーション推進機構",
+  "program": "研究開発補助金",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "次世代輸送用機器、健康・医療、新農業、環境・エネルギー、光・電子、デジタル、ロボティクスの7分野における新技術・新製品等の研究開発",
+  "source": "https://www.hai.or.jp/support-menu/new-business/shin-hojyo/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人浜松地域イノベーション推進機構",
+  "program": "製品開発補助金",
+  "amount": 10000000,
+  "num": null,
+  "total": null,
+  "field": "次世代輸送用機器、健康・医療、新農業、環境・エネルギー、光・電子、デジタル、ロボティクスの7分野における新技術・新製品等の研究開発・製品開発",
+  "source": "https://www.hai.or.jp/support-menu/new-business/shin-hojyo/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人浜松地域イノベーション推進機構",
+  "program": "社会課題解決型イノベーション補助金",
+  "amount": 10000000,
+  "num": null,
+  "total": null,
+  "field": "次世代輸送用機器、健康・医療、新農業、環境・エネルギー、光・電子、デジタル、ロボティクスの7分野における社会課題解決型の研究開発",
+  "source": "https://www.hai.or.jp/support-menu/new-business/shin-hojyo/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本外科学会",
+  "program": "日本外科学会臨床研究助成（JSS Clinical Investigation Project Award）",
+  "amount": 5000000,
+  "num": 1,
+  "total": null,
+  "field": "AMED申請に向けたパイロット試験的研究。原則として多施設共同臨床研究で、基盤学会にふさわしい横断（総合）的な研究課題が望ましい。",
+  "source": "https://www.jssoc.or.jp/modules/research/index.php?content_id=11",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本外科学会",
+  "program": "若手外科医のための臨床研究助成（JSS Young Researcher Award）",
+  "amount": 1000000,
+  "num": 8,
+  "total": null,
+  "field": "小規模臨床研究、または臨床研究につながる基礎研究。内訳は臨床研究部門3件、基礎研究部門5件。",
+  "source": "https://www.jssoc.or.jp/modules/research/index.php?content_id=11",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本建築学会",
+  "program": "中国支部奨励研究助成",
+  "amount": 100000,
+  "num": 3,
+  "total": null,
+  "field": "若手研究者の育成に資すると認められる調査・研究・技術開発事業",
+  "source": "https://chugoku.aij.or.jp/info/%E5%8B%9F%E9%9B%86/1198/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本建築学会",
+  "program": "中国支部研究助成費",
+  "amount": 200000,
+  "num": null,
+  "total": null,
+  "field": "中国支部の研究委員会・支所による自主的研究計画等",
+  "source": "https://chugoku.aij.or.jp/info/%E5%8B%9F%E9%9B%86/1198/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本動物学会",
+  "program": "茗原眞路子研究奨励助成金",
+  "amount": 500000,
+  "num": 3,
+  "total": null,
+  "field": "基礎生物学（動物学）の優れた研究を行い、他に十分な研究費を得ることが困難な研究者",
+  "source": "https://www.zoology.or.jp/about/myoharafund",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本内分泌学会",
+  "program": "若手研究者による研究課題",
+  "amount": 2500000,
+  "num": 3,
+  "total": null,
+  "field": "内分泌学領域における独創的かつ萌芽的な研究。若手研究者が主体となり、国内で実施する研究。",
+  "source": "https://www.j-endo.jp/uploads/files/edu/2025josei_wakate_guide.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本生理学会",
+  "program": "日本生理学会奨励賞",
+  "amount": 200000,
+  "num": null,
+  "total": null,
+  "field": "生理学。顕著な研究業績、研究構想・発展性、生理学会における活動を評価する若手研究者向け奨励賞。",
+  "source": "https://www.physiology.jp/award/incentive/provision/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本生理学会",
+  "program": "入澤宏・彩記念若手研究者賞",
+  "amount": 100000,
+  "num": null,
+  "total": null,
+  "field": "生理学に関連する領域の独創的な基礎研究を行う、大学院生または博士号取得後5年以内かつ35歳以下の会員。",
+  "source": "https://www.physiology.jp/award/incentive/provision/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本神経科学学会",
+  "program": "公益信託成茂神経科学研究助成基金（研究助成）",
+  "amount": 700000,
+  "num": null,
+  "total": null,
+  "field": "神経科学の研究に対する若い研究者への補助・奨励",
+  "source": "https://www.jnss.org/narishige_application-requirements",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "横浜総合医学振興財団",
+  "program": "わかば研究助成",
+  "amount": 1000000,
+  "num": null,
+  "total": 8000000,
+  "field": "40歳以下の研究者が自らの発想で行う研究",
+  "source": "https://www.yfams.or.jp/jyosei/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "横浜総合医学振興財団",
+  "program": "医療デジタル化助成",
+  "amount": 500000,
+  "num": null,
+  "total": 1000000,
+  "field": "医療デジタル化（AI活用を含む）に関する研究",
+  "source": "https://www.yfams.or.jp/jyosei/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "横浜総合医学振興財団",
+  "program": "がん研究助成",
+  "amount": 1000000,
+  "num": null,
+  "total": 2000000,
+  "field": "がん死亡率の減少に資する臨床研究、および患者・家族の療養生活の質向上につながるがんサバイバーシップ研究",
+  "source": "https://www.yfams.or.jp/jyosei/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "横浜総合医学振興財団",
+  "program": "医療技術研究助成 A（横浜十全会）",
+  "amount": 300000,
+  "num": null,
+  "total": 900000,
+  "field": "医師以外の医療従事者が行う、神奈川県（特に横浜市）の医療向上に貢献する実践的研究・業務改善企画等",
+  "source": "https://www.yfams.or.jp/jyosei/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "横浜総合医学振興財団",
+  "program": "医療技術研究助成 B（濵中基金）",
+  "amount": 500000,
+  "num": null,
+  "total": 1500000,
+  "field": "医師以外の医療従事者が行う、神奈川県（特に横浜市）の医療向上に貢献する実践的研究・業務改善企画等",
+  "source": "https://www.yfams.or.jp/jyosei/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "土木学会",
+  "program": "インフラマネジメント技術国際展開研究助成",
+  "amount": 4000000,
+  "num": 4,
+  "total": null,
+  "field": "土木工学に関わる構造物、施設、都市、環境等の維持管理、サステイナビリティ、リスク評価等に関する技術を海外で適用する研究活動",
+  "source": "https://committees.jsce.or.jp/opcet_sip/node/45",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "土木学会",
+  "program": "新技術の地域実装に向けた研究活動助成",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "地方自治体が管理するインフラのメンテナンスに、地域実装可能な新技術を適用・実証する研究活動",
+  "source": "https://committees.jsce.or.jp/opcet_sip/node/45",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "土木学会",
+  "program": "中国支部 調査研究活動助成（B）",
+  "amount": 200000,
+  "num": 2,
+  "total": null,
+  "field": "土木工学および土木事業に関連する共同研究",
+  "source": "https://committees.jsce.or.jp/opcet_sip/node/45",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "発酵研究所",
+  "program": "大型研究助成",
+  "amount": 10000000,
+  "num": 3,
+  "total": 30000000,
+  "field": "微生物の分類（分離、分類、保存）、基礎研究（生化学、構造、遺伝、生理、生態、進化など）、応用研究（発酵、生理活性物質、プロバイオティクス、環境保全、バイオエネルギーなど）",
+  "source": "https://www.ifo.or.jp/pdf/A002985-2026-business-plan.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "発酵研究所",
+  "program": "一般研究助成",
+  "amount": 3000000,
+  "num": 65,
+  "total": 195000000,
+  "field": "微生物の分類（分離、分類、保存）、基礎研究（生化学、構造、遺伝、生理、生態、進化など）、応用研究（発酵、生理活性物質、プロバイオティクス、環境保全、バイオエネルギーなど）",
+  "source": "https://www.ifo.or.jp/pdf/A002985-2026-business-plan.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "発酵研究所",
+  "program": "若手研究者助成",
+  "amount": 3000000,
+  "num": 23,
+  "total": 69000000,
+  "field": "35歳以下の研究者による、微生物の分類（分離、分類、保存）または基礎研究（生化学、構造、遺伝、生理、生態、進化など）",
+  "source": "https://www.ifo.or.jp/pdf/A002985-2026-business-plan.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "発酵研究所",
+  "program": "研究室助成",
+  "amount": 20000000,
+  "num": 6,
+  "total": 120000000,
+  "field": "地方大学で微生物の研究と教育を共同実施する複数の研究室",
+  "source": "https://www.ifo.or.jp/pdf/A002985-2026-business-plan.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "発酵研究所",
+  "program": "学会・研究部会助成",
+  "amount": 5000000,
+  "num": 2,
+  "total": 10000000,
+  "field": "微生物の分類に関する研究（分離、分類、保存）を推進する学会・研究部会",
+  "source": "https://www.ifo.or.jp/pdf/A002985-2026-business-plan.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "高分子学会",
+  "program": "高分子学会若手研究者交流促進助成",
+  "amount": 150000,
+  "num": 5,
+  "total": null,
+  "field": "若手研究者が企画・運営する、高分子に関する学術分野の発展や人材育成を目的とした比較的小規模な研究会",
+  "source": "https://main.spsj.or.jp/pdf/2026jyosei_WAKATE.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都歴史文化財団",
+  "program": "2026年度 第2期 芸術文化による社会支援助成",
+  "amount": 2000000,
+  "num": null,
+  "total": null,
+  "field": "社会・都市の課題に取り組む芸術活動。対象となる実施形態に、成果公開を伴う環境整備活動（人材育成、調査研究、技術開発、アーカイブ作成等）を含む。",
+  "source": "https://www.artscouncil-tokyo.jp/sys/wp-content/uploads/2026/06/2026_2_social-grant_guideline.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "地球電磁気・地球惑星圏学会",
+  "program": "国際学術交流若手派遣",
+  "amount": 275000,
+  "num": null,
+  "total": null,
+  "field": "国外で開かれる国際的な学術研究集会に参加し、発表等を行う若手会員への渡航旅費・滞在費・参加費等の支援",
+  "source": "https://www.sgepss.org/about/form/Kenkyushukai-form2022.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "地球電磁気・地球惑星圏学会",
+  "program": "国際学術研究集会補助",
+  "amount": 300000,
+  "num": 1,
+  "total": null,
+  "field": "SGEPSSが主催・共催・協賛し、多数の学会員の参加が見込まれる国際学術研究集会等",
+  "source": "https://www.sgepss.org/about/form/Kenkyushukai-form2022.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本小児科学会",
+  "program": "日本小児科学会学術研究賞",
+  "amount": 100000,
+  "num": 5,
+  "total": null,
+  "field": "小児医学・医療の分野において優れた研究業績があり、今後の発展が期待される者",
+  "source": "https://www.jpeds.or.jp/uploads/2026-04/20260427_gakujyutukennkyuusyou.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本海洋学会",
+  "program": "日本海洋学会青い海助成事業（一般提案型・緊急提案型）",
+  "amount": 200000,
+  "num": null,
+  "total": 600000,
+  "field": "研究成果のアウトリーチ活動、海洋環境問題に関する教育・啓発活動、研究会・シンポジウム・ワークショップ等",
+  "source": "https://kaiyo-gakkai.jp/jos/archives/jos_announce/12197",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本臨床薬理学会",
+  "program": "臨床薬理研究振興財団賞 学術奨励賞（研究助成）",
+  "amount": 3000000,
+  "num": 2,
+  "total": null,
+  "field": "わが国の臨床薬理学の発展に寄与・貢献する重要な臨床薬理学的研究",
+  "source": "https://www.jscpt.jp/cms/wp-content/uploads/2026/04/zaidan_yoko_2026.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本免疫学会",
+  "program": "若手女性研究者研究支援事業",
+  "amount": 500000,
+  "num": 2,
+  "total": null,
+  "field": "BioLegend社の製品を用いた免疫学研究",
+  "source": "https://www.jsi-men-eki.org/scientist/young/tomy/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本免疫学会",
+  "program": "日本免疫学会研究奨励賞",
+  "amount": 100000,
+  "num": 5,
+  "total": null,
+  "field": "免疫学分野で優れた研究を行う若手研究者",
+  "source": "https://www.jsi-men-eki.org/scientist/young/tomy/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本免疫学会",
+  "program": "日本免疫学会ヒト免疫研究賞",
+  "amount": 300000,
+  "num": 1,
+  "total": null,
+  "field": "ヒト免疫研究、またはヒト疾患の解明につながる基礎研究",
+  "source": "https://www.jsi-men-eki.org/scientist/young/tomy/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本免疫学会",
+  "program": "日本免疫学会女性免疫研究者賞",
+  "amount": 300000,
+  "num": 1,
+  "total": null,
+  "field": "免疫学分野で顕著な業績・貢献を挙げた女性研究者",
+  "source": "https://www.jsi-men-eki.org/scientist/young/tomy/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本病理学会",
+  "program": "日本病理学会100周年記念病理学研究新人賞",
+  "amount": 100000,
+  "num": 3,
+  "total": null,
+  "field": "日本の大学の医学部・歯学部大学院病理学教室等で病理学研究に取り組む博士課程学生（医師・歯科医師またはMD/PhDコース学生）",
+  "source": "https://www.pathology.or.jp/jigyou/100syuunen/R7rookie-award.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本糖尿病学会",
+  "program": "日本糖尿病学会若手研究助成金（第12回）",
+  "amount": 2000000,
+  "num": 10,
+  "total": null,
+  "field": "糖尿病研究。日本国内の施設に所属し、国内で実施する若手研究者の研究",
+  "source": "https://www.jds.or.jp/modules/study/index.php?content_id=21",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本糖尿病学会",
+  "program": "日本糖尿病学会キャリアデベロップメント報奨金（第6回）",
+  "amount": 5000000,
+  "num": 2,
+  "total": null,
+  "field": "糖尿病分野の基礎的・臨床的研究。国内の大学・研究施設で研究を主導する役職に新たに就任した者",
+  "source": "https://www.jds.or.jp/modules/study/index.php?content_id=21",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本糖尿病学会",
+  "program": "Advanced Postdoctoral Fellowships of the Japan Diabetes Society（日本糖尿病学会 特別研究員・第3回）",
+  "amount": 8000000,
+  "num": 4,
+  "total": null,
+  "field": "糖尿病の基礎研究。博士学位取得後3年未満等の若手研究者",
+  "source": "https://www.jds.or.jp/modules/study/index.php?content_id=21",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本糖尿病学会",
+  "program": "リリーライフサイエンス研究助成プログラム（第1回）",
+  "amount": 5000000,
+  "num": 3,
+  "total": null,
+  "field": "糖尿病または関連領域における、斬新でチャレンジ性を有する基礎研究",
+  "source": "https://www.jds.or.jp/modules/study/index.php?content_id=21",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本薬理学会",
+  "program": "公益信託西宮機能系基礎医学研究助成基金（若手研究者）",
+  "amount": 500000,
+  "num": 3,
+  "total": 1500000,
+  "field": "東北・北海道地区で薬理学を中心とした機能系基礎医学に従事する、原則40歳以下の若手研究者（日本薬理学会北部会所属会員が望ましい）",
+  "source": "https://pharmacol.or.jp/20260107news",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本薬理学会",
+  "program": "公益信託西宮機能系基礎医学研究助成基金（大学院博士課程）",
+  "amount": 300000,
+  "num": 2,
+  "total": 600000,
+  "field": "東北・北海道地区で薬理学を中心とした機能系基礎医学に従事する大学院博士課程学生（日本薬理学会北部会所属会員が望ましい）",
+  "source": "https://pharmacol.or.jp/20260107news",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本発生生物学会",
+  "program": "岡田節人基金 若手研究者海外交流（派遣・招聘）助成",
+  "amount": 300000,
+  "num": 2,
+  "total": null,
+  "field": "発生生物学において独創的な研究を行う若手研究者の国際会議・関連コースへの派遣、または優れた外国人研究者の招聘",
+  "source": "https://www.jsdb.jp/blog/article.html?page=344",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "電気化学会",
+  "program": "2026年度若手・中堅研究費助成",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "電気化学および工業物理化学の領域における、若手・中堅研究者による斬新な基礎的・萌芽的研究",
+  "source": "https://www.electrochem.jp/post_subsidy/6559/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本衛生学会",
+  "program": "日本衛生学会若手研究者助成",
+  "amount": 100000,
+  "num": 3,
+  "total": null,
+  "field": "衛生学分野における若手研究者の研究活動（社会医学を担う人材育成）",
+  "source": "https://www.nihon-eisei.org/wakatekenkyu_boshu/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本国際政治学会",
+  "program": "院生・若手研究助成（国際学術交流助成）",
+  "amount": 200000,
+  "num": null,
+  "total": null,
+  "field": "海外で開催される学会等における研究報告。若手研究者を優先。海外在住会員による海外での研究報告も対象。",
+  "source": "https://jair.or.jp/committee/kokusaikoryu/12400.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本国際政治学会",
+  "program": "院生・若手研究助成（国内旅費助成）",
+  "amount": 50000,
+  "num": null,
+  "total": null,
+  "field": "学会の研究大会・研究会等に登壇する院生・若手研究者の国内長距離移動費。宿泊費は対象外。",
+  "source": "https://jair.or.jp/committee/kokusaikoryu/12400.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本分子生物学会",
+  "program": "日本分子生物学会 若手研究助成（富澤純一・桂子基金、通常年度）",
+  "amount": 3000000,
+  "num": 5,
+  "total": null,
+  "field": "分子生物学に関連する生命科学の基礎的領域における、独創的で将来の発展が期待される若手研究者の研究",
+  "source": "https://www.mbsj.jp/archive/bulletin/kaihou-124.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本言語学会",
+  "program": "言語の多様性に関する啓蒙・教育プロジェクト助成",
+  "amount": 500000,
+  "num": null,
+  "total": 1000000,
+  "field": "人間言語の多様性に関する調査研究成果の社会発信、調査研究の活性化・普及、若手研究者育成、言語の多様性に関する社会貢献・社会連携",
+  "source": "https://ls-japan.org/wp-content/uploads/2024/02/tkitei.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本英文学会",
+  "program": "海外研究者招聘後援事業",
+  "amount": 100000,
+  "num": null,
+  "total": null,
+  "field": "日本における英文学研究の国際化を促進する、海外研究者を招聘した研究会・講演会等",
+  "source": "https://www.elsj.org/aboutus/invitation.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本循環器学会",
+  "program": "2026年度日本循環器学会基礎研究助成",
+  "amount": 2000000,
+  "num": 5,
+  "total": null,
+  "field": "循環器分野の新規性・独創性が高い基礎研究。若手研究者を対象とする。",
+  "source": "https://www.j-circ.or.jp/committees/academic/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本循環器学会",
+  "program": "2026年度日本循環器学会基礎研究助成 最優秀賞追加助成",
+  "amount": 2000000,
+  "num": 1,
+  "total": null,
+  "field": "基礎研究助成採択者の成果報告および成果発表から選考される最優秀研究。",
+  "source": "https://www.j-circ.or.jp/committees/academic/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本循環器学会",
+  "program": "2025年度日本循環器学会医師臨床研究助成",
+  "amount": 2000000,
+  "num": 3,
+  "total": null,
+  "field": "脳卒中、心不全、血管病を対象とする、若手医師研究者による臨床研究。",
+  "source": "https://www.j-circ.or.jp/committees/academic/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本循環器学会",
+  "program": "2025年度日本循環器学会メディカルスタッフ（医師を除く医療専門職）研究助成",
+  "amount": 500000,
+  "num": 3,
+  "total": null,
+  "field": "脳卒中、心不全、血管病を対象とする、医師を除く医療専門職自身が行う臨床研究。",
+  "source": "https://www.j-circ.or.jp/committees/academic/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本循環器学会",
+  "program": "2025年度日本循環器学会循環器AI研究助成",
+  "amount": 5000000,
+  "num": 3,
+  "total": null,
+  "field": "循環器疾患の予防・診断・治療に係るAI研究。AIの有効性・妥当性を検証できるデータベースを確保した臨床研究。",
+  "source": "https://www.j-circ.or.jp/committees/academic/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本循環器学会",
+  "program": "2025年度日本心臓財団・日本循環器学会海外留学助成",
+  "amount": 5000000,
+  "num": 2,
+  "total": null,
+  "field": "海外留学する若手研究者を支援し、循環器領域の研究および人材育成を促進する。",
+  "source": "https://www.j-circ.or.jp/committees/academic/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本政治学会",
+  "program": "2026年度海外政治学会派遣報告者助成（2026 JPSA Travel Grants for International Conferences）",
+  "amount": 100000,
+  "num": 2,
+  "total": null,
+  "field": "日本国外で開催される政治学分野の学会に参加し、研究発表を行う日本政治学会会員への大会関連経費助成（航空運賃、宿泊費、参加登録費等）",
+  "source": "https://www.jpsa-web.org/english/e260202/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京動物園協会",
+  "program": "東京動物園協会野生生物保全基金 一般部門",
+  "amount": 1000000,
+  "num": 7,
+  "total": null,
+  "field": "保全活動、調査研究、普及啓発。調査研究は、野生生物の保全に資する基礎的調査や技術的研究。",
+  "source": "https://www.tokyo-zoo.net/wildlife-conservation-fund/application/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京動物園協会",
+  "program": "東京動物園協会野生生物保全基金 中高校生部門",
+  "amount": 500000,
+  "num": 5,
+  "total": null,
+  "field": "全国の中学校、高等学校、高等専門学校、中等教育学校などが行う野生生物保全活動。活動領域は一般部門に準じ、調査研究を含む。",
+  "source": "https://www.tokyo-zoo.net/wildlife-conservation-fund/application/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京動物園協会",
+  "program": "東京動物園協会野生生物保全基金 東京動物園協会保全パートナー部門",
+  "amount": 1500000,
+  "num": 1,
+  "total": null,
+  "field": "都立動物園・水族園で飼育する希少野生生物を対象に、域外保全の観点から実施する調査や研究。3年間継続。",
+  "source": "https://www.tokyo-zoo.net/wildlife-conservation-fund/application/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本リハビリテーション医学会",
+  "program": "令和8年度 海外研修補助",
+  "amount": 300000,
+  "num": 1,
+  "total": null,
+  "field": "海外のリハビリテーション医学関連学術集会での筆頭演者としての発表、または海外のリハビリテーション施設への訪問・業績発表",
+  "source": "https://www.jarm.or.jp/document/oversea_r8/guidelines.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本リハビリテーション医学会",
+  "program": "令和8年度 若手海外研修特別補助",
+  "amount": 100000,
+  "num": 1,
+  "total": null,
+  "field": "海外のリハビリテーション関連学会で筆頭演者として発表する40歳以下の正会員",
+  "source": "https://www.jarm.or.jp/document/oversea_r8/guidelines.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "防災教育チャレンジプラン",
+  "program": "2026年度 防災教育チャレンジプラン",
+  "amount": 300000,
+  "num": null,
+  "total": null,
+  "field": "全国の学校、地域、企業、民間組織などが取り組む防災教育。例示テーマは、防災教育の継続・定着、防災人材育成、火山防災教育、その他の防災教育。",
+  "source": "https://bosai-study.net/boshu/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人鍋島報效会",
+  "program": "特別研究助成（佐賀鍋島伝承遺産顕彰会支援）",
+  "amount": 300000,
+  "num": null,
+  "total": null,
+  "field": "鍋島家に関わる佐賀の歴史研究（歴史・美術・考古・民俗等）",
+  "source": "https://www.nabeshima.or.jp/site_files/file/research%20grant/R6research_application%20requirements.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人鍋島報效会",
+  "program": "一般研究助成",
+  "amount": 200000,
+  "num": null,
+  "total": null,
+  "field": "佐賀に関連する研究。人文科学（歴史・文学・社会科学等）および自然科学（科学技術・生物・植物・鉱物等）の幅広い分野",
+  "source": "https://www.nabeshima.or.jp/site_files/file/research%20grant/R6research_application%20requirements.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人鍋島報效会",
+  "program": "青少年活動助成",
+  "amount": 200000,
+  "num": null,
+  "total": null,
+  "field": "佐賀県内で行われる、研究行為に準ずる探究的な活動。学校内外の活動が対象",
+  "source": "https://www.nabeshima.or.jp/site_files/file/research%20grant/R6research_application%20requirements.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本地理学会",
+  "program": "吉野正敏研究助成",
+  "amount": 250000,
+  "num": 2,
+  "total": null,
+  "field": "40歳未満の会員による気候・気象学に関する地理学的な調査・研究",
+  "source": "https://www.ajg.or.jp/20231103/19345/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本地理学会",
+  "program": "災害地理学研究助成",
+  "amount": 300000,
+  "num": 2,
+  "total": null,
+  "field": "40歳未満の会員による災害に関する地理学的研究",
+  "source": "https://www.ajg.or.jp/20231103/19345/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "つなぐいのち基金",
+  "program": "つなぐ助成",
+  "amount": 300000,
+  "num": null,
+  "total": 3000000,
+  "field": "社会経済的困難や心身健康上の困難などを抱える子どもたちを対象とする支援事業・活動・プロジェクト",
+  "source": "https://tsunagu-inochi.org/notice/application-for-grants/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人イノベーシスト",
+  "program": "イノベーシスト大賞",
+  "amount": 10000000,
+  "num": null,
+  "total": null,
+  "field": "応募の中で最も優れた内容のもの",
+  "source": "https://innovassist.or.jp/2025-innovassist-detail/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人イノベーシスト",
+  "program": "前田賞",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "法人・個人を問わず、技術的な革新性・独創性に優れた内容",
+  "source": "https://innovassist.or.jp/2025-innovassist-detail/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人イノベーシスト",
+  "program": "近久賞",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "法人・個人を問わず、社会的課題の着眼点と解決方法が特に優れた内容",
+  "source": "https://innovassist.or.jp/2025-innovassist-detail/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本臨床細胞学会",
+  "program": "日本臨床細胞学会班研究課題",
+  "amount": 2000000,
+  "num": 1,
+  "total": 2000000,
+  "field": "臨床細胞学の発展・向上に貢献し、4～5名での共同研究に適し、2年以内に成果がまとまる研究課題",
+  "source": "https://cdn.jscc.or.jp/files/yellow-page-54-02-09.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本材料学会",
+  "program": "日本材料学会九州支部「若手研究者支援助成」",
+  "amount": 300000,
+  "num": 2,
+  "total": null,
+  "field": "材料研究・技術の進歩・発展への貢献が期待される若手研究者の研究活動",
+  "source": "https://kyushu.jsms.jp/pdf/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E8%8B%A5%E6%89%8B%E7%A0%94%E7%A9%B6%E8%80%85%E6%94%AF%E6%8F%B4%E5%8A%A9%E6%88%90%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本哲学会",
+  "program": "林基金若手研究者研究助成",
+  "amount": 100000,
+  "num": null,
+  "total": null,
+  "field": "若手研究者奨励賞候補者による哲学研究。研究計画の審査を経て助成。",
+  "source": "https://philosophy-japan.org/summary/hayashifund/%E6%97%A5%E6%9C%AC%E5%93%B2%E5%AD%A6%E4%BC%9A%E3%80%8C%E6%9E%97%E5%9F%BA%E9%87%91%E3%80%8D%E6%A6%82%E8%A6%81/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本哲学会",
+  "program": "林基金出版助成",
+  "amount": 1000000,
+  "num": 1,
+  "total": null,
+  "field": "初期キャリア研究者会員による、哲学に関する基礎研究的かつ学術的価値の高い論文の出版。",
+  "source": "https://philosophy-japan.org/summary/hayashifund/%E6%97%A5%E6%9C%AC%E5%93%B2%E5%AD%A6%E4%BC%9A%E3%80%8C%E6%9E%97%E5%9F%BA%E9%87%91%E3%80%8D%E6%A6%82%E8%A6%81/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本アレルギー学会",
+  "program": "JSA WAO 2020記念 研究助成プログラム（通常枠）",
+  "amount": 5000000,
+  "num": 2,
+  "total": 15000000,
+  "field": "アレルゲン、アレルゲン診断、アレルゲン免疫療法、アレルギー疾患の疫学調査に関する研究",
+  "source": "https://www.jsaweb.jp/modules/award/index.php?content_id=34",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本アレルギー学会",
+  "program": "JSA WAO 2020記念 研究助成プログラム（若手研究者枠）",
+  "amount": 1000000,
+  "num": 5,
+  "total": null,
+  "field": "アレルゲン、アレルゲン診断、アレルゲン免疫療法、アレルギー疾患の疫学調査に関する研究。2026年4月1日時点で40歳以下",
+  "source": "https://www.jsaweb.jp/modules/award/index.php?content_id=34",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本アレルギー学会",
+  "program": "日本アレルギー学会臨床研究支援プログラム",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "人を対象としたアレルギー領域の疫学研究または臨床研究（アンケート調査を含む）",
+  "source": "https://www.jsaweb.jp/modules/award/index.php?content_id=34",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本アレルギー学会",
+  "program": "日本アレルギー学会海外研究留学助成金",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "アレルギー疾患とその周辺疾患領域における海外研究留学",
+  "source": "https://www.jsaweb.jp/modules/award/index.php?content_id=34",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "（公財）安藤スポーツ･食文化振興財団",
+  "program": "2026年度食創会「第31回安藤百福賞」大賞",
+  "amount": 10000000,
+  "num": 1,
+  "total": null,
+  "field": "食科学の振興、新しい食品の創造・開発、食に関わるベンチャー。独創的な基礎研究、食品開発等を対象とする。",
+  "source": "https://www.ando-zaidan.jp/assets/pdfs/projects/innovation/shokusokai/2026-application-guidelines.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "（公財）安藤スポーツ･食文化振興財団",
+  "program": "2026年度食創会「第31回安藤百福賞」優秀賞",
+  "amount": 3000000,
+  "num": 3,
+  "total": null,
+  "field": "食科学の振興、新しい食品の創造・開発、食に関わるベンチャー。独創的な基礎研究、食品開発等を対象とする。",
+  "source": "https://www.ando-zaidan.jp/assets/pdfs/projects/innovation/shokusokai/2026-application-guidelines.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "（公財）安藤スポーツ･食文化振興財団",
+  "program": "2026年度食創会「第31回安藤百福賞」発明発見奨励賞",
+  "amount": 2000000,
+  "num": 3,
+  "total": null,
+  "field": "食品の基礎研究・食品開発研究に携わる若手研究者、開発者、および中小企業の技術者などによる将来性の高い研究・開発。",
+  "source": "https://www.ando-zaidan.jp/assets/pdfs/projects/innovation/shokusokai/2026-application-guidelines.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人図書館振興財団",
+  "program": "これからの図書館のあり方に関する調査・研究およびその実践・実験に対する助成",
+  "amount": 10000000,
+  "num": null,
+  "total": null,
+  "field": "図書館等に関する調査・研究活動など、長期的な情報収集・分析や専門知識を必要とし、新たな知見・技術とその成果が図書館や地域・社会へ広く還元される事業。実践・実証実験を含む。",
+  "source": "https://toshokan.or.jp/page/guideline/2026%E5%B9%B4%E5%BA%A6%E6%8C%AF%E8%88%88%E5%8A%A9%E6%88%90%E4%BA%8B%E6%A5%AD%20%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "新製剤技術とエンジニアリング振興基金",
+  "program": "研究助成金",
+  "amount": 300000,
+  "num": null,
+  "total": null,
+  "field": "製剤開発、製剤技術、製剤プロセスエンジニアリング。PD賞に個人応募した若手研究者のうち、研究の将来性・発展可能性が期待される研究。",
+  "source": "https://d503e660-5afb-4eb2-b128-1e58dda36801.filesusr.com/ugd/af4fbe_5b4f9fa09ff34966b47c743b1cea372a.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "新製剤技術とエンジニアリング振興基金",
+  "program": "海外留学研究助成金",
+  "amount": 1500000,
+  "num": 3,
+  "total": null,
+  "field": "製剤開発、製剤技術、製剤プロセスエンジニアリングのいずれかに従事する若手研究者の海外留学。",
+  "source": "https://d503e660-5afb-4eb2-b128-1e58dda36801.filesusr.com/ugd/af4fbe_5b4f9fa09ff34966b47c743b1cea372a.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "新製剤技術とエンジニアリング振興基金",
+  "program": "海外国際学会発表支援",
+  "amount": 300000,
+  "num": null,
+  "total": null,
+  "field": "製剤開発、製剤技術、製剤プロセスエンジニアリングに関する研究成果を海外国際学会で口頭発表する若手研究者。",
+  "source": "https://d503e660-5afb-4eb2-b128-1e58dda36801.filesusr.com/ugd/af4fbe_5b4f9fa09ff34966b47c743b1cea372a.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "救急振興財団",
+  "program": "救急に関する調査研究事業",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "救急業務に関する先進的な調査研究全般",
+  "source": "https://fasd.jp/relays/download/404/2816/2170//?file=%2Ffiles%2Flibs%2F9110%2F202605131358095664.pdf&file_name=%E5%85%AC%E5%91%8A",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "株式会社ケー・エー・シー",
+  "program": "株式会社ケー・エー・シー創立45周年記念研究助成",
+  "amount": 1200000,
+  "num": 3,
+  "total": null,
+  "field": "実験動物学分野における研究",
+  "source": "https://www.kacnet.co.jp/assets/pdf/research-grant_requirement.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "農林中央金庫",
+  "program": "公益信託 農林中金森林再生基金（農中森力基金）第13回助成事業",
+  "amount": 30000000,
+  "num": 10,
+  "total": 200000000,
+  "field": "国内の民有林の公益性を発揮させ、森林の多面的機能を持続的に発揮させる活動。森林整備、森林空間利用、生物多様性保全、附帯する森林・生態系調査等。",
+  "source": "https://www.nochubank.or.jp/news/news_release/uploads/2026/20260309_%E3%80%8C%E8%BE%B2%E4%B8%AD%E6%A3%AE%E5%8A%9B%E5%9F%BA%E9%87%91%E3%80%8D%E7%AC%AC12%E5%9B%9E%E5%8A%A9%E6%88%90%E6%A1%88%E4%BB%B6%E3%81%AE%E6%B1%BA%E5%AE%9A%E3%81%8A%E3%82%88%E3%81%B3%E7%AC%AC13%E5%9B%9E%E5%8A%A9%E6%88%90%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%8B%9F%E9%9B%86%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人カメイ社会教育振興財団",
+  "program": "A．博物館学芸員等の内外研修に対する助成",
+  "amount": 250000,
+  "num": null,
+  "total": null,
+  "field": "学芸員等の博物館職員が調査研究を行うための国内外での研修費用",
+  "source": "https://kameimuseum.or.jp/wp-content/uploads/2026/03/9bab8e8d6c0811676c12d53a936dfc9d-2.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人カメイ社会教育振興財団",
+  "program": "B．博物館に関する国際交流に対する助成",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "国内博物館による海外作品等の展示公開、または博物館職員による資料保存技術・展示方法等のケーススタディや情報交換などの国際交流",
+  "source": "https://kameimuseum.or.jp/wp-content/uploads/2026/03/9bab8e8d6c0811676c12d53a936dfc9d-2.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人カメイ社会教育振興財団",
+  "program": "C．青少年の社会教育活動に対する助成",
+  "amount": 300000,
+  "num": null,
+  "total": null,
+  "field": "社会教育団体または青少年対象団体が行う青少年の健全育成のための社会教育活動、もしくはその促進事業",
+  "source": "https://kameimuseum.or.jp/wp-content/uploads/2026/03/9bab8e8d6c0811676c12d53a936dfc9d-2.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人カメイ社会教育振興財団",
+  "program": "D．文化及び芸術等の振興に対する助成",
+  "amount": 300000,
+  "num": null,
+  "total": null,
+  "field": "団体等が行う文化・芸術等の社会教育活動、またはその促進事業",
+  "source": "https://kameimuseum.or.jp/wp-content/uploads/2026/03/9bab8e8d6c0811676c12d53a936dfc9d-2.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "かごしま産業支援センター",
+  "program": "令和8年度 先端技術研究開発支援事業助成金",
+  "amount": 2000000,
+  "num": null,
+  "total": null,
+  "field": "革新的な新技術・新製品、DX・AI・IoT・ロボット等を活用したシステム、GX・カーボンニュートラルに関する研究開発",
+  "source": "https://www.kisc.or.jp/cat-sangaku/64650/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "かごしま産業支援センター",
+  "program": "令和8年度 新産業創出ネットワーク事業 研究開発支援補助金",
+  "amount": 4000000,
+  "num": null,
+  "total": null,
+  "field": "新事業創出に関する新技術・新製品の研究開発",
+  "source": "https://www.kisc.or.jp/cat-sangaku/64650/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "かごしま産業支援センター",
+  "program": "令和8年度 魅力ある食品開発支援事業助成金",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "鹿児島県産農林水産物を活用した機能性表示食品、認証・低糖質食品、長期保存食品、アップサイクル商品等の研究・商品開発",
+  "source": "https://www.kisc.or.jp/cat-sangaku/64650/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本精神科看護技術協会",
+  "program": "研究助成費交付",
+  "amount": 300000,
+  "num": 3,
+  "total": null,
+  "field": "精神科看護の学術の向上に資する研究。精神科看護実践への貢献、新規性・独創性・先取性、研究の前進への貢献、または先行研究が少ない研究など。",
+  "source": "https://jpna.jp/cms/wp-content/uploads/2026/04/KenkyuJoseihiKofuKitei_20260314.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "NSKメカトロニクス技術高度化財団",
+  "program": "メカトロニクス技術高度化「研究助成」",
+  "amount": 2000000,
+  "num": 15,
+  "total": null,
+  "field": "メカトロニクス技術の発展に関連する研究：トライボロジー、センサー、アクチュエーター、軸受・直線運動機構、運動・動力伝達機構、精密運動制御、工作機械技術、精密加工、ロボット機構・制御、半導体・医療機器・環境・エネルギー・輸送機器産業等への応用",
+  "source": "https://www.nskfam.or.jp/application/develop/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人あきた企業活性化センター",
+  "program": "あきた中小企業みらい応援ファンド事業（高度技術産業集積地域型）",
+  "amount": 3500000,
+  "num": null,
+  "total": null,
+  "field": "秋田市の中小企業者等が県内大学、工業高等専門学校または公設試験研究機関と連携して行う、高度技術・新製品の開発、高付加価値化、生産工程合理化等の研究開発",
+  "source": "https://www.bic-akita.or.jp/cms/assets/uploads/2026/03/02-%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E2%91%A0%E3%81%82%E3%81%8D%E3%81%9F%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%BF%E3%82%89%E3%81%84%E5%BF%9C%E6%8F%B4%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人あきた企業活性化センター",
+  "program": "あきた中小企業みらい応援ファンド事業（一般地域型）",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "秋田県内の中小企業者等が県内大学、工業高等専門学校または公設試験研究機関と連携して行う、高度技術・新製品の開発、高付加価値化、生産工程合理化等の研究開発",
+  "source": "https://www.bic-akita.or.jp/cms/assets/uploads/2026/03/02-%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E2%91%A0%E3%81%82%E3%81%8D%E3%81%9F%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%BF%E3%82%89%E3%81%84%E5%BF%9C%E6%8F%B4%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人しまね産業振興財団",
+  "program": "しまねオープンイノベーション推進事業助成金（チャレンジ枠）",
+  "amount": 1000000,
+  "num": null,
+  "total": 3000000,
+  "field": "県内企業等による新分野への進出、新商品開発等に向けた市場調査、試作開発または可能性検証試験",
+  "source": "https://www.joho-shimane.or.jp/files/original/20260402103311874326d983f.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人しまね産業振興財団",
+  "program": "しまねオープンイノベーション推進事業助成金（事業化枠）",
+  "amount": 5000000,
+  "num": null,
+  "total": 25000000,
+  "field": "国内の大学等、企業または外部専門家と連携して行う、事業化に向けたオープンイノベーションによる研究開発",
+  "source": "https://www.joho-shimane.or.jp/files/original/20260402103311874326d983f.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人しまね産業振興財団",
+  "program": "しまねオープンイノベーション推進事業助成金（高度研究開発枠）",
+  "amount": 10000000,
+  "num": null,
+  "total": 20000000,
+  "field": "国内の大学等または企業と連携して行う、次世代技術・事業化に向けた研究レベルの高い研究開発",
+  "source": "https://www.joho-shimane.or.jp/files/original/20260402103311874326d983f.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人山形県企業振興公社",
+  "program": "イノベーション創出支援事業（やまがた産業技術振興基金事業／研究開発等支援事業）",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "山形県内で行う、新製品・新技術、新規市場・新事業展開に関する研究開発、および公設試験研究機関・大学等との共同研究等",
+  "source": "https://www.ynet.or.jp/.assets/%E2%91%A1%E4%BA%A4%E4%BB%98%E8%A6%81%E7%B6%B1.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "えひめ産業振興財団",
+  "program": "大学発起業化シーズ育成支援補助事業",
+  "amount": 800000,
+  "num": null,
+  "total": null,
+  "field": "ライフサイエンス、バイオテクノロジー、環境、情報通信、ナノテクノロジー・材料、製造技術、エネルギー、異分野技術融合等。新産業の創出および県内企業の新事業展開につながる可能性のある独創的な研究開発。",
+  "source": "https://www.ehime-iinet.or.jp/grants-posts/r06-seeds-support-project",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "えひめ産業振興財団",
+  "program": "公設試験研究機関発起業化シーズ育成支援事業",
+  "amount": 800000,
+  "num": null,
+  "total": null,
+  "field": "ライフサイエンス、バイオテクノロジー、環境、情報通信、ナノテクノロジー・材料、製造技術、エネルギー、異分野技術融合等。新産業の創出および県内企業の新事業展開につながる可能性のある独創的な研究開発。",
+  "source": "https://www.ehime-iinet.or.jp/grants-posts/r06-seeds-support-project",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人京都産業21",
+  "program": "令和8年度「産学公の森」推進事業補助金 I アーリーステージコース（グループ形成）",
+  "amount": 1200000,
+  "num": 13,
+  "total": null,
+  "field": "社会課題解決型ビジネスの創出に向けた勉強会、研究会、市場調査、要素技術の可能性検証、技術研修等",
+  "source": "https://www.ki21.jp/subsidy/kobo-r8-mori/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人京都産業21",
+  "program": "令和8年度「産学公の森」推進事業補助金 II 事業化促進コース",
+  "amount": 20000000,
+  "num": 14,
+  "total": null,
+  "field": "試作品・サービス等の開発、テスト販売、本格的な市場調査・販路開拓等",
+  "source": "https://www.ki21.jp/subsidy/kobo-r8-mori/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人京都産業21",
+  "program": "令和8年度「産学公の森」推進事業補助金 III 本格的事業展開コース",
+  "amount": 50000000,
+  "num": 6,
+  "total": null,
+  "field": "実用化に向けた応用研究・生産技術開発、量産設備投資および連動する販路開拓等",
+  "source": "https://www.ki21.jp/subsidy/kobo-r8-mori/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人千葉県産業振興センター",
+  "program": "地域発イノベーション創出研究開発助成",
+  "amount": 10000000,
+  "num": 4,
+  "total": null,
+  "field": "公的研究機関・大学と共同で行う革新的研究開発、またはAI・ロボット、IoT、航空・宇宙、環境・エネルギー、バイオ、機能性食品、次世代自動車、次世代コンピュータ、新素材・ナノテク、半導体、ヘルスケア等の研究開発",
+  "source": "https://www.ccjc-net.or.jp/cmsfiles/contents/0000002/2519/R8_bosyuyoukou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "農林中央金庫／全国森林組合連合会",
+  "program": "公益信託 農林中金森林再生基金（農中森力基金）",
+  "amount": 30000000,
+  "num": 10,
+  "total": 200000000,
+  "field": "国内の民有林の公益性を発揮させ、森林の多面的機能を持続的に発揮させる事業・活動（森林・生態系調査、森林病虫獣害等調査などを含む）",
+  "source": "https://www.zenmori.org/topics/files/564_file1.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人埼玉県産業振興公社",
+  "program": "令和8年度社会課題の解決に資する試作品実証補助金",
+  "amount": 1000000,
+  "num": 6,
+  "total": null,
+  "field": "社会課題の解決と社会実装に向け、デジタル、バイオ、マテリアル、カーボンニュートラル分野の新技術を活用した試作品の実証・改良等",
+  "source": "https://www.saitama-j.or.jp/pages/339?b_id=515&detail=1&r_id=606",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人ひょうご産業活性化センター",
+  "program": "ひょうご農商工連携事業助成金（正式名称：ひょうご農商工連携ファンド事業助成金）",
+  "amount": 4000000,
+  "num": null,
+  "total": null,
+  "field": "兵庫県内の中小企業者等と農林漁業者の連携体が行う、地域の農林漁業資源を活用した新商品・新サービスの研究開発および販路開拓（研究開発を伴わない販路開拓のみは対象外）",
+  "source": "https://web.hyogo-iic.ne.jp/torihiki/renkeifund",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本木材加工技術協会",
+  "program": "海外研究活動特別助成",
+  "amount": 200000,
+  "num": 2,
+  "total": null,
+  "field": "本協会会員による海外での研究集会参加、調査等の研究活動（木材加工・利用技術の普及および国外技術情報の収集）",
+  "source": "https://www.jwta.or.jp/award/ovsrasg.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本アメリカ学会",
+  "program": "研究会開催のための助成",
+  "amount": 30000,
+  "num": null,
+  "total": null,
+  "field": "アメリカ研究に関する研究会。一定の研究業績を有する研究者を講師として招聘し、助成金を講師への謝金または交通費に充当するもの。",
+  "source": "https://www.jaas.gr.jp/grant-program.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本アメリカ学会",
+  "program": "アメリカ学会海外渡航奨励金（アジア圏）",
+  "amount": 50000,
+  "num": null,
+  "total": null,
+  "field": "国外の学会・シンポジウムにおけるアメリカ研究関連の発表等。日本在住で日本からの旅費を要する学会員が対象。",
+  "source": "https://www.jaas.gr.jp/grant-program.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本アメリカ学会",
+  "program": "アメリカ学会海外渡航奨励金（アジア圏外）",
+  "amount": 180000,
+  "num": null,
+  "total": null,
+  "field": "国外の学会・シンポジウムにおけるアメリカ研究関連の発表等。日本在住で日本からの旅費を要する学会員が対象。",
+  "source": "https://www.jaas.gr.jp/grant-program.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人21あおもり産業総合支援センター",
+  "program": "GX革新的技術等創出事業補助金（一般枠）",
+  "amount": 10000000,
+  "num": null,
+  "total": null,
+  "field": "青森県が推進するGX関連8分野における革新的な製品・サービスの研究開発・事業化（市場調査、試作品製造、技術開発等）",
+  "source": "https://www.21aomori.or.jp/topics/34208",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人21あおもり産業総合支援センター",
+  "program": "GX革新的技術等創出事業補助金（連携枠）",
+  "amount": 20000000,
+  "num": null,
+  "total": null,
+  "field": "県内中小企業者が企業、大学、公設試験研究機関等と連携して行う、GX関連の革新的な製品・サービスの研究開発・事業化",
+  "source": "https://www.21aomori.or.jp/topics/34208",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人21あおもり産業総合支援センター",
+  "program": "AX企業成長推進事業補助金・販売力／収益力強化コース（新事業開発枠）",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "新商品・新技術・新役務（サービス）の開発および試作品のPR",
+  "source": "https://www.21aomori.or.jp/topics/34208",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本繊維機械学会",
+  "program": "日本繊維機械学会賞「学術研究奨励賞」",
+  "amount": 500000,
+  "num": null,
+  "total": null,
+  "field": "繊維および繊維機械に関する科学・工学の基礎的・萌芽的または総合的研究",
+  "source": "https://tmsj.or.jp/wp/wp-content/uploads/2024/10/IA2025.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本私立学校振興・共済事業団",
+  "program": "学術研究振興資金（自然科学分野）",
+  "amount": 6000000,
+  "num": null,
+  "total": 80000000,
+  "field": "自然科学。私立大学等に所属する研究者2人以上による共同研究（付置研究所を含む）",
+  "source": "https://www.shigaku.go.jp/s_sikin_koubo.htm",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本私立学校振興・共済事業団",
+  "program": "学術研究振興資金（その他の分野）",
+  "amount": 3000000,
+  "num": null,
+  "total": 80000000,
+  "field": "人文・社会科学など自然科学以外。私立大学等に所属する研究者2人以上による共同研究（付置研究所を含む）",
+  "source": "https://www.shigaku.go.jp/s_sikin_koubo.htm",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本私立学校振興・共済事業団",
+  "program": "若手・女性研究者奨励金",
+  "amount": 400000,
+  "num": null,
+  "total": 30000000,
+  "field": "全研究分野。若手研究者奨励金は所定の年齢・職位等を満たす研究者、女性研究者奨励金は所定の職位等を満たす女性研究者が1人で行う研究",
+  "source": "https://www.shigaku.go.jp/s_sikin_koubo.htm",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本水文科学会",
+  "program": "研究ワーキンググループ",
+  "amount": 100000,
+  "num": null,
+  "total": null,
+  "field": "会員の研究活動の活性化および会員相互の情報交換促進を目的とする研究ワーキンググループ活動",
+  "source": "https://jahs.info/%E6%97%A5%E6%9C%AC%E6%B0%B4%E6%96%87%E7%A7%91%E5%AD%A6%E4%BC%9A%E3%81%AE%E7%A0%94%E7%A9%B6%E8%A3%9C%E5%8A%A9%E9%87%91/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本水文科学会",
+  "program": "災害時緊急調査補助金",
+  "amount": 100000,
+  "num": null,
+  "total": null,
+  "field": "災害時の緊急調査",
+  "source": "https://jahs.info/%E6%97%A5%E6%9C%AC%E6%B0%B4%E6%96%87%E7%A7%91%E5%AD%A6%E4%BC%9A%E3%81%AE%E7%A0%94%E7%A9%B6%E8%A3%9C%E5%8A%A9%E9%87%91/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人静岡県産業振興財団 浜松支所",
+  "program": "令和8年度 研究開発助成「一般型」",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "次世代自動車、新エネルギー、医療・福祉機器、ロボット、航空宇宙、光、環境技術関連、CNFをはじめ、産業応用・展開の可能性を有する新技術・新製品等の実用化を目的とする研究開発",
+  "source": "https://www.shizuoka-shinseicho.jp/2026/03/19/r8kenippan/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人静岡県産業振興財団 浜松支所",
+  "program": "令和8年度 研究開発助成「産学官連携型」",
+  "amount": 10000000,
+  "num": null,
+  "total": null,
+  "field": "次世代自動車、新エネルギー、医療・福祉機器、ロボット、航空宇宙、光、環境技術関連、CNFをはじめ、産業応用・展開の可能性を有する新技術・新製品等の実用化を、大学・産総研・県内公設試験研究機関との連携により行う研究開発",
+  "source": "https://www.shizuoka-shinseicho.jp/2026/03/19/r8kenippan/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "女性活躍のためのフェムテック開発支援・普及促進事業（開発・改良）",
+  "amount": 20000000,
+  "num": null,
+  "total": null,
+  "field": "フェムテック分野の製品・サービス等の開発・改良",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "TOKYO戦略的イノベーション促進事業",
+  "amount": 80000000,
+  "num": null,
+  "total": null,
+  "field": "他企業・大学等と連携して行う革新的な技術・製品開発",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "航空宇宙産業への参入支援事業（宇宙製品等開発経費助成・機器開発）",
+  "amount": 100000000,
+  "num": null,
+  "total": null,
+  "field": "宇宙関連機器の開発",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "航空宇宙産業への参入支援事業（宇宙製品等開発経費助成・ソリューション開発）",
+  "amount": 20000000,
+  "num": null,
+  "total": null,
+  "field": "宇宙関連ソフトウェアおよびソリューションの開発",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "地域資源活用製品等の開発・販売促進事業（開発・改良フェーズ）",
+  "amount": 15000000,
+  "num": null,
+  "total": null,
+  "field": "東京の地域資源活用または都市・地域課題の解決に資する製品・サービスの開発・改良",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "ゼロエミッション推進に向けた事業転換支援事業（製品開発助成・単独）",
+  "amount": 15000000,
+  "num": null,
+  "total": null,
+  "field": "ゼロエミッションに資する製品の開発・改良",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "ゼロエミッション推進に向けた事業転換支援事業（製品開発助成・グループ）",
+  "amount": 30000000,
+  "num": null,
+  "total": null,
+  "field": "中小企業グループによるゼロエミッションに資する製品の開発・改良",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "社会実装参画による多摩イノベーション創出事業",
+  "amount": 50000000,
+  "num": null,
+  "total": null,
+  "field": "大学・研究機関等が行う研究開発の事業化等への中小企業の参画",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "課題解決型製品・サービス等の試作品開発・改良助成",
+  "amount": 20000000,
+  "num": null,
+  "total": null,
+  "field": "安全・安心、高齢者・介護、DX、暑さ対策等の都市課題を解決する製品・サービスの試作品開発・改良",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "新製品・新技術開発助成事業",
+  "amount": 25000000,
+  "num": null,
+  "total": null,
+  "field": "実用化の見込みのある新製品・新技術の研究開発",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "成長産業分野への事業転換に向けた製品開発支援事業（技術開発助成）",
+  "amount": 15000000,
+  "num": null,
+  "total": null,
+  "field": "成長産業分野への事業転換を目的とする製品またはソフトウェアの開発・改良",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "医療機器等開発着手支援助成事業",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "医療機器等の製品開発前の検証・市場調査等",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人東京都中小企業振興公社",
+  "program": "医療機器等事業化支援助成事業",
+  "amount": 50000000,
+  "num": null,
+  "total": null,
+  "field": "医療機器等の製品開発から事業化まで",
+  "source": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本消化器病学会",
+  "program": "2027年度 日本消化器病学会 臨床研究助成",
+  "amount": 1000000,
+  "num": 3,
+  "total": null,
+  "field": "消化器病学分野の臨床研究",
+  "source": "https://www.jsge.or.jp/news/20260401/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本バイオインフォマティクス学会",
+  "program": "公募研究会",
+  "amount": 150000,
+  "num": null,
+  "total": null,
+  "field": "バイオインフォマティクスおよび関連分野に関する研究会の開催支援（分野横断的・萌芽的テーマ、新たな研究コミュニティ形成を含む）",
+  "source": "https://www.jsbi.org/activity/koubo/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人栃木県産業振興センター",
+  "program": "若手研究者研究開発支援事業（世界一を目指す研究開発助成事業）",
+  "amount": 1000000,
+  "num": 2,
+  "total": null,
+  "field": "県内の高等教育機関または中小企業に属する45歳未満の研究者・技術者が行う、世界一の技術等を目指す研究開発",
+  "source": "https://www.pref.tochigi.lg.jp/f02/houdou/houdou/r8_sekaiichibosyu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人栃木県産業振興センター",
+  "program": "脱炭素化技術育成支援事業",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "県内の中堅・中小企業者、個人事業主、大学等による、脱炭素化に資する技術の初期段階の研究開発",
+  "source": "https://www.pref.tochigi.lg.jp/f02/houdou/houdou/r8_sekaiichibosyu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人栃木県産業振興センター",
+  "program": "とちぎグリーン成長産業創出支援事業（FS調査助成事業）",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "カーボンニュートラルに資する革新的技術の事業性検討・FS調査",
+  "source": "https://www.pref.tochigi.lg.jp/f02/houdou/houdou/r8_sekaiichibosyu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人栃木県産業振興センター",
+  "program": "とちぎグリーン成長産業創出支援事業（インキュベーション研究助成事業・単体）",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "カーボンニュートラルに資する革新的技術のインキュベーション研究（単体申請）",
+  "source": "https://www.pref.tochigi.lg.jp/f02/houdou/houdou/r8_sekaiichibosyu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人栃木県産業振興センター",
+  "program": "とちぎグリーン成長産業創出支援事業（インキュベーション研究助成事業・連携体）",
+  "amount": 10000000,
+  "num": null,
+  "total": null,
+  "field": "カーボンニュートラルに資する革新的技術のインキュベーション研究（連携体申請）",
+  "source": "https://www.pref.tochigi.lg.jp/f02/houdou/houdou/r8_sekaiichibosyu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人栃木県産業振興センター",
+  "program": "とちぎグリーン成長産業創出支援事業（実用化開発助成事業・単体）",
+  "amount": 20000000,
+  "num": null,
+  "total": null,
+  "field": "カーボンニュートラルに資する革新的技術の実用化開発（単体申請）",
+  "source": "https://www.pref.tochigi.lg.jp/f02/houdou/houdou/r8_sekaiichibosyu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人栃木県産業振興センター",
+  "program": "とちぎグリーン成長産業創出支援事業（実用化開発助成事業・連携体）",
+  "amount": 40000000,
+  "num": null,
+  "total": null,
+  "field": "カーボンニュートラルに資する革新的技術の実用化開発（連携体申請）",
+  "source": "https://www.pref.tochigi.lg.jp/f02/houdou/houdou/r8_sekaiichibosyu.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "くまもと産業支援財団",
+  "program": "令和7年度リーディング企業成長助成補助金",
+  "amount": 10000000,
+  "num": 6,
+  "total": null,
+  "field": "新技術・新商品開発（新技術の研究開発、新商品の試作・改良、既存技術・既存商品の改良等）、販路開拓、生産性向上。対象者は集中支援期間内のリーディング育成企業。",
+  "source": "https://www.kmt-ti.or.jp/archives/20228",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人あいち産業振興機構",
+  "program": "2026年度 あいち中小企業応援ファンド新事業展開応援助成金（一般枠）",
+  "amount": 3000000,
+  "num": null,
+  "total": 50000000,
+  "field": "主要地場産業を除く愛知県内の地域資源を活用した、新製品・商品の開発、販路拡大、およびこれらにつながる人材育成",
+  "source": "https://www.aibsc.jp/support/1182/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人あいち産業振興機構",
+  "program": "2026年度 あいち中小企業応援ファンド新事業展開応援助成金（地場産業枠・農商工連携枠）",
+  "amount": 6000000,
+  "num": null,
+  "total": 70000000,
+  "field": "主要地場産業に関する地域資源を活用した新事業展開、または県内の農林水産物を活用し、あいち産業科学技術総合センター・愛知県農業総合試験場等と連携して行う事業",
+  "source": "https://www.aibsc.jp/support/1182/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人鳥取県産業振興機構",
+  "program": "とっとり起業化促進事業助成金（起業創業型）",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "先端技術分野（先進運転支援デバイス、AI、IoT、医療機器、バイオ〔創薬〕、その他時代や環境の変化への適応に必要と考えられる技術分野等）。技術シーズを活用した応用研究等が対象。",
+  "source": "https://www.toriton.or.jp/commercialization/%E8%B5%B7%E6%A5%AD%E5%8C%96%E4%BF%83%E9%80%B2%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E4%BA%8B%E6%A5%AD/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人鳥取県産業振興機構",
+  "program": "とっとり起業化促進事業助成金（試作実証型）",
+  "amount": 10000000,
+  "num": null,
+  "total": null,
+  "field": "先端技術分野。事業化に向けた製品・技術の開発および技術実証等（試作相当の段階まで到達している取組）。",
+  "source": "https://www.toriton.or.jp/commercialization/%E8%B5%B7%E6%A5%AD%E5%8C%96%E4%BF%83%E9%80%B2%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E4%BA%8B%E6%A5%AD/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人鳥取県産業振興機構",
+  "program": "とっとり起業化促進事業助成金（社会実装型）",
+  "amount": 20000000,
+  "num": null,
+  "total": null,
+  "field": "先端技術分野。地域社会の課題解決に資する製品・サービスについて、県内企業を含む連携体が県内を拠点に行う実証等。",
+  "source": "https://www.toriton.or.jp/commercialization/%E8%B5%B7%E6%A5%AD%E5%8C%96%E4%BF%83%E9%80%B2%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E4%BA%8B%E6%A5%AD/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本分析化学会",
+  "program": "令和7年度 公益社団法人日本分析化学会東北支部助成金",
+  "amount": 250000,
+  "num": null,
+  "total": null,
+  "field": "東北支部会員の研究活動・教育活動。支部内の共同研究・共同教育を優先し、大学院生による萌芽的研究も対象。",
+  "source": "https://www.jsac.or.jp/~jsac_ne/announce/grant2025.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人さっぽろ産業振興財団",
+  "program": "デジタル・イノベーション創出補助金（デジタル・イノベーション枠）",
+  "amount": 7000000,
+  "num": null,
+  "total": null,
+  "field": "AI、XR・メタバース、Web3.0等の先端技術を活用した、新たな製品・サービス・ソリューションの開発",
+  "source": "https://www.elecen.jp/wp/wp-content/uploads/2026/04/1bbbc909e7b15260820ae753ad8dc904-2.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人さっぽろ産業振興財団",
+  "program": "デジタル・イノベーション創出補助金（ビジネス設計枠）",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "先端技術を活用した新製品開発に向けた市場調査、ビジネス設計、概念実証（PoC）",
+  "source": "https://www.elecen.jp/wp/wp-content/uploads/2026/04/1bbbc909e7b15260820ae753ad8dc904-2.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "教育社会学会",
+  "program": "日本教育社会学会トラベルグラント（第78回大会）",
+  "amount": 30000,
+  "num": null,
+  "total": null,
+  "field": "日本教育社会学会の大学院生、または博士後期課程入学から10年以内で常勤職にない会員による、第78回大会での研究発表",
+  "source": "https://jses-web.jp/news20260414-1",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人千葉市産業振興財団",
+  "program": "産学共同研究促進支援事業（通常枠）",
+  "amount": 2000000,
+  "num": null,
+  "total": null,
+  "field": "大学等の試験研究機関と共同で行う新技術・新製品・新サービスの研究開発。情報通信、環境、医療・福祉、新製造技術、販売・サービス分野",
+  "source": "https://www.chibashi-sangyo.or.jp/enterprise/kyoka-sosyutu/sangaku/kyoudo-kenkyu/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人千葉市産業振興財団",
+  "program": "産学共同研究促進支援事業（前年度採択テーマの継続枠）",
+  "amount": 1500000,
+  "num": null,
+  "total": null,
+  "field": "前年度に採択された同一研究テーマのうち、技術等の改善・発展性があり、2年以内の事業化が見込まれる共同研究",
+  "source": "https://www.chibashi-sangyo.or.jp/enterprise/kyoka-sosyutu/sangaku/kyoudo-kenkyu/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人千葉市産業振興財団",
+  "program": "大学等研究費用助成事業",
+  "amount": 600000,
+  "num": null,
+  "total": null,
+  "field": "大学等との共同研究および共同研究前のマッチングを目的とする委託研究、調査、分析、課題把握等",
+  "source": "https://www.chibashi-sangyo.or.jp/enterprise/kyoka-sosyutu/sangaku/kyoudo-kenkyu/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人千葉市産業振興財団",
+  "program": "新製品等開発支援事業",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "市場投入前の新サービス・新製品に関する技術的課題の解決、製品改良等",
+  "source": "https://www.chibashi-sangyo.or.jp/enterprise/kyoka-sosyutu/sangaku/kyoudo-kenkyu/",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "熱・電気エネルギー技術財団",
+  "program": "第32回研究助成 Ⅰ通常募集",
+  "amount": 1000000,
+  "num": 12,
+  "total": 12000000,
+  "field": "新水素エネルギー技術、熱電変換素子技術、熱エネルギー貯蔵技術、熱・電気エネルギーに関するシステム技術。関連するAI・IoTも対象。",
+  "source": "https://www.teet.or.jp/2024bosyuyokou1.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "熱・電気エネルギー技術財団",
+  "program": "第32回研究助成 Ⅱ特別募集",
+  "amount": 3000000,
+  "num": 2,
+  "total": 6000000,
+  "field": "新水素エネルギー技術、熱電変換素子技術、熱エネルギー貯蔵技術、熱・電気エネルギーに関するシステム技術。",
+  "source": "https://www.teet.or.jp/2024bosyuyokou1.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本肥満学会",
+  "program": "第五回 日本肥満学会・ノボ ノルディスク ファーマ研究助成",
+  "amount": 1000000,
+  "num": 11,
+  "total": null,
+  "field": "肥満の基礎研究に関する国内で行われる研究",
+  "source": "https://www.jasso.or.jp/data/data/pdf/5th_novo-nordisk-pharma_application-guidelines.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本臨床腫瘍学会",
+  "program": "JSMO／KFCR 公募型若手研究助成",
+  "amount": 1000000,
+  "num": 10,
+  "total": null,
+  "field": "がん薬物療法、がん治療に関する研究",
+  "source": "https://www.jsmo.or.jp/kfcr-subsidy2025/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本医学放射線学会",
+  "program": "日本医学放射線学会 Bayer研究助成金制度",
+  "amount": 1000000,
+  "num": 5,
+  "total": 5000000,
+  "field": "放射線医学（基礎・臨床を問わない）に関する研究。ただし、特定企業の医薬品・医療機器に特化した研究は対象外。",
+  "source": "https://www.radiology.jp/member_info/news_member/20250624_1.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "一般財団法人リモート・センシング技術センター",
+  "program": "第4回（2025年度）RESTEC研究助成",
+  "amount": 1000000,
+  "num": 10,
+  "total": null,
+  "field": "人工衛星等（航空機、ドローンおよび近接等を含む）によるリモートセンシング技術を活用し、基礎的なデータ取得および画像等のデータ処理を含む研究テーマ",
+  "source": "https://www.restec.or.jp/about/research_grant_2025.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人みやぎ産業振興機構",
+  "program": "みやぎ中小企業チャレンジ応援基金事業（一般型）",
+  "amount": 2000000,
+  "num": null,
+  "total": null,
+  "field": "地域資源やビジネスアイデア等を活用した新商品・新サービスの開発。研究開発費の計上が必須。",
+  "source": "https://www.joho-miyagi.or.jp/wp-content/uploads/2026/05/bosyuuyoukou202605.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人みやぎ産業振興機構",
+  "program": "みやぎ中小企業チャレンジ応援基金事業（技術志向型）",
+  "amount": 3000000,
+  "num": 7,
+  "total": null,
+  "field": "高付加価値製品、産学連携、または高度な技術を活用した研究開発。対象例は半導体、エネルギー、医療・健康機器、航空機、インフラ、ロボット、AI・IoT、ものづくり基盤技術等。",
+  "source": "https://www.joho-miyagi.or.jp/wp-content/uploads/2026/05/bosyuuyoukou202605.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人みやぎ産業振興機構",
+  "program": "みやぎ型オープンイノベーション推進事業（プロジェクト創出研究会補助金）",
+  "amount": 1200000,
+  "num": null,
+  "total": null,
+  "field": "県内中小企業者が大学・公設試験研究機関等と研究会を結成して行う、新事業の創出または新技術・新製品開発のための研究開発。",
+  "source": "https://www.joho-miyagi.or.jp/wp-content/uploads/2026/05/bosyuuyoukou202605.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本臨床化学会",
+  "program": "若手育成助成金（須藤加代子基金）個人研究",
+  "amount": 500000,
+  "num": 2,
+  "total": null,
+  "field": "臨床化学に関わりのある研究",
+  "source": "https://jscc-jp.gr.jp/file/prize/wakate/%E5%AE%9F%E6%96%BD%E8%A6%81%E7%B6%B12026_%E7%A2%BA%E5%AE%9A.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本臨床化学会",
+  "program": "若手育成助成金（須藤加代子基金）多機関共同研究",
+  "amount": 1000000,
+  "num": 1,
+  "total": null,
+  "field": "臨床化学に関わりのある研究",
+  "source": "https://jscc-jp.gr.jp/file/prize/wakate/%E5%AE%9F%E6%96%BD%E8%A6%81%E7%B6%B12026_%E7%A2%BA%E5%AE%9A.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本呼吸器学会",
+  "program": "喘息研究支援プログラムB",
+  "amount": 1000000,
+  "num": 15,
+  "total": 15000000,
+  "field": "国内における気管支喘息の基礎的・臨床的研究",
+  "source": "https://www.jrs.or.jp/award/boehringer-ingelheim/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人関西・大阪21世紀協会",
+  "program": "日本万国博覧会記念基金助成事業（学術に関する国際的な活動）",
+  "amount": 5000000,
+  "num": null,
+  "total": 135000000,
+  "field": "学術に関する国際的活動。学術関連の国際会議は、自然科学の基礎的研究（主に理学。工学・医学は対象外）に係る国際会議が対象。単なる調査研究は対象外。",
+  "source": "https://www.osaka21.or.jp/jecfund/information/data/requirements2027.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人宮崎県産業振興機構",
+  "program": "地域産業技術研究開発支援事業（可能性調査支援）",
+  "amount": 1500000,
+  "num": null,
+  "total": null,
+  "field": "新たな技術開発等に向けた研究開発プロジェクトの可能性調査。県内企業または産学官等による共同研究グループの代表事業者が対象。",
+  "source": "https://www.mepo.or.jp/shiensaku/5298.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人宮崎県産業振興機構",
+  "program": "地域産業技術研究開発支援事業（研究開発支援）",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "新たな技術の開発等による宮崎県産業の振興を目的とする研究開発。県内企業または産学官等による共同研究グループの代表事業者が対象。",
+  "source": "https://www.mepo.or.jp/shiensaku/5298.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人むつ小川原地域・産業振興財団",
+  "program": "令和8年度むつ小川原地域・産業振興プロジェクト支援助成事業",
+  "amount": 2000000,
+  "num": 81,
+  "total": 122609000,
+  "field": "青森県内の地域活性化・産業育成振興に資するプロジェクト活動、調査研究活動等。分野は農林、水産、商工、観光、文化、スポーツ、その他。",
+  "source": "https://www.jomon.ne.jp/~mozaidan/pdf/r8_project_youryou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本生殖医学会",
+  "program": "学術奨励研究助成",
+  "amount": 1000000,
+  "num": 3,
+  "total": 3000000,
+  "field": "生殖医学の発展に寄与すると予測される、人類および家畜・動物の生殖に関する基礎的・臨床的研究。原則として基礎、泌尿器科、産婦人科の3領域から各1名。",
+  "source": "https://cdn.jsrm.or.jp/magazine/70%E5%B7%BB/1%E3%83%BB2%E5%8F%B7.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本麻酔科学会",
+  "program": "A研究",
+  "amount": 10000000,
+  "num": 1,
+  "total": null,
+  "field": "主として多施設で行う大型の臨床研究（麻酔科学領域）",
+  "source": "https://anesth.or.jp/files/pdf/16_kenkyu-jyosei.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本麻酔科学会",
+  "program": "B研究",
+  "amount": 5000000,
+  "num": 1,
+  "total": null,
+  "field": "単一施設または多施設で行う小規模なシーズ臨床研究（麻酔科学領域）",
+  "source": "https://anesth.or.jp/files/pdf/16_kenkyu-jyosei.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本皮膚科学会",
+  "program": "基礎医学研究費（資生堂寄付）",
+  "amount": 1000000,
+  "num": 6,
+  "total": null,
+  "field": "皮膚科学領域における基礎医学研究。優秀な若手研究者の育成および研究の奨励助成。",
+  "source": "https://www.dermatol.or.jp/medical/biologics/4897/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本皮膚科学会",
+  "program": "炎症性皮膚疾患研究費（アッヴィ助成）",
+  "amount": 3000000,
+  "num": 1,
+  "total": null,
+  "field": "炎症性皮膚疾患に関係する基礎的または臨床的研究。",
+  "source": "https://www.dermatol.or.jp/medical/biologics/4897/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本皮膚科学会",
+  "program": "皮膚医学研究基金（ロート製薬寄付）",
+  "amount": 3000000,
+  "num": 2,
+  "total": null,
+  "field": "皮膚医学の発展に顕著な貢献が期待できる基礎的研究。",
+  "source": "https://www.dermatol.or.jp/medical/biologics/4897/",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本救急医学会",
+  "program": "日本救急医学会 学会主導研究",
+  "amount": 1000000,
+  "num": null,
+  "total": 10000000,
+  "field": "国際・国内多施設共同前向き救急医学研究",
+  "source": "https://www.jaam.jp/info/2021/info-20210701_1.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人長崎県産業振興財団",
+  "program": "技術応用開発・事業化調査事業",
+  "amount": 3000000,
+  "num": null,
+  "total": null,
+  "field": "基礎技術を応用した新技術・製品・試作品の初期段階の研究開発、および自社開発製品等の事業化調査・市場調査。重点分野は成長ものづくり、環境・エネルギー、第4次産業革命、食料品製造業。",
+  "source": "https://www.joho-nagasaki.or.jp/wp-area/2025/wp-content/uploads/2025/12/459639e945096638bd263f545599fb5a.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人長崎県産業振興財団",
+  "program": "商品化研究・開発支援事業",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "自社の新技術、新製品、試作品の研究開発、または県内にない技術の導入。重点分野は成長ものづくり、環境・エネルギー、第4次産業革命、食料品製造業。",
+  "source": "https://www.joho-nagasaki.or.jp/wp-area/2025/wp-content/uploads/2025/12/459639e945096638bd263f545599fb5a.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "公益財団法人長崎県産業振興財団",
+  "program": "産学連携スタート補助金事業",
+  "amount": 1000000,
+  "num": null,
+  "total": null,
+  "field": "県内中小企業等が、新技術・新製品・新サービスの開発等に伴う課題を、大学等との初めての共同研究・委託研究等により解決する産学連携の取組。",
+  "source": "https://www.joho-nagasaki.or.jp/wp-area/2025/wp-content/uploads/2025/12/459639e945096638bd263f545599fb5a.pdf",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本心臓病学会",
+  "program": "Young Investigator's Award（YIA）最優秀賞",
+  "amount": 300000,
+  "num": 1,
+  "total": null,
+  "field": "本邦の施設で行われた、ヒトを対象とする臨床および基礎的研究論文（ヒト由来試料を対象とする研究を含む）",
+  "source": "https://jcc.gr.jp/katsudo/kensyo/yia-bosyu.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本心臓病学会",
+  "program": "Young Investigator's Award（YIA）優秀賞",
+  "amount": 50000,
+  "num": 4,
+  "total": null,
+  "field": "本邦の施設で行われた、ヒトを対象とする臨床および基礎的研究論文（ヒト由来試料を対象とする研究を含む）",
+  "source": "https://jcc.gr.jp/katsudo/kensyo/yia-bosyu.html",
+  "amount_type": "per_award"
+ },
+ {
+  "foundation": "日本民俗学会",
+  "program": "植松明石記念一般社団法人日本民俗学会研究助成（個人研究）",
+  "amount": 300000,
+  "num": null,
+  "total": 1500000,
+  "field": "日本民俗学に係る研究。調査活動、研究会運営、学会での成果発表、シンポジウム開催、出版・映像制作・アーカイブ作成等の研究成果公開。",
+  "source": "https://www.fsjnet.jp/research/grant_uematsu_fund.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本民俗学会",
+  "program": "植松明石記念一般社団法人日本民俗学会研究助成（グループ研究）",
+  "amount": 800000,
+  "num": null,
+  "total": 1500000,
+  "field": "日本民俗学に係る研究。調査活動、研究会運営、学会での成果発表、シンポジウム開催、出版・映像制作・アーカイブ作成等の研究成果公開。",
+  "source": "https://www.fsjnet.jp/research/grant_uematsu_fund.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本民俗学会",
+  "program": "海外渡航助成事業",
+  "amount": 100000,
+  "num": null,
+  "total": 300000,
+  "field": "35歳以下の日本民俗学会員による、海外または日本で開催される民俗学関係の学会・国際学会での研究発表。",
+  "source": "https://www.fsjnet.jp/research/grant_uematsu_fund.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本血液学会",
+  "program": "2026年度日本血液学会研究助成事業",
+  "amount": 3000000,
+  "num": 100,
+  "total": null,
+  "field": "血液学の基礎的・臨床的研究（薬剤を用いた介入研究は対象外）",
+  "source": "https://www.jshem.or.jp/wp-content/uploads/2026Research-Grant.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "公益財団法人ひろしま産業振興機構",
+  "program": "令和7年度 中小・ベンチャー企業チャレンジ応援事業助成金（1次募集）",
+  "amount": 5000000,
+  "num": null,
+  "total": null,
+  "field": "新製品・新技術、新たなソフトウェア、新たなサービス創出、異業種展開に向けた固有技術応用の研究開発（対象分野の制限なし）",
+  "source": "https://www.hiwave.or.jp/wp-content/uploads/2025/05/01-challenge_R7-1_bosyuuyouryou.pdf",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本血栓止血学会",
+  "program": "日本血栓止血学会研究助成",
+  "amount": 1000000,
+  "num": 10,
+  "total": null,
+  "field": "血栓止血学における基礎的・臨床的研究（薬剤を用いた介入研究は対象外）",
+  "source": "https://www.jsth.org/wordpress/news/2026%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9C%AC%E8%A1%80%E6%A0%93%E6%AD%A2%E8%A1%80%E5%AD%A6%E4%BC%9A%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90%E7%94%B3%E8%AB%8B%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/index.html",
+  "amount_type": "max"
+ },
+ {
+  "foundation": "日本血栓止血学会",
+  "program": "日本血栓止血学会海外留学助成金",
+  "amount": 4000000,
+  "num": 1,
+  "total": 4000000,
+  "field": "血友病等の出血性疾患、または血栓・線溶系疾患の病態解明・治療に関する海外研究留学",
+  "source": "https://www.jsth.org/wordpress/news/2026%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9C%AC%E8%A1%80%E6%A0%93%E6%AD%A2%E8%A1%80%E5%AD%A6%E4%BC%9A%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90%E7%94%B3%E8%AB%8B%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/index.html",
+  "amount_type": "per_award"
  }
 ]

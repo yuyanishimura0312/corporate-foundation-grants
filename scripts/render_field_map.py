@@ -96,7 +96,7 @@ td{padding:6px 9px;border-bottom:1px solid var(--rule)}td.n{font-family:"Fira Co
 %s
 
 <h2>E. 金額分布</h2><div class="cap">個別採択額・財団年間助成額</div><div class="rule"></div>
-<p class="lead">codexで<b>募集要項から1件あたり助成額を492件収集</b>（中央値150万円）——<b>100-200万円が最頻</b>で、財団研究助成の標準的な規模が定量化された。加えて個別採択額（検証済み武田/三菱）・財団年間助成額（5000万〜10億円超）も併載。</p>
+<p class="lead">codexで<b>募集要項から1件あたり助成額を802件収集</b>（中央値150万円）——<b>100-200万円が最頻</b>で、財団研究助成の標準的な規模が定量化された。加えて個別採択額（検証済み武田/三菱）・財団年間助成額（5000万〜10億円超）も併載。</p>
 <h3 style="font-size:13px;margin:8px 0 6px">★ 1件あたり助成額（募集要項ベース・%d件・中央値 %s万円）</h3>%s
 <div class="grid2">
 <div><h3 style="font-size:13px;margin:14px 0 6px">個別採択額（検証済み・武田/三菱財団）</h3>%s</div>

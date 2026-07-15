@@ -180,7 +180,7 @@ fd = Counter(fbucket(a) for a in fa)
 out["amount_foundation_dist"] = [(k, fd.get(k, 0)) for k in fo]
 
 # === E拡張: program単位 1件あたり助成額分布(codex収集・492件) ===
-pa = c.execute("SELECT amount_per_award, num_awards_per_year FROM grant_programs WHERE amount_per_award>0").fetchall()
+pa = c.execute("SELECT amount_per_award, num_awards_per_year FROM grant_amounts WHERE amount_per_award>0").fetchall()
 pamts = [r[0] for r in pa]
 def pbucket(a):
     if a < 500000: return "<50万"

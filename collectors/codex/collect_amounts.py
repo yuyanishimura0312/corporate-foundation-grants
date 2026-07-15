@@ -41,6 +41,7 @@ def main():
     rows = c.execute("""SELECT DISTINCT o.name,o.url FROM organizations o
         JOIN grant_programs p ON p.organization_id=o.id JOIN grant_calls gc ON gc.program_id=p.id JOIN grant_results r ON r.call_id=gc.id
         WHERE o.url LIKE 'http%' AND r.grant_type='research_individual'
+          AND o.id NOT IN (SELECT organization_id FROM grant_programs WHERE amount_per_award>0)
         ORDER BY o.total_assets DESC NULLS LAST LIMIT ?""", (a.auto,)).fetchall()
     staging = json.load(open(STAGING)) if os.path.exists(STAGING) else {}
     targets = [(r["name"], r["url"]) for r in rows if r["name"] not in staging]
