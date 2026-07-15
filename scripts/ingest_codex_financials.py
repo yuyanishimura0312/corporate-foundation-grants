@@ -90,7 +90,7 @@ for oid, rec in staging.items():
     # codex grant_fields -> foundation_focus_areas (source='llm_classified', codex=LLM) + primary_field
     VALID_F = {"natural_science", "life_science", "engineering", "humanities_social", "arts_culture",
                "education", "welfare", "environment", "international", "regional", "interdisciplinary"}
-    gf = [f for f in (cx.get("grant_fields") or []) if f in VALID_F]
+    gf = [f for f in (cx.get("grant_fields") or []) if f in VALID_F][:5]  # cap top-5 (primary + 4)
     if gf and APPLY:
         for i, fld in enumerate(gf):
             c.execute("""INSERT OR IGNORE INTO foundation_focus_areas
