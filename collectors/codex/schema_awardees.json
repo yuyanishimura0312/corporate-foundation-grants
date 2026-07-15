@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "foundation_name": { "type": "string" },
+    "source_url": { "type": ["string", "null"], "description": "採択者一覧の出典URL(実在・アクセス可能)" },
+    "fiscal_year": { "type": ["integer", "null"], "description": "この採択者リストの年度(西暦)" },
+    "awardees": {
+      "type": "array",
+      "description": "採択された研究者/研究課題のリスト。公式の採択結果/助成先一覧から。捏造禁止・確認できたものだけ",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "awardee_name": { "type": "string", "description": "採択者氏名(日本語表記)" },
+          "affiliation": { "type": ["string", "null"], "description": "所属機関(大学・研究所)" },
+          "position": { "type": ["string", "null"], "description": "職位(教授/准教授/助教等)" },
+          "project_title": { "type": ["string", "null"], "description": "研究課題名(テーマ)" },
+          "field_hint": { "type": ["string", "null"], "description": "分野(公式表記があれば)" },
+          "amount_jpy": { "type": ["integer", "null"], "description": "採択金額(円)。個別記載があれば" }
+        },
+        "required": ["awardee_name", "affiliation", "position", "project_title", "field_hint", "amount_jpy"]
+      }
+    },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "notes": { "type": "string", "description": "根拠(出典ページ・年度)。見つからなければ理由。推測禁止" }
+  },
+  "required": ["foundation_name", "source_url", "fiscal_year", "awardees", "confidence", "notes"]
+}
