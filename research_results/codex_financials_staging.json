@@ -1734,5 +1734,184 @@
    "notes": "公式概要で1980年11月1日に財団法人富士記念財団として設立されたことを確認。年間助成額は、公式の最新「助成及び贈呈の実績」に掲載された2025年度の社会福祉助成金事業実績（64件、5,936万円）を円換算した。福祉車輌1,750万円・車椅子291万円は贈呈事業であり、助成金支出総額には含めていない。2025年3月末の公式貸借対照表へのリンクは確認できたが、PDF取得がタイムアウトし資産合計を本文で検証できなかったため、total_assets_jpyはnullとした。概要記載の基本財産31億9,310万円は総資産ではないため代用していない。なお、2025年度助成先PDFの決定額6,097万円（事業6,057万円＋研究40万円）と実績ページの給付実績5,936万円は異なるため、支出実績として後者を採用した。"
   },
   "elapsed_s": 59
+ },
+ "ac8fc547-2694-451d-9de0-7159a07a37c5": {
+  "name": "SOMPO福祉財団（旧：損保ジャパン日本興亜福祉財団）",
+  "url": "https://www.sompo-wf.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人SOMPO福祉財団",
+   "established_year": 1977,
+   "established_source_url": "https://www.sompo-wf.org/zaidan/index.html",
+   "total_assets_jpy": 2030935756,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.sompo-wf.org/zaidan/pdf_kaikei/2025/2025_taisyaku.pdf",
+   "grant_fields": [
+    "welfare",
+    "humanities_social",
+    "regional",
+    "international",
+    "education",
+    "arts_culture"
+   ],
+   "grant_scope_text": "社会福祉活動を行う非営利団体の基盤強化、障害者福祉団体の自動車購入、地域住民主体の高齢者・障害者・子ども等への包括的支援、海外の社会福祉活動、介護福祉士養成、ジェロントロジーを中心とする社会科学・人文科学研究、社会福祉分野の学術・文化活動を支援する。",
+   "grant_field_source_url": "https://www.sompo-wf.org/jyosei/index.html",
+   "confidence": "high",
+   "notes": "公式概要に設立年を1977年と明記。2025年度貸借対照表（2026年3月31日現在、単位：円）の「資産合計」2,030,935,756円を採用した。年間助成金支出総額は、最新年度について全助成制度を合算した確定総額を公式の事業報告・助成実績から確認できなかったためnull。2024年度事業報告には制度別の決定額が記載されているが、海外助成が概算表示であり、奨学金や複数年度研究助成を年間助成金総額へ含める基準も明示されていないため、推計・単純合算は行っていない。"
+  },
+  "elapsed_s": 75
+ },
+ "c6dc1f0e-edbd-469b-af02-ec6501dfedce": {
+  "name": "（株）大塚商会",
+  "url": "http://www.otsuka-shokai.co.jp/corporate/csr/news/2016/160311.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "株式会社大塚商会（大塚商会ハートフル基金）",
+   "established_year": 1961,
+   "established_source_url": "https://www.otsuka-shokai.co.jp/corporate/about/outline/",
+   "total_assets_jpy": 729200000000,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 6000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.otsuka-shokai.co.jp/corporate/ir/media/202602hosoku.pdf",
+   "grant_fields": [
+    "welfare",
+    "regional",
+    "education"
+   ],
+   "grant_scope_text": "2025年は、困難な状況にある子どもたちを支援する事業、および地域住民による地域振興・地域課題解決事業を助成対象とした。",
+   "grant_field_source_url": "https://www.otsuka-shokai.co.jp/corporate/csr/news/2025/251031.html",
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく株式会社であり、ハートフル基金も独立した法人ではなく、社員と会社によるマッチングギフト制度。設立年は会社の株式会社登記年（1961年）。総資産は2025年12月期の連結総資産729,200百万円。年間助成額は2025年の公式支援決定2件（各6団体×50万円）を合算した6,000,000円。もう一方の助成実績出典は https://www.otsuka-shokai.co.jp/corporate/csr/news/2025/250618.html 。公式の年次事業報告書に『年間助成金支出総額』として掲載された値ではなく、2025年中に公表された助成決定額の合計であるためconfidenceはmedium。指定された2016年ページは東日本大震災の被災地復興活動を行う非営利団体向け支援総額300万円の募集案内。"
+  },
+  "elapsed_s": 82
+ },
+ "696cfe9d-5544-4346-9db3-e191c50d704a": {
+  "name": "大川情報通信基金（略称：大川財団）",
+  "url": "http://www.okawa-foundation.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大川情報通信基金（大川財団）",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "engineering",
+    "interdisciplinary",
+    "life_science",
+    "humanities_social",
+    "education",
+    "welfare",
+    "arts_culture",
+    "natural_science"
+   ],
+   "grant_scope_text": "情報通信分野における独創的、先進的または社会的に有用な調査・研究を助成する。対象は、基礎、通信・ネットワーク・システム、人工知能・脳科学、VR・AR・ロボット・知覚情報処理、バイオ・医療・ライフサイエンス、教育・福祉・ウェルビーイング、人文・社会科学、およびその他の応用分野。",
+   "grant_field_source_url": "https://www.okawa-foundation.or.jp/research-grants.html",
+   "confidence": "medium",
+   "notes": "公式サイトの研究助成ページで助成目的・対象分野を確認した。一方、公式の沿革・概要ページで設立年を確認できなかったため、第三者サイト記載の1986年は採用せずnullとした。検索および公式サイト閲覧では、貸借対照表の資産合計を確認できる最新決算資料と、直近年度の年間助成金支出総額を示す助成実績・事業報告を確認できなかったため、財務項目はnullとした。募集上の1件当たり助成額から年間総額を推計していない。"
+  },
+  "elapsed_s": 84
+ },
+ "cad6b172-efdf-409f-bc60-863457f943d6": {
+  "name": "鉄鋼環境基金　（旧：鉄鋼業環境保全技術開発基金）",
+  "url": "http://www.sept.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人 鉄鋼環境基金",
+   "established_year": 1973,
+   "established_source_url": "https://www.sept.or.jp/gaiyou.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 75441000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.sept.or.jp/01gaiyou/04gijiroku/gijirokuriji20241024.pdf",
+   "grant_fields": [
+    "environment",
+    "engineering",
+    "natural_science"
+   ],
+   "grant_scope_text": "鉄鋼製造・鉄鋼製品・鉄鋼副産物に関わる環境保全技術、環境影響評価および環境創造技術等の研究開発。地球環境・地域環境の保全、関連する科学的知見の蓄積、学術振興への寄与を目的とする。",
+   "grant_field_source_url": "https://www.sept.or.jp/jyoseijigyou.html",
+   "confidence": "medium",
+   "notes": "公式沿革で、前身の財団法人鉄鋼設備窒素酸化物防除技術開発基金が1973年9月19日に設立されたことを確認。2024年度の年間助成額は、第63回臨時理事会議事録に記載された研究助成金交付56件・75,441千円を採用した。令和6年度財務諸表が作成・承認されたことは公式議事録で確認できたが、公開検索および取得可能な資料から貸借対照表の資産合計額そのものを確認できなかったため、総資産はnullとした。助成分野は公式助成事業ページの記載に基づき分類した。"
+  },
+  "elapsed_s": 97
+ },
+ "org_c84d90f6e05e": {
+  "name": "日本物理学会",
+  "url": "https://www.jps.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本物理学会",
+   "established_year": 1946,
+   "established_source_url": "https://www.jps.or.jp/outline/enkaku.php",
+   "total_assets_jpy": 1056275936,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.jps.or.jp/outline/jigyouhoukoku/files/keisan2024.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "high",
+   "notes": "対象は公益財団法人ではなく「一般社団法人日本物理学会」。公式沿革では源流の創立を1877年とする一方、日本物理学会の設立総会を1946年4月28日、1946年を設立年と明記している。2024年12月31日現在の公式貸借対照表で資産合計1,056,275,936円を確認。2024年決算に支払助成金等の助成金支出科目がなく、事業報告でも学会自身による年間助成実績を確認できなかったため、annual_grant_amount_jpyはnull。公式サイト掲載の各種助成公募は主に外部団体による制度であり、日本物理学会自身の助成対象分野とは確認できないため、grant_fieldsは空配列とした。"
+  },
+  "elapsed_s": 45
+ },
+ "9c5362cc-b257-4501-a5bb-f92a0beceec0": {
+  "name": "日本薬学会",
+  "url": "https://www.pharm.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本薬学会",
+   "established_year": 1880,
+   "established_source_url": "https://www.pharm.or.jp/whats/rekishi.html",
+   "total_assets_jpy": 4774607935,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 21200000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.pharm.or.jp/whats/koekihojin.html",
+   "grant_fields": [
+    "life_science",
+    "natural_science",
+    "education",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "薬学の基礎・応用に関する研究、および薬学研究者の育成を対象とする。長井記念薬学研究奨励支援事業では、学位取得に向けて研究に専念する大学院生を支援する。",
+   "grant_field_source_url": "https://www.pharm.or.jp/award/",
+   "confidence": "high",
+   "notes": "対象法人は公益財団法人ではなく公益社団法人。公式沿革は明治13年（1880年）の創立を明記。2024年度貸借対照表（2025年1月31日現在）の資産合計は4,774,607,935円。2024年度正味財産増減計算書内訳表の「研究奨励金」は21,200,000円。別科目の「支払助成金・補助金」656,000円は研究奨励支援との対応が確認できないため、年間助成額には算入していない。"
+  },
+  "elapsed_s": 60
+ },
+ "org_d3af8732979e": {
+  "name": "日本化学会",
+  "url": "https://www.chemistry.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本化学会",
+   "established_year": 1878,
+   "established_source_url": "https://www.chemistry.or.jp/societyguide/organization/history.html",
+   "total_assets_jpy": 2540108000,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.chemistry.or.jp/societyguide/2025annual_report.pdf",
+   "grant_fields": [
+    "natural_science",
+    "engineering"
+   ],
+   "grant_scope_text": "化学に関する学術・技術の発展を目的とし、科学および技術に関する研究を助成する。",
+   "grant_field_source_url": "https://www.chemistry.or.jp/societyguide/2025annual_report.pdf",
+   "confidence": "medium",
+   "notes": "対象法人は公益財団法人ではなく公益社団法人。設立年は、公式沿革が前身の化学会の創立年として示す1878年を採用した（公益社団法人への移行は2011年）。総資産は2025年2月28日現在の2024年度貸借対照表（要約版）に記載された資産合計2,540,108千円を円換算。2024年度アニュアルレポートでは研究助成が定款上の事業として確認できるが、助成金支出の年間総額を独立して確認できないため、annual_grant_amount_jpyと年度はnullとした。他機関の助成金に対する推薦募集は日本化学会自身による助成実績とは扱っていない。"
+  },
+  "elapsed_s": 40
  }
 }
