@@ -1990,5 +1990,30 @@
    "notes": "対象組織は公益財団法人ではなく公益社団法人。公式概要で1925年創立を確認。2025年度財務諸表（2025年8月31日現在）の貸借対照表で資産合計202,013,760円を確認。同年度の正味財産増減計算書に「早石修記念海外留学助成金」40,000,000円を確認したため、賞金（奨励賞賞金・JB論文賞賞金）は年間助成額に含めていない。事業年度は2024年9月1日から2025年8月31日まで。"
   },
   "elapsed_s": 49
+ },
+ "org_79813b114636": {
+  "name": "日本天文学会",
+  "url": "https://www.asj.or.jp/jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人 日本天文学会",
+   "established_year": 1908,
+   "established_source_url": "https://www.asj.or.jp/jp/about/outline/",
+   "total_assets_jpy": 158683899,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 7018037,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.asj.or.jp/jp/item/FinReport2025.pdf",
+   "grant_fields": [
+    "natural_science",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "天文学分野を中心に、会員の研究活動を支援する。正会員（学生）の年会出席旅費、若手天文学研究者の海外での観測・国際共同研究・研究発表、国内の教育研究機関における天文学および関連分野の研究・調査活動などを対象とする。",
+   "grant_field_source_url": "https://www.asj.or.jp/jp/activities/expenses/",
+   "confidence": "high",
+   "notes": "対象団体は公益財団法人ではなく公益社団法人。公式概要は1908年1月19日創立、1935年に社団法人設立認可、2012年に公益社団法人登記と記載するため、established_yearは創立年の1908年とした。2025年度決算報告書（2026年3月31日現在）の貸借対照表で資産合計158,683,899円を確認。annual_grant_amount_jpyは同報告書の正味財産増減計算書内訳表における「助成事業」の事業費合計7,018,037円。内訳は学術交流費経費538,000円、研究奨励賞経費465,244円、早川幸男基金経費5,542,904円、林忠四郎賞経費445,541円、雑費26,348円であり、純粋な交付金以外の賞関連経費等を含む会計上の助成事業費総額である。"
+  },
+  "elapsed_s": 56
  }
 }
