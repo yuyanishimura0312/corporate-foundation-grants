@@ -63812,5 +63812,1449 @@
   },
   "url_hint": "https://www.jsms.jp",
   "elapsed_s": 47
+ },
+ "（一財）ヤマハ音楽振興会": {
+  "codex": {
+   "foundation_name": "一般財団法人ヤマハ音楽振興会",
+   "source_url": "https://www.yamaha-mf.or.jp/shien/kenkyu/",
+   "fiscal_year": 2020,
+   "awardees": [
+    {
+     "awardee_name": "深町 浩司",
+     "affiliation": "愛知県立芸術大学音楽学部",
+     "position": "教授",
+     "project_title": "打楽器演奏における指の動作と音色変化のメカニズム",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトの「研究活動支援」ページで確認（2026-07-16閲覧）。掲載されている最新年度は2020年度で、対象者は1件。公式の所属欄は「打楽器奏者、愛知県立芸術大学音楽学部 教授」、所属情報は2020年4月現在。個別支援額および分野の記載はない。研究活動支援は2020年7月から募集休止。参考URLのドメインは公式サイトだが、指定ページは確認できず、現行の公式一覧ページを出典とした。"
+  },
+  "url_hint": "https://www.yamaha-mf.or.jp/shien/kenkyu/outline.html",
+  "elapsed_s": 39
+ },
+ "公益財団法人岩手県市町村振興協会": {
+  "codex": {
+   "foundation_name": "公益財団法人岩手県市町村振興協会",
+   "source_url": "https://www.iwt33-shinko.or.jp/pdf/r06_jigyo_houkoku.pdf",
+   "fiscal_year": 2024,
+   "awardees": [],
+   "confidence": "high",
+   "notes": "公式サイトは https://www.iwt33-shinko.or.jp/ 。協会概要で法人名を確認した。参考URLは公式サイトではない。公式の令和6年度（2024年度）事業報告書および事業ページを確認したが、同協会は市町村等を対象とする交付・助成を行っており、研究者個人の氏名、所属、研究課題を掲載した採択者一覧は確認できなかった。事業報告書には市町村別交付額等が掲載されているが、研究助成の採択者ではないためawardeesには収録していない。"
+  },
+  "url_hint": "https://www.iwate-shichousonkai.or.jp",
+  "elapsed_s": 43
+ },
+ "京都市市民活動総合センター（しみセン）": {
+  "codex": {
+   "foundation_name": "京都市市民活動総合センター（しみセン）",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "high",
+   "notes": "参考URL（https://shimisen-kyoto.org/）は、京都市市民活動総合センターが運営する公式の「市民活動情報共有ポータルサイト」であることを確認した。施設公式サイトは https://shimin.hitomachi-kyoto.jp/ 。両公式サイトを確認したが、同センター自身による研究助成の採択者一覧・助成先一覧は確認できなかった。同センターは主にNPO・市民活動の支援施設で、ポータルに掲載される助成情報の多くは他団体による募集である。また、2025年度「市縁堂」の参加団体と寄付金の交付は確認できたが、研究助成・助成事業の採択結果とは確認できないため収録していない。推測による年度・採択者の補完は行っていない。"
+  },
+  "url_hint": "https://shimisen-kyoto.org",
+  "elapsed_s": 42
+ },
+ "公益財団法人イノベーシスト": {
+  "codex": {
+   "foundation_name": "公益財団法人イノベーシスト",
+   "source_url": "https://innovassist.or.jp/2026%E5%B9%B4%E5%BA%A6-%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%88%E5%8A%A9%E6%88%90%E9%87%91%E4%BA%8B%E6%A5%AD%E5%8F%97%E8%B3%9E%E4%BA%8B%E6%A5%AD%E7%99%BA%E8%A1%A8/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "平野祥久",
+     "affiliation": "株式会社QioN",
+     "position": "代表者",
+     "project_title": "アンモニアの常温・常圧での小規模合成の実現",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "岡田直己",
+     "affiliation": "株式会社fcuro",
+     "position": "代表者",
+     "project_title": "救命特化型画像診断AI「ERATS」の開発及び提供",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "原正彦",
+     "affiliation": "株式会社mediVR",
+     "position": "代表者",
+     "project_title": "大阪発・在宅リハビリDXによる治療アクセス格差の解消と社会実装",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイト（innovassist.or.jp）で財団名と所在地を確認。直近の公式掲載「2026年度 イノベーシスト助成金事業受賞事業発表」に掲載された受賞者全3名を収録した。平野祥久はイノベーシスト大賞、岡田直己は前田賞、原正彦は近久賞。公式ページには各賞の助成額の範囲（大賞500～1,000万円、前田賞・近久賞300～500万円）のみが示され、個別の確定金額は確認できないためamount_jpyはnull。公式な分野表記もないためfield_hintはnull。参考URLも同財団の公式サイトだが、2025年度の公募詳細であり採択者一覧ではない。"
+  },
+  "url_hint": "https://innovassist.or.jp/2025-innovassist-detail",
+  "elapsed_s": 45
+ },
+ "公益財団法人大阪府漁業振興基金": {
+  "codex": {
+   "foundation_name": "公益財団法人大阪府漁業振興基金",
+   "source_url": "https://koueki.jp/d/wp-content/uploads/2025/07/osaka-gyogyou.pdf",
+   "fiscal_year": 2024,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "参考URL（https://www.pronaturajapan.com）は公益財団法人自然保護助成基金のサイトであり、対象財団とは異なる。大阪府の公式資料により、対象財団の公式サイトは http://www.osaka-gyogyoukikin.jp/kikin/ と確認した。情報公開資料に掲載された令和6年度（2024年度）事業報告では、海域環境保全事業7件、資源管理型漁業推進事業1件、資源増殖推進事業7件、食育推進事業11件などの助成実績と総額は確認できるが、個別の助成先名・代表者名・課題名・金額の一覧は掲載されていない。公式サイトおよび公式情報公開資料を検索した範囲でも個別採択者一覧を確認できなかったため、推測せずawardeesを空とした。"
+  },
+  "url_hint": "https://www.pronaturajapan.com",
+  "elapsed_s": 51
+ },
+ "公益財団法人群馬県漁業増殖基金協会": {
+  "codex": {
+   "foundation_name": "公益財団法人群馬県漁業増殖基金協会",
+   "source_url": "https://www.gunfish.jp/jigyo/07kikinjigyoho.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "阪東漁業協同組合",
+     "affiliation": null,
+     "position": null,
+     "project_title": "漁協地域住民交流推進事業",
+     "field_hint": "水産資源の保護増殖・地域交流",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "群馬漁業協同組合",
+     "affiliation": null,
+     "position": null,
+     "project_title": "漁協地域住民交流推進事業",
+     "field_hint": "水産資源の保護増殖・地域交流",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "吾妻漁業協同組合",
+     "affiliation": null,
+     "position": null,
+     "project_title": "漁協地域住民交流推進事業",
+     "field_hint": "水産資源の保護増殖・地域交流",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "上州漁業協同組合",
+     "affiliation": null,
+     "position": null,
+     "project_title": "漁協地域住民交流推進事業",
+     "field_hint": "水産資源の保護増殖・地域交流",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東毛漁業協同組合",
+     "affiliation": null,
+     "position": null,
+     "project_title": "漁協地域住民交流推進事業",
+     "field_hint": "水産資源の保護増殖・地域交流",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "両毛漁業協同組合",
+     "affiliation": null,
+     "position": null,
+     "project_title": "漁協地域住民交流推進事業",
+     "field_hint": "水産資源の保護増殖・地域交流",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "上野村漁業協同組合",
+     "affiliation": null,
+     "position": null,
+     "project_title": "漁協地域住民交流推進事業",
+     "field_hint": "水産資源の保護増殖・地域交流",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "公式サイトは https://www.gunfish.jp/ 。参考URL http://heiwado-z.jp は対象財団の公式サイトではない。公式の「令和7年度事業報告書並びに収支計算書」に、漁協地域住民交流推進事業として7漁協・18か所への放流種苗費助成（助成総額707,000円）と、開催漁協7団体が明記されている。個別配分額は記載されていないためnull。別事業の「群馬県産アユ種苗放流推進事業」は11漁協への助成と総額1,052,100円のみで、対象漁協名が掲載されていないため収録していない。研究者個人または研究課題の公募採択一覧は公式サイト上で確認できず、確認できた最新年度の団体助成先のみ収録した。取得・確認日: 2026-07-16。"
+  },
+  "url_hint": "http://heiwado-z.jp",
+  "elapsed_s": 51
+ },
+ "墨田区文化振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 墨田区文化振興財団",
+   "source_url": "https://www.sumida-bunka.jp/2026/04/08/12544/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "オフィス・アプローズ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "オフィス・アプローズオペラ公演『カルメン』",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "劇団区民劇場",
+     "affiliation": null,
+     "position": null,
+     "project_title": "劇団区民劇場第135回公演『明日葉の庭』",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "珊瑚ノ宮",
+     "affiliation": null,
+     "position": null,
+     "project_title": "すみだ東京ミズマチ七夕おりひめ祭り",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人シアターキューブリック",
+     "affiliation": null,
+     "position": null,
+     "project_title": "帰ってきたキューピッドガールズ2026",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "首都防災ウィーク実行委員会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "第14回首都防災ウィーク「鎮魂と希望の音楽祭」",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "すみだオペラ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "すみだオペラ第13回公演「夕鶴」",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "すみだのまちの映画館",
+     "affiliation": null,
+     "position": null,
+     "project_title": "「すみだのまちの映画館」づくりプロジェクト",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "林家あんこ事務局",
+     "affiliation": null,
+     "position": null,
+     "project_title": "すみだ夜咄〜応為とお酒と落語〜",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人秘密結社ブロック団",
+     "affiliation": null,
+     "position": null,
+     "project_title": "すみだ　未来をつくるエンジニア育成事業",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "北斎通りまちづくりの会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "北斎祭り",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人マイフェイス・マイスタイル",
+     "affiliation": null,
+     "position": null,
+     "project_title": "写真展『ともに』～「見た目問題」を伝え、〝ともに〟生きる社会を考える～",
+     "field_hint": "文化芸術",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "墨田区公式ページと財団公式サイトにより、実施主体が公益財団法人墨田区文化振興財団であることを確認。財団が運営する「すみだ文化芸術情報サイト」の令和8年度（2026年度）選考結果ページには、応募14件のうち採択11件として全団体名・助成対象事業名が掲載されている。個別助成額、所属、職位は掲載されていないためnull。参考URLのsumiyume.jpは財団が実施する別のアートプロジェクト「すみゆめ」に関するページであり、今回収録した最新の「すみだ文化芸術活動助成」採択一覧ではない。"
+  },
+  "url_hint": "https://sumiyume.jp/news/2022/02/09/4178",
+  "elapsed_s": 51
+ },
+ "B&G財団": {
+  "codex": {
+   "foundation_name": "公益財団法人B&G財団",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "参考URL（https://www.bgf.or.jp/club）はB&G財団の公式サイト内に実在し、現在は「新規海洋クラブ・サポーター登録・支援」ページへ転送される。公式サイトを調査したが、研究者個人を対象とする研究助成の採択者一覧・採択課題一覧は確認できなかった。同財団の支援は主に自治体、B&G海洋センター、海洋クラブ等を対象としており、公式FAQ（https://www.bgf.or.jp/faq-contact/）にも助成制度の大半は海洋センター所在自治体および海洋クラブ向けと記載されている。自治体・団体の支援先を研究者の採択者として転記することは避け、awardeesを空とした。確認日：2026-07-16。"
+  },
+  "url_hint": "https://www.bgf.or.jp/club",
+  "elapsed_s": 51
+ },
+ "こころを育む総合フォーラム": {
+  "codex": {
+   "foundation_name": "こころを育む総合フォーラム",
+   "source_url": "https://www.pef.or.jp/report/kokoro2025/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "特定非営利活動法人 風の家",
+     "affiliation": null,
+     "position": null,
+     "project_title": "非行というもがきに、応答という支援を",
+     "field_hint": "全国大賞",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人 グリーフサポートせたがや",
+     "affiliation": null,
+     "position": null,
+     "project_title": "「わたしもだいじ あなたもだいじ」を育む",
+     "field_hint": "優秀賞",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "瀬田東国際交流クラブ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "世界の文化をみんなでワクワク体験しよう！",
+     "field_hint": "優秀賞",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人 福間津屋崎子ども劇場",
+     "affiliation": null,
+     "position": null,
+     "project_title": "子どもの成長に本当に大切なことを活動に",
+     "field_hint": "優秀賞",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "いしがき少年少女合唱団",
+     "affiliation": null,
+     "position": null,
+     "project_title": "「わらべ歌から世界の名曲まで」歌い継ごう",
+     "field_hint": "優秀賞",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "NPO法人 絵本による街づくりの会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "絵本で豊かな心を育み、笑顔があふれる街に",
+     "field_hint": "特別賞",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "さい子ども会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "「今」だからこそ地域をつなげる子ども会",
+     "field_hint": "特別賞",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "2026年2月6日公開のパナソニック教育財団公式「2025年度 子どもたちの“こころを育む活動” 全国大賞 決定!」で、全国大賞1団体、優秀賞4団体、特別賞2団体の全7団体を確認。これは研究者個人への研究助成ではなく、活動団体を対象とする表彰事業のため、awardee_nameには公式掲載の団体名を収録し、affiliation・positionはnullとした。公式受賞結果ページに個別賞金額の記載がないためamount_jpyはnull。参考URLは調査時にアクセスできず、現在の公式ページはパナソニック教育財団サイト（https://www.pef.or.jp/kokoro-forum/）で確認した。"
+  },
+  "url_hint": "http://www.kokoro-forum.jp/project_kokoro",
+  "elapsed_s": 53
+ },
+ "公益財団法人とくしま産業振興機構": {
+  "codex": {
+   "foundation_name": "公益財団法人とくしま産業振興機構",
+   "source_url": "https://www.our-think.or.jp/329034/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "オルテックス株式会社",
+     "affiliation": null,
+     "position": null,
+     "project_title": "椎茸栽培施設を再活用し、LED照明を活用した屋内栽培のマイクログリーン（発芽直後の幼葉野菜）の生産および飲食店向け販売を行う",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "久米 真輔",
+     "affiliation": null,
+     "position": null,
+     "project_title": "徳島・神山のノマド観光を支える、ペット同伴に対応したインドアキャンプ場併設型RVパーク事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "浜口 佳予",
+     "affiliation": "あめつち自然農園",
+     "position": null,
+     "project_title": "環境を再生する不耕起栽培に特化した 体験型農業×学びをより多くの方へ提供する 農家民宿事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山内 瑠実",
+     "affiliation": "まちの本屋とお宿 四方山",
+     "position": null,
+     "project_title": "遍路と地域をつなぐ滞在型交流拠点事業～ 本・滞在・対話を通じた関係人口創出モデルの構築～",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "HYフードデザイン株式会社",
+     "affiliation": null,
+     "position": null,
+     "project_title": "魅力ある地元特産品を使用した鳴門欧風カレーの開業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "寺山 泰志",
+     "affiliation": "うまいんじょ処 魚や来里",
+     "position": null,
+     "project_title": "地魚や地野菜、地酒を提供する和食料理店",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森 早苗",
+     "affiliation": "モリノコト",
+     "position": null,
+     "project_title": "阿南市新野町産タケノコの魅力アップと放置竹林対策関連事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "岩山 修",
+     "affiliation": "nacira coffee",
+     "position": null,
+     "project_title": "土地所有による低コスト経営と最新機材の導入を軸とした、浅煎りコーヒー・焼き菓子の製造販売事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "黒田 彩果",
+     "affiliation": "TIDA",
+     "position": null,
+     "project_title": "沖縄料理×徳島食材 タコライス専門キッチンカー” T I D A” による地域活性化",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該機構の公式サイトであることを、公式ページ記載の法人名・所在地・法人番号（2480005005878）で確認。公式サイトが2026年6月25日に公表した「令和8年度とくしま創業促進費補助金」第一次募集分の交付事業9件を全件収録した。屋号と個人名が併記された交付先は、個人名をawardee_name、屋号をaffiliationに記録。個別交付額、職位、個別の公式分野表記は掲載されていないためnull。"
+  },
+  "url_hint": "https://www.our-think.or.jp",
+  "elapsed_s": 55
+ },
+ "公益財団法人鍋島報效会": {
+  "codex": {
+   "foundation_name": "公益財団法人鍋島報效会",
+   "source_url": "https://nabeshima.or.jp/main/6200.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "有田 和樹",
+     "affiliation": "綿屋文庫",
+     "position": "学芸員",
+     "project_title": "佐賀蓮池藩における陣屋並びに天賜園の復元的考察",
+     "field_hint": "一般",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "郭 川詣・戴 玉潔",
+     "affiliation": "佐賀大学地域デザイン研究科",
+     "position": null,
+     "project_title": "佐賀県立博物館所蔵の武富家伝来明服と螺鈿琵琶の研究",
+     "field_hint": "一般",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "古谷 毅",
+     "affiliation": "國學院大學博物館",
+     "position": null,
+     "project_title": "佐賀県前期古墳文化の研究―佐賀市熊本山古墳出土資料の歴史的意義―",
+     "field_hint": "一般",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西九州大学短期大学部 幼児保育学科春原ゼミ",
+     "affiliation": "西九州大学短期大学部",
+     "position": null,
+     "project_title": "遊びで学ぶ！佐賀の自然と文化に気づく泥団子ワークショップ",
+     "field_hint": "活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "こどものまち「ミニさが」実行委員会",
+     "affiliation": "佐賀大学教育学部",
+     "position": null,
+     "project_title": "第2回こどもがつくるこどものまち「ミニさが」の開催",
+     "field_hint": "活動",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人鍋島報效会の公式サイトであることを確認。公式の「第25回研究報告会」ページには、令和7年度（2025年度）の助成先として研究者3名（共同研究1件を含む）と活動団体2グループの全5件が掲載されている。field_hintは公式の区分表記。個別助成額は同ページに記載がないためnull。古谷毅氏の所属は、最新の研究報告会ページに記載された「國學院大學博物館」を採用した。"
+  },
+  "url_hint": "https://www.nabeshima.or.jp",
+  "elapsed_s": 54
+ },
+ "つなぐいのち基金": {
+  "codex": {
+   "foundation_name": "公益財団法人つなぐいのち基金",
+   "source_url": "https://tsunagu-inochi.org/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%AF%BE%E8%B1%A1%E4%BA%8B%E6%A5%AD%E3%81%A4%E3%81%AA%E3%81%90%E3%81%84%E3%81%AE%E3%81%A1%E5%9F%BA%E9%87%91%E5%8A%A9%E6%88%90%E9%87%91%E6%94%AF%E7%B5%A6%E5%85%88/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "特定非営利活動法人セカンドリーグ茨城",
+     "affiliation": null,
+     "position": null,
+     "project_title": "コロナ禍で急増した不登校児童・生徒の居場所となる、子どもたち主体のフリースクール事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人コンパスナビ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "児童養護施設で暮らす高校生等を対象に職業紹介イベントを開催し、その内容を冊子にまとめ施設へ配布する。",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人Masterpiece",
+     "affiliation": null,
+     "position": null,
+     "project_title": "親を頼れない若者への食料配送事業 再構築プログラム",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人チャイボラ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "孤立しがちな子育て世帯に向け、安心して頼れる場所へと繋ぎ、貧困や虐待リスクを軽減する啓発イベント",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人神戸みらい学習室",
+     "affiliation": null,
+     "position": null,
+     "project_title": "経済的事情や発達特性、不登校など、様々な事情を抱える中高生を対象とした無料学習支援",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人RCB大口夢",
+     "affiliation": null,
+     "position": null,
+     "project_title": "横浜市大口商店街における、外国にゆかりのある子どもの居場所支援と多文化共生コミュニティ構築事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人ライフケア",
+     "affiliation": null,
+     "position": null,
+     "project_title": "児童養護施設の子どもたちと一般の子どもたちが自然農の稲刈り体験を行い、会食や歌声を通して交流を図る",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "公益社団法人MORIUMIUS",
+     "affiliation": null,
+     "position": null,
+     "project_title": "経済的困難を抱えるこどもが自然と食の循環を学び、自立心と自己肯定感を育む滞在型支援事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人エスタスカーサ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "自然環境に触れる事により自己免疫力を強くする事や自然体験をする事で当たり前ではない経験をすることや受益者を対象に交流の場所を提供する等でひとりひとりが前を向いて生きていけるようにしていく",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "特定非営利活動法人みんなのおうえん団",
+     "affiliation": null,
+     "position": null,
+     "project_title": "養護施設のこども達へ、平等に学び将来の夢を描ける環境をつくり、退所後も関われる居場所を提供する事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "はぐくみのわ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学習支援 音楽会 ワークショップ 食育 リトミック 楽器交流会 等子育て支援",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "一般社団法人もも",
+     "affiliation": null,
+     "position": null,
+     "project_title": "多様な困難を背景に持つ若者が安心して活動できる居場所を通した、自己表現と自立を支援",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人つなぐいのち基金の公式サイトであることを確認。直近で支給先が公表済みの「令和7年（2025年）対象事業」について、2025年10月3日付の公式発表に掲載された全12団体を収録した。この助成は研究者個人ではなく児童支援団体を対象としているため、awardee_nameには公式掲載の団体名を記録。所属、職位、分野、個別助成額は公式発表に記載がないためnullとした。"
+  },
+  "url_hint": "http://tsunagu-inochi.org/notice/application-for-grants",
+  "elapsed_s": 57
+ },
+ "ユースキャリア教育機構": {
+  "codex": {
+   "foundation_name": "一般社団法人ユースキャリア教育機構",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "2026-07-16確認。公式サイトは https://oyce.co.jp/ で、公式団体概要（https://oyce.co.jp/outline/）に法人名が掲載されている。参考URLと同じドメインは公式だが、確認できた募集要項の実在URLは https://oyce.co.jp/information/grant_application_entrepreneur_support2024/ 。同ページは2024年『起業家の卵』育成活動への助成プログラムの募集要項であり、助成総額200万円、採択予定5〜15団体程度などは記載されているが、採択団体・採択者の氏名や一覧は掲載されていない。公式サイト内を「採択」「助成先」「助成団体」「助成決定」等で検索したが、公開された採択結果一覧を確認できなかったため、年度・採択者ともに記録しない。"
+  },
+  "url_hint": "https://oyce.co.jp/grant_application_entrepreneur_support2024",
+  "elapsed_s": 59
+ },
+ "公益財団法人瀬戸内海放送環境美化振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人瀬戸内海放送環境美化振興財団",
+   "source_url": "https://news.ksb.co.jp/article/15975131",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "鞍掛公園愛護会",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "環境美化特別賞",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "廣瀬文枝",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "field_hint": "環境美化特別賞",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "KSB瀬戸内海放送の公式報道（2025年8月20日）で、2025年度の特別賞受賞者2件を確認した。同記事は大賞・奨励賞について「該当なし」と明記。個別助成額、所属、職位、研究課題名は記載がないためnull。財団の公式案内はKSBサイト内（https://www.ksb.co.jp/zaidan/index.htm）に存在するが、年度別結果ページは取得できなかった。参考URL https://www.jeas.or.jp は公益財団法人日本環境協会の公式サイトであり、対象財団とは別法人。"
+  },
+  "url_hint": "https://www.jeas.or.jp",
+  "elapsed_s": 59
+ },
+ "三井物産株式会社": {
+  "codex": {
+   "foundation_name": "三井物産株式会社（三井物産環境基金）",
+   "source_url": "https://www.mitsui.com/jp/ja/sustainability/contribution/fund/results/list_research.html",
+   "fiscal_year": 2019,
+   "awardees": [
+    {
+     "awardee_name": "山田 智",
+     "affiliation": "国立大学法人 鳥取大学 農学部",
+     "position": "教授",
+     "project_title": "乾燥地における高塩濃度地下水を3段階利用した養殖-農業結合システムの構築",
+     "field_hint": "資源循環",
+     "amount_jpy": 11000000
+    },
+    {
+     "awardee_name": "柴田 明穂",
+     "affiliation": "国立大学法人 神戸大学大学院国際協力研究科／極域協力研究センター",
+     "position": "教授／極域協力研究センター長",
+     "project_title": "国際法規範の実施による北極資源の持続可能な利用の実現",
+     "field_hint": "人間と社会のつながり",
+     "amount_jpy": 6000000
+    },
+    {
+     "awardee_name": "井手 淳一郎",
+     "affiliation": "公立大学法人 公立千歳科学技術大学 理工学部",
+     "position": "准教授",
+     "project_title": "伝統的農村の慣習体系を組み込んだエネルギーの安全を保障する水資源学の構築",
+     "field_hint": "人間と社会のつながり",
+     "amount_jpy": 12000000
+    },
+    {
+     "awardee_name": "近藤 理美",
+     "affiliation": "特定非営利活動法人 エバーラスティング・ネイチャー 小笠原海洋センター",
+     "position": "調査研究員",
+     "project_title": "気候変動下におけるアオウミガメの保全と持続可能な利用を目指した生態解明",
+     "field_hint": "生態系・共生社会",
+     "amount_jpy": 13000000
+    },
+    {
+     "awardee_name": "阪上 宏樹",
+     "affiliation": "国立大学法人 九州大学 農学研究院",
+     "position": "助教",
+     "project_title": "鹿によって広範囲に環状剥皮された樹皮の自然治癒メカニズム解明とそれを利用した鹿害対策法の提案",
+     "field_hint": "生態系・共生社会",
+     "amount_jpy": 4000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLと同じmitsui.comドメインの三井物産株式会社公式サイトを確認。三井物産環境基金は2022年度で終了しており、公式の研究助成一覧で確認できる最終年度は2019年度。公式発表では同年度の研究助成は全5件で、上記はその全件。氏名、所属、職位、課題名、対象領域、個別助成額は公式一覧および各案件詳細ページに基づく。公式発表：https://www.mitsui.com/jp/ja/release/2020/1231331_11207.html"
+  },
+  "url_hint": "https://www.mitsui.com/jp/ja/sustainability/contribution/environment/fund/application/1229277_7661.html",
+  "elapsed_s": 59
+ },
+ "tetote教育財団": {
+  "codex": {
+   "foundation_name": "公益財団法人tetote教育財団",
+   "source_url": "https://tetote-kyoiku.com/news/20250910-1",
+   "fiscal_year": 2025,
+   "awardees": [],
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイトであることを法人概要（https://tetote-kyoiku.com/about）で確認。直近で採択が確定している助成事業は、公式発表「2025年度tetote子ども助成支援」助成金交付実績（2025年9月10日）。同発表には助成件数5件、助成総額1,000,000円との記載のみで、採択団体名・代表者名・事業名・個別金額は公表されていないため、awardeesは空とした。2026年度の同助成制度は2026年7月6日に募集開始された段階であり、採択結果は未公表。なお、2026年度教育奨学金は7名採用と公式発表されているが氏名は公表されていない。確認日：2026-07-16。"
+  },
+  "url_hint": "https://tetote-kyoiku.com/subsidy",
+  "elapsed_s": 60
+ },
+ "公益財団法人三菱ＵＦＪ環境財団": {
+  "codex": {
+   "foundation_name": "公益財団法人三菱ＵＦＪ環境財団",
+   "source_url": "https://www.muef.or.jp/muef/images/pdffile/disclosure/new/r06_houkoku_kesan.pdf",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "川口市立慈林小学校",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "草加市立花栗南小学校",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "港区立赤羽小学校",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小平市立小平第六小学校",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "恵愛学園 愛泉こども学園",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "幸生会 左京山保育園",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "名古屋市立春田幼稚園",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "貝塚市立東山小学校",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "地球の園 こひつじこども園",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "香南市立野市小学校",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "近畿大学附属広島高等学校・中学校福山校",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "古賀市立舞の里小学校",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "浦添市立神森小学校",
+     "affiliation": null,
+     "position": null,
+     "project_title": "学校ビオトープづくり支援",
+     "field_hint": "環境保全・環境教育",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは福山通運小丸環境財団のサイトであり、対象財団とは異なる。対象財団の公式サイトは https://www.muef.or.jp/ 。公式「令和6年度 事業報告及び決算」に、学校ビオトープづくり支援を実施した13校が掲載されているため、直近で公式確認できる2024年度の助成先として収録した。この財団では研究者向け研究助成の採択者一覧は確認できず、掲載対象は個人研究者ではなく学校・園である。個別助成額は記載されておらず、年度全体の学校ビオトープ助成金2,741,688円のみのためamount_jpyはnull。PDF抽出表記の「地球の園 こしつじこども幼稚園」は、公式PDF紙面上の表記を確認できる範囲で「地球の園 こひつじこども園」とした。"
+  },
+  "url_hint": "https://www.fukutsu-komaru-ef.or.jp/about/outline.html",
+  "elapsed_s": 62
+ },
+ "熊西地域振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 熊西地域振興財団",
+   "source_url": "https://kumanishifoundation.com/news/2026/02/12/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "チドリズ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "アーティストならではの観点で街の文化遺産を商店街に展示し、地域の高齢者と若者の世代間交流を促す。",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "阿武山音楽会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "第24回阿武山音楽祭 みんなでつくる100人の大合奏",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "みなみのばたの会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "障害の有無やルーツを超え地域の子どもが主体となる活動作り",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "NPO法人 つなご",
+     "affiliation": null,
+     "position": null,
+     "project_title": "ディスレクシアの子どもへのデジタル学習の構築",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公益財団法人熊西地域振興財団の公式サイトであることを、公式サイトの財団名・代表理事メッセージ・助成情報から確認。公式記事「2026年度の助成金交付先を決定しました。」（2026年2月12日掲載）に記載された全4団体を収録した。個別助成額、所属、職位、公式な分野区分は記事に記載がないためnull。取得・確認日: 2026-07-16。"
+  },
+  "url_hint": "http://kumanishifoundation.com",
+  "elapsed_s": 65
+ },
+ "公益財団法人東京動物園協会": {
+  "codex": {
+   "foundation_name": "公益財団法人東京動物園協会",
+   "source_url": "https://www.tokyo-zoo.net/wildlife-conservation-fund/list/index.html",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "大東諸島生物相研究グループ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "ダイトウオオコウモリの感電事故の防止策の検討",
+     "field_hint": "保全活動",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "木下こづえ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "家畜を襲撃するユキヒョウの食性および生理的特徴の解明－人との軋轢問題解決に向けて－",
+     "field_hint": "調査研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "寺嶋太輝",
+     "affiliation": null,
+     "position": null,
+     "project_title": "祇苗島におけるオーストンウミツバメの繁殖生態モニタリング",
+     "field_hint": "調査研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "帯広畜産大学 乳研究グループ",
+     "affiliation": "帯広畜産大学",
+     "position": null,
+     "project_title": "アマミノクロウサギの乳はどのようにして作られるのか？ -腸からのアプローチ-（２）",
+     "field_hint": "調査研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "栗田隆気、笹井隆秀、安里瞳",
+     "affiliation": null,
+     "position": null,
+     "project_title": "琉球列島固有種リュウキュウヤマガメの生息状況と集団構造の解明",
+     "field_hint": "調査研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "神﨑野道",
+     "affiliation": null,
+     "position": null,
+     "project_title": "飼育下ミナミシロサイの繁殖に向けた嗅覚刺激による性的動機付けの検証",
+     "field_hint": "調査研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "栁川洋二郎",
+     "affiliation": null,
+     "position": null,
+     "project_title": "動物園・水族館動物における生殖状態評価に向けた糞中性ホルモン測定法の向上",
+     "field_hint": "調査研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "野本繭子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "DNAを用いた野生マルミミゾウの年齢推定手法の開発",
+     "field_hint": "調査研究",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "動物園教育と動物行動探求の会ドードー",
+     "affiliation": null,
+     "position": null,
+     "project_title": "高大連携プロジェクト「野生動物学初歩実習」を通じた野生生物の保全発信",
+     "field_hint": "普及啓発",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "京都府立福知山高等学校",
+     "affiliation": "京都府立福知山高等学校",
+     "position": null,
+     "project_title": "京都由良川における絶滅危惧種オヤニラミの生息状況調査",
+     "field_hint": "調査研究（中高校生部門）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "兵庫県立小野高等学校",
+     "affiliation": "兵庫県立小野高等学校",
+     "position": null,
+     "project_title": "「兵庫県小野市周辺におけるダルマガエルの分布動態とトノサマガエルとの交雑構造の解明― Mig-seq解析を用いた遺伝的多様性評価 ―」",
+     "field_hint": "調査研究（中高校生部門）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "鳥取県立鳥取西高等学校",
+     "affiliation": "鳥取県立鳥取西高等学校",
+     "position": null,
+     "project_title": "ナガレホトケドジョウの保護に向けた環境DNA分布調査",
+     "field_hint": "調査研究（中高校生部門）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "仙台城南高等学校",
+     "affiliation": "仙台城南高等学校",
+     "position": null,
+     "project_title": "トウホクサンショウウオの生息環境をどのように保全するか，その最適解を求めるPart2",
+     "field_hint": "調査研究（中高校生部門）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東京都立国分寺高等学校",
+     "affiliation": "東京都立国分寺高等学校",
+     "position": null,
+     "project_title": "天然記念物カラスバトに関する保全生物学的研究および啓蒙的活動",
+     "field_hint": "調査研究（中高校生部門）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東京農工大学 獣医生理学研究室",
+     "affiliation": "東京農工大学",
+     "position": null,
+     "project_title": "希少哺乳動物の域外保全に寄与する精巣機能解析と精巣細胞保存方法に関する研究（継続）",
+     "field_hint": "東京動物園協会保全パートナー部門",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "シロハラサギ保全チーム",
+     "affiliation": null,
+     "position": null,
+     "project_title": "日本の動物園水族館で培った飼養繁殖技術を用いたシロハラサギ域外保全個体群創設の支援（継続）",
+     "field_hint": "東京動物園協会保全パートナー部門",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "東京ズーネット内の公式「東京動物園協会野生生物保全基金」助成対象一覧を確認。直近掲載年度である令和8（2026）年度について、一般部門9件、中高校生部門5件、東京動物園協会保全パートナー部門2件の全16件を収録した。公式ページは部門別の助成金総額のみを掲載しており、個別金額、個人の所属・職位は原則として掲載していないためnullとした。参考URLは同じ公式ドメインの旧パスで、現行の申請ページは https://www.tokyo-zoo.net/wildlife-conservation-fund/application/index.html 。"
+  },
+  "url_hint": "https://www.tokyo-zoo.net/fund/application.html",
+  "elapsed_s": 65
+ },
+ "（公財）損保ジャパン日本興亜環境財団": {
+  "codex": {
+   "foundation_name": "（公財）損保ジャパン日本興亜環境財団（現・公益財団法人SOMPO環境財団）",
+   "source_url": "https://www.sompo-ef.org/academic/pdf/gakujutu_2025.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "後藤 荘子",
+     "affiliation": "京都大学大学院 経済学研究科",
+     "position": null,
+     "project_title": "炭素価格の有効性に関する基礎研究：家計・企業・政府の側面からの検討",
+     "field_hint": "環境分野（人文・社会科学系）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "イザ・マハディアナ・アプリリアニ",
+     "affiliation": "宇都宮大学大学院博士後期課程 地域創生科学研究科 先端融合科学専攻 グローバル地域デザインプログラム",
+     "position": null,
+     "project_title": "An Investigation of Mangrove-Fisheries Linages Using the Satoumi Concept: A Case Study of Small-Scale Fisheries in Southern West Java, Indonesia",
+     "field_hint": "環境分野（人文・社会科学系）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "糸井 風音",
+     "affiliation": "筑波大学大学院 理工情報生命学術院 システム情報工学研究群 社会工学学位プログラム 環境意思決定研究室",
+     "position": null,
+     "project_title": "孤独感が気候変動に対する認識・行動の変容に及ぼす影響：情報の受容に着目して",
+     "field_hint": "環境分野（人文・社会科学系）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "岩野 純奈",
+     "affiliation": "九州大学大学院 生物資源環境科学府 環境農学専攻 森林政策学研究室",
+     "position": null,
+     "project_title": "誰がシカ捕獲を担うのか？：日本とスロベニアの狩猟者と林業者の国際比較研究",
+     "field_hint": "環境分野（人文・社会科学系）",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "ヴィクトリア・ブラシェック",
+     "affiliation": "東京大学大学院 農学生命科学研究科 森林科学専攻 森林風致計画学研究室",
+     "position": null,
+     "project_title": "Enabling and constraining factors for participation in edible urban landscapes in Japan and Austria.",
+     "field_hint": "環境分野（人文・社会科学系）",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "2026年7月16日確認。参考URLの旧ドメインは同財団に関係するが、現在の公式サイトは https://www.sompo-ef.org/ で、名称は「公益財団法人SOMPO環境財団」。公式の過去実績ページ（https://www.sompo-ef.org/academic/academic_kako.html）が2025年度を最新の学術研究助成先一覧として掲載し、リンク先の公式PDFに全5名の氏名・所属大学院・研究テーマが記載されている。職位と個別助成額は一覧に記載がないためnull。募集ページには1名30万円を上限とするとあるが、個別の確定額ではないためamount_jpyへ転記していない。外国人採択者名は公式PDF併記のカナ表記を全角・中黒表記に整えた。英語課題名の「Linages」は公式PDFの表記をそのまま採用した。"
+  },
+  "url_hint": "https://www.sjnkef.org/project/project.html",
+  "elapsed_s": 66
+ },
+ "（公財）ポーラ美術振興財団": {
+  "codex": {
+   "foundation_name": "（公財）ポーラ美術振興財団",
+   "source_url": null,
+   "fiscal_year": null,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "公式サイトは https://www.pola-art-foundation.jp/ であり、参考URLは同財団の助成事業ページを指すものと確認できた。ポーラ美術館の公式ページ（https://www.polamuseum.or.jp/about/pola-art-foundation/）にも同財団公式サイトへのリンクと、若手芸術家の在外研修、美術館職員の調査研究、美術に関する国際交流の3助成事業が記載されている。しかし、公式サイトの助成ページは調査時に取得できず、検索でも直近1年度分の全採択者を確認できる公式ページまたは公式PDFを特定できなかった。公式掲載を確認できない氏名は収録せず、年度・採択者一覧URLともnullとした。"
+  },
+  "url_hint": "http://www.pola-art-foundation.jp/grants",
+  "elapsed_s": 69
+ },
+ "防災教育チャレンジプラン": {
+  "codex": {
+   "foundation_name": "防災教育チャレンジプラン",
+   "source_url": "https://bosai-study.net/2025houkoku/cphoukoku_2025_pamphlet.pdf",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "ママと家族の防災応援チーム",
+     "affiliation": null,
+     "position": null,
+     "project_title": "ママと家族の防災応援チーム ～ともに活動する仲間づくりへ～",
+     "field_hint": "防災教育を継続・定着させるためのチャレンジ／防災人材を育成するためのチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東北大学災害科学国際研究所 上廣防災学寄附研究部門",
+     "affiliation": "東北大学災害科学国際研究所",
+     "position": null,
+     "project_title": "持続可能な防災教育支援体制 確立プロジェクト",
+     "field_hint": "防災教育を継続・定着させるためのチャレンジ／防災人材を育成するためのチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "社会福祉法人地球の園 こひつじこども園",
+     "affiliation": null,
+     "position": null,
+     "project_title": "保育ぼうさい実践パッケージ作り～遊びで育む、子どもの生きる力～",
+     "field_hint": "防災教育を継続・定着させるためのチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "NPO法人洞爺湖有珠火山マイスターネットワーク 防災ユニバーサルデザインチーム",
+     "affiliation": "NPO法人洞爺湖有珠火山マイスターネットワーク",
+     "position": null,
+     "project_title": "ママ火山マイスターが作る!「こどもをまもる!みんなのための火山ぼうさいハンドブック」プロジェクト",
+     "field_hint": "火山防災教育のチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "御嶽山火山マイスターネットワーク",
+     "affiliation": null,
+     "position": null,
+     "project_title": "御嶽山の噴火災害と火山の魅力を次世代へ",
+     "field_hint": "防災教育を継続・定着させるためのチャレンジ／火山防災教育のチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松山防災リーダー育成センター",
+     "affiliation": null,
+     "position": null,
+     "project_title": "「とどけ！命のはがきプロジェクト」",
+     "field_hint": "防災教育を継続・定着させるためのチャレンジ／防災人材を育成するためのチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西豊田学区地域支え合い体制づくり実行委員会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "在宅避難を学び、実体験し、検証する参加型防災教育プログラムの実践と活動モデル化による家庭や地域の防災力の向上",
+     "field_hint": "防災人材を育成するためのチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "北海道標津高等学校 生徒会",
+     "affiliation": "北海道標津高等学校",
+     "position": null,
+     "project_title": "地域の防災を担う高校生育成プロジェクト～地域循環型防災教育の構築～",
+     "field_hint": "防災教育を継続・定着させるためのチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "わくわく防災ジュニアクラブ岐阜可児",
+     "affiliation": null,
+     "position": null,
+     "project_title": "ミライスマイル 防災プロジェクト KANI",
+     "field_hint": "防災教育を継続・定着させるためのチャレンジ／防災人材を育成するためのチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "防災まなびサイクル",
+     "affiliation": null,
+     "position": null,
+     "project_title": "探究型の防災教育プログラム「防災まなびサイクル」の、教育現場での展開",
+     "field_hint": "防災教育を継続・定着させるためのチャレンジ／防災人材を育成するためのチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "栗駒山麓ジオパークジオガイドの会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "登山直前火山啓発プログラムの開発とジオガイドによる繁忙期における実践と普及",
+     "field_hint": "火山防災教育のチャレンジ",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "万代地域コミュニティ協議会",
+     "affiliation": null,
+     "position": null,
+     "project_title": "防災食ラボ＠子ども食堂 「食」を通じた親子参加で育む、地域防災の自律的リーダーと共助の基盤づくり",
+     "field_hint": "防災教育を継続・定着させるためのチャレンジ／防災人材を育成するためのチャレンジ",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは防災教育チャレンジプランの公式サイト内にある募集ページであることを確認した。公式サイトが公開する「2025年度防災教育チャレンジプラン活動報告会」パンフレットの「2026年度実践団体紹介」に、2026年度の採択団体として全12団体が掲載されている。個人ではなく団体単位の採択であるため、awardee_nameには公式掲載の団体名を収録した。代表者名、職位および個別採択金額は同資料に記載がないためnullとした。"
+  },
+  "url_hint": "http://www.bosai-study.net/boshu",
+  "elapsed_s": 72
+ },
+ "公益財団法人わかやま産業振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人わかやま産業振興財団",
+   "source_url": "https://yarukiouendan.or.jp/news/%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E3%80%8C%E3%82%8F%E3%81%8B%E3%82%84%E3%81%BE%E5%9C%B0%E5%9F%9F%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA%E5%9E%8B%E8%B5%B7%E6%A5%AD%E6%94%AF%E6%8F%B4%E8%A3%9C%E5%8A%A9/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "目 慶三郎",
+     "affiliation": null,
+     "position": null,
+     "project_title": "障害児通所支援事業所でインクルーシブ教育の推進をめざす",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "島川 梨沙",
+     "affiliation": null,
+     "position": null,
+     "project_title": "不登校の子どもたちが自分らしく安心して過ごせる居場所づくり",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "谷口 祐太",
+     "affiliation": null,
+     "position": null,
+     "project_title": "3Dモーションキャプチャを活用した若手クリエイター支援スタジオ事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "堂本 洋介",
+     "affiliation": null,
+     "position": null,
+     "project_title": "地域の医療福祉に貢献。熟練技術のオーダーメイド義肢装具製作事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "野口 千恵",
+     "affiliation": null,
+     "position": null,
+     "project_title": "「伝える力」で地域を変える人材育成と、AIマーケティングによる地域活性化事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "福矢 裕司",
+     "affiliation": null,
+     "position": null,
+     "project_title": "自宅で安心して看取りが出来るように、訪問看護ステーションの多店舗展開をする",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松尾 春菜",
+     "affiliation": null,
+     "position": null,
+     "project_title": "遊休不動物件を活用した無人宿泊施設運営",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "入谷 安紀",
+     "affiliation": null,
+     "position": null,
+     "project_title": "世界遺産のふもとライダー向け観光拠点構築事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 佑佳",
+     "affiliation": null,
+     "position": null,
+     "project_title": "築100年の古民家を再生、女性・若者が集う癒しのスイーツ空間へ",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐藤 正二郎",
+     "affiliation": null,
+     "position": null,
+     "project_title": "東洋医学と語学を活かした紀伊田辺駅前活性事業の展開",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "只埜 博子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "熊野本宮大社来訪のインバウンドに大鳥居を望む宿と日本食を提供",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "花村 篤司",
+     "affiliation": null,
+     "position": null,
+     "project_title": "シニアがイキイキと働くことができる「街仲食堂 紺屋町店」",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "水橋 尚弘",
+     "affiliation": null,
+     "position": null,
+     "project_title": "ベジタリアン料理に特化した宿泊施設と、地域支援の連携拠点を創出",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森田 竜一",
+     "affiliation": null,
+     "position": null,
+     "project_title": "引退競走馬と共に「命」をテーマにした体験事業",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "山下 浩二",
+     "affiliation": null,
+     "position": null,
+     "project_title": "地域の喜び広げる「ゲストハウス＆ベーカリーショップ」",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "渡邊 隼人",
+     "affiliation": null,
+     "position": null,
+     "project_title": "癒しと健康をテーマにしたカフェ＆ウェルネス空間",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "有薗 光代",
+     "affiliation": null,
+     "position": null,
+     "project_title": "元ピースキーパーが案内するリトリート＆サロン『門』～心の平和を創る場所～",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "橋村 倫和",
+     "affiliation": null,
+     "position": null,
+     "project_title": "インターネット経由の制御技術を利用した省力化・自動化装置(Iot機器)の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西村 明展",
+     "affiliation": null,
+     "position": null,
+     "project_title": "旧教会を記憶の交流拠点として再生し、新たな出会いと関係性を築くイベントスペースの開設",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "増山 佐恵加",
+     "affiliation": null,
+     "position": null,
+     "project_title": "空き家と耕作放棄地の活用プロジェクトで地域を次世代に繋ぐ",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "佐々木 優子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "移住を考えている人と、地域がつながる、出会い交流のシェアハウス",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "清水 茜",
+     "affiliation": null,
+     "position": null,
+     "project_title": "好奇心を刺激する体験型宿と、極上のワ―ケーションが体験できるおためし住宅、貸スペースの運営",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西澤 憲彦",
+     "affiliation": null,
+     "position": null,
+     "project_title": "地元の農産物やジビエ食材を利用したキッチンカー事業の展開",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "津田 睦子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "「高野紙作り体験施設」人・文化・地域をつなぐプロジェクト",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "前口 あかね",
+     "affiliation": null,
+     "position": null,
+     "project_title": "地域で若者を育むコミュニティ複合型施設",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "新家 和也",
+     "affiliation": null,
+     "position": null,
+     "project_title": "有田川町から発信する地元食材を活用した創作フランス料理と洋菓子の販売",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中井 真生子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "働くママのお助け隊！麹で結ぶ「身体と心に優しい家族時間」",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "上村 和昭",
+     "affiliation": null,
+     "position": null,
+     "project_title": "紀南発！上富田モデルから始まる感染ゼロのまちづくり～感染対策のプロ直伝支援ですべての医療・福祉現場に持続可能な安心を！～",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "千葉 貴子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "ロバでつながるエコツーリズム -都市と地域、自然と人、那智山と色川",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "畑下 真次",
+     "affiliation": null,
+     "position": null,
+     "project_title": "浦神の伝統的な養殖文化を守り育てながら、スマート漁業の導入で未来へつなぐ牡蠣のブランド化と雇用創出の取り組み",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "奥村 成孝",
+     "affiliation": null,
+     "position": null,
+     "project_title": "出張修理を活用し、お客様に寄り添った地域密着型の自動車整備事業の展開",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "大瀬戸 朝",
+     "affiliation": null,
+     "position": null,
+     "project_title": "調剤薬局ゼロからの挑戦！災害時も地域医療を守り続ける薬局",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは財団公式サイトであることを、公式の「当財団について」ページに記載された法人名称・URLで確認。公式サイトが2025年6月16日に公開した令和7年度（2025年度）「わかやま地域課題解決型起業支援補助金」採択結果に掲載された32名を全員収録した。公式一覧に所属機関、職位、公式な分野区分、個別採択金額の記載がないためnull。事業実施予定地は所属機関ではないためaffiliationには転記していない。"
+  },
+  "url_hint": "https://www.yarukiouendan.or.jp",
+  "elapsed_s": 74
  }
 }

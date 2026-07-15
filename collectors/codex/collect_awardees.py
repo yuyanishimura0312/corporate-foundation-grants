@@ -51,7 +51,7 @@ def main():
             r = c.execute("SELECT name,url FROM organizations WHERE name LIKE ? LIMIT 1", ("%" + nm + "%",)).fetchone()
             if r: targets.append((r["name"], r["url"]))
     if a.auto:
-        for r in c.execute("""SELECT name,url FROM organizations WHERE url LIKE 'http%' AND research_relevance='high'
+        for r in c.execute("""SELECT name,url FROM organizations WHERE url LIKE 'http%' AND research_relevance IN ('high','medium')
             AND id NOT IN (SELECT p.organization_id FROM grant_programs p JOIN grant_calls gc ON gc.program_id=p.id JOIN grant_results r ON r.call_id=gc.id)
             ORDER BY total_assets DESC NULLS LAST LIMIT ?""", (a.auto,)).fetchall():
             targets.append((r["name"], r["url"]))
