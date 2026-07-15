@@ -1,0 +1,696 @@
+{
+ "公益財団法人内藤記念科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人内藤記念科学振興財団",
+   "source_url": "https://www.naito-f.or.jp/jp/joseikn/jo_index.php?data=past",
+   "fiscal_year": 2025,
+   "awardees": [],
+   "confidence": "low",
+   "notes": "2026-07-15確認。公式サイトは https://www.naito-f.or.jp/ であり、参考URLの astellas-foundation.or.jp は対象財団の公式サイトではない。公式「これまでの受領者」ページで2025年度を選択でき、公式広報誌第117号にも「2025年度…助成金受領者一覧」の掲載を確認した。しかし、受領者明細は動的表示で、この調査環境では氏名・所属・課題名を公式ページから取得・照合できなかった。未確認情報を補わず、awardeesは空とした。"
+  },
+  "url_hint": "https://www.astellas-foundation.or.jp",
+  "elapsed_s": 80
+ },
+ "加藤記念バイオサイエンス振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 加藤記念バイオサイエンス振興財団",
+   "source_url": "https://www.katokinen.or.jp/wordpress/wp-content/uploads/2026/01/37ken_jyoseisya.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "赤羽 しおり",
+     "affiliation": "神奈川県立がんセンター 臨床研究所 がん生物学部",
+     "position": null,
+     "project_title": "乳がん悪性化におけるミトコンドリア品質管理の病態的意義の解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "飯野 祐介",
+     "affiliation": "筑波大学 国際統合睡眠医科学研究機構",
+     "position": null,
+     "project_title": "睡眠不足による意思決定異常の細胞基盤の解明",
+     "field_hint": "メディカルサイエンス分野（助成金増額者）",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "五十嵐 亮",
+     "affiliation": "慶應義塾大学 医学部 医化学教室",
+     "position": null,
+     "project_title": "肝細胞と肝非実質細胞との細胞連関からみた脂肪性肝疾患の線維化進展機序の解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "磯部 更紗",
+     "affiliation": "国際医療福祉大学 三田病院 心臓血管センター",
+     "position": null,
+     "project_title": "肺高血圧症の遺伝子変異による病態メカニズムの解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "及川 真実",
+     "affiliation": "東京薬科大学 生命科学部 再生医科学研究室",
+     "position": null,
+     "project_title": "異種間キメラにおける細胞ニッチ競合の普遍的機構の解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "岡野 徳壽",
+     "affiliation": "東京科学大学大学院医歯学総合研究科 細菌感染制御学分野",
+     "position": null,
+     "project_title": "インフラマソームが制御する口腔細菌による炎症拡散システムの解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "金谷 信彦",
+     "affiliation": "岡山大学大学院医歯学総合研究科 消化器外科学教室",
+     "position": null,
+     "project_title": "胃がんにおける腹水内幹細胞様ヘルパーT細胞の意義と新規治療法の開発",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "菅野 敏生",
+     "affiliation": "かずさDNA研究所 先端研究開発部 オミックス医科学研究室",
+     "position": null,
+     "project_title": "「脂質代謝スイッチと宿主脂質の利用制限」による抗ウイルス応答の新規誘導機構",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "鈴木 智大",
+     "affiliation": "群馬大学生体調節研究所 代謝エピジェネティクス分野",
+     "position": null,
+     "project_title": "細胞内鉄動態が司る核内エピゲノム調節機構の分子基盤解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "高橋 宙大",
+     "affiliation": "東北大学大学院医学系研究科 分子代謝生理学分野",
+     "position": null,
+     "project_title": "代謝状態に応じたPOMC神経反応可能性決定機構の解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "時田 芹奈",
+     "affiliation": "新潟大学大学院医歯学総合研究科 がん免疫学分野",
+     "position": null,
+     "project_title": "ネオ抗原がんワクチン誘導性CD4+T細胞の機能解析",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "中川 直樹",
+     "affiliation": "京都大学大学院医学研究科 人間健康科学系専攻発生発達神経生物学",
+     "position": null,
+     "project_title": "てんかん脳におけるオルガネラ病変の分子機序と病理学的意義の解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "中野 将希",
+     "affiliation": "滋賀医科大学神経難病研究センター 基礎研究ユニット 神経遺伝学部門",
+     "position": null,
+     "project_title": "小胞体ストレス応答に対する選択的制御分子の同定と制御機構の解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "中村 克行",
+     "affiliation": "岐阜大学 工学部 化学・生命工学科 生命化学コース",
+     "position": null,
+     "project_title": "筋線維の細胞老化に着目した新たな筋疾患治療標的の創出",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "Leonie Brockmann",
+     "affiliation": "慶應義塾大学 WPI-Bio2Q",
+     "position": null,
+     "project_title": "腸管感染症におけるGLP-1を介した免疫－上皮クロストークの解明",
+     "field_hint": "メディカルサイエンス分野（助成金増額者）",
+     "amount_jpy": 3000000
+    },
+    {
+     "awardee_name": "本田 瑞季",
+     "affiliation": "広島大学大学院 統合生命科学研究科",
+     "position": null,
+     "project_title": "成長期ストレスによる脳可塑性破綻の分子基盤解明",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "山田 真太郎",
+     "affiliation": "東京都医学総合研究所 先端基礎医科学研究分野",
+     "position": null,
+     "project_title": "少数の細胞で生殖細胞におけるゲノム切断、修復反応を網羅的に検出する",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "山本 将大",
+     "affiliation": "九州大学 生体防御医学研究所 分子神経免疫学分野",
+     "position": null,
+     "project_title": "グリア細胞リピドームカタログを基盤にしたアストロサイト細胞特性の理解",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "渡邊 征爾",
+     "affiliation": "島根大学 医学部 生命科学講座",
+     "position": null,
+     "project_title": "小胞体・ミトコンドリア接触部による炎症応答制御メカニズムの解析",
+     "field_hint": "メディカルサイエンス分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "伊藤 佑",
+     "affiliation": "大阪大学大学院理学研究科 生物科学専攻",
+     "position": null,
+     "project_title": "細胞間・染色体間でモザイクな非CpG配列でのDNAメチル化評価法の開発",
+     "field_hint": "バイオテクノロジー分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "伊藤 栄紘",
+     "affiliation": "東京科学大学 生命理工学院 生命理工学系",
+     "position": null,
+     "project_title": "リポソームを反応場に用いた金属酵素による光駆動メタン/メタノール変換",
+     "field_hint": "バイオテクノロジー分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "梶山 十和子",
+     "affiliation": "東北大学大学院生命科学研究科 脳生命統御科学専攻 分子行動分野",
+     "position": null,
+     "project_title": "魚類視覚中枢における特殊神経細胞型の機能解析",
+     "field_hint": "バイオテクノロジー分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "白石 太郎",
+     "affiliation": "京都大学大学院理学研究科 化学専攻 生物化学研究室",
+     "position": null,
+     "project_title": "ペプチド修飾酵素の探索とそれを応用した機能性分子創製",
+     "field_hint": "バイオテクノロジー分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "竹田 弘法",
+     "affiliation": "埼玉大学大学院理工学研究科 分子生物学科",
+     "position": null,
+     "project_title": "ミトコンドリア外膜におけるタンパク質膜挿入の統合的理解",
+     "field_hint": "バイオテクノロジー分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "辻 真人",
+     "affiliation": "東京大学大学院理学系研究科 生物科学専攻",
+     "position": null,
+     "project_title": "4次元ホログラフィック計測操作法から探る情報の順序を演算する神経メカニズム",
+     "field_hint": "バイオテクノロジー分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "益村 晃司",
+     "affiliation": "広島大学大学院統合生命科学研究科 生物工学プログラム",
+     "position": null,
+     "project_title": "出芽酵母の寿命を制御するメチオニン代謝の新規制御因子の探索とその機能解析",
+     "field_hint": "バイオテクノロジー分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "宮本 皓司",
+     "affiliation": "帝京大学 理工学部 総合理工学科",
+     "position": null,
+     "project_title": "イネいもち病菌が産生するかび毒テヌアゾン酸によるイネの免疫誘導機構の解明",
+     "field_hint": "バイオテクノロジー分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "八木 瑛穂",
+     "affiliation": "東北医科薬科大学 薬学部 天然物化学教室",
+     "position": null,
+     "project_title": "カイコ感染モデルを用いた天然資源からの難治性抗酸菌症治療薬の探索",
+     "field_hint": "バイオテクノロジー分野",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "Vaibhav Pal Singh",
+     "affiliation": "京都大学 化学研究所 ケミカルバイオロジー",
+     "position": null,
+     "project_title": "持続可能なPFAS除去のための生体模倣型ペプチド材料",
+     "field_hint": "環境バイオ分野（助成金増額者）",
+     "amount_jpy": 2000000
+    },
+    {
+     "awardee_name": "中里 一星",
+     "affiliation": "東京大学大学院農学生命科学研究科 植物分子遺伝学研究室",
+     "position": null,
+     "project_title": "トマトにおける葉緑体ゲノム標的一塩基置換法の開発",
+     "field_hint": "環境バイオ分野",
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "生井 楓",
+     "affiliation": "信州大学 農学部 農学生命科学科",
+     "position": null,
+     "project_title": "脱フッ素化を担う環境微生物群の探索と分子機構の解明",
+     "field_hint": "環境バイオ分野",
+     "amount_jpy": 1000000
+    },
+    {
+     "awardee_name": "宮本 昂明",
+     "affiliation": "東京科学大学生体材料工学研究所 ソフトマター医工学分野",
+     "position": null,
+     "project_title": "活性酸素種に応答する徐放性ナノ粒子による植物光防護システムの創製",
+     "field_hint": "環境バイオ分野",
+     "amount_jpy": 1000000
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式PDF「第37回 加藤記念研究助成受領者」に掲載された2025年度の全32名（メディカルサイエンス19名、バイオテクノロジー9名、環境バイオ4名）を収録した。職位は一覧に記載がないためnull。金額は公式募集情報の通常額（M・B分野200万円、E分野100万円）と、PDFの「※助成金増額者」表示および優秀テーマへの100万円増額規定を反映した。公式発表ページ：https://www.katokinen.or.jp/news/news_20260209_02.html"
+  },
+  "url_hint": "https://www.katokinen.or.jp",
+  "elapsed_s": 104
+ },
+ "三島海雲記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 三島海雲記念財団",
+   "source_url": "https://www.mishima-kaiun.or.jp/works/works-2427/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "鴨下 顕彦",
+     "affiliation": "東京大学大学院 農学生命科学研究科",
+     "position": "教授",
+     "project_title": "アジア紛争後地域における農業・食料システム再生と和解プロセス比較研究",
+     "field_hint": "人文科学部門／共同研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "久米 正吾",
+     "affiliation": "金沢大学 古代文明・文化資源学研究所",
+     "position": "客員研究員",
+     "project_title": "中央アジアにおける拝火儀礼の起源と展開に関する実証的研究",
+     "field_hint": "人文科学部門／共同研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "柴田 正義",
+     "affiliation": "阪南大学 国際学部",
+     "position": "准教授",
+     "project_title": "中央アジア諸国における憲法体制の動態に関する研究",
+     "field_hint": "人文科学部門／共同研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "師 茂樹",
+     "affiliation": "早稲田大学 文学学術院",
+     "position": "教授",
+     "project_title": "アジアのなかの近世仏教: 仏教論理学（因明）をめぐる交流を中心に",
+     "field_hint": "人文科学部門／共同研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "池内 里桜",
+     "affiliation": "大阪大学 国際公共政策研究科",
+     "position": "博士課程",
+     "project_title": "アジア系移民における国民アイデンティティの形成と受容",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "池田 尚広",
+     "affiliation": "杏林大学 外国語学部",
+     "position": "専任講師",
+     "project_title": "郭沫若の戦後対日問題と実践―1950年代岡山と平和・学術交流",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "WU WUYUNGA",
+     "affiliation": "総合研究大学院大学 文化科学研究科",
+     "position": "博士課程",
+     "project_title": "アーカイブ画像を活用した内モンゴル・ラクダ牧畜の現代的技術形成に関する研究",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "WUNIER SAIHAN",
+     "affiliation": "総合研究大学院大学 先端学術院人類文化研究コース",
+     "position": "博士課程",
+     "project_title": "内モンゴル・アラシャ盟における僧院外の仏教実践の再編過程―文化人類学的研究―",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "王 一臻",
+     "affiliation": "東京大学大学院 工学系研究科",
+     "position": "博士課程",
+     "project_title": "明清時代官立儒教学校の成立と展開",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "太田 小雪",
+     "affiliation": "早稲田大学 文学学術院",
+     "position": "助手",
+     "project_title": "ブッダガヤ出土奉献板の蒐集・移動史と美術史的再評価―近代日本を中心に―",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "柯 輝煌",
+     "affiliation": "東京大学大学院 総合文化研究科",
+     "position": "博士課程",
+     "project_title": "比田井天来の国語国字問題への対応を、書道とナショナリズムの関係から考察する。",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "柯 燁佳",
+     "affiliation": "上智大学大学院 グローバル・スタディーズ研究科",
+     "position": "博士課程",
+     "project_title": "ジェンダー秩序の視点からみる中越国境地帯における越境少数民族への国家の影響",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "加藤 里織",
+     "affiliation": "神奈川大学 非文字資料研究センター",
+     "position": "客員研究員",
+     "project_title": "奄美出身者の越境移動の類型化—郷友会名簿・記念誌と新聞資料による基礎研究—",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "金子 聖奈",
+     "affiliation": "早稲田大学 文学学術院",
+     "position": "助教",
+     "project_title": "日本占領下フィリピンの文学と翻訳の研究：陣中雑誌『南十字星』を視座として",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "金子 望美",
+     "affiliation": "東京都立大学大学院 人文科学研究科",
+     "position": "博士課程",
+     "project_title": "ベトナムの創造性と場をめぐる社会学的研究：クリエイティブ・ハブにおける交渉から",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "吉良 光冬",
+     "affiliation": "大阪大学大学院 国際公共政策研究科",
+     "position": "博士課程",
+     "project_title": "福祉サービスの歴史的形成：戦後日本の傷痍軍人を事例とした実証研究",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "胡 安美",
+     "affiliation": "京都大学大学院 文学研究科",
+     "position": "博士課程",
+     "project_title": "〈非国民〉の弔いの政治文化史ー19世紀末～20世紀半ばの日本・植民地を中心にー",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "顧 嘉晨",
+     "affiliation": "東京大学大学院 人文社会系研究科",
+     "position": "博士課程",
+     "project_title": "東アジアにおける宋遺民・李用の受容と記憶―中世日本儒学形成と近代中国評価について",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "辜 傲然",
+     "affiliation": "名古屋大学大学院 人文学研究科",
+     "position": "博士課程",
+     "project_title": "戦間期におけるアジア主義と社会運動",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "向 静静",
+     "affiliation": "立命館大学 アジア・日本研究所",
+     "position": "准教授",
+     "project_title": "近世東アジアにおける食物本草書の思想史的研究",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小島 陽子",
+     "affiliation": "日本大学 理工学部",
+     "position": "助教",
+     "project_title": "バガンにおける地下の宗教建築の空間構成に関する基礎的研究",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西郷 太一",
+     "affiliation": "総合研究大学院大学 先端学術院日本語言語科学コース",
+     "position": "博士課程",
+     "project_title": "方言百科事典の構築による新島方言ドキュメンテーションと市民科学者育成の実践研究",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "榮 惟樹",
+     "affiliation": "九州大学大学院 人文科学府",
+     "position": "博士課程",
+     "project_title": "インド伝統医学における養生法の文献学的研究―古典医学書と現代の実践法の比較―",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "櫻田 涼子",
+     "affiliation": "育英短期大学 現代コミュニケーション学科",
+     "position": "准教授",
+     "project_title": "食の場から問い直す多文化共生――移民フードビジネスの結節点機能の比較民族誌",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "周 頡",
+     "affiliation": "東京大学大学院 総合文化研究科",
+     "position": "博士課程",
+     "project_title": "中国貴州省スイ族における植物知識体系に関する文化人類学的研究",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "白井 魁",
+     "affiliation": "一橋大学大学院 言語社会研究科",
+     "position": "博士課程",
+     "project_title": "日本統治下の台湾で活躍していた台湾人作家による戦後の文学活動",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "辛 銀珠",
+     "affiliation": "東京大学大学院 総合文化研究科",
+     "position": "博士課程",
+     "project_title": "植民地期朝鮮における「美術」概念の形成―美術雑誌『美術及工藝』（1917）を中心に",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "高橋 一生",
+     "affiliation": "龍谷大学大学院 文学研究科",
+     "position": "博士課程",
+     "project_title": "モンゴル政治文化とトゴン・テムル政権ー奇皇后、宦官からみる元衰退の実像ー",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "谷口 力光",
+     "affiliation": "名古屋大学大学院 人文学研究科",
+     "position": "研究員（PD）",
+     "project_title": "『ヒンドゥー聖法の争点解決』を中心とした通時的分析と未刊写本ディプロマ版電子校訂",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "塚原 真梨佳",
+     "affiliation": "立命館大学 アジア・日本研究所",
+     "position": "専門研究員",
+     "project_title": "自衛隊イメージの文化社会学的研究：防衛技術表象との連関の解明",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "辻山 仁志",
+     "affiliation": "University of Surrey School of Social Sciences",
+     "position": "Associate Professor",
+     "project_title": "東日本大震災が被災地の離婚や家計内不平等に与えた影響に関する実証的・理論的研究",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "筒井 華子",
+     "affiliation": "京都大学大学院 アジア・アフリカ地域研究研究科",
+     "position": "博士課程",
+     "project_title": "イスラーム型扶助の論理と動態――現代マレーシアのワクフを事例に",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "東郷 雄太",
+     "affiliation": "神戸大学大学院 法学研究科",
+     "position": "博士課程",
+     "project_title": "中国のWTO加盟をめぐる交渉過程：西側諸国に占める日本の役割に着目して",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "永井 瑞枝",
+     "affiliation": "お茶の水女子大学 コンピテンシー育成開発研究所",
+     "position": "協力研究員",
+     "project_title": "古代日本における「徒刑」成立過程の分析―東アジア世界の労役刑とケガレ意識の融合",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中原 理沙",
+     "affiliation": "大阪大学 グローバル・アドミッションズ・サポートオフィス",
+     "position": "特任助教",
+     "project_title": "戦時期日本における女性の科学動員：科学教育に着目して",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "橋本 繁",
+     "affiliation": "韓国国立慶北大学校 人文学術院",
+     "position": "HK研究教授",
+     "project_title": "新羅女性史の基礎的研究―仏教関連金石文を中心に",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤井 麻央",
+     "affiliation": "大谷大学 真宗総合研究所東京分室",
+     "position": "研究員",
+     "project_title": "近代日本における一燈園の展開過程の研究",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "堀田 和義",
+     "affiliation": "駒澤大学 仏教学部",
+     "position": "専任講師",
+     "project_title": "ジャイナ教における他者理解と多面的真理説",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "間瀬 優太",
+     "affiliation": "慶應義塾大学大学院 法学研究科",
+     "position": "博士課程",
+     "project_title": "パレスチナ人殉教者の実存――対イスラエル襲撃作戦を巡る語りの分析",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松岡 勇人",
+     "affiliation": "長崎大学大学院 医歯薬学総合研究科",
+     "position": "博士課程",
+     "project_title": "パンデミックにおける差別言説の連続性と変化―インフルエンザとCOVID-19の比較分析",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松元 晶",
+     "affiliation": "北海道大学大学院 文学院",
+     "position": "博士課程",
+     "project_title": "「長い1960年代」における中央アジア映画人の主体的自己表象の構築過程の歴史的解明",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "武藤 優",
+     "affiliation": "北海道大学大学院 メディア・コミュニケーション研究院",
+     "position": "学術研究員",
+     "project_title": "「朝鮮雅楽」の保存と振興：「朝鮮雅楽」をめぐる「記録」と「記憶」の分析を中心に",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "森原 康暉",
+     "affiliation": "東洋大学大学院 文学研究科",
+     "position": "博士課程",
+     "project_title": "東アジア諸地域における『円覚経』の展開及び圭峰宗密の思想史上における立場の解明",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "柳下 明莉",
+     "affiliation": "オタゴ大学 ジェンダースタディーズ",
+     "position": "博士課程",
+     "project_title": "日本におけるジェンダー・セクシュアリティに関するテレビ番組制作者の経験",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "柳下 實悠",
+     "affiliation": "早稲田大学大学院 文学研究科",
+     "position": "博士課程",
+     "project_title": "中国仏教を代表する華厳教学を大成した法蔵の、理論と実践の統合的思索の解明。",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "楊 媛淇",
+     "affiliation": "早稻田大学大学院 社会科学研究科",
+     "position": "博士課程",
+     "project_title": "天皇と「多民族協和」：昭和大礼をめぐる宣伝と受容の東アジア的交錯（1927-1929）",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "李 雪夢",
+     "affiliation": "大阪大学大学院 法学研究科",
+     "position": "博士課程",
+     "project_title": "可遺伝的ヒトゲノム編集の規制体系における刑法の役割―日中比較研究を中心に",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "劉 洋",
+     "affiliation": "国際日本文化研究センター 総合情報発信室",
+     "position": "特任助教",
+     "project_title": "揺らぐ鎖国秩序と「弱者の外交」：文化四年唐船漂着史料群の総合分析",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "渡邊 康太",
+     "affiliation": "New York University Wagner Graduate School of Public Service",
+     "position": "Visiting Scholar",
+     "project_title": "混乱に生まれる秩序：ミャンマー国境地域における特殊詐欺拠点の拡大",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "渡部 良子",
+     "affiliation": "東京大学 文学部",
+     "position": "非常勤講師",
+     "project_title": "モンゴル帝国期イランの財政・財務運営システムとポスト・モンゴル期へのその影響",
+     "field_hint": "人文科学部門／個人研究奨励金",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは同財団の公式サイト（HTTPS版）であることを確認。直近の2026年度（第64回）学術研究奨励金について、公式の人文科学部門受贈者一覧に掲載された共同研究4件・個人研究46件の全50件を収録した。財団全体では自然科学部門を含め96件のため、最大80名程度という指定に従い、人文科学部門を完全な単位として採用。所属・役職は公式ページ記載の申請時情報。助成額は共同研究が1件462万～500万円、個人研究が1件60万～100万円という範囲表示のみで個別額を特定できないため、amount_jpyはnull。確認日: 2026-07-15。"
+  },
+  "url_hint": "http://www.mishima-kaiun.or.jp",
+  "elapsed_s": 127
+ }
+}
