@@ -1,0 +1,255 @@
+[
+ {
+  "keep": "（公財）中央競馬馬主社会福祉財団",
+  "drop": "公益財団法人中央競馬馬主社会福祉財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "社団法人国土緑化推進機構",
+  "drop": "（公社）国土緑化推進機構",
+  "filled": []
+ },
+ {
+  "keep": "（公財）日本社会福祉弘済会",
+  "drop": "公益財団法人日本社会福祉弘済会",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）コメリ緑育成財団",
+  "drop": "公益財団法人コメリ緑育成財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency"
+  ]
+ },
+ {
+  "keep": "（公財）庭野平和財団",
+  "drop": "公益財団法人庭野平和財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "prefecture",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）ポーラ美術振興財団",
+  "drop": "公益財団法人ポーラ美術振興財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）緑の地球防衛基金",
+  "drop": "公益財団法人緑の地球防衛基金",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality",
+   "primary_field",
+   "primary_field_method"
+  ]
+ },
+ {
+  "keep": "（公財）かめのり財団",
+  "drop": "公益財団法人かめのり財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality",
+   "primary_field",
+   "primary_field_method"
+  ]
+ },
+ {
+  "keep": "（公財）みずほ福祉助成財団",
+  "drop": "公益財団法人みずほ福祉助成財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）あしたの日本を創る協会",
+  "drop": "公益財団法人あしたの日本を創る協会",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality",
+   "primary_field",
+   "primary_field_method"
+  ]
+ },
+ {
+  "keep": "（公財）コカ・コーラ教育・環境財団",
+  "drop": "公益財団法人コカ・コーラ教育・環境財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency"
+  ]
+ },
+ {
+  "keep": "（公財）ドナルド・マクドナルド・ハウス・チャリティーズ・ジャパン",
+  "drop": "公益財団法人ドナルド・マクドナルド・ハウス・チャリティーズ・ジャパン",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "prefecture",
+   "municipality",
+   "primary_field",
+   "primary_field_method"
+  ]
+ },
+ {
+  "keep": "公益財団法人フランスベッド・メディカルホームケア研究・助成財団",
+  "drop": "（公財）フランスベッド･メディカルホームケア研究・助成財団",
+  "filled": []
+ },
+ {
+  "keep": "（公財）安藤スポーツ･食文化振興財団",
+  "drop": "安藤スポーツ・食文化振興財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality",
+   "name_en"
+  ]
+ },
+ {
+  "keep": "（公財）木口福祉財団",
+  "drop": "公益財団法人木口福祉財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）日本離島センター",
+  "drop": "公益財団法人日本離島センター",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）三菱UFJ国際財団",
+  "drop": "公益財団法人三菱UFJ国際財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency"
+  ]
+ },
+ {
+  "keep": "（公財）双日国際交流財団",
+  "drop": "公益財団法人双日国際交流財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）三井住友海上文化財団",
+  "drop": "公益財団法人三井住友海上文化財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）スポーツ安全協会",
+  "drop": "公益財団法人スポーツ安全協会",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）日本財団",
+  "drop": "公益財団法人日本財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality",
+   "primary_field",
+   "primary_field_method"
+  ]
+ },
+ {
+  "keep": "（公財）公益法人協会",
+  "drop": "公益財団法人公益法人協会",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）森村豊明会",
+  "drop": "公益財団法人森村豊明会",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "primary_field",
+   "primary_field_method"
+  ]
+ },
+ {
+  "keep": "（公財）ベネッセこども基金",
+  "drop": "公益財団法人ベネッセこども基金",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality"
+  ]
+ },
+ {
+  "keep": "（公財）三菱商事復興支援財団",
+  "drop": "公益財団法人三菱商事復興支援財団",
+  "filled": [
+   "koeki_verified",
+   "koeki_matched_name",
+   "admin_agency",
+   "municipality",
+   "primary_field",
+   "primary_field_method"
+  ]
+ }
+]
