@@ -82,11 +82,11 @@ td{padding:6px 9px;border-bottom:1px solid var(--rule)}td.n{font-family:"Fira Co
 <h3 style="font-size:14px;margin:18px 0 6px">研究者階層 詳細（AGD 55分野・上位20）</h3>%s
 
 <h2>B. 財団 × 科研費 領域MAP 照合</h2><div class="cap">11大分類・正規化%%・研究者DB接続分</div><div class="rule"></div>
-<p class="lead">同一の学問分野タクソノミ（研究者DB由来）で財団助成と科研費を照合。<b class="legend"><b class="f">■財団</b> <b class="k">■科研費</b></b>。<b>生命科学・医学と自然科学は財団が科研費より厚く（+8pt）、人文社会科学は財団が薄い（−11pt）</b>——財団助成は理系・生命系に偏る構造が定量化された。</p>
+<p class="lead">同一の学問分野タクソノミ（研究者DB由来）で財団助成と科研費を照合。<b class="legend"><b class="f">■財団</b> <b class="k">■科研費</b></b>。<b>生命科学・医学（+10pt）と自然科学（+8.5pt）は財団が科研費より厚く、人文社会科学は財団が薄い（−11pt）</b>——財団助成は理系・生命系に偏る構造が定量化された。</p>
 %s
 
 <h2>C. 所属大学の全国分布・大学別分布</h2><div class="cap">財団助成 vs 科研費・47都道府県</div><div class="rule"></div>
-<p class="lead">助成獲得時の所属機関を大学単位・都道府県単位で集計。<b>財団助成・科研費とも東京・京都・大阪へ集中</b>し、旧帝大＋主要私大に厚い。地方大学の獲得実態も47都道府県で把握できる。</p>
+<p class="lead">助成獲得時の所属機関を大学単位・都道府県単位で集計（都道府県は主要大学マップで解決した分。中小機関は今後拡充）。<b>財団助成・科研費とも東京・京都・大阪へ集中</b>し、旧帝大＋主要私大に厚い。地方大学の獲得実態も47都道府県で把握できる。</p>
 <h3 style="font-size:14px;margin:16px 0 6px">大学別 上位20（財団助成）</h3><table><tr><th>大学</th><th>財団助成</th><th>科研費(参考)</th></tr>%s</table>
 <div class="grid2"><div><h3 style="font-size:13px;margin:14px 0 6px">財団助成 都道府県分布（47）</h3>%s</div>
 <div><h3 style="font-size:13px;margin:14px 0 6px">科研費 都道府県分布（47・参考）</h3>%s</div></div>
@@ -98,7 +98,7 @@ td{padding:6px 9px;border-bottom:1px solid var(--rule)}td.n{font-family:"Fira Co
 <h2>E. 金額分布</h2><div class="cap">個別採択額・財団年間助成額</div><div class="rule"></div>
 <p class="lead">個別採択額は<b>検証済み %d件（中央値 %s万円）</b>と推定 %d件で構成。財団年間助成額は5000万円未満〜10億円超まで幅広い。</p>
 <div class="grid2">
-<div><h3 style="font-size:13px;margin:8px 0 6px">個別採択額（検証済み・武田/三菱/稲盛等）</h3>%s</div>
+<div><h3 style="font-size:13px;margin:8px 0 6px">個別採択額（検証済み・武田/三菱財団）</h3>%s</div>
 <div><h3 style="font-size:13px;margin:8px 0 6px">個別採択額（codex推定・参考）</h3>%s</div></div>
 <h3 style="font-size:13px;margin:16px 0 6px">財団 年間助成額規模</h3>%s
 
