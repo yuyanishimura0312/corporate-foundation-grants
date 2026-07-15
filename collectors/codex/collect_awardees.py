@@ -22,7 +22,7 @@ PROMPT = """あなたは日本の研究助成財団の「採択者(助成先)」
 3. 直近で判明する1年度分の採択者を awardees 配列に収集:
    - awardee_name(氏名)/affiliation(所属)/position(職位)/project_title(研究課題名)/field_hint(分野)/amount_jpy(個別金額があれば)
 4. source_url に採択者一覧の実在URL、fiscal_year にその年度(西暦)。
-確認できた採択者のみ。人数が多ければ最新年度の全員(最大80名程度)。推測・水増し禁止。見つからなければ awardees は空・notesに理由。"""
+確認できた採択者のみ。人数が多ければ最新年度の全員(上限なし・全員)。推測・水増し禁止。見つからなければ awardees は空・notesに理由。"""
 
 def run_one(name, url):
     label = "cfgaw-" + "".join(ch for ch in name if ch.isalnum())[:10]
