@@ -1,0 +1,92 @@
+{
+ "landscape_all": [
+  {
+   "f": "natural_science",
+   "n": 143,
+   "n_amt": 61,
+   "amt": 18766172239,
+   "avg_amt": 307642167,
+   "assets": 872797243404
+  },
+  {
+   "f": "education",
+   "n": 1026,
+   "n_amt": 31,
+   "amt": 17185221480,
+   "avg_amt": 554361983,
+   "assets": 240656476046
+  },
+  {
+   "f": "engineering",
+   "n": 419,
+   "n_amt": 21,
+   "amt": 15352999999,
+   "avg_amt": 731095238,
+   "assets": 35380139908
+  },
+  {
+   "f": "regional",
+   "n": 333,
+   "n_amt": 3,
+   "amt": 9339000000,
+   "avg_amt": 3113000000,
+   "assets": 65299651676
+  },
+  {
+   "f": "welfare",
+   "n": 500,
+   "n_amt": 6,
+   "amt": 3447000000,
+   "avg_amt": 574500000,
+   "assets": 20311168051
+  },
+  {
+   "f": "life_science",
+   "n": 274,
+   "n_amt": 11,
+   "amt": 3380619759,
+   "avg_amt": 307329069,
+   "assets": 154409730198
+  },
+  {
+   "f": "international",
+   "n": 88,
+   "n_amt": 5,
+   "amt": 1205000000,
+   "avg_amt": 241000000,
+   "assets": 200942471000
+  },
+  {
+   "f": "arts_culture",
+   "n": 632,
+   "n_amt": 5,
+   "amt": 986300000,
+   "avg_amt": 197260000,
+   "assets": 691379473140
+  },
+  {
+   "f": "humanities_social",
+   "n": 222,
+   "n_amt": 4,
+   "amt": 581000000,
+   "avg_amt": 145250000,
+   "assets": 0
+  },
+  {
+   "f": "environment",
+   "n": 264,
+   "n_amt": 2,
+   "amt": 200000000,
+   "avg_amt": 100000000,
+   "assets": 0
+  },
+  {
+   "f": "interdisciplinary",
+   "n": 8,
+   "n_amt": 0,
+   "amt": 0,
+   "avg_amt": null,
+   "assets": 0
+  }
+ ]
+}
