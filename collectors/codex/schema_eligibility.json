@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "foundation_name": { "type": "string" },
+    "source_url": { "type": ["string", "null"], "description": "応募資格の出典URL(募集要項・実在)" },
+    "fiscal_year": { "type": ["integer", "null"] },
+    "eligibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "この財団の研究助成の応募資格(対象者像)。公式の募集要項から。捏造禁止・不明はnull/空",
+      "properties": {
+        "age_limit": { "type": ["string", "null"], "description": "年齢制限(例:40歳以下/45歳未満/なし)" },
+        "career_stage": { "type": ["string", "null"], "description": "キャリア段階(例:若手研究者/博士課程学生/ポスドク/助教以上/制限なし)" },
+        "position": { "type": ["array"], "items": {"type":"string"}, "description": "対象職位(例:[教授,准教授,助教,研究員,大学院生])" },
+        "affiliation_type": { "type": ["array"], "items": {"type":"string"}, "description": "対象所属種別(例:[大学,研究機関,企業,医療機関,高専])" },
+        "nationality": { "type": ["string", "null"], "description": "国籍要件(例:日本国籍/国籍不問/外国籍可/日本在住)" },
+        "field_scope": { "type": ["string", "null"], "description": "対象研究分野(要旨)" },
+        "gender_scope": { "type": ["string", "null"], "description": "性別要件(例:女性研究者限定/不問。あれば)" },
+        "other_requirements": { "type": ["string", "null"], "description": "その他の主要要件(推薦要否・所属機関要件等)" }
+      },
+      "required": ["age_limit", "career_stage", "position", "affiliation_type", "nationality", "field_scope", "gender_scope", "other_requirements"]
+    },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "notes": { "type": "string" }
+  },
+  "required": ["foundation_name", "source_url", "fiscal_year", "eligibility", "confidence", "notes"]
+}
