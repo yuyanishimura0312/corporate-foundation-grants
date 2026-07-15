@@ -1690,5 +1690,49 @@
    "notes": "公式の財団概要に設立日を1986年2月14日と記載。最新掲載の令和6年度決算報告書（2024年4月1日～2025年3月31日）で、2025年3月31日現在の資産合計17,703,641,976円、および当年度の「支払助成金」60,826,905円を確認した。年間助成金額には別科目の留学生奨学金および支払褒賞金を含めていない。"
   },
   "elapsed_s": 29
+ },
+ "d7f9bbdd-3d11-4949-9807-f7cd68c597f2": {
+  "name": "日本医学会",
+  "url": "https://jams.med.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本医学会",
+   "established_year": 1902,
+   "established_source_url": "https://jams.med.or.jp/about/about.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://jams.med.or.jp/about/houkoku_2025.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "high",
+   "notes": "公式概要は1902年4月2日を本会の創設日としている。日本医学会は独立した公益財団法人ではなく、公益社団法人日本医師会の定款に置かれた学術組織。最新の2025年度年次報告には貸借対照表・資産合計が掲載されていないため、総資産は確認不能。年次報告には日本医師会医学賞・医学研究奨励賞の選考実績があるが、支給主体は日本医師会であり、金額および日本医学会自身による年間助成金支出総額は確認できないためnullとした。日本医学会自身の公式な助成対象制度も確認できないため、grant_fieldsは空配列、grant_scope_textはnullとした。"
+  },
+  "elapsed_s": 54
+ },
+ "b6426047-dc16-49f6-8f47-d7212706dc1f": {
+  "name": "（公財）みずほ福祉助成財団",
+  "url": "http://mizuhofukushi.la.coocan.jp/bosyu/bosyu01.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人みずほ福祉助成財団",
+   "established_year": 1980,
+   "established_source_url": "https://mizuhofukushi.la.coocan.jp/outline/outline03.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 59360000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://mizuhofukushi.la.coocan.jp/business/business05.html",
+   "grant_fields": [
+    "welfare"
+   ],
+   "grant_scope_text": "障がい児者に関する事業および研究を対象とし、先駆的・開拓的な事業・研究を優先する。事業助成では介護支援・就労支援等、研究助成では障がい児者を対象とする社会福祉研究を扱う。",
+   "grant_field_source_url": "https://mizuhofukushi.la.coocan.jp/bosyu/bosyu01.html",
+   "confidence": "medium",
+   "notes": "公式概要で1980年11月1日に財団法人富士記念財団として設立されたことを確認。年間助成額は、公式の最新「助成及び贈呈の実績」に掲載された2025年度の社会福祉助成金事業実績（64件、5,936万円）を円換算した。福祉車輌1,750万円・車椅子291万円は贈呈事業であり、助成金支出総額には含めていない。2025年3月末の公式貸借対照表へのリンクは確認できたが、PDF取得がタイムアウトし資産合計を本文で検証できなかったため、total_assets_jpyはnullとした。概要記載の基本財産31億9,310万円は総資産ではないため代用していない。なお、2025年度助成先PDFの決定額6,097万円（事業6,057万円＋研究40万円）と実績ページの給付実績5,936万円は異なるため、支出実績として後者を採用した。"
+  },
+  "elapsed_s": 59
  }
 }
