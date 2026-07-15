@@ -8,6 +8,7 @@ RID = "/Users/nishimura+/projects/research/researcher-intelligence-db/data/rid.d
 STAGING = "research_results/codex_awardees_staging.json"
 APPLY = "--apply" in sys.argv
 NOW = "2026-07-15"
+SKIP_AWARDEE_FOUNDATIONS = ("生命保険協会",)  # fable: 非研究助成(保育施設整備)・出典404
 def nn(s): return re.sub(r'[\s　・]', '', unicodedata.normalize("NFKC", s or ""))
 def base_inst(a):
     a = nn(a); m = re.match(r'^(.+?大学)', a) or re.match(r'^(.+?(研究所|機構|センター|大学校|病院))', a)
@@ -26,6 +27,7 @@ for fname, rec in staging.items():
     if not cx or not cx.get("awardees"): continue
     src = cx.get("source_url"); fy = cx.get("fiscal_year")
     if not src: plan["skipped_no_source"] += len(cx.get("awardees", [])); continue
+    if any(x in fname for x in SKIP_AWARDEE_FOUNDATIONS): continue
     org = c.execute("SELECT id FROM organizations WHERE name=?", (fname,)).fetchone()
     if not org: continue
     oid = org["id"]
