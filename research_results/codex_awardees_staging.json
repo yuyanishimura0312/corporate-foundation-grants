@@ -17498,5 +17498,182 @@
   },
   "url_hint": "http://nsg-zaidan.or.jp",
   "elapsed_s": 145
+ },
+ "公益財団法人村田海外留学奨学会": {
+  "codex": {
+   "foundation_name": "公益財団法人村田海外留学奨学会",
+   "source_url": "https://scholarship.muratec.jp/news/973/",
+   "fiscal_year": 2025,
+   "awardees": [],
+   "confidence": "medium",
+   "notes": "公式サイトは https://scholarship.muratec.jp/ であり、参考URL https://kuribayashi.org は当財団の公式サイトではありません。公式発表（2026年2月9日付）で「2025年度奨学生 3名を決定」と確認できましたが、同ページには採択者の氏名・所属・研究課題等が掲載されていません。公式サイト内の「奨学生の声」は過年度を含む一部奨学生の紹介であり、2025年度採択者3名の一覧とは確認できないため、awardeesには収録していません。確認日: 2026-07-15。"
+  },
+  "url_hint": "https://kuribayashi.org",
+  "elapsed_s": 115
+ },
+ "公益財団法人永井科学技術財団": {
+  "codex": {
+   "foundation_name": "公益財団法人永井科学技術財団",
+   "source_url": "https://www.sinto.co.jp/nagaizaidan/wp/wp-content/uploads/2025/07/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E5%8F%97%E8%B3%9E%E8%80%85%E4%B8%80%E8%A6%A7%EF%BC%88%E5%89%8D%E6%9C%9F%EF%BC%89-1.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "石井 健斗",
+     "affiliation": "名古屋工業大学 先進セラミックス研究センター",
+     "position": "特任教員",
+     "project_title": null,
+     "field_hint": "国際交流助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松盛 裕明",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "准教授",
+     "project_title": null,
+     "field_hint": "国際交流助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "島添 和樹",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "助教",
+     "project_title": null,
+     "field_hint": "国際交流助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "田中 勇太朗",
+     "affiliation": "名古屋市立大学 医学研究科（大阪大学大学院工学研究科）",
+     "position": "助教",
+     "project_title": null,
+     "field_hint": "国際交流助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "池戸 一将",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "D1",
+     "project_title": null,
+     "field_hint": "大学院生海外研修助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "松岡 良弥",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "M1",
+     "project_title": null,
+     "field_hint": "大学院生海外研修助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "畑田 壮大郎",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "M1",
+     "project_title": null,
+     "field_hint": "大学院生海外研修助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "付 奕萱",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "M1",
+     "project_title": null,
+     "field_hint": "大学院生海外研修助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "近藤 毬絵",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "M1",
+     "project_title": null,
+     "field_hint": "大学院生国際会議発表支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "安田 萌々香",
+     "affiliation": "中部大学 工学研究科 応用化学専攻",
+     "position": "M2",
+     "project_title": null,
+     "field_hint": "大学院生国際会議発表支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "柴原 直暉",
+     "affiliation": "名城大学 理工学研究科 材料機能工学専攻",
+     "position": "M2",
+     "project_title": null,
+     "field_hint": "大学院生国際会議発表支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "藤川 瞭河",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "M1",
+     "project_title": null,
+     "field_hint": "大学院生国際会議発表支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "福島 啓太",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "M1",
+     "project_title": null,
+     "field_hint": "大学院生国際会議発表支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "酒井 瑞生",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "M2",
+     "project_title": null,
+     "field_hint": "大学院生国際会議発表支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "原 弓弦",
+     "affiliation": "名城大学 理工学研究科 材料機能工学専攻",
+     "position": "M2",
+     "project_title": null,
+     "field_hint": "大学院生国際会議発表支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "髙山 亮成",
+     "affiliation": "大同大学 工学研究科 機械工学専攻",
+     "position": "M1",
+     "project_title": null,
+     "field_hint": "大学院生国際会議発表支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "近藤 聖馬",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "M1",
+     "project_title": null,
+     "field_hint": "大学院生国際会議発表支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "Gan Rongguang",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "D3",
+     "project_title": null,
+     "field_hint": "大学院生論文投稿支援助成金",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "三宮 拓実",
+     "affiliation": "名古屋工業大学 大学院工学研究科 工学専攻",
+     "position": "D2",
+     "project_title": null,
+     "field_hint": "大学院生論文投稿支援助成金",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。公式「公開情報」ページ（https://www.sinto.co.jp/nagaizaidan/information/）に掲載された最新の「令和7年度前期助成実績」（PDF表題：令和7年度受賞者一覧（前期））を根拠とした。PDFで氏名が掲載されている個人受賞者19名を全員収録。研究課題名と個別金額は同資料に記載がないためnull。PDFには科学技術育成教育助成金等の団体助成先も掲載されるが、個人研究者向けのawardeesスキーマに合致しないため収録していない。令和7年度は2025年度。"
+  },
+  "url_hint": "https://www.sinto.co.jp/nagaizaidan",
+  "elapsed_s": 53
  }
 }
