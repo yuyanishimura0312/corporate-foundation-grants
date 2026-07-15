@@ -92,7 +92,7 @@ td{padding:6px 9px;border-bottom:1px solid var(--rule)}td.n{font-family:"Fira Co
 <div><h3 style="font-size:13px;margin:14px 0 6px">科研費 都道府県分布（47・参考）</h3>%s</div></div>
 
 <h2>D. 応募要項のパターン形成</h2><div class="cap">対象者像・応募資格の類型</div><div class="rule"></div>
-<p class="lead">応募資格を軸別に集計。<b>若手研究者（40歳以下等）targeting が主流</b>で、日本国籍中心、職位は多様。財団助成の「誰を対象とするか」の型が読める。</p>
+<p class="lead">応募資格を軸別に集計（562→2,717件・483財団へ大幅拡張）。<b>若手研究者（40歳以下等）targeting が主流</b>で、日本国籍中心、職位は多様。財団助成の「誰を対象とするか」の型が読める。</p>
 %s
 
 <h2>E. 金額分布</h2><div class="cap">個別採択額・財団年間助成額</div><div class="rule"></div>
@@ -112,8 +112,8 @@ td{padding:6px 9px;border-bottom:1px solid var(--rule)}td.n{font-family:"Fira Co
     "".join("<tr><td>%s</td><td class='n'>%s</td><td class='n'>%s</td></tr>" % (u, "{:,}".format(n), "{:,}".format(dict(d["kaken_univ_top"]).get(u, 0))) for u, n in d["foundation_univ_top"][:20]),
     prefbars(d["foundation_pref"]), prefbars(d["kaken_pref"]),
     "".join('<h3 style="font-size:13px;margin:12px 0 4px;color:#CC1400">%s</h3>%s' % (
-        {"age":"年齢","nationality":"国籍","position":"職位","affiliation_type":"所属種別","field":"分野"}[t],
-        barrows([(k, n) for k, n in d["eligibility_patterns"][t][:6]], namef=lambda x:x)) for t in ("age","nationality","position","affiliation_type")),
+        {"age":"年齢","career_stage":"キャリア段階","nationality":"国籍","position":"職位","affiliation_type":"所属種別","field":"分野","gender":"性別要件"}.get(t,t),
+        barrows([(k, n) for k, n in d["eligibility_patterns"][t][:6]], namef=lambda x:x)) for t in ("age","career_stage","nationality","position","affiliation_type","gender") if d["eligibility_patterns"].get(t)),
     d["amount_per_award_program_stats"]["n"], "{:,}".format(d["amount_per_award_program_stats"]["median"]//10000),
     barrows(d["amount_per_award_program_dist"], namef=lambda x:x),
     barrows(d["amount_award_dist"], namef=lambda x:x), barrows(d.get("amount_hint_dist",[]), namef=lambda x:x),

@@ -135,7 +135,7 @@ out["kaken_pref"] = kk_pref.most_common()
 
 # === D: 応募要項パターン ===
 elig = {}
-for typ in ("age", "nationality", "position", "affiliation_type", "field"):
+for typ in ("age", "career_stage", "nationality", "position", "affiliation_type", "field", "gender"):
     elig[typ] = c.execute("SELECT description,COUNT(*) n FROM eligibility_criteria WHERE criterion_type=? AND description!='' GROUP BY description ORDER BY n DESC LIMIT 10", (typ,)).fetchall()
     elig[typ] = [(r[0], r[1]) for r in elig[typ]]
 out["eligibility_patterns"] = elig
