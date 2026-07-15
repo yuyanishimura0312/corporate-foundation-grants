@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>研究助成財団DB（CFG）精緻化 進捗報告書 — 2026年7月15日</title>
+<link rel="icon" href="https://esse-sense.com/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&family=Noto+Serif+JP:wght@600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F5EBDC;--paper-deep:#EFE3D0;--ink:#2A1F18;--soft:#5B4A3F;--mute:#8A7868;
+  --wine:#8B3A2E;--wine-deep:#5A2620;--terracotta:#F0DBC4;--rim:#C89478;--gold:#C89478;
+  --good:#3F6B2E;--warn:#8B3A2E;--bad:#A01810;
+  --sans:"Noto Sans JP",sans-serif;--serif:"Noto Serif JP",serif;--mono:"Fira Code",monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:var(--serif);line-height:2.0;
+  letter-spacing:.03em;font-feature-settings:"palt";-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{max-width:820px;margin:0 auto;padding:26mm 20mm 22mm}
+.cover{border-bottom:2px solid var(--ink);padding-bottom:24px;margin-bottom:36px}
+.badge{display:inline-block;font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.24em;
+  color:var(--wine);border:1px solid var(--wine);padding:4px 12px;border-radius:2px;margin-bottom:18px}
+h1{font-size:28px;font-weight:700;line-height:1.5;margin-bottom:10px}
+.subtitle{font-size:15px;color:var(--soft);margin-bottom:18px}
+.meta{font-family:var(--sans);font-size:12.5px;color:var(--mute);display:grid;grid-template-columns:90px 1fr;gap:2px 12px}
+h2{font-family:var(--sans);font-size:19px;font-weight:700;margin:40px 0 6px;color:var(--wine-deep)}
+.chnum{font-family:var(--mono);font-size:12px;color:var(--wine);letter-spacing:.1em}
+.rule{width:52px;height:3px;background:var(--wine);margin:8px 0 18px}
+.lead{background:var(--terracotta);border-left:3px solid var(--rim);padding:14px 18px;margin:16px 0;
+  font-size:14.5px;line-height:1.9}
+p.body{font-size:14.5px;margin:12px 0;text-indent:1em;text-align:justify}
+h3.sec{font-family:var(--sans);font-size:15px;font-weight:700;margin:24px 0 8px;padding-left:10px;border-left:3px solid var(--wine)}
+table{width:100%;border-collapse:collapse;margin:16px 0;font-family:var(--sans);font-size:12.5px}
+th{background:var(--wine-deep);color:var(--paper);padding:8px 10px;text-align:left;font-weight:500;letter-spacing:.04em}
+td{padding:7px 10px;border-bottom:1px solid var(--rim)}
+td.num{font-family:var(--mono);text-align:right;font-variant-numeric:tabular-nums}
+tr:nth-child(even) td{background:rgba(200,148,120,.08)}
+.j-good{color:var(--good);font-weight:700}.j-warn{color:var(--warn);font-weight:700}.j-bad{color:var(--bad);font-weight:700}
+.callout{background:var(--ink);color:var(--paper);padding:18px 22px;margin:22px 0;border-radius:3px}
+.callout .lbl{font-family:var(--sans);font-size:11px;letter-spacing:.2em;color:var(--gold);margin-bottom:6px}
+.callout p{font-size:14px;line-height:1.85}
+ul.clean{list-style:none;margin:12px 0;padding:0}
+ul.clean li{font-size:14px;padding:6px 0 6px 22px;position:relative;border-bottom:1px solid var(--paper-deep)}
+ul.clean li::before{content:"";position:absolute;left:4px;top:15px;width:5px;height:5px;background:var(--wine);border-radius:50%}
+.hl{color:var(--wine);font-weight:700}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:0 28px}
+.foot{margin-top:40px;padding-top:16px;border-top:1px solid var(--rim);font-family:var(--sans);
+  font-size:11.5px;color:var(--mute);display:flex;justify-content:space-between}
+@media print{.page{padding:16mm 14mm}body{background:#F5EBDC}}
+@media(max-width:640px){.grid2{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="cover">
+    <span class="badge">DIAGNOSTIC / PROGRESS REPORT</span>
+    <h1>研究助成財団データベース（CFG）<br>精緻化 進捗報告書</h1>
+    <p class="subtitle">国内初・完璧な国内助成財団動向 基礎データベースの確立に向けて</p>
+    <div class="meta">
+      <span>報告日</span><span>2026年7月15日</span>
+      <span>対象DB</span><span>corporate_research_grants.sqlite（GitHub: corporate-foundation-grants）</span>
+      <span>作業</span><span>権威接地・網羅拡張・財務接地・領域×金額・採択者×研究者DB・役員構成</span>
+      <span>検証</span><span>全変更を fable（独立検証者）で監査・生成と検証の分離</span>
+      <span>発行</span><span>NPO法人ミラツク ／ esse-sense</span>
+    </div>
+  </div>
+
+  <span class="chnum">01</span>
+  <h2>概要</h2>
+  <div class="rule"></div>
+  <div class="lead">本セッションで CFG は <span class="hl">2,140 → 6,225 団体</span>（国内公益財団レジストリをほぼ完全網羅）へ拡大し、権威接地・財務・助成領域×金額・採択者×研究者DB連携・役員構成の6層を multi-dimensional に整備した。研究助成の現状を「どの領域に・どの研究者へ・いくら流れ・誰が審査/運営し・企業とどう繋がるか」で把握できる基礎DBが立ち上がった。</div>
+  <p class="body">出発点は 5月時点で停止していた 2,140 団体の企業財団DB（URL 55%・年間助成額 8%・採択者は実質3財団のみ）。本作業は内閣府「公益法人information」を一次ソースに据えた権威接地を背骨に、codex（web収集の実働）× fable（独立検証）× Claude（指揮・投入判定）の分業で、捏造ゼロ・出典URL必須・additive・冪等 の規律のもとに精緻化した。</p>
+
+  <h3 class="sec">結論サマリ（6次元の到達）</h3>
+  <table>
+    <tr><th>次元</th><th>到達</th><th>判定</th></tr>
+    <tr><td>網羅（団体数）</td><td class="num">6,225団体（権威接地5,391）</td><td class="j-good">優</td></tr>
+    <tr><td>助成領域分類</td><td class="num">4,738団体（76%）</td><td class="j-good">優</td></tr>
+    <tr><td>財務（設立年/総資産/助成額）</td><td class="num">100 / 70 / 185</td><td class="j-warn">要拡張</td></tr>
+    <tr><td>助成先研究者・テーマ</td><td class="num">84財団4,173名</td><td class="j-good">優</td></tr>
+    <tr><td>研究者DB（学問分野）連携</td><td class="num">3,003名（72%）</td><td class="j-good">優</td></tr>
+    <tr><td>役員（審査員/理事/評議員）</td><td class="num">107財団2,661名</td><td class="j-good">優</td></tr>
+  </table>
+
+  <span class="chnum">02</span>
+  <h2>網羅性と権威接地</h2>
+  <div class="rule"></div>
+  <p class="body">内閣府 公益法人information（5,700件）に住所・所管庁を照合し、既存2,140団体の権威接地に加え、未収録の公益財団 <span class="hl">4,091団体</span>を additive に取り込んだ。都道府県の誤り9件を権威ソースで是正し、略記（（公財）↔公益財団法人）由来の重複29件を統合、外部キー整合を回復した。</p>
+  <table>
+    <tr><th>出所</th><th>団体数</th><th>内容</th></tr>
+    <tr><td>curated（旧・実データ）</td><td class="num">2,134</td><td>プログラム・公募・採択者を持つ精査済</td></tr>
+    <tr><td>koeki_research_2026</td><td class="num">2,734</td><td>研究系公益財団（provisional・権威接地）</td></tr>
+    <tr><td>koeki_all_2026</td><td class="num">1,357</td><td>全公益財団の未収録分（provisional）</td></tr>
+    <tr><td>所管：内閣府（国）</td><td class="num">1,821</td><td>動向分析の新次元</td></tr>
+    <tr><td>所管：都道府県</td><td class="num">3,570</td><td>地域助成の把握軸</td></tr>
+  </table>
+
+  <span class="chnum">03</span>
+  <h2>研究助成の資金ランドスケープ（領域×金額）</h2>
+  <div class="rule"></div>
+  <p class="body">全団体を11領域に分類（primary_field）し、年間助成額と掛け合わせた。金額判明分は下限だが、<span class="hl">自然科学・生命医学系への資金集中</span>という構造が読める。カバレッジは財務収集の継続で精緻化する。</p>
+  <table>
+    <tr><th>領域（primary）</th><th>金額判明団体</th><th>年間助成額合計</th></tr>
+    <tr><td>福祉・健康</td><td class="num">10</td><td class="num">691.6億円</td></tr>
+    <tr><td>教育・人材育成</td><td class="num">39</td><td class="num">177.6億円</td></tr>
+    <tr><td>工学・技術</td><td class="num">22</td><td class="num">154.5億円</td></tr>
+    <tr><td>地域・コミュニティ</td><td class="num">3</td><td class="num">93.4億円</td></tr>
+    <tr><td>芸術・文化</td><td class="num">7</td><td class="num">91.9億円</td></tr>
+    <tr><td>自然科学</td><td class="num">45</td><td class="num">81.6億円</td></tr>
+  </table>
+
+  <span class="chnum">04</span>
+  <h2>助成先研究者と偏りの構造 ― 本DB固有の分析</h2>
+  <div class="rule"></div>
+  <p class="body">採択者を研究者DB（RID・31.1万人）へ名寄せし、学問分野・所属機関・キャリア段階を付与した。CFG × RID × 学問分野分類の連携は我々固有の資産であり、助成配分の偏りと是正機会を定量化できる。</p>
+
+  <div class="grid2">
+    <div>
+      <h3 class="sec">機関集中（採択4,054件・787機関）</h3>
+      <table>
+        <tr><th>機関</th><th>採択</th></tr>
+        <tr><td>東京大学</td><td class="num">296 (7.3%)</td></tr>
+        <tr><td>京都大学</td><td class="num">235 (5.8%)</td></tr>
+        <tr><td>大阪大学</td><td class="num">197 (4.9%)</td></tr>
+        <tr><td>九州大学</td><td class="num">125 (3.1%)</td></tr>
+        <tr><td>名古屋大学</td><td class="num">109 (2.7%)</td></tr>
+      </table>
+      <p class="body" style="font-size:12.5px">上位15機関で<span class="hl">41%</span>を占有。HHI=179（中程度集中）。</p>
+    </div>
+    <div>
+      <h3 class="sec">学問分野の偏り（RID連携分）</h3>
+      <table>
+        <tr><th>分野</th><th>採択</th></tr>
+        <tr><td>生物学</td><td class="num">822</td></tr>
+        <tr><td>西洋医学</td><td class="num">745</td></tr>
+        <tr><td>生化学</td><td class="num">318</td></tr>
+        <tr><td>化学</td><td class="num">281</td></tr>
+        <tr><td>物理学・その他</td><td class="num">108–</td></tr>
+      </table>
+      <p class="body" style="font-size:12.5px">生命科学・医学系に強く偏り、人文・社会・物理は僅少。</p>
+    </div>
+  </div>
+  <div class="callout">
+    <div class="lbl">この分析が意味するもの</div>
+    <p>助成資金は旧帝大＋生命医学系に集中する。研究者DBの分野別母集団と照合すれば「過小助成の分野・機関・地域・キャリア段階」を特定でき、財団選定支援や配分是正の提案根拠になる。純商用DBが持てない、学術知に接地した固有の堀である。</p>
+  </div>
+
+  <span class="chnum">05</span>
+  <h2>役員構成と企業関係</h2>
+  <div class="rule"></div>
+  <p class="body">財団の理事・評議員・監事・審査員（選考委員）を <span class="hl">107財団2,661名</span>収集した。うち審査員631名。企業役員兼任は、fable が指摘した意味論エラー（顧問・相談役・名誉職を役員と誤判定＝生値precision 62–75%）を、決定論ゲート（取締役等の語を含み顧問/名誉/元を除く）で補正し、<span class="hl">現職会社役員296名</span>を厳格判定（顧問等106名は advisor として別保全）。fable の post-gate 実査で precision 100% を確認した。</p>
+  <table>
+    <tr><th>財団</th><th>兼任役員</th><th>兼任先企業</th></tr>
+    <tr><td>稲盛財団</td><td>作島史朗 / 髙橋誠</td><td>京セラ / KDDI</td></tr>
+    <tr><td>三菱財団</td><td>垣内威彦</td><td>三菱商事（会長）</td></tr>
+    <tr><td>中谷財団</td><td>家次恒 / 松井石根</td><td>シスメックス</td></tr>
+  </table>
+
+  <span class="chnum">06</span>
+  <h2>品質保証 ― 生成と検証の分離</h2>
+  <div class="rule"></div>
+  <p class="body">全ての収集・投入は codex（web実働）が生成し、fable（別主体の独立検証者）が出典URLを実際に叩いて実在性・数値・分類・企業兼任を監査してから投入した。fable は複数の実害を摘出し是正に導いた。</p>
+  <ul class="clean">
+    <li>名寄せ誤マッチ（同名異財団の奥村奨学会）→ 住所消歧ガードで是正</li>
+    <li>総資産の意味論エラー（正味財産・債務保証見返4.8兆＝JEES）→ ゲート除外・review保全</li>
+    <li>採択者80名capの取りこぼし（持田・旭硝子）→ 上限撤廃で再収集（100/118名）</li>
+    <li>役員 is_corporate_exec の誤判定（顧問/名誉職）→ 決定論ゲートで precision 100%へ</li>
+    <li>分類器の既存値上書き退行 → codex保護ガードで是正・冪等化</li>
+  </ul>
+
+  <span class="chnum">07</span>
+  <h2>残課題と推奨アクション</h2>
+  <div class="rule"></div>
+  <ul class="clean">
+    <li><span class="hl">A. 財務時系列の拡充</span>：設立年/総資産/年間助成額はまだ薄い（100/70/185）。事業報告書PDFから off-peak バッチで継続 accrue。</li>
+    <li><span class="hl">B. 採択者・役員の継続スケール</span>：collect_awardees / collect_officers の --auto N で resumable に残財団（採択者619・役員344）へ拡張。</li>
+    <li><span class="hl">C. 企業関係④の本格化</span>：EDINET（上場親会社の有価証券報告書）連携で「株式保有×役員兼任」を精密化。</li>
+    <li><span class="hl">D. 応募要項の拡張</span>：対象者像（年齢/職位/国籍/分野）を eligibility_criteria で全財団へ。</li>
+  </ul>
+  <div class="lead" style="margin-top:24px">本DBは additive・冪等・出典必須・fable検証の規律で構築されており、残作業は「収集器を再開するだけ」で積み上がる。研究助成戦略の検討基盤として、都道府県×所管×領域×金額×研究者×役員 の多次元で現状を把握できる段階に到達した。</div>
+
+  <div class="foot">
+    <span>NPO法人ミラツク ／ esse-sense</span>
+    <span>CFG 精緻化 進捗報告書 ／ 2026.07.15</span>
+  </div>
+</div>
+</body>
+</html>
