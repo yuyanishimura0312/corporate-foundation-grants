@@ -96,10 +96,11 @@ td{padding:6px 9px;border-bottom:1px solid var(--rule)}td.n{font-family:"Fira Co
 %s
 
 <h2>E. 金額分布</h2><div class="cap">個別採択額・財団年間助成額</div><div class="rule"></div>
-<p class="lead">個別採択額は<b>検証済み %d件（中央値 %s万円）</b>と推定 %d件で構成。財団年間助成額は5000万円未満〜10億円超まで幅広い。</p>
+<p class="lead">codexで<b>募集要項から1件あたり助成額を492件収集</b>（中央値150万円）——<b>100-200万円が最頻</b>で、財団研究助成の標準的な規模が定量化された。加えて個別採択額（検証済み武田/三菱）・財団年間助成額（5000万〜10億円超）も併載。</p>
+<h3 style="font-size:13px;margin:8px 0 6px">★ 1件あたり助成額（募集要項ベース・%d件・中央値 %s万円）</h3>%s
 <div class="grid2">
-<div><h3 style="font-size:13px;margin:8px 0 6px">個別採択額（検証済み・武田/三菱財団）</h3>%s</div>
-<div><h3 style="font-size:13px;margin:8px 0 6px">個別採択額（codex推定・参考）</h3>%s</div></div>
+<div><h3 style="font-size:13px;margin:14px 0 6px">個別採択額（検証済み・武田/三菱財団）</h3>%s</div>
+<div><h3 style="font-size:13px;margin:14px 0 6px">個別採択額（codex推定・参考）</h3>%s</div></div>
 <h3 style="font-size:13px;margin:16px 0 6px">財団 年間助成額規模</h3>%s
 
 <div class="foot"><span>NPO法人ミラツク ／ esse-sense</span><span>研究助成 領域MAP ／ 2026.07.16 ／ 全数実測・研究者DB 31.1万人接続</span></div>
@@ -113,7 +114,8 @@ td{padding:6px 9px;border-bottom:1px solid var(--rule)}td.n{font-family:"Fira Co
     "".join('<h3 style="font-size:13px;margin:12px 0 4px;color:#CC1400">%s</h3>%s' % (
         {"age":"年齢","nationality":"国籍","position":"職位","affiliation_type":"所属種別","field":"分野"}[t],
         barrows([(k, n) for k, n in d["eligibility_patterns"][t][:6]], namef=lambda x:x)) for t in ("age","nationality","position","affiliation_type")),
-    d["amount_award_stats"]["n"], "{:,}".format(d["amount_award_stats"]["median"]//10000), d.get("amount_hint_stats",{}).get("n",0),
+    d["amount_per_award_program_stats"]["n"], "{:,}".format(d["amount_per_award_program_stats"]["median"]//10000),
+    barrows(d["amount_per_award_program_dist"], namef=lambda x:x),
     barrows(d["amount_award_dist"], namef=lambda x:x), barrows(d.get("amount_hint_dist",[]), namef=lambda x:x),
     barrows(d["amount_foundation_dist"], namef=lambda x:x),
 )

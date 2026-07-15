@@ -179,6 +179,23 @@ fo = ["<5000万","5000万-1億","1-5億","5-10億","10億+"]
 fd = Counter(fbucket(a) for a in fa)
 out["amount_foundation_dist"] = [(k, fd.get(k, 0)) for k in fo]
 
+# === E拡張: program単位 1件あたり助成額分布(codex収集・492件) ===
+pa = c.execute("SELECT amount_per_award, num_awards_per_year FROM grant_programs WHERE amount_per_award>0").fetchall()
+pamts = [r[0] for r in pa]
+def pbucket(a):
+    if a < 500000: return "<50万"
+    if a < 1000000: return "50-100万"
+    if a < 2000000: return "100-200万"
+    if a < 3000000: return "200-300万"
+    if a < 5000000: return "300-500万"
+    if a < 10000000: return "500-1000万"
+    return "1000万+"
+porder = ["<50万","50-100万","100-200万","200-300万","300-500万","500-1000万","1000万+"]
+pd = Counter(pbucket(a) for a in pamts)
+out["amount_per_award_program_dist"] = [(k, pd.get(k, 0)) for k in porder]
+out["amount_per_award_program_stats"] = {"n": len(pamts), "median": sorted(pamts)[len(pamts)//2] if pamts else 0,
+    "min": min(pamts) if pamts else 0, "max": max(pamts) if pamts else 0}
+
 json.dump(out, open(OUT, "w"), ensure_ascii=False, indent=1)
 # print summary
 print("=== A: 財団領域MAP (n=%d research_individual) ===" % len(rows))
