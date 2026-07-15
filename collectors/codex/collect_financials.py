@@ -36,9 +36,11 @@ PROMPT_TMPL = """あなたは日本の公益財団の財務データ収集担当
 
 web検索とサイト閲覧で収集しschemaのJSONで返す:
 - established_year: 設立年(西暦)を公式の沿革/概要で確認
-- total_assets_jpy: 総資産または正味財産(円)を最新の事業報告書/決算から
+- total_assets_jpy: 総資産(貸借対照表の資産合計。正味財産ではない)を最新の事業報告書/決算から。正味財産しか無ければnull+notesに明記
 - annual_grant_amount_jpy: 直近年度の年間助成金支出総額(円)を助成実績/事業報告から
-各値に実在しアクセス可能なsource_urlを付す。確認不能はnull+notesに理由。数値は円単位の整数。推測禁止。"""
+- grant_fields: この財団が助成する領域を11区分から列挙(公式の助成対象・目的から。複数可・優先順)
+- grant_scope_text: 公式の助成対象分野の記述(要約)
+各値に実在しアクセス可能なsource_urlを付す。確認不能はnull(配列は空)+notesに理由。数値は円単位の整数。推測禁止。"""
 
 def run_one(row):
     prompt = PROMPT_TMPL.format(name=row["name"], url=row["url"])

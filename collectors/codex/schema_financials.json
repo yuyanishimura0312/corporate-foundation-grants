@@ -10,8 +10,15 @@
     "annual_grant_amount_jpy": { "type": ["integer", "null"], "description": "年間の助成金支出総額(円)。助成実績/事業報告で確認できた場合のみ" },
     "annual_grant_fiscal_year": { "type": ["integer", "null"] },
     "financial_source_url": { "type": ["string", "null"], "description": "総資産・助成額の出典URL(実在・アクセス可能なもの)" },
+    "grant_fields": {
+      "type": "array",
+      "description": "この財団が助成する研究/活動の領域。次の11区分から該当するものを列挙(複数可・優先順)。natural_science(自然科学)/life_science(生命科学・医学)/engineering(工学・技術)/humanities_social(人文社会科学)/arts_culture(芸術・文化)/education(教育・人材育成)/welfare(福祉・健康)/environment(環境)/international(国際交流・協力)/regional(地域・コミュニティ)/interdisciplinary(学際・融合)。公式の助成対象・目的から判断。不明なら空配列",
+      "items": { "type": "string", "enum": ["natural_science", "life_science", "engineering", "humanities_social", "arts_culture", "education", "welfare", "environment", "international", "regional", "interdisciplinary"] }
+    },
+    "grant_scope_text": { "type": ["string", "null"], "description": "公式の助成対象分野の記述(原文要約)。不明ならnull" },
+    "grant_field_source_url": { "type": ["string", "null"], "description": "助成対象分野の出典URL" },
     "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
     "notes": { "type": "string", "description": "根拠の要約。見つからなければ理由。推測・捏造は禁止" }
   },
-  "required": ["foundation_name", "established_year", "established_source_url", "total_assets_jpy", "total_assets_fiscal_year", "annual_grant_amount_jpy", "annual_grant_fiscal_year", "financial_source_url", "confidence", "notes"]
+  "required": ["foundation_name", "established_year", "established_source_url", "total_assets_jpy", "total_assets_fiscal_year", "annual_grant_amount_jpy", "annual_grant_fiscal_year", "financial_source_url", "grant_fields", "grant_scope_text", "grant_field_source_url", "confidence", "notes"]
 }

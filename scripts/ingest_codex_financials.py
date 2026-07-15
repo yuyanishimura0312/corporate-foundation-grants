@@ -87,6 +87,18 @@ for oid, rec in staging.items():
             prov["annual_grant_source_url"] = fsrc; prov["annual_grant_fy"] = cx.get("annual_grant_fiscal_year")
             plan["annual_grant"] += 1
         # else: already counted in the gate block above
+    # codex grant_fields -> foundation_focus_areas (source='llm_classified', codex=LLM) + primary_field
+    VALID_F = {"natural_science", "life_science", "engineering", "humanities_social", "arts_culture",
+               "education", "welfare", "environment", "international", "regional", "interdisciplinary"}
+    gf = [f for f in (cx.get("grant_fields") or []) if f in VALID_F]
+    if gf and APPLY:
+        for i, fld in enumerate(gf):
+            c.execute("""INSERT OR IGNORE INTO foundation_focus_areas
+                (organization_id,category_id,weight,is_primary,evidence,source)
+                VALUES (?,?,?,?,?, 'llm_classified')""",
+                (oid, fld, 1.0 if i == 0 else 0.4, 1 if i == 0 else 0, (cx.get("grant_scope_text") or "")[:300]))
+        c.execute("UPDATE organizations SET primary_field=?, primary_field_method='codex' WHERE id=?", (gf[0], oid))
+        plan.setdefault("grant_fields_written", 0); plan["grant_fields_written"] += 1
     if sets:
         meta = {}
         try: meta = json.loads(row["metadata"]) if row["metadata"] else {}
