@@ -1,0 +1,830 @@
+{
+ "公益財団法人武田科学振興財団": {
+  "codex": {
+   "foundation_name": "公益財団法人武田科学振興財団",
+   "source_url": "https://www.takeda-sci.or.jp/about/member.php",
+   "fiscal_year": 2026,
+   "officers": [
+    {
+     "person_name": "飯野 正光",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "東京大学ニューロインテリジェンス国際研究機構",
+     "title": "機構長特別補佐",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "稲葉 カヨ",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "京都大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "堅田 利明",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "東京大学／武蔵野大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "門脇 孝",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "国家公務員共済組合連合会 虎の門病院／東京大学",
+     "title": "院長／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐々木 裕之",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "九州大学",
+     "title": "特別主幹教授・名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "千葉 勉",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "関西電力病院",
+     "title": "特任院長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "長田 重一",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "大阪大学免疫学フロンティア研究センター",
+     "title": "栄誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "藤吉 好則",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "東京科学大学 総合研究院 細胞構造生理学研究室",
+     "title": "特任教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "柳瀬 敏彦",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "医療法人社団 誠和会牟田病院",
+     "title": "院長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "米田 悦啓",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "一般財団法人 阪大微生物病研究会",
+     "title": "理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "飯澤 祐史",
+     "role": "chair",
+     "role_ja": "理事長（代表理事）",
+     "affiliation": null,
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "石田 武",
+     "role": "director",
+     "role_ja": "常務理事（業務執行理事）",
+     "affiliation": null,
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "伊藤 貞嘉",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "公立刈田綜合病院／東北大学",
+     "title": "病院長／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "中谷 敏",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "社会福祉法人恩賜財団 大阪府済生会千里病院",
+     "title": "院長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "長澤 丘司",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "大阪大学大学院 生命機能研究科／医学系研究科",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "馬場 昌範",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "鹿児島大学 先端科学研究推進センター",
+     "title": "特任教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "前原 喜彦",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "大分大学／医療法人 小西第一病院",
+     "title": "客員教授／名誉院長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "村上 善則",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "日本医科大学 先端医学研究所／東京大学",
+     "title": "特命教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山縣 ゆり子",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "熊本大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "池田 裕彦",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": null,
+     "title": "弁護士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "小原 正敏",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": null,
+     "title": "弁護士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。役員情報は公式ページの「2026年6月5日現在」に基づく。会長・名誉顧問・杏雨書屋館長は、指定された収集対象（理事・評議員・監事・選考委員）に含めていない。研究助成ページには選考委員会で選考する旨はあるが、委員氏名の公式な公開情報を確認できなかったためreviewerは収録していない。企業役員兼任は、役員ページ掲載情報から確認できた場合のみtrueとする方針であり、収録対象者には該当者を確認できなかった。"
+  },
+  "url_hint": "https://www.takeda-sci.or.jp"
+ },
+ "三島海雲記念財団": {
+  "codex": {
+   "foundation_name": "公益財団法人三島海雲記念財団",
+   "source_url": "https://www.mishima-kaiun.or.jp/outline/member/",
+   "fiscal_year": 2026,
+   "officers": [
+    {
+     "person_name": "谷口 直之",
+     "role": "councilor",
+     "role_ja": "評議員会会長",
+     "affiliation": "大阪国際がんセンター／大阪大学",
+     "title": "名誉研究所長兼部長／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "岸本 美緒",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "お茶の水女子大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "西川 孝純",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "共同通信社",
+     "title": "客員論説委員／元論説委員長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "清水 孝雄",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "微生物化学研究所／国立国際医療研究センター／東京大学",
+     "title": "研究所長／シニアフェロー／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "塚本 隆史",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社みずほフィナンシャルグループ",
+     "title": "特別顧問",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社みずほフィナンシャルグループ"
+    },
+    {
+     "person_name": "坪井 善明",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "早稲田大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "寺田 篤",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社電通",
+     "title": "元ラジオテレビ＆エンタテインメント局長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "濱田 正美",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "神戸大学／京都大学",
+     "title": "名誉教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "西村 秀豊",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "カルピス株式会社",
+     "title": "元取締役執行役員",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "羽田 正",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "東京大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "清水 誠",
+     "role": "director",
+     "role_ja": "副理事長",
+     "affiliation": "東京大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "三尾 裕子",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東京外国語大学／慶応義塾大学",
+     "title": "名誉教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山本 匠",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "パンピー食品株式会社",
+     "title": "元取締役社長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山本 直之",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "順天堂大学大学院医学研究科",
+     "title": "特任教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "和田 一郎",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "牛嶋・和田・藤津・吉永法律事務所",
+     "title": "弁護士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "齋藤 芳男",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "カルピス株式会社",
+     "title": "元常務執行役員",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山田 誠",
+     "role": "director",
+     "role_ja": "常務理事",
+     "affiliation": "公益財団法人三島海雲記念財団",
+     "title": "常務理事",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "青山 光夫",
+     "role": "director",
+     "role_ja": "常務理事",
+     "affiliation": "公益財団法人三島海雲記念財団",
+     "title": "常務理事",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "打越 誠",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "中央日本土地建物株式会社",
+     "title": "元顧問",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "齋藤 正三",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "齋藤公認会計事務所",
+     "title": "公認会計士・税理士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "清水 誠",
+     "role": "reviewer",
+     "role_ja": "学術委員長（自然科学部門）",
+     "affiliation": "東京大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "阿部 啓子",
+     "role": "reviewer",
+     "role_ja": "委員（自然科学部門）",
+     "affiliation": "東京大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "石見 佳子",
+     "role": "reviewer",
+     "role_ja": "委員（自然科学部門）",
+     "affiliation": "東京農業大学総合研究所",
+     "title": "参与・客員教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐藤 隆一郎",
+     "role": "reviewer",
+     "role_ja": "委員（自然科学部門）",
+     "affiliation": "東京大学大学院農学生命科学研究科／東京大学",
+     "title": "特任教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "曽根 博仁",
+     "role": "reviewer",
+     "role_ja": "委員（自然科学部門）",
+     "affiliation": "新潟大学医学部・大学院医歯学総合研究科",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "難波 成任",
+     "role": "reviewer",
+     "role_ja": "委員（自然科学部門）",
+     "affiliation": "東京大学大学院農学生命科学研究科／東京大学",
+     "title": "特任教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "西山 千春",
+     "role": "reviewer",
+     "role_ja": "委員（自然科学部門）",
+     "affiliation": "東京理科大学先進工学部",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "穂苅 量太",
+     "role": "reviewer",
+     "role_ja": "委員（自然科学部門）",
+     "affiliation": "防衛医科大学校",
+     "title": "内科学教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山本 直之",
+     "role": "reviewer",
+     "role_ja": "委員（自然科学部門）",
+     "affiliation": "順天堂大学大学院医学研究科",
+     "title": "特任教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山室 信一",
+     "role": "reviewer",
+     "role_ja": "学術委員長（人文科学部門）",
+     "affiliation": "京都大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "赤松 明彦",
+     "role": "reviewer",
+     "role_ja": "委員（人文科学部門）",
+     "affiliation": "京都大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "磯前 順一",
+     "role": "reviewer",
+     "role_ja": "委員（人文科学部門）",
+     "affiliation": "国際日本文化研究センター",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "宇山 智彦",
+     "role": "reviewer",
+     "role_ja": "委員（人文科学部門）",
+     "affiliation": "北海道大学スラブ・ユーラシア研究センター",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "岸本 美緒",
+     "role": "reviewer",
+     "role_ja": "委員（人文科学部門）",
+     "affiliation": "お茶の水女子大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "小長谷 有紀",
+     "role": "reviewer",
+     "role_ja": "委員（人文科学部門）",
+     "affiliation": "武雄アジア大学／国立民族学博物館",
+     "title": "学長／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐藤 仁",
+     "role": "reviewer",
+     "role_ja": "委員（人文科学部門）",
+     "affiliation": "東京大学東洋文化研究所",
+     "title": "所長・教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "月脚 達彦",
+     "role": "reviewer",
+     "role_ja": "委員（人文科学部門）",
+     "affiliation": "東京大学大学院総合文化研究科",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "味埜 俊",
+     "role": "reviewer",
+     "role_ja": "学術委員長（特定研究助成部門）",
+     "affiliation": "東京大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "秋津 元輝",
+     "role": "reviewer",
+     "role_ja": "委員（特定研究助成部門）",
+     "affiliation": "明治国際医療大学／京都大学",
+     "title": "教授／名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "熊谷 日登美",
+     "role": "reviewer",
+     "role_ja": "委員（特定研究助成部門）",
+     "affiliation": "日本大学生物資源科学部",
+     "title": "特任教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを確認。役員・評議員・監事は公式「評議員・役員」ページ、審査担当者は公式「学術委員」ページ（https://www.mishima-kaiun.or.jp/outline/member2/）から収集。いずれも2026年4月1日現在。顧問・名誉顧問は指定された収集対象外のため除外した。企業役員兼任は現職として公式ページに掲載された者のみtrueとし、「元」と明記された過去の企業役職はfalseとした。"
+  },
+  "url_hint": "http://www.mishima-kaiun.or.jp"
+ },
+ "トヨタ財団": {
+  "codex": {
+   "foundation_name": "公益財団法人トヨタ財団",
+   "source_url": "https://www.toyotafound.or.jp/about/officer.html",
+   "fiscal_year": null,
+   "officers": [
+    {
+     "person_name": "犬塚 力",
+     "role": "other",
+     "role_ja": "会長",
+     "affiliation": "中部国際空港株式会社／公益財団法人名古屋フィルハーモニー交響楽団",
+     "title": "相談役兼特別顧問／理事長",
+     "is_corporate_exec": true,
+     "corporate_name": "中部国際空港株式会社"
+    },
+    {
+     "person_name": "羽田 正",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "東京大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山本 晃宏",
+     "role": "director",
+     "role_ja": "常務理事",
+     "affiliation": null,
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐藤 順一",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "日本工学会",
+     "title": "顧問",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "清家 篤",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "日本赤十字社／慶應義塾",
+     "title": "社長／学事顧問",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "板東 久美子",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "消費者庁",
+     "title": "元 長官",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "久恒 兼孝",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "トヨタ自動車販売店協会",
+     "title": "前 会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "横山 広美",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東京大学国際高等研究所カブリ数物連携宇宙研究機構",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "奥田 慶一",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "トヨタ不動産株式会社",
+     "title": "常勤監査役",
+     "is_corporate_exec": true,
+     "corporate_name": "トヨタ不動産株式会社"
+    },
+    {
+     "person_name": "山本 房弘",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": null,
+     "title": "公認会計士",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "有森 裕子",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "公益財団法人日本陸上競技連盟",
+     "title": "会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "伊勢 清貴",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社アイシン",
+     "title": "前 取締役社長・社長執行役員",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "大森 京太",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "株式会社三菱総合研究所",
+     "title": "元 代表取締役会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "北岡 伸一",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "独立行政法人国際協力機構",
+     "title": "特別顧問",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "古賀 信行",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "野村ホールディングス株式会社",
+     "title": "元 取締役会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "榊 裕之",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "国立大学法人奈良国立大学機構／学校法人トヨタ学園",
+     "title": "理事長／フェロー",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐々江 賢一郎",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "公益財団法人日本国際問題研究所",
+     "title": "理事長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "檀 ふみ",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": null,
+     "title": "俳優",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "濵口 道成",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "国立研究開発法人日本医療研究開発機構先進的研究開発戦略センター",
+     "title": "センター長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "早川 茂",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "トヨタ自動車株式会社",
+     "title": "前 代表取締役副会長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "林 佳世子",
+     "role": "councilor",
+     "role_ja": "評議員",
+     "affiliation": "一般社団法人国立大学協会",
+     "title": "専務理事",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "牧野 篤",
+     "role": "reviewer",
+     "role_ja": "2025年度国内助成プログラム選考委員長",
+     "affiliation": "大正大学地域創生学部地域創生学科",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "佐倉 統",
+     "role": "reviewer",
+     "role_ja": "2025年度研究助成プログラム選考委員長",
+     "affiliation": "実践女子大学人間社会学部社会デザイン学科",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "鈴木 真里",
+     "role": "reviewer",
+     "role_ja": "2025年度国際助成プログラム選考委員長",
+     "affiliation": "特定非営利活動法人アジア・コミュニティ・センター21",
+     "title": "副理事長・事務局長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "國吉 康夫",
+     "role": "reviewer",
+     "role_ja": "2025年度特定課題「先端技術と共創する新たな人間社会」選考委員長",
+     "affiliation": "東京大学大学院情報理工学系研究科",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "園田 茂人",
+     "role": "reviewer",
+     "role_ja": "2025年度特定課題「外国人材の受け入れと日本社会」選考委員長",
+     "affiliation": null,
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山口 慎太郎",
+     "role": "reviewer",
+     "role_ja": "2025年度特定課題「人口減少と日本社会」選考委員長",
+     "affiliation": "東京大学大学院経済学研究科",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLはトヨタ財団公式サイト内の旧国際助成ページとみられるが、役員情報の出典には使用していない。役員・評議員は公式ページの「2026年1月1日現在」に基づく。審査員は公式の2025年度選後評で氏名を確認できた選考委員長のみ収録し、委員全員の名簿は確認できなかったため推測で補完していない。選考委員長の公式ページは、国内助成 https://www.toyotafound.or.jp/grant/community/2025-0918-0900-20.html、研究助成 https://www.toyotafound.or.jp/grant/research/2025comment.html、国際助成 https://www.toyotafound.or.jp/grant/international/2025comment.html、先端技術 https://www.toyotafound.or.jp/grant/advanced/2025comment.html、外国人材 https://www.toyotafound.or.jp/grant/migration/2025comment.html、人口減少 https://www.toyotafound.or.jp/grant/population/2025comment.html。役員基準日と選考年度が異なるためfiscal_yearはnull。企業役員フラグは現職のみtrueとし、「前」「元」はfalseとした。"
+  },
+  "url_hint": "https://www.toyotafound.or.jp/international/2019"
+ }
+}
