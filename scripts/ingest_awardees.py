@@ -48,6 +48,7 @@ for fname, rec in staging.items():
         c.execute("INSERT INTO grant_calls (id,program_id,fiscal_year,title,status,source_url,created_at,updated_at) VALUES (?,?,?,?,?,?,?,?)",
                   (cid, pid, fy, "%s年度 研究助成" % (fy or ""), "closed", src, NOW, NOW))
         plan["calls_created"] += 1
+    c.execute("DELETE FROM grant_results WHERE call_id=? AND source_dataset='codex_awardees_2026'", (cid,))
     for a in cx["awardees"]:
         name = (a.get("awardee_name") or "").strip()
         if not name: plan["skipped_no_name"] += 1; continue
