@@ -10,7 +10,7 @@ VALID_ROLE = {"reviewer", "director", "councilor", "chair", "auditor", "other"}
 SKIP_FOUNDATIONS = {"トヨタ財団", "公益財団法人トヨタ財団",
                     "三菱UFJ信託奨学財団", "公益財団法人三菱ＵＦＪ信託奨学財団"}  # fable: stale / 抽出不足1/25→再収集
 # fable: is_corporate_exec は「現職の会社役員」のみ true。顧問/相談役/名誉/コンサル/元 は除外(advisor扱い)
-NON_EXEC_TITLE = ("顧問", "相談役", "名誉", "コンサル", "特別理事", "参与", "元", "前")
+NON_EXEC_TITLE = ("顧問", "相談役", "名誉", "コンサル", "特別理事", "参与", "アドバイザー", "元", "前")
 EXEC_TITLE = ("取締役", "監査役", "執行役", "社長", "会長", "頭取", "代表社員")  # 現職会社役員の語
 # fable: 中谷の2名はcodexが誤って取締役と記録(実際は特別顧問/顧問)→強制false
 FORCE_FALSE = {"浅野薫", "浅野 薫", "立花健治", "立花 健治"}
