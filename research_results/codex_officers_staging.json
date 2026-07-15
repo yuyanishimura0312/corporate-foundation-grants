@@ -68278,5 +68278,491 @@
    "notes": "参考URLは当該財団の公式サイトであることを確認。役員・評議員は公式「役員一覧」に基づくが、同ページに基準日・年度の記載がないためfiscal_yearはnull。助成審査員は公式『2025年版ふれあいバリアフリー住宅建築実例集』（https://normalize.or.jp/wordpress2/wp-content/uploads/fureai_cases2025.pdf）掲載の「第36回福祉住宅建築助成 審査委員」に基づく。役員一覧の「高棹 則嗣」と実例集の「高椿 則嗣」は公式資料ごとの表記をそのまま収録した。"
   },
   "url_hint": "http://www.normalize.or.jp"
+ },
+ "リカケンホールディングス株式会社": {
+  "codex": {
+   "foundation_name": "リカケンホールディングス株式会社",
+   "source_url": "https://rikaken-hd.co.jp/company/about/",
+   "fiscal_year": null,
+   "officers": [
+    {
+     "person_name": "森川 洋子",
+     "role": "director",
+     "role_ja": "代表取締役社長",
+     "affiliation": "リカケンホールディングス株式会社",
+     "title": "代表取締役社長",
+     "is_corporate_exec": true,
+     "corporate_name": "リカケンホールディングス株式会社"
+    },
+    {
+     "person_name": "佐々木 大志",
+     "role": "director",
+     "role_ja": "専務取締役",
+     "affiliation": "リカケンホールディングス株式会社",
+     "title": "専務取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "リカケンホールディングス株式会社"
+    },
+    {
+     "person_name": "藤井 寛之",
+     "role": "director",
+     "role_ja": "取締役 執行役員",
+     "affiliation": "リカケンホールディングス株式会社",
+     "title": "取締役 執行役員",
+     "is_corporate_exec": true,
+     "corporate_name": "リカケンホールディングス株式会社"
+    },
+    {
+     "person_name": "木村 礼人",
+     "role": "director",
+     "role_ja": "取締役 執行役員",
+     "affiliation": "リカケンホールディングス株式会社",
+     "title": "取締役 執行役員",
+     "is_corporate_exec": true,
+     "corporate_name": "リカケンホールディングス株式会社"
+    },
+    {
+     "person_name": "西川 裕二",
+     "role": "director",
+     "role_ja": "取締役",
+     "affiliation": "リカケンホールディングス株式会社",
+     "title": "取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "リカケンホールディングス株式会社"
+    },
+    {
+     "person_name": "尾崎 久雄",
+     "role": "auditor",
+     "role_ja": "監査役",
+     "affiliation": "リカケンホールディングス株式会社",
+     "title": "監査役",
+     "is_corporate_exec": true,
+     "corporate_name": "リカケンホールディングス株式会社"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象企業の公式サイトであることを確認した。対象は財団法人ではなく株式会社であり、公式会社概要に掲載された取締役・監査役を収録した。役員情報の基準年度・任期は明記されていないため fiscal_year はnull。取締役を兼ねない執行役員2名は指定された収集対象外のため除外した。公式の2026年度助成募集要項には「学識経験者による選考委員」とあるが、委員の氏名・所属は公開されていないためreviewerは収録していない。"
+  },
+  "url_hint": "https://www.rikaken-hd.co.jp"
+ },
+ "粉体工学情報センター": {
+  "codex": {
+   "foundation_name": "粉体工学情報センター",
+   "source_url": "https://www.icpt.jp/center/system.html",
+   "fiscal_year": null,
+   "officers": [
+    {
+     "person_name": "村田 博",
+     "role": "chair",
+     "role_ja": "理事長",
+     "affiliation": "株式会社日清製粉グループ本社",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "奥山 喜久夫",
+     "role": "director",
+     "role_ja": "副理事長",
+     "affiliation": "広島大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "高橋 誠一郎",
+     "role": "director",
+     "role_ja": "常務理事",
+     "affiliation": "株式会社日清製粉グループ本社",
+     "title": "取締役 常務執行役員技術本部長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社日清製粉グループ本社"
+    },
+    {
+     "person_name": "齋藤 文良",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東北大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "神谷 秀博",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東京農工大学大学院 生物システム応用科学府",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "内藤 牧男",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "大阪大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "後藤 邦彰",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "岡山大学大学院 自然科学研究科",
+     "title": "教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "毛利 晃",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社日清製粉グループ本社",
+     "title": "常任顧問",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社日清製粉グループ本社"
+    },
+    {
+     "person_name": "大内 章",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "株式会社日清製粉グループ本社",
+     "title": "取締役 監査等委員",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社日清製粉グループ本社"
+    },
+    {
+     "person_name": "秋山 聡",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "日清エンジニアリング株式会社",
+     "title": "専務取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "日清エンジニアリング株式会社"
+    },
+    {
+     "person_name": "佐々木 律夫",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "株式会社日清製粉グループ本社 内部監査部",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "奥山 喜久夫",
+     "role": "reviewer",
+     "role_ja": "研究助成委員会 委員長",
+     "affiliation": "広島大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "齋藤 文良",
+     "role": "reviewer",
+     "role_ja": "研究助成委員会 委員",
+     "affiliation": "東北大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "神谷 秀博",
+     "role": "reviewer",
+     "role_ja": "研究助成委員会 委員",
+     "affiliation": "東京農工大学大学院 生物システム応用科学府",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "高橋 誠一郎",
+     "role": "reviewer",
+     "role_ja": "研究助成委員会 委員",
+     "affiliation": "株式会社日清製粉グループ本社",
+     "title": "取締役 常務執行役員技術本部長",
+     "is_corporate_exec": true,
+     "corporate_name": "株式会社日清製粉グループ本社"
+    },
+    {
+     "person_name": "秋山 聡",
+     "role": "reviewer",
+     "role_ja": "研究助成委員会 委員",
+     "affiliation": "日清エンジニアリング株式会社",
+     "title": "専務取締役",
+     "is_corporate_exec": true,
+     "corporate_name": "日清エンジニアリング株式会社"
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象団体の公式サイトであることを確認。公式「運営組織」ページ掲載の理事会構成員と、助成研究の募集・選考を行う研究助成委員会の委員を収録した。ページに年度・更新基準日の記載がないためfiscal_yearはnull。評議員は掲載なし。IP奨励賞選考委員会は研究助成の審査組織ではないため収録していない。理事長・村田博氏は公式ページに企業所属のみが記載され、企業役職を確認できないためis_corporate_exec=falseとした。"
+  },
+  "url_hint": "http://www.icpt.jp"
+ },
+ "有機合成化学協会": {
+  "codex": {
+   "foundation_name": "公益社団法人 有機合成化学協会",
+   "source_url": "https://www.ssocj.jp/about-ssocj/organization/",
+   "fiscal_year": 2026,
+   "officers": [
+    {
+     "person_name": "須貝 威",
+     "role": "chair",
+     "role_ja": "会長",
+     "affiliation": "慶應義塾大学",
+     "title": "名誉教授",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "朝倉 光博",
+     "role": "director",
+     "role_ja": "副会長",
+     "affiliation": "ナード研究所",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "大林 達彦",
+     "role": "director",
+     "role_ja": "副会長",
+     "affiliation": "富士フイルム",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "寺田 眞浩",
+     "role": "director",
+     "role_ja": "副会長",
+     "affiliation": "東北大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "荒井 孝義",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "千葉大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "池田 浩",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "大阪公立大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "井上 将行",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東京大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "大野 充",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "ダイセル",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "北山 健司",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "日本触媒",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "草間 博之",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "学習院大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "髙柳 大",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "味の素",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "釣谷 孝之",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "塩野義製薬",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "中野 環",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "北海道大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "奈良 秀樹",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "高砂香料工業",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "灰野 岳晴",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "広島大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "八谷 巌",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "三重大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "廣瀬 洋一郎",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東京化成工業",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "藤田 達也",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東レ",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "藤本 ゆかり",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "慶應義塾大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "眞鍋 史乃",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "星薬科大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "安田 琢麿",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "九州大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "安田 誠",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "大阪大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "山口 茂弘",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "名古屋大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "吉戒 直彦",
+     "role": "director",
+     "role_ja": "理事",
+     "affiliation": "東北大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "秋山 隆彦",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "学習院大学",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "味戸 慶一",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "北里環境科学センター",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "三谷 晃",
+     "role": "auditor",
+     "role_ja": "監事",
+     "affiliation": "日本曹達",
+     "title": null,
+     "is_corporate_exec": false,
+     "corporate_name": null
+    },
+    {
+     "person_name": "永井 一郎",
+     "role": "director",
+     "role_ja": "常務理事 / 事務局長",
+     "affiliation": "有機合成化学協会",
+     "title": "事務局長",
+     "is_corporate_exec": false,
+     "corporate_name": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは公式サイトであることを確認。対象は財団ではなく公益社団法人。公式「組織運営」掲載の2026年度役員のみを収録した。副会長は役員区分としてdirectorに整理した。公式ページに評議員はなく、代議員は対象外。研究助成事業（研究企画賞）などの選考委員会の存在は確認できたが、公式サイト上で委員氏名一覧を確認できなかったためreviewerは収録していない。所属企業名のみでは企業役員兼任を確認したことにならないため、役職が公式情報で明記されていない人物のis_corporate_execはfalse、corporate_nameはnullとした。"
+  },
+  "url_hint": "https://www.ssocj.jp"
  }
 }

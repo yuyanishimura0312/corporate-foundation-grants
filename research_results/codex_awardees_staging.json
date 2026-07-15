@@ -44405,5 +44405,177 @@
   },
   "url_hint": "https://miyata-foundation.or.jp",
   "elapsed_s": 74
+ },
+ "ウイルス肝炎研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 医食同源生薬研究財団",
+   "source_url": "https://isyokudogen-fnd.jp/info/article/74/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "岩﨑 有作",
+     "affiliation": "京都府立大学大学院 生命環境科学研究科",
+     "position": "教授",
+     "project_title": "高嗜好性食品の過剰摂取を抑制する機能性食品成分の最適組み合わせの探索",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "加藤 和則",
+     "affiliation": "東洋大学 健康スポーツ科学部",
+     "position": "教授",
+     "project_title": "“医食同源”の知恵を科学する：南西諸島（沖縄・先島・大隅諸島）特有の植物由来機能性成分による熱中症予防の新展開",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小川 幸春",
+     "affiliation": "千葉大学 大学院 園芸学研究院",
+     "position": "教授",
+     "project_title": "収穫後の調製操作によるコメの糖質消化性調節技術の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西川 美宇",
+     "affiliation": "宮崎大学 農学部 応用生命化学領域",
+     "position": "准教授",
+     "project_title": "食用きのこによるビタミンD介在性肝臓線維化抑制効果の検証",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを財団概要ページで確認。公式の「2025年度研究助成対象者決定のお知らせ」（2026年1月30日公開）に掲載された全4名を収録した。公式ページに分野区分および個別助成金額の記載がないためnull。"
+  },
+  "url_hint": "http://www.vhfj.or.jp",
+  "elapsed_s": 38
+ },
+ "医食同源生薬研究財団": {
+  "codex": {
+   "foundation_name": "公益財団法人 医食同源生薬研究財団",
+   "source_url": "https://isyokudogen-fnd.jp/info/article/74/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "岩﨑 有作",
+     "affiliation": "京都府立大学大学院 生命環境科学研究科",
+     "position": "教授",
+     "project_title": "高嗜好性食品の過剰摂取を抑制する機能性食品成分の最適組み合わせの探索",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "加藤 和則",
+     "affiliation": "東洋大学 健康スポーツ科学部",
+     "position": "教授",
+     "project_title": "“医食同源”の知恵を科学する：南西諸島（沖縄・先島・大隅諸島）特有の植物由来機能性成分による熱中症予防の新展開",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "小川 幸春",
+     "affiliation": "千葉大学 大学院 園芸学研究院",
+     "position": "教授",
+     "project_title": "収穫後の調製操作によるコメの糖質消化性調節技術の開発",
+     "field_hint": null,
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "西川 美宇",
+     "affiliation": "宮崎大学 農学部 応用生命化学領域",
+     "position": "准教授",
+     "project_title": "食用きのこによるビタミンD介在性肝臓線維化抑制効果の検証",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは当該財団の公式サイトであることを財団概要ページで確認。公式の「2025年度研究助成対象者決定のお知らせ」（2026年1月30日公開）に掲載された全4名を収録した。公式ページに分野区分および個別助成金額の記載がないためnull。"
+  },
+  "url_hint": "https://isyokudogen-fnd.jp",
+  "elapsed_s": 38
+ },
+ "医療経済研究・社会保険福祉協会 医療経済研究機構": {
+  "codex": {
+   "foundation_name": "医療経済研究・社会保険福祉協会 医療経済研究機構",
+   "source_url": "https://www.ihep.jp/grant/past/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "小笠原 克彦",
+     "affiliation": "北海道大学大学院保健科学研究院",
+     "position": null,
+     "project_title": "北海道を対象とした医療・介護データを用いた在宅医療ニーズに関する研究",
+     "field_hint": "指定課題研究助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "橋本 悠生",
+     "affiliation": "独立行政法人国立病院機構本部 総合研究センター 診療情報分析部",
+     "position": null,
+     "project_title": "高額療養費制度見直しに伴うがん患者への経済毒性: 大規模データを用いた機械学習による要因分析",
+     "field_hint": "若手研究者育成研究助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "久野 貴弘",
+     "affiliation": "群馬大学医学部附属病院 循環器内科",
+     "position": null,
+     "project_title": "週末入院が循環器疾患診療に与える医療経済的影響：ビッグデータでの検討",
+     "field_hint": "若手研究者育成研究助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "𠮷田 稔",
+     "affiliation": "国立病院機構本部総合研究センター 診療情報分析部",
+     "position": null,
+     "project_title": "診療報酬政策と重症患者の早期経腸栄養実施割合の関連：DPCデータによる準実験的時系列分析",
+     "field_hint": "若手研究者育成研究助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "宇田 和晃",
+     "affiliation": "国立長寿医療研究センター老年学・社会科学研究センター老年社会科学研究部",
+     "position": null,
+     "project_title": "新規要介護認定高齢者を対象とした要介護度重度化リスク予測モデルの開発と検証: 四市町の医療・介護データを用いた研究",
+     "field_hint": "若手研究者育成研究助成",
+     "amount_jpy": null
+    },
+    {
+     "awardee_name": "中村 晃久",
+     "affiliation": "自治医科大学 地域医療学センター 地域医療学部門",
+     "position": null,
+     "project_title": "地域枠制度が医師の空間分布に与えた影響：空間統計と時系列解析を用いた政策研究",
+     "field_hint": "若手研究者育成研究助成",
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "high",
+   "notes": "参考URLは対象機構の公式サイトであることを、サイト表示名「一般財団法人 医療経済研究・社会保険福祉協会 医療経済研究機構」により確認。公式「過去の採択テーマ」の第29回・2025年度研究助成採択研究一覧から全6件を収集（2026-07-15確認）。職位および個別助成額は掲載されていないためnull。公式記載の交付総額は10,000千円だが、個別金額への按分は行っていない。"
+  },
+  "url_hint": "https://www.ihep.jp",
+  "elapsed_s": 39
+ },
+ "一樹工業技術奨励会": {
+  "codex": {
+   "foundation_name": "一般財団法人 一樹工業技術奨励会",
+   "source_url": "https://www.miyazaki-nikkiso.co.jp/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "藤川 俊英",
+     "affiliation": "宮崎大学 工学教育研究部",
+     "position": "准教授",
+     "project_title": "液体中で発生する張力を検知・計測するためのプローブの開発",
+     "field_hint": null,
+     "amount_jpy": null
+    }
+   ],
+   "confidence": "medium",
+   "notes": "2026-07-15確認。参考URL（https://www.miyazaki-nikkiso.co.jp/ichiju/）は財団の公式ページ。公式トップページの2026年7月1日付告知に、2025年度（2025年7月～2026年6月）は54件の応募から7先が決定したこと、および藤川俊英准教授の所属・職位・研究テーマが掲載されている。残る6先の氏名・課題を示す2025年度公式一覧は確認できなかったため収録していない。なお、宮崎大学の公式記事では氏名が「藤川 俊秀」と表記されており財団側表記と相違するが、本データは指定どおり財団公式ページの表記を採用した。個別助成額および公式の分野表記は掲載されていないためnull。"
+  },
+  "url_hint": "https://www.miyazaki-nikkiso.co.jp/ichiju",
+  "elapsed_s": 55
  }
 }
