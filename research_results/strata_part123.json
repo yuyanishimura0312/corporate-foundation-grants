@@ -1,0 +1,475 @@
+{
+ "summary": {
+  "n_award": 6289,
+  "n_matched": 4022,
+  "n_researchers_hontai": 3226,
+  "funded_h_med": 12.0,
+  "pop_h_med": 5.0,
+  "n_with_secondary": 34
+ },
+ "fine_cells": [
+  {
+   "field": "西洋医学",
+   "theme": "創薬・治療・診断",
+   "n": 251
+  },
+  {
+   "field": "西洋医学",
+   "theme": "がん・腫瘍",
+   "n": 195
+  },
+  {
+   "field": "西洋医学",
+   "theme": "免疫・感染・炎症",
+   "n": 186
+  },
+  {
+   "field": "生物学",
+   "theme": "免疫・感染・炎症",
+   "n": 167
+  },
+  {
+   "field": "生物学",
+   "theme": "創薬・治療・診断",
+   "n": 152
+  },
+  {
+   "field": "化学",
+   "theme": "材料・ナノ・触媒",
+   "n": 148
+  },
+  {
+   "field": "西洋医学",
+   "theme": "脳・神経・認知",
+   "n": 147
+  },
+  {
+   "field": "生物学",
+   "theme": "ゲノム・遺伝子・オミクス",
+   "n": 142
+  },
+  {
+   "field": "生物学",
+   "theme": "脳・神経・認知",
+   "n": 137
+  },
+  {
+   "field": "生物学",
+   "theme": "がん・腫瘍",
+   "n": 118
+  },
+  {
+   "field": "西洋医学",
+   "theme": "ゲノム・遺伝子・オミクス",
+   "n": 108
+  },
+  {
+   "field": "生化学",
+   "theme": "創薬・治療・診断",
+   "n": 88
+  },
+  {
+   "field": "生化学",
+   "theme": "免疫・感染・炎症",
+   "n": 82
+  },
+  {
+   "field": "生物学",
+   "theme": "微生物・腸内・発酵",
+   "n": 75
+  },
+  {
+   "field": "生化学",
+   "theme": "がん・腫瘍",
+   "n": 74
+  },
+  {
+   "field": "生物学",
+   "theme": "老化・長寿",
+   "n": 60
+  },
+  {
+   "field": "生物学",
+   "theme": "タンパク質・構造・酵素",
+   "n": 57
+  },
+  {
+   "field": "生物学",
+   "theme": "再生・幹細胞",
+   "n": 53
+  },
+  {
+   "field": "生化学",
+   "theme": "タンパク質・構造・酵素",
+   "n": 46
+  },
+  {
+   "field": "生化学",
+   "theme": "ゲノム・遺伝子・オミクス",
+   "n": 46
+  }
+ ],
+ "secondary_pairs": [
+  {
+   "primary": "西洋医学",
+   "secondary": "生物学",
+   "n": 22
+  },
+  {
+   "primary": "生物学",
+   "secondary": "西洋医学",
+   "n": 7
+  },
+  {
+   "primary": "生物学",
+   "secondary": "物理学",
+   "n": 1
+  },
+  {
+   "primary": "西洋医学",
+   "secondary": "化学",
+   "n": 1
+  },
+  {
+   "primary": "西洋医学",
+   "secondary": "薬学",
+   "n": 1
+  },
+  {
+   "primary": "化学",
+   "secondary": "機械工学",
+   "n": 1
+  },
+  {
+   "primary": "生理学",
+   "secondary": "西洋医学",
+   "n": 1
+  }
+ ],
+ "profiles": [
+  {
+   "field": "西洋医学",
+   "n_award": 982,
+   "n_researchers": 768,
+   "pool_311k_hontai": 50980,
+   "coverage_pct": 1.51,
+   "funded_h_med": 11.0,
+   "pop_h_med": 7.0,
+   "h_uplift": 4.0,
+   "avg_works": 84,
+   "avg_coauthor": 43,
+   "young_pct": 55.6,
+   "top_insts": [
+    {
+     "u": "東京大学",
+     "n": 63
+    },
+    {
+     "u": "京都大学",
+     "n": 53
+    },
+    {
+     "u": "大阪大学",
+     "n": 46
+    }
+   ]
+  },
+  {
+   "field": "生物学",
+   "n_award": 977,
+   "n_researchers": 807,
+   "pool_311k_hontai": 32748,
+   "coverage_pct": 2.46,
+   "funded_h_med": 14.0,
+   "pop_h_med": 11.0,
+   "h_uplift": 3.0,
+   "avg_works": 83,
+   "avg_coauthor": 46,
+   "young_pct": 42.7,
+   "top_insts": [
+    {
+     "u": "東京大学",
+     "n": 83
+    },
+    {
+     "u": "大阪大学",
+     "n": 59
+    },
+    {
+     "u": "京都大学",
+     "n": 55
+    }
+   ]
+  },
+  {
+   "field": "化学",
+   "n_award": 419,
+   "n_researchers": 322,
+   "pool_311k_hontai": 12364,
+   "coverage_pct": 2.6,
+   "funded_h_med": 16.0,
+   "pop_h_med": 13.0,
+   "h_uplift": 3.0,
+   "avg_works": 120,
+   "avg_coauthor": 44,
+   "young_pct": 35.8,
+   "top_insts": [
+    {
+     "u": "京都大学",
+     "n": 34
+    },
+    {
+     "u": "大阪大学",
+     "n": 25
+    },
+    {
+     "u": "東北大学",
+     "n": 21
+    }
+   ]
+  },
+  {
+   "field": "生化学",
+   "n_award": 379,
+   "n_researchers": 303,
+   "pool_311k_hontai": 11665,
+   "coverage_pct": 2.6,
+   "funded_h_med": 16.0,
+   "pop_h_med": 11.0,
+   "h_uplift": 5.0,
+   "avg_works": 91,
+   "avg_coauthor": 39,
+   "young_pct": 50.2,
+   "top_insts": [
+    {
+     "u": "京都大学",
+     "n": 25
+    },
+    {
+     "u": "東京大学",
+     "n": 24
+    },
+    {
+     "u": "大阪大学",
+     "n": 23
+    }
+   ]
+  },
+  {
+   "field": "物理学",
+   "n_award": 189,
+   "n_researchers": 152,
+   "pool_311k_hontai": 12742,
+   "coverage_pct": 1.19,
+   "funded_h_med": 12.0,
+   "pop_h_med": 9.0,
+   "h_uplift": 3.0,
+   "avg_works": 117,
+   "avg_coauthor": 52,
+   "young_pct": 27.3,
+   "top_insts": [
+    {
+     "u": "東京大学",
+     "n": 35
+    },
+    {
+     "u": "東北大学",
+     "n": 13
+    },
+    {
+     "u": "東京科学大学",
+     "n": 13
+    }
+   ]
+  },
+  {
+   "field": "生理学",
+   "n_award": 97,
+   "n_researchers": 81,
+   "pool_311k_hontai": 5768,
+   "coverage_pct": 1.4,
+   "funded_h_med": 14.0,
+   "pop_h_med": 8.0,
+   "h_uplift": 6.0,
+   "avg_works": 79,
+   "avg_coauthor": 38,
+   "young_pct": 49.4,
+   "top_insts": [
+    {
+     "u": "東京大学",
+     "n": 7
+    },
+    {
+     "u": "東京科学大学",
+     "n": 6
+    },
+    {
+     "u": "名古屋大学",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "field": "機械工学",
+   "n_award": 95,
+   "n_researchers": 73,
+   "pool_311k_hontai": 6505,
+   "coverage_pct": 1.12,
+   "funded_h_med": 5.0,
+   "pop_h_med": 5.0,
+   "h_uplift": 0.0,
+   "avg_works": 133,
+   "avg_coauthor": 38,
+   "young_pct": 28.4,
+   "top_insts": [
+    {
+     "u": "東京大学",
+     "n": 7
+    },
+    {
+     "u": "中央大学",
+     "n": 5
+    },
+    {
+     "u": "東京電機大学",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "field": "計算機科学",
+   "n_award": 94,
+   "n_researchers": 79,
+   "pool_311k_hontai": 8599,
+   "coverage_pct": 0.92,
+   "funded_h_med": 7.0,
+   "pop_h_med": 5.0,
+   "h_uplift": 2.0,
+   "avg_works": 85,
+   "avg_coauthor": 45,
+   "young_pct": 34.2,
+   "top_insts": [
+    {
+     "u": "東京大学",
+     "n": 11
+    },
+    {
+     "u": "京都大学",
+     "n": 4
+    },
+    {
+     "u": "東京農工大学",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "field": "薬学",
+   "n_award": 93,
+   "n_researchers": 57,
+   "pool_311k_hontai": 2438,
+   "coverage_pct": 2.34,
+   "funded_h_med": 16.0,
+   "pop_h_med": 11.0,
+   "h_uplift": 5.0,
+   "avg_works": 120,
+   "avg_coauthor": 40,
+   "young_pct": 53.3,
+   "top_insts": [
+    {
+     "u": "九州大学",
+     "n": 7
+    },
+    {
+     "u": "千葉大学",
+     "n": 7
+    },
+    {
+     "u": "京都大学",
+     "n": 6
+    }
+   ]
+  },
+  {
+   "field": "社会学",
+   "n_award": 81,
+   "n_researchers": 62,
+   "pool_311k_hontai": 11689,
+   "coverage_pct": 0.53,
+   "funded_h_med": 2.0,
+   "pop_h_med": 2.0,
+   "h_uplift": 0.0,
+   "avg_works": 51,
+   "avg_coauthor": 26,
+   "young_pct": 32.7,
+   "top_insts": [
+    {
+     "u": "立命館大学",
+     "n": 6
+    },
+    {
+     "u": "大阪公立大学",
+     "n": 3
+    },
+    {
+     "u": "東京大学",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "field": "電気工学",
+   "n_award": 63,
+   "n_researchers": 51,
+   "pool_311k_hontai": 4225,
+   "coverage_pct": 1.21,
+   "funded_h_med": 12.0,
+   "pop_h_med": 7.0,
+   "h_uplift": 5.0,
+   "avg_works": 116,
+   "avg_coauthor": 38,
+   "young_pct": 37.7,
+   "top_insts": [
+    {
+     "u": "東京大学",
+     "n": 6
+    },
+    {
+     "u": "東北大学",
+     "n": 4
+    },
+    {
+     "u": "大阪公立大学",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "field": "農学",
+   "n_award": 53,
+   "n_researchers": 40,
+   "pool_311k_hontai": 3643,
+   "coverage_pct": 1.1,
+   "funded_h_med": 13.0,
+   "pop_h_med": 5.0,
+   "h_uplift": 8.0,
+   "avg_works": 80,
+   "avg_coauthor": 40,
+   "young_pct": 26.1,
+   "top_insts": [
+    {
+     "u": "東京大学",
+     "n": 5
+    },
+    {
+     "u": "奈良先端科学技術大学",
+     "n": 3
+    },
+    {
+     "u": "京都大学",
+     "n": 3
+    }
+   ]
+  }
+ ]
+}
