@@ -1,0 +1,803 @@
+{
+ "field_intensity": [
+  {
+   "field": "哲学",
+   "fnd_grants": 2,
+   "kaken_researchers": 1034,
+   "fnd_share": 0.03,
+   "kaken_share": 0.44,
+   "gap": -0.41,
+   "intensity_per1000": 1.93
+  },
+  {
+   "field": "地質学",
+   "fnd_grants": 2,
+   "kaken_researchers": 707,
+   "fnd_share": 0.03,
+   "kaken_share": 0.3,
+   "gap": -0.27,
+   "intensity_per1000": 2.83
+  },
+  {
+   "field": "文学",
+   "fnd_grants": 8,
+   "kaken_researchers": 1634,
+   "fnd_share": 0.12,
+   "kaken_share": 0.69,
+   "gap": -0.57,
+   "intensity_per1000": 4.9
+  },
+  {
+   "field": "人類学",
+   "fnd_grants": 10,
+   "kaken_researchers": 1936,
+   "fnd_share": 0.15,
+   "kaken_share": 0.82,
+   "gap": -0.67,
+   "intensity_per1000": 5.17
+  },
+  {
+   "field": "教育学",
+   "fnd_grants": 61,
+   "kaken_researchers": 10898,
+   "fnd_share": 0.93,
+   "kaken_share": 4.63,
+   "gap": -3.7,
+   "intensity_per1000": 5.6
+  },
+  {
+   "field": "言語学",
+   "fnd_grants": 18,
+   "kaken_researchers": 2739,
+   "fnd_share": 0.28,
+   "kaken_share": 1.16,
+   "gap": -0.89,
+   "intensity_per1000": 6.57
+  },
+  {
+   "field": "数学",
+   "fnd_grants": 39,
+   "kaken_researchers": 4808,
+   "fnd_share": 0.6,
+   "kaken_share": 2.04,
+   "gap": -1.45,
+   "intensity_per1000": 8.11
+  },
+  {
+   "field": "研究方法論",
+   "fnd_grants": 8,
+   "kaken_researchers": 924,
+   "fnd_share": 0.12,
+   "kaken_share": 0.39,
+   "gap": -0.27,
+   "intensity_per1000": 8.66
+  },
+  {
+   "field": "歴史学",
+   "fnd_grants": 52,
+   "kaken_researchers": 5694,
+   "fnd_share": 0.8,
+   "kaken_share": 2.42,
+   "gap": -1.62,
+   "intensity_per1000": 9.13
+  },
+  {
+   "field": "政治学",
+   "fnd_grants": 30,
+   "kaken_researchers": 2821,
+   "fnd_share": 0.46,
+   "kaken_share": 1.2,
+   "gap": -0.74,
+   "intensity_per1000": 10.63
+  },
+  {
+   "field": "地理学",
+   "fnd_grants": 12,
+   "kaken_researchers": 1089,
+   "fnd_share": 0.18,
+   "kaken_share": 0.46,
+   "gap": -0.28,
+   "intensity_per1000": 11.02
+  },
+  {
+   "field": "社会学",
+   "fnd_grants": 130,
+   "kaken_researchers": 11689,
+   "fnd_share": 1.99,
+   "kaken_share": 4.97,
+   "gap": -2.98,
+   "intensity_per1000": 11.12
+  },
+  {
+   "field": "経済学",
+   "fnd_grants": 83,
+   "kaken_researchers": 7177,
+   "fnd_share": 1.27,
+   "kaken_share": 3.05,
+   "gap": -1.78,
+   "intensity_per1000": 11.56
+  },
+  {
+   "field": "法学",
+   "fnd_grants": 32,
+   "kaken_researchers": 2659,
+   "fnd_share": 0.49,
+   "kaken_share": 1.13,
+   "gap": -0.64,
+   "intensity_per1000": 12.03
+  },
+  {
+   "field": "統計学",
+   "fnd_grants": 17,
+   "kaken_researchers": 1312,
+   "fnd_share": 0.26,
+   "kaken_share": 0.56,
+   "gap": -0.3,
+   "intensity_per1000": 12.96
+  },
+  {
+   "field": "心理学",
+   "fnd_grants": 93,
+   "kaken_researchers": 6656,
+   "fnd_share": 1.42,
+   "kaken_share": 2.83,
+   "gap": -1.4,
+   "intensity_per1000": 13.97
+  },
+  {
+   "field": "芸術理論",
+   "fnd_grants": 12,
+   "kaken_researchers": 822,
+   "fnd_share": 0.18,
+   "kaken_share": 0.35,
+   "gap": -0.17,
+   "intensity_per1000": 14.6
+  },
+  {
+   "field": "気象学",
+   "fnd_grants": 16,
+   "kaken_researchers": 1036,
+   "fnd_share": 0.24,
+   "kaken_share": 0.44,
+   "gap": -0.2,
+   "intensity_per1000": 15.44
+  },
+  {
+   "field": "計算機科学",
+   "fnd_grants": 140,
+   "kaken_researchers": 8599,
+   "fnd_share": 2.14,
+   "kaken_share": 3.65,
+   "gap": -1.51,
+   "intensity_per1000": 16.28
+  },
+  {
+   "field": "地球科学",
+   "fnd_grants": 52,
+   "kaken_researchers": 2959,
+   "fnd_share": 0.8,
+   "kaken_share": 1.26,
+   "gap": -0.46,
+   "intensity_per1000": 17.57
+  },
+  {
+   "field": "天文学",
+   "fnd_grants": 21,
+   "kaken_researchers": 1184,
+   "fnd_share": 0.32,
+   "kaken_share": 0.5,
+   "gap": -0.18,
+   "intensity_per1000": 17.74
+  },
+  {
+   "field": "物理学",
+   "fnd_grants": 270,
+   "kaken_researchers": 12742,
+   "fnd_share": 4.13,
+   "kaken_share": 5.41,
+   "gap": -1.28,
+   "intensity_per1000": 21.19
+  },
+  {
+   "field": "生態学",
+   "fnd_grants": 66,
+   "kaken_researchers": 2849,
+   "fnd_share": 1.01,
+   "kaken_share": 1.21,
+   "gap": -0.2,
+   "intensity_per1000": 23.17
+  },
+  {
+   "field": "認知科学",
+   "fnd_grants": 33,
+   "kaken_researchers": 1339,
+   "fnd_share": 0.5,
+   "kaken_share": 0.57,
+   "gap": -0.06,
+   "intensity_per1000": 24.65
+  },
+  {
+   "field": "電気工学",
+   "fnd_grants": 105,
+   "kaken_researchers": 4225,
+   "fnd_share": 1.61,
+   "kaken_share": 1.79,
+   "gap": -0.19,
+   "intensity_per1000": 24.85
+  },
+  {
+   "field": "生理学",
+   "fnd_grants": 152,
+   "kaken_researchers": 5768,
+   "fnd_share": 2.33,
+   "kaken_share": 2.45,
+   "gap": -0.12,
+   "intensity_per1000": 26.35
+  },
+  {
+   "field": "機械工学",
+   "fnd_grants": 174,
+   "kaken_researchers": 6505,
+   "fnd_share": 2.66,
+   "kaken_share": 2.76,
+   "gap": -0.1,
+   "intensity_per1000": 26.75
+  },
+  {
+   "field": "農学",
+   "fnd_grants": 104,
+   "kaken_researchers": 3643,
+   "fnd_share": 1.59,
+   "kaken_share": 1.55,
+   "gap": 0.04,
+   "intensity_per1000": 28.55
+  },
+  {
+   "field": "土木工学",
+   "fnd_grants": 98,
+   "kaken_researchers": 3369,
+   "fnd_share": 1.5,
+   "kaken_share": 1.43,
+   "gap": 0.07,
+   "intensity_per1000": 29.09
+  },
+  {
+   "field": "生命工学",
+   "fnd_grants": 74,
+   "kaken_researchers": 2411,
+   "fnd_share": 1.13,
+   "kaken_share": 1.02,
+   "gap": 0.11,
+   "intensity_per1000": 30.69
+  },
+  {
+   "field": "建築学",
+   "fnd_grants": 32,
+   "kaken_researchers": 970,
+   "fnd_share": 0.49,
+   "kaken_share": 0.41,
+   "gap": 0.08,
+   "intensity_per1000": 32.99
+  },
+  {
+   "field": "西洋医学",
+   "fnd_grants": 1736,
+   "kaken_researchers": 50980,
+   "fnd_share": 26.56,
+   "kaken_share": 21.66,
+   "gap": 4.9,
+   "intensity_per1000": 34.05
+  },
+  {
+   "field": "生物学",
+   "fnd_grants": 1472,
+   "kaken_researchers": 32748,
+   "fnd_share": 22.52,
+   "kaken_share": 13.91,
+   "gap": 8.61,
+   "intensity_per1000": 44.95
+  },
+  {
+   "field": "化学",
+   "fnd_grants": 604,
+   "kaken_researchers": 12364,
+   "fnd_share": 9.24,
+   "kaken_share": 5.25,
+   "gap": 3.99,
+   "intensity_per1000": 48.85
+  },
+  {
+   "field": "生化学",
+   "fnd_grants": 598,
+   "kaken_researchers": 11665,
+   "fnd_share": 9.15,
+   "kaken_share": 4.96,
+   "gap": 4.19,
+   "intensity_per1000": 51.26
+  },
+  {
+   "field": "薬学",
+   "fnd_grants": 141,
+   "kaken_researchers": 2438,
+   "fnd_share": 2.16,
+   "kaken_share": 1.04,
+   "gap": 1.12,
+   "intensity_per1000": 57.83
+  }
+ ],
+ "pref_intensity": [
+  {
+   "pref": "高知県",
+   "fnd": 9,
+   "kaken": 730,
+   "fnd_share": 0.18,
+   "kaken_share": 0.76,
+   "gap": -0.58,
+   "intensity": 12.33
+  },
+  {
+   "pref": "沖縄県",
+   "fnd": 13,
+   "kaken": 832,
+   "fnd_share": 0.26,
+   "kaken_share": 0.87,
+   "gap": -0.61,
+   "intensity": 15.62
+  },
+  {
+   "pref": "佐賀県",
+   "fnd": 11,
+   "kaken": 696,
+   "fnd_share": 0.22,
+   "kaken_share": 0.73,
+   "gap": -0.5,
+   "intensity": 15.8
+  },
+  {
+   "pref": "滋賀県",
+   "fnd": 4,
+   "kaken": 237,
+   "fnd_share": 0.08,
+   "kaken_share": 0.25,
+   "gap": -0.17,
+   "intensity": 16.88
+  },
+  {
+   "pref": "和歌山県",
+   "fnd": 4,
+   "kaken": 230,
+   "fnd_share": 0.08,
+   "kaken_share": 0.24,
+   "gap": -0.16,
+   "intensity": 17.39
+  },
+  {
+   "pref": "鹿児島県",
+   "fnd": 23,
+   "kaken": 1302,
+   "fnd_share": 0.47,
+   "kaken_share": 1.36,
+   "gap": -0.9,
+   "intensity": 17.67
+  },
+  {
+   "pref": "青森県",
+   "fnd": 17,
+   "kaken": 917,
+   "fnd_share": 0.34,
+   "kaken_share": 0.96,
+   "gap": -0.61,
+   "intensity": 18.54
+  },
+  {
+   "pref": "栃木県",
+   "fnd": 8,
+   "kaken": 426,
+   "fnd_share": 0.16,
+   "kaken_share": 0.45,
+   "gap": -0.28,
+   "intensity": 18.78
+  },
+  {
+   "pref": "岩手県",
+   "fnd": 9,
+   "kaken": 437,
+   "fnd_share": 0.18,
+   "kaken_share": 0.46,
+   "gap": -0.27,
+   "intensity": 20.59
+  },
+  {
+   "pref": "福井県",
+   "fnd": 15,
+   "kaken": 692,
+   "fnd_share": 0.3,
+   "kaken_share": 0.72,
+   "gap": -0.42,
+   "intensity": 21.68
+  },
+  {
+   "pref": "鳥取県",
+   "fnd": 18,
+   "kaken": 757,
+   "fnd_share": 0.36,
+   "kaken_share": 0.79,
+   "gap": -0.43,
+   "intensity": 23.78
+  },
+  {
+   "pref": "大分県",
+   "fnd": 17,
+   "kaken": 703,
+   "fnd_share": 0.34,
+   "kaken_share": 0.74,
+   "gap": -0.39,
+   "intensity": 24.18
+  },
+  {
+   "pref": "長崎県",
+   "fnd": 40,
+   "kaken": 1488,
+   "fnd_share": 0.81,
+   "kaken_share": 1.56,
+   "gap": -0.75,
+   "intensity": 26.88
+  },
+  {
+   "pref": "静岡県",
+   "fnd": 23,
+   "kaken": 757,
+   "fnd_share": 0.47,
+   "kaken_share": 0.79,
+   "gap": -0.33,
+   "intensity": 30.38
+  },
+  {
+   "pref": "秋田県",
+   "fnd": 22,
+   "kaken": 677,
+   "fnd_share": 0.45,
+   "kaken_share": 0.71,
+   "gap": -0.26,
+   "intensity": 32.5
+  },
+  {
+   "pref": "徳島県",
+   "fnd": 37,
+   "kaken": 1129,
+   "fnd_share": 0.75,
+   "kaken_share": 1.18,
+   "gap": -0.43,
+   "intensity": 32.77
+  },
+  {
+   "pref": "長野県",
+   "fnd": 45,
+   "kaken": 1295,
+   "fnd_share": 0.91,
+   "kaken_share": 1.35,
+   "gap": -0.44,
+   "intensity": 34.75
+  },
+  {
+   "pref": "島根県",
+   "fnd": 28,
+   "kaken": 776,
+   "fnd_share": 0.57,
+   "kaken_share": 0.81,
+   "gap": -0.24,
+   "intensity": 36.08
+  },
+  {
+   "pref": "愛媛県",
+   "fnd": 35,
+   "kaken": 955,
+   "fnd_share": 0.71,
+   "kaken_share": 1.0,
+   "gap": -0.29,
+   "intensity": 36.65
+  },
+  {
+   "pref": "山口県",
+   "fnd": 37,
+   "kaken": 1009,
+   "fnd_share": 0.75,
+   "kaken_share": 1.05,
+   "gap": -0.31,
+   "intensity": 36.67
+  },
+  {
+   "pref": "香川県",
+   "fnd": 26,
+   "kaken": 677,
+   "fnd_share": 0.53,
+   "kaken_share": 0.71,
+   "gap": -0.18,
+   "intensity": 38.4
+  },
+  {
+   "pref": "山形県",
+   "fnd": 43,
+   "kaken": 1060,
+   "fnd_share": 0.87,
+   "kaken_share": 1.11,
+   "gap": -0.24,
+   "intensity": 40.57
+  },
+  {
+   "pref": "神奈川県",
+   "fnd": 71,
+   "kaken": 1644,
+   "fnd_share": 1.44,
+   "kaken_share": 1.72,
+   "gap": -0.28,
+   "intensity": 43.19
+  },
+  {
+   "pref": "広島県",
+   "fnd": 119,
+   "kaken": 2618,
+   "fnd_share": 2.41,
+   "kaken_share": 2.74,
+   "gap": -0.33,
+   "intensity": 45.45
+  },
+  {
+   "pref": "山梨県",
+   "fnd": 36,
+   "kaken": 780,
+   "fnd_share": 0.73,
+   "kaken_share": 0.82,
+   "gap": -0.09,
+   "intensity": 46.15
+  },
+  {
+   "pref": "宮崎県",
+   "fnd": 33,
+   "kaken": 681,
+   "fnd_share": 0.67,
+   "kaken_share": 0.71,
+   "gap": -0.04,
+   "intensity": 48.46
+  },
+  {
+   "pref": "茨城県",
+   "fnd": 153,
+   "kaken": 3082,
+   "fnd_share": 3.1,
+   "kaken_share": 3.22,
+   "gap": -0.12,
+   "intensity": 49.64
+  },
+  {
+   "pref": "東京都",
+   "fnd": 1109,
+   "kaken": 21711,
+   "fnd_share": 22.47,
+   "kaken_share": 22.7,
+   "gap": -0.23,
+   "intensity": 51.08
+  },
+  {
+   "pref": "埼玉県",
+   "fnd": 103,
+   "kaken": 2006,
+   "fnd_share": 2.09,
+   "kaken_share": 2.1,
+   "gap": -0.01,
+   "intensity": 51.35
+  },
+  {
+   "pref": "宮城県",
+   "fnd": 213,
+   "kaken": 4040,
+   "fnd_share": 4.32,
+   "kaken_share": 4.22,
+   "gap": 0.09,
+   "intensity": 52.72
+  },
+  {
+   "pref": "兵庫県",
+   "fnd": 115,
+   "kaken": 2174,
+   "fnd_share": 2.33,
+   "kaken_share": 2.27,
+   "gap": 0.06,
+   "intensity": 52.9
+  },
+  {
+   "pref": "富山県",
+   "fnd": 48,
+   "kaken": 906,
+   "fnd_share": 0.97,
+   "kaken_share": 0.95,
+   "gap": 0.03,
+   "intensity": 52.98
+  },
+  {
+   "pref": "大阪府",
+   "fnd": 483,
+   "kaken": 8759,
+   "fnd_share": 9.79,
+   "kaken_share": 9.16,
+   "gap": 0.63,
+   "intensity": 55.14
+  },
+  {
+   "pref": "北海道",
+   "fnd": 189,
+   "kaken": 3314,
+   "fnd_share": 3.83,
+   "kaken_share": 3.47,
+   "gap": 0.36,
+   "intensity": 57.03
+  },
+  {
+   "pref": "新潟県",
+   "fnd": 91,
+   "kaken": 1537,
+   "fnd_share": 1.84,
+   "kaken_share": 1.61,
+   "gap": 0.24,
+   "intensity": 59.21
+  },
+  {
+   "pref": "三重県",
+   "fnd": 55,
+   "kaken": 924,
+   "fnd_share": 1.11,
+   "kaken_share": 0.97,
+   "gap": 0.15,
+   "intensity": 59.52
+  },
+  {
+   "pref": "岐阜県",
+   "fnd": 55,
+   "kaken": 922,
+   "fnd_share": 1.11,
+   "kaken_share": 0.96,
+   "gap": 0.15,
+   "intensity": 59.65
+  },
+  {
+   "pref": "千葉県",
+   "fnd": 114,
+   "kaken": 1886,
+   "fnd_share": 2.31,
+   "kaken_share": 1.97,
+   "gap": 0.34,
+   "intensity": 60.45
+  },
+  {
+   "pref": "石川県",
+   "fnd": 104,
+   "kaken": 1674,
+   "fnd_share": 2.11,
+   "kaken_share": 1.75,
+   "gap": 0.36,
+   "intensity": 62.13
+  },
+  {
+   "pref": "京都府",
+   "fnd": 501,
+   "kaken": 7727,
+   "fnd_share": 10.15,
+   "kaken_share": 8.08,
+   "gap": 2.07,
+   "intensity": 64.84
+  },
+  {
+   "pref": "福岡県",
+   "fnd": 250,
+   "kaken": 3844,
+   "fnd_share": 5.06,
+   "kaken_share": 4.02,
+   "gap": 1.05,
+   "intensity": 65.04
+  },
+  {
+   "pref": "岡山県",
+   "fnd": 132,
+   "kaken": 1957,
+   "fnd_share": 2.67,
+   "kaken_share": 2.05,
+   "gap": 0.63,
+   "intensity": 67.45
+  },
+  {
+   "pref": "群馬県",
+   "fnd": 70,
+   "kaken": 967,
+   "fnd_share": 1.42,
+   "kaken_share": 1.01,
+   "gap": 0.41,
+   "intensity": 72.39
+  },
+  {
+   "pref": "愛知県",
+   "fnd": 286,
+   "kaken": 3391,
+   "fnd_share": 5.79,
+   "kaken_share": 3.55,
+   "gap": 2.25,
+   "intensity": 84.34
+  },
+  {
+   "pref": "熊本県",
+   "fnd": 122,
+   "kaken": 1314,
+   "fnd_share": 2.47,
+   "kaken_share": 1.37,
+   "gap": 1.1,
+   "intensity": 92.85
+  }
+ ],
+ "career_positions": [
+  [
+   "助教",
+   1127
+  ],
+  [
+   "准教授",
+   1029
+  ],
+  [
+   "教授",
+   963
+  ],
+  [
+   "講師",
+   447
+  ],
+  [
+   "特任助教",
+   166
+  ],
+  [
+   "研究員",
+   131
+  ],
+  [
+   "博士後期課程",
+   62
+  ],
+  [
+   "特任准教授",
+   58
+  ],
+  [
+   "主任研究員",
+   57
+  ],
+  [
+   "特任講師",
+   52
+  ],
+  [
+   "博士課程",
+   48
+  ],
+  [
+   "専任講師",
+   46
+  ]
+ ],
+ "institution_tier": [
+  [
+   "その他大学(地方国立・私立等)",
+   4836
+  ],
+  [
+   "旧帝大7",
+   2201
+  ],
+  [
+   "その他/不明",
+   885
+  ],
+  [
+   "研究機関等",
+   803
+  ]
+ ]
+}

@@ -110,7 +110,7 @@ S.append("<h3>1件あたり助成額分布</h3>" + bars(fmap["amount_per_award_p
 # ch10
 S.append("<section id='ch10'><div class='chlabel'>CHAPTER 10 — REPORTS</div><h2>10. 分析レポート・データソース</h2><div class='rule'></div>")
 S.append("<p class='lead'>本DBの多次元分析は専用レポートで詳細に提供。全データは内閣府 公益法人information・各財団公式サイト・研究者DBに接地し、生成と検証を分離（独立検証）した。捏造ゼロ・出典URL必須。</p>")
-S.append("<a class='cta' href='cfg-field-map.html'>研究助成 領域MAP（A-E統合）</a><a class='cta o' href='cfg-progress-report.html'>精緻化 進捗報告書</a>")
+S.append("<a class='cta' href='cfg-strategy.html'>集中支援戦略（インパクト分析）</a><a class='cta' href='cfg-field-map.html'>研究助成 領域MAP（A-E統合）</a><a class='cta o' href='cfg-progress-report.html'>精緻化 進捗報告書</a>")
 S.append("<h3>データソースと接地</h3>" + kv([("財団基礎・住所・所管庁", "内閣府 公益法人information（権威レジストリ）"), ("採択者・役員・審査員・金額・応募要項", "各財団公式サイト（codex収集・出典URL必須）"), ("学問分野・研究者連携", "研究者DB 31.1万人版（本体∪サブ・AGD 55分野）"), ("科研費照合", "KAKEN 23.5万人（rid_agd_field）"), ("品質保証", "生成と検証の分離（fable独立検証）・捏造ゼロ")]) + "</section>")
 S.append("<div class='foot'><span>NPO法人ミラツク ／ esse-sense</span><span>CFG 詳細ダッシュボード ／ 2026.07.16 ／ 全数実測・研究者DB 31.1万人接続</span></div>")
 S.append("</main></div></body></html>")

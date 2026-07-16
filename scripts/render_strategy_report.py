@@ -1,0 +1,111 @@
+#!/usr/bin/env python3
+"""企業財団 研究助成 集中支援戦略レポート — 赤白CI・A-E統合MAP と同型。
+   fable検証済(2度是正)の honest な結論を提言化。分野×機関×キャリアの実装単位。
+   ※ HTML中の literal % (CSS等) を壊さないため %-format でなく token 置換で組む。"""
+import json
+d = json.load(open("research_results/strategic_final.json"))
+
+def bars(data, pct_of=None):
+    mx = max((n for _, n in data), default=1)
+    out = []
+    for k, n in data:
+        extra = " (%.1f%%)" % (100 * n / pct_of) if pct_of else ""
+        w = int(100 * n / mx)
+        out.append('<div class="bar"><span class="bl">' + k + '</span>'
+                   '<span class="bt"><span class="bf" style="width:' + str(w) + '%"></span></span>'
+                   '<span class="bn">' + "{:,}".format(n) + "件" + extra + '</span></div>')
+    return "".join(out)
+
+N = d["n"]
+tier_rows = "".join(
+    "<tr><td>" + x["field"] + "</td>"
+    "<td class='n'>" + str(x["total"]) + "</td>"
+    "<td class='n'>" + ("%.0f" % x["旧帝大%"]) + "%</td>"
+    "<td class='n'>" + ("%.0f" % x["非旧帝大%"]) + "%</td>"
+    "<td class='n'>" + ("%.0f" % x["研究機関%"]) + "%</td></tr>"
+    for x in d["field_tier"])
+target_bars = bars(d["target_nonkyutei_young"])
+field_bars = bars([(k, v) for k, v in d["field_dist"] if k != "その他・未分類"][:10], pct_of=N)
+Nc = "{:,}".format(N)
+
+TEMPLATE = r"""<!DOCTYPE html><html lang="ja"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>企業財団 研究助成 集中支援戦略 — 最大インパクトのカテゴリー特定</title><link rel="icon" href="https://esse-sense.com/favicon.ico">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&family=Fira+Code&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#FFF;--ink:#121212;--soft:#555;--mute:#8A7868;--accent:#CC1400;--accent2:#0E4F6B;--rule:#E4E0D8;--surf:#FAF8F4;--good:#3F6B2E}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:"Noto Sans JP",sans-serif;line-height:1.9;font-feature-settings:"palt"}
+.wrap{max-width:840px;margin:0 auto;padding:44px 30px}
+.cover{border-bottom:3px solid var(--ink);padding-bottom:22px;margin-bottom:30px}
+.badge{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.24em;color:var(--accent);border:1px solid var(--accent);padding:4px 12px;margin-bottom:16px}
+h1{font-size:27px;font-weight:900;line-height:1.4}
+.sub{font-size:14px;color:var(--soft);margin-top:8px}
+.meta{font-size:11.5px;color:var(--mute);margin-top:12px;font-family:"Fira Code"}
+h2{font-size:20px;font-weight:900;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--rule)}
+.chn{font-family:"Fira Code";font-size:11px;color:var(--accent);letter-spacing:.15em}
+.rule{width:48px;height:3px;background:var(--accent);margin:8px 0 16px}
+p.lead{font-size:14px;background:var(--surf);border-left:3px solid var(--accent);padding:12px 16px;margin:14px 0}
+p.body{font-size:14px;margin:12px 0;text-align:justify}
+.rec{background:var(--ink);color:#F4F1EC;padding:20px 24px;border-radius:5px;margin:20px 0}
+.rec .lbl{font-size:11px;letter-spacing:.2em;color:#E8A;margin-bottom:8px}
+.rec h3{color:#fff;font-size:16px;margin:0 0 8px}.rec p{font-size:13.5px;line-height:1.85}
+.bar{display:grid;grid-template-columns:130px 1fr 96px;align-items:center;gap:10px;margin:3px 0;font-size:12.5px}
+.bl{text-align:right;color:var(--soft)}.bt{background:var(--surf);height:15px;border-radius:2px;overflow:hidden}.bf{display:block;height:100%;background:var(--accent)}.bn{font-family:"Fira Code";font-size:11px;text-align:right}
+table{width:100%;border-collapse:collapse;font-size:12.5px;margin:12px 0}
+th{background:var(--ink);color:#fff;padding:7px 10px;text-align:left;font-weight:500}
+td{padding:6px 10px;border-bottom:1px solid var(--rule)}td.n{font-family:"Fira Code";text-align:right}
+h3{font-size:14px;font-weight:700;margin:18px 0 6px;color:var(--accent)}
+.rank{display:flex;gap:14px;align-items:flex-start;margin:16px 0;padding:14px 16px;background:var(--surf);border-radius:5px}
+.rnum{font-family:"Fira Code";font-size:28px;font-weight:900;color:var(--accent);line-height:1}
+.rbody b{color:var(--accent)}
+.caveat{background:#FFF8F0;border:1px solid #E8D0B0;border-left:3px solid var(--accent2);padding:12px 16px;font-size:12.5px;margin:14px 0;color:var(--soft)}
+.foot{margin-top:40px;padding-top:14px;border-top:2px solid var(--accent);font-size:11px;color:var(--mute);display:flex;justify-content:space-between}
+@media(max-width:640px){.bar{grid-template-columns:96px 1fr 80px}}
+</style></head><body><div class="wrap">
+<div class="cover"><span class="badge">STRATEGIC ANALYSIS</span>
+<h1>企業財団 研究助成<br>集中支援すべき研究者カテゴリー</h1>
+<p class="sub">最も高いインパクト（追加性）を起こすための集中投資先 — 学術領域・機関・キャリア・属性の特定</p>
+<div class="meta">分析基盤: 企業財団 研究助成採択者 __N__名 × 研究者DB31.1万人・科研費23.5万人（母集団） ／ 独立検証2回（生成と検証の分離） ／ 2026-07-16 ／ NPO法人ミラツク・esse-sense</div></div>
+
+<span class="chn">SUMMARY</span><h2>結論：3カテゴリーへの集中</h2><div class="rule"></div>
+<p class="lead">企業財団の研究助成<b>__N__名</b>を研究者DB・科研費母集団と照合した結果、最大インパクト（同じ予算で最大の追加性）を生む集中支援先は、<b>①非旧帝大・地方の若手研究者 ②女性研究者専用トラック ③旧帝大依存度の高い理系分野（物理・数理）の地方展開</b>である。旧帝大シニアへの重複的集中を避け、母集団比で構造的に手薄な層へ配分を移すことが鍵となる。</p>
+
+<div class="rank"><div class="rnum">1</div><div class="rbody"><b>非旧帝大・地方大学の若手研究者</b>（生命・自然・工学系）<br>
+研究者母集団の<b>75.4%</b>を占めるが、企業財団助成では<b>59.6%</b>に留まる（<b>−15.8pt</b>）。逆に旧帝大7大学は母集団15.4%で助成29.7%（+14.3pt の過剰集中）。非旧帝大の若手は科研費採択率・内部予算とも低く、<b>1件の助成がキャリアを決定づける追加性が最も高い</b>。</div></div>
+
+<div class="rank"><div class="rnum">2</div><div class="rbody"><b>女性研究者専用トラック</b><br>
+企業財団の研究助成公募 453件のうち、<b>真の女性限定は約4件（1%未満）</b>。女性研究者は母集団の約17〜18%を占めるにもかかわらず専用機会がほぼ皆無で、<b>機会供給の最大の空白</b>。企業財団がミッション（科学技術・生命）を保ったまま裁量で新設しやすい。</div></div>
+
+<div class="rank"><div class="rnum">3</div><div class="rbody"><b>旧帝大依存度が高い理系分野の地方展開</b><br>
+分野別に見ると<b>物理・数理は旧帝大44%</b>と依存度が最も高い（下表）。この構造的に旧帝大偏重な基礎科学分野で、非旧帝大の若手を掘り起こすことが、層の厚みを国全体に広げる。</div></div>
+
+<span class="chn">01 — FIELD</span><h2>分野別 助成分布（精緻分類）</h2><div class="rule"></div>
+<p class="body">採択課題を研究者DB由来の学問分野＋課題名分類のハイブリッドで精緻に分類（未分類率を38.7%→<b>18.8%</b>に半減）。企業財団助成は<b>臨床医学19.4%・生物学15.9%・化学8.3%</b>と生命・自然科学に厚い（企業財団のミッション適合と整合）。</p>
+__FIELD_BARS__
+
+<span class="chn">02 — INSTITUTION</span><h2>機関ティアの代表性ギャップ</h2><div class="rule"></div>
+<p class="lead">追加性の核心。旧帝大7大学は<b>研究者の15%しか占めないのに助成の30%</b>を得ており、非旧帝大（研究者の75%）は助成60%に留まる。この<b>±15ptのギャップ</b>が、非旧帝大の若手に配分を移すべき定量的根拠。</p>
+<h3>分野別 機関ティア構成（非旧帝大%が低い＝旧帝大偏重＝地方展開の余地大）</h3>
+<table><tr><th>分野</th><th>採択数</th><th>旧帝大7</th><th>非旧帝大</th><th>研究機関</th></tr>__TIER_ROWS__</table>
+
+<span class="chn">03 — IMPLEMENTATION</span><h2>実装単位：非旧帝大 × 若手 の分野別</h2><div class="rule"></div>
+<p class="body">集中支援を実装可能なセルに落とす。<b>非旧帝大の若手研究者</b>を分野別に見ると、臨床医学289件・生物学199件・生化学100件…と、既存の薄い実績を厚くする具体的ターゲットが定量化される。</p>
+__TARGET_BARS__
+
+<span class="chn">CAVEAT</span><h2>分析の限界（独立検証で明示）</h2><div class="rule"></div>
+<div class="caveat"><b>本分析は2度の独立検証（fable）を経て、測定バイアス・虚偽表示・過大計上を是正した。</b>なお以下は honest に限界として明示する：<br>
+・「追加性」は厳密には<b>代表性ギャップ</b>（応募率・代替資金アクセスは未測定）。ただしギャップが±15ptと大きく結論の向きは頑健。<br>
+・分野分類は未分類18.8%が残る（RID権威3,986＋テーマ1,118のハイブリッド）。分野序列は方向性として信頼できるが、細部の投資配分には更なる精緻化が有効。<br>
+・女性の採択実績（結果）は採択者に性別フィールドがなく未測定。機会供給（公募）の空白のみを根拠とする。<br>
+・機関ティアは所属マッピングに一部欠損（財団側25%不明）。ギャップの大きさから結論の向きは覆りにくい。</div>
+
+<div class="foot"><span>NPO法人ミラツク ／ esse-sense</span><span>企業財団 研究助成 集中支援戦略 ／ 2026.07.16 ／ 全数実測・研究者DB接続・独立検証済</span></div>
+</div></body></html>"""
+
+html = (TEMPLATE
+        .replace("__N__", Nc)
+        .replace("__FIELD_BARS__", field_bars)
+        .replace("__TIER_ROWS__", tier_rows)
+        .replace("__TARGET_BARS__", target_bars))
+open("report/cfg-strategy.html", "w").write(html)
+print("saved report/cfg-strategy.html (%d KB)" % (len(html) // 1024))
