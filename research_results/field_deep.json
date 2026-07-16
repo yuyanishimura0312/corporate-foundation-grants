@@ -1,0 +1,1293 @@
+{
+ "n_all": 6289,
+ "n_matched": 4022,
+ "match_rate": 64.0,
+ "distinct_researchers": 3435,
+ "multi_winners": 455,
+ "kaken_total": 235385,
+ "agd_fields_in_cfg": 44,
+ "field_dist_agd55": [
+  [
+   "西洋医学",
+   982
+  ],
+  [
+   "生物学",
+   977
+  ],
+  [
+   "化学",
+   419
+  ],
+  [
+   "生化学",
+   379
+  ],
+  [
+   "物理学",
+   189
+  ],
+  [
+   "生理学",
+   97
+  ],
+  [
+   "機械工学",
+   95
+  ],
+  [
+   "計算機科学",
+   94
+  ],
+  [
+   "薬学",
+   93
+  ],
+  [
+   "社会学",
+   81
+  ],
+  [
+   "電気工学",
+   63
+  ],
+  [
+   "農学",
+   53
+  ],
+  [
+   "心理学",
+   51
+  ],
+  [
+   "経済学",
+   46
+  ],
+  [
+   "生命工学",
+   45
+  ],
+  [
+   "土木工学",
+   39
+  ],
+  [
+   "歴史学",
+   32
+  ],
+  [
+   "教育学",
+   29
+  ],
+  [
+   "地球科学",
+   26
+  ],
+  [
+   "生態学",
+   25
+  ],
+  [
+   "数学",
+   24
+  ],
+  [
+   "認知科学",
+   23
+  ],
+  [
+   "法学",
+   22
+  ],
+  [
+   "天文学",
+   19
+  ],
+  [
+   "政治学",
+   18
+  ],
+  [
+   "統計学",
+   13
+  ],
+  [
+   "気象学",
+   13
+  ],
+  [
+   "言語学",
+   12
+  ],
+  [
+   "建築学",
+   11
+  ],
+  [
+   "人類学",
+   10
+  ],
+  [
+   "芸術理論",
+   7
+  ],
+  [
+   "地理学",
+   6
+  ],
+  [
+   "文学",
+   4
+  ],
+  [
+   "倫理学",
+   3
+  ],
+  [
+   "分類学",
+   3
+  ],
+  [
+   "研究方法論",
+   3
+  ],
+  [
+   "計量学",
+   3
+  ],
+  [
+   "音楽学",
+   3
+  ],
+  [
+   "系統理論",
+   2
+  ],
+  [
+   "哲学",
+   2
+  ],
+  [
+   "コミュニケーション論",
+   2
+  ],
+  [
+   "地質学",
+   2
+  ],
+  [
+   "情報理論",
+   1
+  ],
+  [
+   "東洋医学",
+   1
+  ]
+ ],
+ "representation": [
+  {
+   "field": "化学",
+   "cfg_n": 342,
+   "cfg_share": 9.96,
+   "kaken_n": 12364,
+   "kaken_share": 5.25,
+   "ratio": 1.9,
+   "gap_pt": 4.7
+  },
+  {
+   "field": "西洋医学",
+   "cfg_n": 835,
+   "cfg_share": 24.31,
+   "kaken_n": 50980,
+   "kaken_share": 21.66,
+   "ratio": 1.12,
+   "gap_pt": 2.65
+  },
+  {
+   "field": "地球科学",
+   "cfg_n": 25,
+   "cfg_share": 0.73,
+   "kaken_n": 2959,
+   "kaken_share": 1.26,
+   "ratio": 0.58,
+   "gap_pt": -0.53
+  },
+  {
+   "field": "生化学",
+   "cfg_n": 304,
+   "cfg_share": 8.85,
+   "kaken_n": 11665,
+   "kaken_share": 4.96,
+   "ratio": 1.79,
+   "gap_pt": 3.89
+  },
+  {
+   "field": "生物学",
+   "cfg_n": 816,
+   "cfg_share": 23.76,
+   "kaken_n": 32748,
+   "kaken_share": 13.91,
+   "ratio": 1.71,
+   "gap_pt": 9.84
+  },
+  {
+   "field": "生理学",
+   "cfg_n": 82,
+   "cfg_share": 2.39,
+   "kaken_n": 5768,
+   "kaken_share": 2.45,
+   "ratio": 0.97,
+   "gap_pt": -0.06
+  },
+  {
+   "field": "農学",
+   "cfg_n": 46,
+   "cfg_share": 1.34,
+   "kaken_n": 3643,
+   "kaken_share": 1.55,
+   "ratio": 0.87,
+   "gap_pt": -0.21
+  },
+  {
+   "field": "計算機科学",
+   "cfg_n": 87,
+   "cfg_share": 2.53,
+   "kaken_n": 8599,
+   "kaken_share": 3.65,
+   "ratio": 0.69,
+   "gap_pt": -1.12
+  },
+  {
+   "field": "機械工学",
+   "cfg_n": 84,
+   "cfg_share": 2.45,
+   "kaken_n": 6505,
+   "kaken_share": 2.76,
+   "ratio": 0.88,
+   "gap_pt": -0.32
+  },
+  {
+   "field": "生命工学",
+   "cfg_n": 40,
+   "cfg_share": 1.16,
+   "kaken_n": 2411,
+   "kaken_share": 1.02,
+   "ratio": 1.14,
+   "gap_pt": 0.14
+  },
+  {
+   "field": "電気工学",
+   "cfg_n": 56,
+   "cfg_share": 1.63,
+   "kaken_n": 4225,
+   "kaken_share": 1.79,
+   "ratio": 0.91,
+   "gap_pt": -0.16
+  },
+  {
+   "field": "物理学",
+   "cfg_n": 164,
+   "cfg_share": 4.77,
+   "kaken_n": 12742,
+   "kaken_share": 5.41,
+   "ratio": 0.88,
+   "gap_pt": -0.64
+  },
+  {
+   "field": "天文学",
+   "cfg_n": 17,
+   "cfg_share": 0.49,
+   "kaken_n": 1184,
+   "kaken_share": 0.5,
+   "ratio": 0.98,
+   "gap_pt": -0.01
+  },
+  {
+   "field": "建築学",
+   "cfg_n": 11,
+   "cfg_share": 0.32,
+   "kaken_n": 970,
+   "kaken_share": 0.41,
+   "ratio": 0.78,
+   "gap_pt": -0.09
+  },
+  {
+   "field": "社会学",
+   "cfg_n": 79,
+   "cfg_share": 2.3,
+   "kaken_n": 11689,
+   "kaken_share": 4.97,
+   "ratio": 0.46,
+   "gap_pt": -2.67
+  },
+  {
+   "field": "生態学",
+   "cfg_n": 24,
+   "cfg_share": 0.7,
+   "kaken_n": 2849,
+   "kaken_share": 1.21,
+   "ratio": 0.58,
+   "gap_pt": -0.51
+  },
+  {
+   "field": "政治学",
+   "cfg_n": 18,
+   "cfg_share": 0.52,
+   "kaken_n": 2821,
+   "kaken_share": 1.2,
+   "ratio": 0.44,
+   "gap_pt": -0.67
+  },
+  {
+   "field": "土木工学",
+   "cfg_n": 39,
+   "cfg_share": 1.14,
+   "kaken_n": 3369,
+   "kaken_share": 1.43,
+   "ratio": 0.79,
+   "gap_pt": -0.3
+  },
+  {
+   "field": "経済学",
+   "cfg_n": 46,
+   "cfg_share": 1.34,
+   "kaken_n": 7177,
+   "kaken_share": 3.05,
+   "ratio": 0.44,
+   "gap_pt": -1.71
+  },
+  {
+   "field": "法学",
+   "cfg_n": 21,
+   "cfg_share": 0.61,
+   "kaken_n": 2659,
+   "kaken_share": 1.13,
+   "ratio": 0.54,
+   "gap_pt": -0.52
+  },
+  {
+   "field": "人類学",
+   "cfg_n": 9,
+   "cfg_share": 0.26,
+   "kaken_n": 1936,
+   "kaken_share": 0.82,
+   "ratio": 0.32,
+   "gap_pt": -0.56
+  },
+  {
+   "field": "言語学",
+   "cfg_n": 12,
+   "cfg_share": 0.35,
+   "kaken_n": 2739,
+   "kaken_share": 1.16,
+   "ratio": 0.3,
+   "gap_pt": -0.81
+  },
+  {
+   "field": "統計学",
+   "cfg_n": 13,
+   "cfg_share": 0.38,
+   "kaken_n": 1312,
+   "kaken_share": 0.56,
+   "ratio": 0.68,
+   "gap_pt": -0.18
+  },
+  {
+   "field": "歴史学",
+   "cfg_n": 31,
+   "cfg_share": 0.9,
+   "kaken_n": 5694,
+   "kaken_share": 2.42,
+   "ratio": 0.37,
+   "gap_pt": -1.52
+  },
+  {
+   "field": "教育学",
+   "cfg_n": 29,
+   "cfg_share": 0.84,
+   "kaken_n": 10898,
+   "kaken_share": 4.63,
+   "ratio": 0.18,
+   "gap_pt": -3.79
+  },
+  {
+   "field": "気象学",
+   "cfg_n": 12,
+   "cfg_share": 0.35,
+   "kaken_n": 1036,
+   "kaken_share": 0.44,
+   "ratio": 0.79,
+   "gap_pt": -0.09
+  },
+  {
+   "field": "心理学",
+   "cfg_n": 43,
+   "cfg_share": 1.25,
+   "kaken_n": 6656,
+   "kaken_share": 2.83,
+   "ratio": 0.44,
+   "gap_pt": -1.58
+  },
+  {
+   "field": "薬学",
+   "cfg_n": 65,
+   "cfg_share": 1.89,
+   "kaken_n": 2438,
+   "kaken_share": 1.04,
+   "ratio": 1.83,
+   "gap_pt": 0.86
+  },
+  {
+   "field": "数学",
+   "cfg_n": 24,
+   "cfg_share": 0.7,
+   "kaken_n": 4808,
+   "kaken_share": 2.04,
+   "ratio": 0.34,
+   "gap_pt": -1.34
+  },
+  {
+   "field": "認知科学",
+   "cfg_n": 20,
+   "cfg_share": 0.58,
+   "kaken_n": 1339,
+   "kaken_share": 0.57,
+   "ratio": 1.02,
+   "gap_pt": 0.01
+  }
+ ],
+ "over_rep": [
+  {
+   "field": "化学",
+   "cfg_n": 342,
+   "cfg_share": 9.96,
+   "kaken_n": 12364,
+   "kaken_share": 5.25,
+   "ratio": 1.9,
+   "gap_pt": 4.7
+  },
+  {
+   "field": "薬学",
+   "cfg_n": 65,
+   "cfg_share": 1.89,
+   "kaken_n": 2438,
+   "kaken_share": 1.04,
+   "ratio": 1.83,
+   "gap_pt": 0.86
+  },
+  {
+   "field": "生化学",
+   "cfg_n": 304,
+   "cfg_share": 8.85,
+   "kaken_n": 11665,
+   "kaken_share": 4.96,
+   "ratio": 1.79,
+   "gap_pt": 3.89
+  },
+  {
+   "field": "生物学",
+   "cfg_n": 816,
+   "cfg_share": 23.76,
+   "kaken_n": 32748,
+   "kaken_share": 13.91,
+   "ratio": 1.71,
+   "gap_pt": 9.84
+  },
+  {
+   "field": "生命工学",
+   "cfg_n": 40,
+   "cfg_share": 1.16,
+   "kaken_n": 2411,
+   "kaken_share": 1.02,
+   "ratio": 1.14,
+   "gap_pt": 0.14
+  },
+  {
+   "field": "西洋医学",
+   "cfg_n": 835,
+   "cfg_share": 24.31,
+   "kaken_n": 50980,
+   "kaken_share": 21.66,
+   "ratio": 1.12,
+   "gap_pt": 2.65
+  },
+  {
+   "field": "認知科学",
+   "cfg_n": 20,
+   "cfg_share": 0.58,
+   "kaken_n": 1339,
+   "kaken_share": 0.57,
+   "ratio": 1.02,
+   "gap_pt": 0.01
+  },
+  {
+   "field": "天文学",
+   "cfg_n": 17,
+   "cfg_share": 0.49,
+   "kaken_n": 1184,
+   "kaken_share": 0.5,
+   "ratio": 0.98,
+   "gap_pt": -0.01
+  },
+  {
+   "field": "生理学",
+   "cfg_n": 82,
+   "cfg_share": 2.39,
+   "kaken_n": 5768,
+   "kaken_share": 2.45,
+   "ratio": 0.97,
+   "gap_pt": -0.06
+  },
+  {
+   "field": "電気工学",
+   "cfg_n": 56,
+   "cfg_share": 1.63,
+   "kaken_n": 4225,
+   "kaken_share": 1.79,
+   "ratio": 0.91,
+   "gap_pt": -0.16
+  },
+  {
+   "field": "機械工学",
+   "cfg_n": 84,
+   "cfg_share": 2.45,
+   "kaken_n": 6505,
+   "kaken_share": 2.76,
+   "ratio": 0.88,
+   "gap_pt": -0.32
+  },
+  {
+   "field": "物理学",
+   "cfg_n": 164,
+   "cfg_share": 4.77,
+   "kaken_n": 12742,
+   "kaken_share": 5.41,
+   "ratio": 0.88,
+   "gap_pt": -0.64
+  }
+ ],
+ "under_rep": [
+  {
+   "field": "教育学",
+   "cfg_n": 29,
+   "cfg_share": 0.84,
+   "kaken_n": 10898,
+   "kaken_share": 4.63,
+   "ratio": 0.18,
+   "gap_pt": -3.79
+  },
+  {
+   "field": "言語学",
+   "cfg_n": 12,
+   "cfg_share": 0.35,
+   "kaken_n": 2739,
+   "kaken_share": 1.16,
+   "ratio": 0.3,
+   "gap_pt": -0.81
+  },
+  {
+   "field": "人類学",
+   "cfg_n": 9,
+   "cfg_share": 0.26,
+   "kaken_n": 1936,
+   "kaken_share": 0.82,
+   "ratio": 0.32,
+   "gap_pt": -0.56
+  },
+  {
+   "field": "数学",
+   "cfg_n": 24,
+   "cfg_share": 0.7,
+   "kaken_n": 4808,
+   "kaken_share": 2.04,
+   "ratio": 0.34,
+   "gap_pt": -1.34
+  },
+  {
+   "field": "歴史学",
+   "cfg_n": 31,
+   "cfg_share": 0.9,
+   "kaken_n": 5694,
+   "kaken_share": 2.42,
+   "ratio": 0.37,
+   "gap_pt": -1.52
+  },
+  {
+   "field": "政治学",
+   "cfg_n": 18,
+   "cfg_share": 0.52,
+   "kaken_n": 2821,
+   "kaken_share": 1.2,
+   "ratio": 0.44,
+   "gap_pt": -0.67
+  },
+  {
+   "field": "経済学",
+   "cfg_n": 46,
+   "cfg_share": 1.34,
+   "kaken_n": 7177,
+   "kaken_share": 3.05,
+   "ratio": 0.44,
+   "gap_pt": -1.71
+  },
+  {
+   "field": "心理学",
+   "cfg_n": 43,
+   "cfg_share": 1.25,
+   "kaken_n": 6656,
+   "kaken_share": 2.83,
+   "ratio": 0.44,
+   "gap_pt": -1.58
+  },
+  {
+   "field": "社会学",
+   "cfg_n": 79,
+   "cfg_share": 2.3,
+   "kaken_n": 11689,
+   "kaken_share": 4.97,
+   "ratio": 0.46,
+   "gap_pt": -2.67
+  },
+  {
+   "field": "法学",
+   "cfg_n": 21,
+   "cfg_share": 0.61,
+   "kaken_n": 2659,
+   "kaken_share": 1.13,
+   "ratio": 0.54,
+   "gap_pt": -0.52
+  },
+  {
+   "field": "地球科学",
+   "cfg_n": 25,
+   "cfg_share": 0.73,
+   "kaken_n": 2959,
+   "kaken_share": 1.26,
+   "ratio": 0.58,
+   "gap_pt": -0.53
+  },
+  {
+   "field": "生態学",
+   "cfg_n": 24,
+   "cfg_share": 0.7,
+   "kaken_n": 2849,
+   "kaken_share": 1.21,
+   "ratio": 0.58,
+   "gap_pt": -0.51
+  }
+ ],
+ "amount_by_field": [
+  {
+   "field": "西洋医学",
+   "n_amt": 486,
+   "median": 10000000,
+   "avg": 8659732
+  },
+  {
+   "field": "生物学",
+   "n_amt": 554,
+   "median": 10000000,
+   "avg": 8321083
+  },
+  {
+   "field": "生化学",
+   "n_amt": 211,
+   "median": 10000000,
+   "avg": 7688625
+  },
+  {
+   "field": "生理学",
+   "n_amt": 53,
+   "median": 10000000,
+   "avg": 8264150
+  },
+  {
+   "field": "計算機科学",
+   "n_amt": 16,
+   "median": 10000000,
+   "avg": 7373125
+  },
+  {
+   "field": "心理学",
+   "n_amt": 19,
+   "median": 10000000,
+   "avg": 8918421
+  },
+  {
+   "field": "生命工学",
+   "n_amt": 15,
+   "median": 10000000,
+   "avg": 8133333
+  },
+  {
+   "field": "物理学",
+   "n_amt": 26,
+   "median": 5250000,
+   "avg": 5760000
+  },
+  {
+   "field": "電気工学",
+   "n_amt": 10,
+   "median": 5000000,
+   "avg": 5150000
+  },
+  {
+   "field": "化学",
+   "n_amt": 82,
+   "median": 3000000,
+   "avg": 4346341
+  },
+  {
+   "field": "歴史学",
+   "n_amt": 20,
+   "median": 2535000,
+   "avg": 2375500
+  },
+  {
+   "field": "薬学",
+   "n_amt": 36,
+   "median": 2500000,
+   "avg": 4333333
+  },
+  {
+   "field": "社会学",
+   "n_amt": 11,
+   "median": 2280000,
+   "avg": 3176363
+  }
+ ],
+ "specialization": [
+  {
+   "field": "西洋医学",
+   "total": 982,
+   "n_foundations": 116,
+   "hhi": 0.221,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 454,
+     "share": 46.2
+    },
+    {
+     "name": "公益財団法人持田記念医学薬学振興財団",
+     "n": 37,
+     "share": 3.8
+    },
+    {
+     "name": "公益財団法人三菱財団",
+     "n": 32,
+     "share": 3.3
+    }
+   ]
+  },
+  {
+   "field": "生物学",
+   "total": 977,
+   "n_foundations": 92,
+   "hhi": 0.26,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 489,
+     "share": 50.1
+    },
+    {
+     "name": "公益財団法人三菱財団",
+     "n": 65,
+     "share": 6.7
+    },
+    {
+     "name": "公益財団法人持田記念医学薬学振興財団",
+     "n": 31,
+     "share": 3.2
+    }
+   ]
+  },
+  {
+   "field": "化学",
+   "total": 419,
+   "n_foundations": 58,
+   "hhi": 0.046,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 58,
+     "share": 13.8
+    },
+    {
+     "name": "公益財団法人旭硝子財団",
+     "n": 30,
+     "share": 7.2
+    },
+    {
+     "name": "公益財団法人三菱財団",
+     "n": 24,
+     "share": 5.7
+    }
+   ]
+  },
+  {
+   "field": "生化学",
+   "total": 379,
+   "n_foundations": 70,
+   "hhi": 0.255,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 188,
+     "share": 49.6
+    },
+    {
+     "name": "公益財団法人三菱財団",
+     "n": 23,
+     "share": 6.1
+    },
+    {
+     "name": "公益財団法人稲盛財団",
+     "n": 11,
+     "share": 2.9
+    }
+   ]
+  },
+  {
+   "field": "物理学",
+   "total": 189,
+   "n_foundations": 53,
+   "hhi": 0.048,
+   "top": [
+    {
+     "name": "公益財団法人三菱財団",
+     "n": 21,
+     "share": 11.1
+    },
+    {
+     "name": "公益財団法人稲盛財団",
+     "n": 20,
+     "share": 10.6
+    },
+    {
+     "name": "公益財団法人精密測定技術振興財団",
+     "n": 18,
+     "share": 9.5
+    }
+   ]
+  },
+  {
+   "field": "生理学",
+   "total": 97,
+   "n_foundations": 31,
+   "hhi": 0.276,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 50,
+     "share": 51.5
+    },
+    {
+     "name": "公益財団法人稲盛財団",
+     "n": 4,
+     "share": 4.1
+    },
+    {
+     "name": "公益財団法人第一三共生命科学研究振興財団",
+     "n": 4,
+     "share": 4.1
+    }
+   ]
+  },
+  {
+   "field": "機械工学",
+   "total": 95,
+   "n_foundations": 39,
+   "hhi": 0.056,
+   "top": [
+    {
+     "name": "公益財団法人大澤科学技術振興財団",
+     "n": 13,
+     "share": 13.7
+    },
+    {
+     "name": "公益財団法人日比科学技術振興財団",
+     "n": 10,
+     "share": 10.5
+    },
+    {
+     "name": "公益財団法人立石科学技術振興財団",
+     "n": 8,
+     "share": 8.4
+    }
+   ]
+  },
+  {
+   "field": "計算機科学",
+   "total": 94,
+   "n_foundations": 43,
+   "hhi": 0.046,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 12,
+     "share": 12.8
+    },
+    {
+     "name": "公益財団法人立石科学技術振興財団",
+     "n": 9,
+     "share": 9.6
+    },
+    {
+     "name": "公益財団法人日比科学技術振興財団",
+     "n": 5,
+     "share": 5.3
+    }
+   ]
+  },
+  {
+   "field": "薬学",
+   "total": 93,
+   "n_foundations": 36,
+   "hhi": 0.142,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 33,
+     "share": 35.5
+    },
+    {
+     "name": "公益財団法人持田記念医学薬学振興財団",
+     "n": 5,
+     "share": 5.4
+    },
+    {
+     "name": "公益財団法人稲盛財団",
+     "n": 4,
+     "share": 4.3
+    }
+   ]
+  },
+  {
+   "field": "社会学",
+   "total": 81,
+   "n_foundations": 41,
+   "hhi": 0.043,
+   "top": [
+    {
+     "name": "公益財団法人三菱財団",
+     "n": 9,
+     "share": 11.1
+    },
+    {
+     "name": "公益財団法人江頭ホスピタリティ事業振興財団",
+     "n": 6,
+     "share": 7.4
+    },
+    {
+     "name": "公益財団法人旭硝子財団",
+     "n": 5,
+     "share": 6.2
+    }
+   ]
+  },
+  {
+   "field": "電気工学",
+   "total": 63,
+   "n_foundations": 30,
+   "hhi": 0.052,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 7,
+     "share": 11.1
+    },
+    {
+     "name": "公益財団法人精密測定技術振興財団",
+     "n": 7,
+     "share": 11.1
+    },
+    {
+     "name": "公益財団法人稲盛財団",
+     "n": 4,
+     "share": 6.3
+    }
+   ]
+  },
+  {
+   "field": "農学",
+   "total": 53,
+   "n_foundations": 28,
+   "hhi": 0.064,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 8,
+     "share": 15.1
+    },
+    {
+     "name": "公益財団法人旭硝子財団",
+     "n": 5,
+     "share": 9.4
+    },
+    {
+     "name": "公益財団法人飯島藤十郎記念食品科学振興財団",
+     "n": 5,
+     "share": 9.4
+    }
+   ]
+  },
+  {
+   "field": "心理学",
+   "total": 51,
+   "n_foundations": 26,
+   "hhi": 0.121,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 16,
+     "share": 31.4
+    },
+    {
+     "name": "公益財団法人三菱財団",
+     "n": 3,
+     "share": 5.9
+    },
+    {
+     "name": "公益財団法人稲盛財団",
+     "n": 3,
+     "share": 5.9
+    }
+   ]
+  },
+  {
+   "field": "経済学",
+   "total": 46,
+   "n_foundations": 15,
+   "hhi": 0.199,
+   "top": [
+    {
+     "name": "全国銀行学術研究振興財団",
+     "n": 18,
+     "share": 39.1
+    },
+    {
+     "name": "公益財団法人三菱財団",
+     "n": 7,
+     "share": 15.2
+    },
+    {
+     "name": "公益財団法人旭硝子財団",
+     "n": 4,
+     "share": 8.7
+    }
+   ]
+  },
+  {
+   "field": "生命工学",
+   "total": 45,
+   "n_foundations": 26,
+   "hhi": 0.119,
+   "top": [
+    {
+     "name": "公益財団法人武田科学振興財団",
+     "n": 14,
+     "share": 31.1
+    },
+    {
+     "name": "公益財団法人稲盛財団",
+     "n": 3,
+     "share": 6.7
+    },
+    {
+     "name": "公益財団法人中谷財団",
+     "n": 2,
+     "share": 4.4
+    }
+   ]
+  },
+  {
+   "field": "土木工学",
+   "total": 39,
+   "n_foundations": 24,
+   "hhi": 0.073,
+   "top": [
+    {
+     "name": "鉄鋼環境基金　（旧：鉄鋼業環境保全技術開発基金）",
+     "n": 7,
+     "share": 17.9
+    },
+    {
+     "name": "公益財団法人クリタ水・環境科学振興財団",
+     "n": 4,
+     "share": 10.3
+    },
+    {
+     "name": "公益財団法人内田エネルギー科学振興財団",
+     "n": 4,
+     "share": 10.3
+    }
+   ]
+  }
+ ],
+ "subtheme": {
+  "医学系(西洋医学)": {
+   "base": 982,
+   "dist": [
+    [
+     "がん・腫瘍",
+     195
+    ],
+    [
+     "脳・神経・精神",
+     113
+    ],
+    [
+     "免疫・感染",
+     101
+    ],
+    [
+     "循環器・代謝",
+     77
+    ],
+    [
+     "再生・幹細胞",
+     26
+    ],
+    [
+     "加齢・発生",
+     26
+    ]
+   ],
+   "unclassified": 444
+  },
+  "生物学": {
+   "base": 1002,
+   "dist": [
+    [
+     "分子・細胞",
+     405
+    ],
+    [
+     "植物・微生物",
+     63
+    ],
+    [
+     "生態・多様性",
+     31
+    ],
+    [
+     "動物・行動",
+     22
+    ]
+   ],
+   "unclassified": 481
+  },
+  "化学": {
+   "base": 798,
+   "dist": [
+    [
+     "有機・合成",
+     155
+    ],
+    [
+     "生化学・代謝",
+     90
+    ],
+    [
+     "高分子・材料",
+     82
+    ],
+    [
+     "物理化学・電気化学",
+     12
+    ]
+   ],
+   "unclassified": 459
+  }
+ },
+ "landscape": {
+  "top_foundations": [
+   {
+    "name": "公益財団法人武田科学振興財団",
+    "n": 1665,
+    "share": 26.5
+   },
+   {
+    "name": "公益財団法人三菱財団",
+    "n": 292,
+    "share": 4.6
+   },
+   {
+    "name": "公益財団法人稲盛財団",
+    "n": 165,
+    "share": 2.6
+   },
+   {
+    "name": "公益財団法人ヨネックススポーツ振興財団",
+    "n": 145,
+    "share": 2.3
+   },
+   {
+    "name": "公益財団法人旭硝子財団",
+    "n": 118,
+    "share": 1.9
+   },
+   {
+    "name": "エネルギア文化・スポーツ財団",
+    "n": 118,
+    "share": 1.9
+   },
+   {
+    "name": "公益財団法人持田記念医学薬学振興財団",
+    "n": 100,
+    "share": 1.6
+   },
+   {
+    "name": "アステラス病態代謝研究会",
+    "n": 80,
+    "share": 1.3
+   }
+  ],
+  "takeda_n": 1665,
+  "takeda_share": 26.5,
+  "amt_filled": 1627,
+  "amt_takeda_share": 83.5,
+  "takeda_amt_dist": [
+   {
+    "amt": 10000000,
+    "n": 840
+   },
+   {
+    "amt": 2000000,
+    "n": 212
+   },
+   {
+    "amt": 3000000,
+    "n": 147
+   },
+   {
+    "amt": 5000000,
+    "n": 114
+   },
+   {
+    "amt": 30000000,
+    "n": 46
+   }
+  ],
+  "amt10m_share": 51.7
+ },
+ "match_by_kind": {
+  "stem": {
+   "total": 3431,
+   "matched": 2672,
+   "rate": 77.9
+  },
+  "culture": {
+   "total": 692,
+   "matched": 80,
+   "rate": 11.6
+  },
+  "other": {
+   "total": 2166,
+   "matched": 1270,
+   "rate": 58.6
+  }
+ }
+}
