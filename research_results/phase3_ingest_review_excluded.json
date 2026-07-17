@@ -184,5 +184,11 @@
   "field": "total_assets",
   "value": 91780000,
   "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人放射線計測協会",
+  "field": "total_assets",
+  "value": 282434144,
+  "reason": "net_assets_not_total (正味財産)"
  }
 ]
