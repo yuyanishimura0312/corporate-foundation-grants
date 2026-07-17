@@ -76,5 +76,47 @@
   "field": "total_assets",
   "value": 1170131737,
   "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人浦上食品・食文化振興財団",
+  "field": "total_assets",
+  "value": 9324885122,
+  "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人イノベーシスト",
+  "field": "total_assets",
+  "value": 460295203,
+  "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "三井物産株式会社",
+  "field": "total_assets",
+  "value": 20821528000000,
+  "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+ },
+ {
+  "name": "（独政）福祉医療機構（WAM）／子供の未来応援基金",
+  "field": "total_assets",
+  "value": 5361753640749,
+  "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+ },
+ {
+  "name": "第一生命保険株式会社",
+  "field": "total_assets",
+  "value": 35185307000000,
+  "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+ },
+ {
+  "name": "アステラス製薬株式会社",
+  "field": "total_assets",
+  "value": 3567042000000,
+  "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+ },
+ {
+  "name": "農林中央金庫",
+  "field": "total_assets",
+  "value": 79452524000000,
+  "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
  }
 ]
