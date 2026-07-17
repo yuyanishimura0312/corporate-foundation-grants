@@ -130,5 +130,11 @@
   "field": "total_assets",
   "value": 807248357,
   "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人茨城県中小企業振興公社",
+  "field": "total_assets",
+  "value": 38081407527,
+  "reason": "net_assets_not_total (正味財産)"
  }
 ]

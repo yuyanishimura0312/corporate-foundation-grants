@@ -12649,5 +12649,1467 @@
    "notes": "公式概要に設立年月日「平成6年5月23日」とあるため1994年。公式サイトで決算まで公開されている最新の完結年度は令和5年度（2023年度）で、令和6年度ページには事業計画のみ掲載。令和5年度貸借対照表（2024年3月31日）の資産合計は3,399,846,771円。年間支援額は同年度決算の「助成金支出（研究調査費）」12,150,000円と「奨学金支出」15,600,000円の合計27,750,000円。研究助成のみを狭義の助成金とする場合は12,150,000円だが、ここでは財団の年間助成・給付支出総額として両者を合算した。"
   },
   "elapsed_s": 58
+ },
+ "0eee2e8b-b71c-470a-8246-32391eea7aeb": {
+  "name": "レントオール奨学財団",
+  "url": "http://www.nishio-rent.co.jp/zaidan",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般財団法人レントオール奨学財団",
+   "established_year": 2000,
+   "established_source_url": "https://www.rentall-zaidan.jp/gaiyou/index.htm",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "engineering",
+    "environment",
+    "education",
+    "regional",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "関西の学生等を対象に、建設・建設機械の関連分野（土木、建築、環境、都市、地域、機械、資材、デザイン、居住環境、森林等）の修学を奨学金で支援するとともに、同分野の優れた学術研究を助成する。",
+   "grant_field_source_url": "https://www.rentall-zaidan.jp/gaiyou/index.htm",
+   "confidence": "medium",
+   "notes": "公式概要では、前身の財団法人を2000年1月31日に設立し、2013年4月1日に一般財団法人へ移行したと記載されているため、設立年は2000年とした。対象法人の正式名称は「一般財団法人」であり、公益財団法人ではない。公式概要には2026年3月末現在の基本財産3,924百万円が掲載されているが、貸借対照表の資産合計ではないため総資産には採用しなかった。最新年度の貸借対照表・事業報告書、および年間の奨学金・研究助成金支出総額を確認できる公開資料は検索・閲覧範囲で発見できなかったため、財務値はnullとした。個人別の給付額、在籍奨学生数、研究助成の採択件数からの推計は行っていない。"
+  },
+  "elapsed_s": 91
+ },
+ "pref_30f95ad2f663": {
+  "name": "公益財団法人山形県企業振興公社",
+  "url": "https://www.ynet.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人山形県企業振興公社",
+   "established_year": 1995,
+   "established_source_url": "https://www.ynet.or.jp/kousyapr/kousyaenkaku_20210118.pdf",
+   "total_assets_jpy": 4650991352,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 191732430,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.ynet.or.jp/.assets/%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E6%9B%B8.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "山形県内の中小企業等による、新製品・新技術の研究開発、新規市場の創出または新事業展開に向けた研究開発、ならびに大学・公設試験研究機関等と連携する共同研究を助成する。",
+   "grant_field_source_url": "https://www.ynet.or.jp/kaihatsu/innovation.html",
+   "confidence": "high",
+   "notes": "沿革は、母体法人の昭和36年（1961年）設立とは区別し、「財団法人山形県企業振興公社」として4団体を統合して設立された平成7年4月を採用した。令和6年度（2024年度）決算書の貸借対照表（2025年3月31日現在）で資産合計4,650,991,352円、正味財産増減計算書で支払助成金191,732,430円を確認した。対象法人は公益財団法人山形県産業技術振興機構との合併後、公益財団法人やまがた産業支援機構へ名称変更されており、決算書は現名称で公開されている。"
+  },
+  "elapsed_s": 60
+ },
+ "pref_995ccedc3dd4": {
+  "name": "公益財団法人みやぎ産業振興機構",
+  "url": "https://www.joho-miyagi.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人みやぎ産業振興機構",
+   "established_year": 1999,
+   "established_source_url": "https://www.joho-miyagi.or.jp/about",
+   "total_assets_jpy": 86778395216,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 491691560,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.joho-miyagi.or.jp/wp-content/uploads/2025/06/R6_hokoku.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "宮城県内の創業予定者、中小企業・企業グループ、NPO法人等を対象に、地域資源やビジネスアイデアを活用した新商品・新サービス開発を助成する。技術志向型では、高付加価値製品、産学連携または高度技術を活用した研究開発を対象とし、半導体、エネルギー、医療・健康機器、航空機、インフラ、ロボット、AI・IoT、ものづくり基盤技術等を例示している。",
+   "grant_field_source_url": "https://www.joho-miyagi.or.jp/business-menu/ouen",
+   "confidence": "medium",
+   "notes": "2026-07-18確認。公式沿革では、前身は1954年設立だが、現在名称の「財団法人みやぎ産業振興機構」は3財団の合併により1999年4月1日に設立。公益財団法人認定は2011年11月1日。財務数値は、本文までアクセスできた令和6年度（2024年度、2025年3月31日現在）の公式資料による。貸借対照表の資産合計は86,778,395,216円。資金収支計算書の助成金支出は、予算638,574,000円に対し決算491,691,560円であり、決算額を採用した。公式案内には令和7年度資料へのリンクも存在するが、調査環境ではPDF本文を取得できなかったため、数値は最新の取得・検証可能年度である令和6年度。"
+  },
+  "elapsed_s": 99
+ },
+ "pref_3796cf665965": {
+  "name": "公益財団法人あきた企業活性化センター",
+  "url": "https://www.bic-akita.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人あきた企業活性化センター",
+   "established_year": 1968,
+   "established_source_url": "https://www.bic-akita.or.jp/cms/assets/uploads/2025/04/250403_%E3%80%90%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%B7%8F%E5%90%88%E6%A5%AD%E5%8B%99%E6%A1%88%E5%86%85%E3%83%91%E3%83%B3%E3%83%95%E3%80%912025%E5%B9%B4%E5%BA%A6%E7%89%88.pdf",
+   "total_assets_jpy": 9630811159,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 20750000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.bic-akita.or.jp/cms/assets/uploads/2026/06/%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E3%83%BB%E5%8F%8E%E6%94%AF%E6%B1%BA%E7%AE%97%E6%9B%B8_compressed_organized.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "life_science",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "秋田県内の中小企業等を主な対象として、県内大学・公設試験研究機関等との共同研究による高度技術・新製品開発、企業と農林漁業者の連携による県産農林水産物を活用した新商品・新サービス開発、外国への特許・商標・意匠出願、ライフサイエンス分野の展示会出展・研究会活動などを助成する。",
+   "grant_field_source_url": "https://www.bic-akita.or.jp/cms/assets/uploads/2026/06/%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E3%83%BB%E5%8F%8E%E6%94%AF%E6%B1%BA%E7%AE%97%E6%9B%B8_compressed_organized.pdf",
+   "confidence": "high",
+   "notes": "公式パンフレットの沿革に「1968年4月『財団法人秋田県中小企業設備貸与公社』として設立」とあるため、前身を含む設立年を1968年とした（公益財団法人への移行は2012年4月）。令和7年度（2025年4月1日～2026年3月31日）の公式決算書で、2026年3月31日現在の貸借対照表「資産合計」9,630,811,159円を確認した。同年度キャッシュ・フロー計算書の「助成金支出」20,750,000円を年間助成金支出総額とした。助成分野は同年度事業報告書の新事業展開資金助成事業に記載された共同研究・農商工連携・海外知財出願・ライフサイエンス支援から分類した。"
+  },
+  "elapsed_s": 78
+ },
+ "pref_c25ed69ecef6": {
+  "name": "公益財団法人仙台市産業振興事業団",
+  "url": "https://www.siip.city.sendai.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人仙台市産業振興事業団",
+   "established_year": 1996,
+   "established_source_url": "https://www.siip.city.sendai.jp/profile/profile.html",
+   "total_assets_jpy": 345069541,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 120000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.siip.city.sendai.jp/documents/z0123_04.pdf",
+   "grant_fields": [
+    "regional",
+    "humanities_social",
+    "engineering",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "仙台地域の中小企業・起業家等を対象に、創業・経営改善、商品・サービス開発、販路開拓、IT・デジタル化、人材育成・採用、海外展開などを支援する。",
+   "grant_field_source_url": "https://www.siip.city.sendai.jp/profile/profile.html",
+   "confidence": "medium",
+   "notes": "公式法人概要で設立年月日を1996年11月18日と確認。公式の2024年度収支決算（令和7年3月31日現在）で、貸借対照表の当年度「資産合計」345,069,541円および収支計算書の「助成金支出」決算額120,000円を確認した。公式ページには2025年度決算へのリンクもあるが、調査時にPDF本文を取得できなかったため、数値を検証できた最新資料である2024年度を採用。grant_fieldsは公式の実施事業・支援対象から分類しており、研究助成専門財団ではなく、地域企業・起業家への産業振興支援が中心。"
+  },
+  "elapsed_s": 100
+ },
+ "pref_04f3eb6f026c": {
+  "name": "公益財団法人東北活性化研究センター",
+  "url": "https://www.kasseiken.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人東北活性化研究センター",
+   "established_year": 2010,
+   "established_source_url": "https://www.kasseiken.jp/centerinfo/history/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.kasseiken.jp/centerinfo/data/",
+   "grant_fields": [
+    "regional",
+    "humanities_social",
+    "education",
+    "engineering"
+   ],
+   "grant_scope_text": "東北圏の自治体や非営利団体等が主体となる、まちづくり、観光開発、地域産業育成、地域・産業活性化政策に関するプロジェクトを対象に、専門家派遣、事前調査、可能性調査、コンサルティング等を行う。",
+   "grant_field_source_url": "https://www.kasseiken.jp/project_support/",
+   "confidence": "medium",
+   "notes": "公式沿革では2010年6月1日に二財団の合併により発足し、2012年4月1日に公益財団法人へ移行したと確認できるため、設立年は公式概要の「設立（合併）」に従い2010年とした。公式情報公開ページで最新の2025年度財務諸表等・事業報告書の掲載は確認したが、財務諸表PDF本文を取得できず、貸借対照表の資産合計は確認不能のためnull。公式支援ページは「資金のみの支援はいたしません」と明記しており、2025年度事業報告も専門家派遣・セミナー等の支援を記載しているが、年間助成金支出総額は確認できないためnullとした。"
+  },
+  "elapsed_s": 113
+ },
+ "pref_7fd27b10e656": {
+  "name": "公益財団法人いわて産業振興センター",
+  "url": "https://www.joho-iwate.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人いわて産業振興センター",
+   "established_year": 2000,
+   "established_source_url": "https://www.joho-iwate.or.jp/ci/history.pdf",
+   "total_assets_jpy": 39409990204,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 248445408,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.joho-iwate.or.jp/wp/assets/uploads/2026/06/R07_report.pdf",
+   "grant_fields": [
+    "regional",
+    "engineering",
+    "education",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "県内中小企業等による起業、経営革新、地域資源活用、農商工連携、商店街活性化、新商品・新サービスの開発および販路開拓を中心に支援する。このほか、研究開発・外国特許出願、県内就職者の奨学金返還、海外展開等も支援対象としている。",
+   "grant_field_source_url": "https://www.joho-iwate.or.jp/fund",
+   "confidence": "high",
+   "notes": "公式沿革では、前身の岩手県中小企業設備貸与公社は1967年7月設立、両財団の統合による「財団法人いわて産業振興センター」は2000年4月発足、公益財団法人への移行は2013年4月。対象名称の法人の発足年として2000年を採用した。令和7年度（2025年4月1日～2026年3月31日）決算の貸借対照表に資産合計39,409,990,204円、正味財産増減計算書に支払助成金248,445,408円を確認。年間助成額は個別ファンドの24,817千円ではなく、決算上の支払助成金総額を採用した。"
+  },
+  "elapsed_s": 136
+ },
+ "pref_25e4d75a0948": {
+  "name": "公益財団法人群馬県産業支援機構",
+  "url": "https://www.g-inf.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人群馬県産業支援機構",
+   "established_year": 1982,
+   "established_source_url": "https://www.g-inf.or.jp/pdf/casebook_2021.pdf",
+   "total_assets_jpy": 1337907917,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 17940779,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.g-inf.or.jp/pdf/aboutus_r06_kessan.pdf",
+   "grant_fields": [
+    "regional",
+    "humanities_social",
+    "international",
+    "engineering"
+   ],
+   "grant_scope_text": "群馬県が定める対象分野で地域課題の解決に取り組む社会的事業の起業経費、中小企業・小規模事業者の経営改善計画等の策定・フォローアップ費用、優れた技術・製品の海外展開を図る中小企業等による外国特許・商標等の出願経費を支援する。",
+   "grant_field_source_url": "https://www.g-inf.or.jp/pdf/aboutus_r06_jigyouhoukoku.pdf",
+   "confidence": "high",
+   "notes": "公式沿革では、前身2法人の合併により1982年4月1日に「財団法人群馬県中小企業振興公社」を設立し、2003年に群馬県産業支援機構へ名称変更、2012年に公益財団法人へ移行。設立年は法人系譜上の1982年とした。令和6年度決算書（2025年3月31日現在）の貸借対照表で資産合計1,337,907,917円を確認。同年度の正味財産増減計算書で「支払助成金」17,940,779円を確認したため年間助成金支出総額とした。事業報告では地方創生起業支援、経営改善計画策定費用等の一部負担、中小企業外国出願支援を確認した。"
+  },
+  "elapsed_s": 51
+ },
+ "pref_6f7633dd8ee1": {
+  "name": "公益財団法人茨城県中小企業振興公社",
+  "url": "https://www.ibss.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人茨城県中小企業振興公社",
+   "established_year": 1968,
+   "established_source_url": "https://www.iis-net.or.jp/files/kousya/page/temp_file_list/50th_ayumi.pdf",
+   "total_assets_jpy": 38081407527,
+   "total_assets_fiscal_year": 2020,
+   "annual_grant_amount_jpy": 72584998,
+   "annual_grant_fiscal_year": 2019,
+   "financial_source_url": "https://www.iis-net.or.jp/page?kind=guide_kosha_johokokai",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "international"
+   ],
+   "grant_scope_text": "県内中小企業等を対象に、新技術・新製品および新サービスの開発、海外展示会への出展を中心とする販路開拓、社会的課題の解決に資する創業、外国への特許・商標出願、豪雨被災地域の復興イベントや販路開拓などを助成。",
+   "grant_field_source_url": "https://www.iis-net.or.jp/files/kousya/page/guide/R1_jigyo.pdf",
+   "confidence": "high",
+   "notes": "公式の「公社事業50年のあゆみ」に、昭和43年7月設立と記載されているため設立年を1968年とした。最新の公開対象期間は令和2年4月1日～7月31日で、公式の運営組織・事業活動概要に資産額38,081,407,527円と明記されている。年度欄はこの変則決算期間の開始年に合わせ2020とした。年間助成額は、直近の通年決算である令和元年度（2019年度）の正味財産増減計算書に計上された事業費「助成費」72,584,998円を採用した。対象法人は現在閉鎖されており、資料は後継の公益財団法人いばらき中小企業グローバル推進機構の公式サイトに保存されている。"
+  },
+  "elapsed_s": 112
+ },
+ "pref_aa7760fc3012": {
+  "name": "公益財団法人栃木県産業振興センター",
+  "url": "https://www.tochigi-iin.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人栃木県産業振興センター",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": 9408186975,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.pref.tochigi.lg.jp/b03/documents/2025_13.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "environment",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "県内の創業・スタートアップ、および戦略産業等における技術高度化・製品開発、販路開拓・認証取得を支援する。別事業では、県内中小企業者等と農林漁業者の連携による新商品開発・販路開拓も助成対象としている。",
+   "grant_field_source_url": "https://www.tochigi-iin.or.jp/content/files/senryakusangyo/R6/R6CF/R6_kouboyouryou.pdf",
+   "confidence": "medium",
+   "notes": "総資産は栃木県公式資料の令和6年度貸借対照表に記載された資産合計9,408,186,975円。設立については、中小企業庁資料で昭和56年4月1日との記載を確認したが、指定条件である財団公式の沿革・概要では確認できなかったためnullとした。直近年度の事業報告から複数助成事業を横断した年間助成金支出総額を確認できなかったため、annual_grant_amount_jpyはnull。助成分野は公式公募要領に基づく。農商工連携事業の公式資料：https://www.tochigi-iin.or.jp/content/files/jisedaisangyo/R6/FV_nosyoukou/R6_FVfund_koubuyouryou.pdf"
+  },
+  "elapsed_s": 95
+ },
+ "pref_ffe4a5284778": {
+  "name": "公益財団法人東京都中小企業振興公社",
+  "url": "https://www.tokyo-kosha.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人東京都中小企業振興公社",
+   "established_year": 1966,
+   "established_source_url": "https://www.tokyo-kosha.or.jp/kosha/setsuritsu.html",
+   "total_assets_jpy": 102105384302,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.tokyo-kosha.or.jp/kosha/rmepal0000000pi6-att/01_R6bs.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "environment",
+    "welfare",
+    "international",
+    "life_science",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "都内中小企業等の事業活動を対象に、製品・技術・サービスの研究開発および改良、販路開拓、地域活性化を支援する。個別制度には、DX、安全・安心、防災・減災、高齢者・介護・障害者、環境・脱炭素、医療機器、知的財産・海外展開などが含まれる。",
+   "grant_field_source_url": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+   "confidence": "medium",
+   "notes": "設立は公式沿革の「昭和41年7月」により1966年と確認（公式概要には1966年7月29日と記載）。総資産は令和6年度貸借対照表（令和7年3月31日現在）の「資産合計」102,105,384,302円。令和6年度事業報告には事業別の「助成金支出」が多数掲載されているが、全助成事業を合算した年間支出総額を明確に確認できなかったためannual_grant_amount_jpyはnullとした。grant_fieldsは公式助成金一覧、助成金の仕組み・ポイント、および同一覧掲載の個別制度の対象から分類した。"
+  },
+  "elapsed_s": 85
+ },
+ "pref_2c46afbc3847": {
+  "name": "公益財団法人千葉県産業振興センター",
+  "url": "https://www.ccjc-net.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人千葉県産業振興センター",
+   "established_year": 1972,
+   "established_source_url": "https://www.ccjc-net.or.jp/contents_detail.php?frmId=2984",
+   "total_assets_jpy": 13183922897,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 81134000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.ccjc-net.or.jp/cmsfiles/contents/0000002/2298/R7-houkoku.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "interdisciplinary",
+    "international"
+   ],
+   "grant_scope_text": "千葉県内の中小企業・創業者等を対象に、新商品・新技術や成長分野の研究開発、産学官共同研究、地域資源・農商工連携による商品・サービス開発、販路開拓、創業・事業承継、海外出願などを助成する。",
+   "grant_field_source_url": "https://www.ccjc-net.or.jp/category_list.php?frmCd=48-2-0-0-0",
+   "confidence": "high",
+   "notes": "公式基本情報に設立年月日を昭和47年4月11日と明記。令和7年度決算（2025年度、2026年3月31日現在）の貸借対照表で資産合計13,183,922,897円を確認。年間助成額は同年度キャッシュ・フロー計算書の「助成金支出」81,134,000円を採用した。別掲の「海外出願補助金立替金支出」4,703,000円は助成金支出に合算せず、財団が支出総額として明示した科目値をそのまま採用。沿革では2000年に統合後の千葉県産業振興センターを設立、2011年に公益財団法人へ移行しているが、公式の基本データが示す設立年1972年を採用した。"
+  },
+  "elapsed_s": 91
+ },
+ "pref_207493f12c5e": {
+  "name": "公益財団法人埼玉県産業振興公社",
+  "url": "https://www.saitama-j.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人埼玉県産業振興公社",
+   "established_year": 1973,
+   "established_source_url": "https://www.saitama-j.or.jp/gaiyo/",
+   "total_assets_jpy": 1511667256,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 59247384,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.saitama-j.or.jp/files/libs/9144/202606230954179025.pdf",
+   "grant_fields": [
+    "engineering",
+    "interdisciplinary",
+    "environment",
+    "life_science",
+    "international",
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "埼玉県内の中小企業等を主な対象として、新技術・新製品、デジタル・バイオ・マテリアル・カーボンニュートラル分野の試作品実証、ロボット開発、サーキュラーエコノミー事業化、DX人材育成、海外出願・展示会出展・商品改良などを補助する。",
+   "grant_field_source_url": "https://www.saitama-j.or.jp/pages/376",
+   "confidence": "high",
+   "notes": "公式公社案内は設立年月日を昭和48年4月26日（1973年）と記載。公益財団法人への移行は平成25年4月（2013年）。令和7年度（2025年度）決算報告書の2026年3月31日現在の貸借対照表・財産目録にある資産合計1,511,667,256円を採用した。年間助成金支出総額は、同決算書の正味財産増減計算書に記載された当年度の「助成金」0円と「支払補助金」59,247,384円の合計。受取補助金819,617,592円は公社が受領した収益であるため含めていない。grant_fieldsは公式サイト掲載の補助事業の対象・目的を11区分へ対応付けたもの。"
+  },
+  "elapsed_s": 101
+ },
+ "pref_5c81fe59ba82": {
+  "name": "公益財団法人東京観光財団",
+  "url": "https://www.tcvb.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人東京観光財団",
+   "established_year": 2003,
+   "established_source_url": "https://www.tcvb.or.jp/jp/organization/organization/",
+   "total_assets_jpy": 34208858158,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.tcvb.or.jp/jp/soumu_r7syushi_3.pdf",
+   "grant_fields": [
+    "regional",
+    "international",
+    "engineering",
+    "arts_culture",
+    "environment",
+    "welfare"
+   ],
+   "grant_scope_text": "東京都の観光振興を中心に、地域観光・観光まちづくり、国際会議やイベント、訪日旅行者の受入環境、観光事業者のDX・経営力強化、伝統・文化資源を生かした観光、サステナブルツーリズム、バリアフリー化などを対象とする。",
+   "grant_field_source_url": "https://www.tcvb.or.jp/jp/project/subsidy/",
+   "confidence": "high",
+   "notes": "公式の沿革では、財団法人東京観光財団を平成15年10月15日（2003年）に設立し、平成23年に公益財団法人へ移行。令和7年度収支決算書の貸借対照表（令和8年3月31日現在）で資産合計34,208,858,158円を確認したため、年度は開始年の2025年度とした。令和7年度事業報告には多数の助成・補助事業について件数が記載されているが、財団全体の年間助成金支出総額は確認できなかったため、annual_grant_amount_jpyと年度はnull。grant_fieldsは公式の各種補助金・支援助成金一覧に明記された対象事業から分類した。"
+  },
+  "elapsed_s": 78
+ },
+ "pref_65ba4d2a4783": {
+  "name": "公益財団法人神奈川県産業振興センター",
+  "url": "https://www.kipc.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人神奈川産業振興センター",
+   "established_year": 1953,
+   "established_source_url": "https://www.kipc.or.jp/about-kip/history/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.kipc.or.jp/about-kip/.assets/r07_houkoku.pdf",
+   "grant_fields": [
+    "engineering",
+    "international",
+    "regional",
+    "education",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "県内中小企業等を対象に、国内展示会への出展、海外展開・外国特許出願、創業者等のマーケティング活動、副業・兼業人材の活用などに必要な経費の一部を助成・補助する。",
+   "grant_field_source_url": "https://www.kipc.or.jp/about-kip/.assets/r07_houkoku.pdf",
+   "confidence": "medium",
+   "notes": "公式名称はユーザー記載の「神奈川県産業振興センター」ではなく「神奈川産業振興センター」。沿革では前身の（財）神奈川県中小企業会館が1953年8月に設立され、2011年6月に公益財団法人へ移行。最新の令和7年度決算諸表は情報公開ページに掲載されているが、当該PDFを取得・検証できず、最新年度の資産合計はnullとした（令和6年度決算の資産合計6,960,263,574円は確認したが、より新しい決算が存在するため採用していない）。令和7年度事業報告では展示会出展助成7,356,000円、外国特許出願助成14,625,000円を確認した一方、マーケティング補助金および副業・兼業人材活用補助金の実支出額が記載されておらず、全助成制度を合算した年間総額を確定できないためannual_grant_amount_jpyはnullとした。"
+  },
+  "elapsed_s": 78
+ },
+ "pref_a2f641ec48ac": {
+  "name": "公益財団法人長野県テクノ財団",
+  "url": "https://www.tecnahn.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人長野県テクノ財団",
+   "established_year": 2001,
+   "established_source_url": "https://www.pref.nagano.lg.jp/sansei/kensei/soshiki/shingikai/ichiran/chusho/documents/8_siryou3.pdf",
+   "total_assets_jpy": 5838925000,
+   "total_assets_fiscal_year": 2020,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.pref.nagano.lg.jp/gyokaku/kensei/soshiki/soshiki/gaikaku/hyoka/documents/02_15_1.pdf",
+   "grant_fields": [
+    "engineering",
+    "life_science",
+    "environment",
+    "interdisciplinary",
+    "international",
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "産学官交流を基盤に、健康・医療、環境・エネルギー、次世代交通分野の新産業創出、提案公募制度を活用した共同研究、国際展開および人材育成を支援する。",
+   "grant_field_source_url": "https://www.pref.nagano.lg.jp/gyokaku/kensei/soshiki/soshiki/gaikaku/hyoka/documents/02_15_1.pdf",
+   "confidence": "medium",
+   "notes": "設立年は長野県の公式資料に記載された「2001年」に基づく。総資産は長野県の令和2年度外郭団体検証シート掲載の貸借対照表「資産合計5,838,925千円」を円換算した。令和3年度の同財団単独の貸借対照表は確認できなかったため、確認できた最新値は2020年度。年間助成金支出総額は、公開資料で事業費と個別の助成・補助金支出を区分した集計を確認できずnull。2022年4月、同財団は長野県中小企業振興センターを吸収合併し、名称を公益財団法人長野県産業振興機構へ変更しているため、以後は旧名称による単独決算が存在しない。"
+  },
+  "elapsed_s": 79
+ },
+ "pref_c8ce91bfe4b7": {
+  "name": "公益財団法人静岡県産業振興財団 浜松支所",
+  "url": "https://www.ric-shizuoka.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人静岡県産業振興財団 浜松支所",
+   "established_year": 1970,
+   "established_source_url": "https://www.ric-shizuoka.or.jp/images/2601.pdf",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.ric-shizuoka.or.jp/images/903.pdf",
+   "grant_fields": [
+    "engineering",
+    "life_science",
+    "environment",
+    "regional",
+    "interdisciplinary",
+    "welfare",
+    "international"
+   ],
+   "grant_scope_text": "県内の中小企業・創業者等を対象に、新成長産業分野（次世代自動車、医療・福祉機器、ロボット、航空宇宙、光、新エネルギー、環境技術、CNF）の研究開発・試作品開発・事業化、地域課題を解決する起業、医療健康産業への参入、脱炭素化、外国出願、未来型食品・ウェルネス関連製品やサービスの開発・実証・販路開拓等を助成する。",
+   "grant_field_source_url": "https://www.ric-shizuoka.or.jp/images/903.pdf",
+   "confidence": "medium",
+   "notes": "公式事業案内の沿革に、前身の財団法人静岡県中小企業振興協会が昭和45年3月に設立されたことを確認したため、設立年は1970年とした。令和7年度事業報告書は2025年4月1日から2026年3月31日までの法人全体の報告であり、各制度の助成実績額は記載されているが、全助成制度を網羅した年間助成金支出総額は明示されていないためannual_grant_amount_jpyはnullとした。令和7年度収支決算報告書への公式リンクは財団概要ページに存在するものの、調査時に文書内容を取得できず、最新年度の貸借対照表の資産合計を確認できなかったためtotal_assets_jpyはnullとした。確認できた令和6年度末の資産合計8,187,419,619円は最新年度ではないため採用していない。公式の現行組織・連絡先資料では「浜松支所」を独立法人または現行組織として確認できず、財務・助成実績はいずれも公益財団法人静岡県産業振興財団全体の資料である。"
+  },
+  "elapsed_s": 70
+ },
+ "pref_a38fb72378d1": {
+  "name": "公益財団法人浜松地域イノベーション推進機構",
+  "url": "https://www.hai.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人浜松地域イノベーション推進機構",
+   "established_year": 1981,
+   "established_source_url": "https://www.hai.or.jp/aboutus/profile/",
+   "total_assets_jpy": 1875852208,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 120592990,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.hai.or.jp/pdf/hai_r6_zaimusyohyou.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "environment",
+    "life_science",
+    "international",
+    "natural_science",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "浜松地域の中小企業等を対象に、特許等の出願、成長分野に関係する研究開発・新製品開発、光・電子技術の活用、展示商談会への出展、海外販路開拓・海外拠点設立に向けた事業化可能性調査などを支援する。成長分野には、光・電子、次世代輸送用機器、デジタル、ロボティクス、環境・エネルギー、健康・医療、新農業が含まれる。",
+   "grant_field_source_url": "https://www.hai.or.jp/aboutus/information/file/1712/r7%E3%80%80jigyouhoukoku.pdf",
+   "confidence": "medium",
+   "notes": "公式概要で設立を1981年3月と確認。令和6年度財務諸表（2025年3月31日現在）の貸借対照表で資産合計1,875,852,208円、正味財産増減計算書で支払助成金120,592,990円を確認した。公式情報公開ページには令和7年度財務諸表も掲載されているが、調査時に当該PDF本文を取得・検証できなかったため、財務数値は内容を確認できた直近の令和6年度を採用した。grant_fieldsは令和7年度事業報告に記載された補助事業の対象・目的から分類した。"
+  },
+  "elapsed_s": 83
+ },
+ "pref_e474cb352255": {
+  "name": "公益財団法人滋賀県産業支援プラザ",
+  "url": "https://www.shigaplaza.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人滋賀県産業支援プラザ",
+   "established_year": 1999,
+   "established_source_url": "https://www.shigaplaza.or.jp/plaza/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.shigaplaza.or.jp/wp-content/uploads/2025/07/r6_jigyohokoku.pdf",
+   "grant_fields": [
+    "engineering",
+    "environment",
+    "regional",
+    "life_science",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "県内中小企業等を対象に、DX・AI導入、新技術・新製品の研究開発・事業化、医療・健康分野への参入、CO2削減・省エネ設備導入、地域課題を解決する起業、海外での特許・商標取得などを支援する。",
+   "grant_field_source_url": "https://www.shigaplaza.or.jp/wp-content/uploads/2025/07/r6_jigyohokoku.pdf",
+   "confidence": "medium",
+   "notes": "公式沿革に「平成11年（1999年）4月、4団体を統合し財団法人滋賀県産業支援プラザを設立」とある。最新掲載の令和6年度貸借対照表は公式ページからリンクされているが、調査時にPDF本文へアクセスできず、資産合計を検証できなかったためtotal_assets_jpyはnull。令和6年度事業報告書では企業のDX推進補助金6件・助成額計10,578千円など個別制度の実績は確認できたが、財団が支出した全助成金の年間総額は明記・集計されておらず、他の補助事業も存在するためannual_grant_amount_jpyはnullとした。"
+  },
+  "elapsed_s": 58
+ },
+ "pref_f7a853efa830": {
+  "name": "公益財団法人京都産業21",
+  "url": "https://www.ki21.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人京都産業21",
+   "established_year": 2001,
+   "established_source_url": "https://www.ki21.jp/aboutus/",
+   "total_assets_jpy": 3666539193,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 573278000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.ki21.jp/wordpress/wp-content/uploads/2026/06/R7kessan_0629HP.pdf",
+   "grant_fields": [
+    "engineering",
+    "education",
+    "regional",
+    "international"
+   ],
+   "grant_scope_text": "産学公連携のもと、京都府内の創業者・中小企業等による技術開発、経営革新、新事業創出、人材育成、市場開拓・海外展開などを支援する。",
+   "grant_field_source_url": "https://www.ki21.jp/aboutus/",
+   "confidence": "high",
+   "notes": "公式概要では、前身3財団の統合による発足日を2001年4月1日、公益財団法人への移行日を2011年6月1日としているため、設立年には発足年の2001年を採用。最新公開の2025年度決算書（2026年3月31日現在）の貸借対照表で資産合計3,666,539,193円、正味財産増減計算書で事業費の「助成金」573,278,000円を確認した。grant_fieldsは、公式目的・事業に明記された技術開発、人材育成、京都産業振興、市場開拓および公式サイト上の海外展開支援を11区分へ対応付けた。"
+  },
+  "elapsed_s": 54
+ },
+ "pref_df4b2281b838": {
+  "name": "公益財団法人あいち産業振興機構",
+  "url": "https://www.aibsc.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人あいち産業振興機構",
+   "established_year": 1971,
+   "established_source_url": "https://www.aibsc.jp/support/296/",
+   "total_assets_jpy": 17752521061,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 98675000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.aibsc.jp/wp-content/uploads/2026/06/R7%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E6%9B%B8_%E3%81%82%E3%81%84%E3%81%A1%E7%94%A3%E6%A5%AD%E6%8C%AF%E8%88%88%E6%A9%9F%E6%A7%8B.pdf",
+   "grant_fields": [
+    "regional",
+    "engineering",
+    "international",
+    "environment",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "愛知県内の中小・小規模企業等による、地域資源を活用した新商品・新サービス、製造・販売・提供方法の開発などの新事業展開を助成する。主要地場産業、農林水産物を活用した農商工連携、主要地場産業以外の一般枠に加え、海外出願支援や亜炭採掘に伴う陥没鉱害の復旧も助成対象としている。",
+   "grant_field_source_url": "https://www.aibsc.jp/wp-content/uploads/2025/06/R6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8-%E3%81%82%E3%81%84%E3%81%A1%E7%94%A3%E6%A5%AD%E6%8C%AF%E8%88%88%E6%A9%9F%E6%A7%8B.pdf",
+   "confidence": "high",
+   "notes": "公式概要に「設立 昭和46年12月」および同月の前身法人設立を確認した。令和7年度（2025年度、2025年4月1日～2026年3月31日）決算書の貸借対照表における当期「資産合計」17,752,521,061円を採用。年間助成額は同決算書の正味財産増減計算書に記載された当期「支払助成金」98,675,000円であり、採択額ではなく会計上の年間支出額を採用した。助成分野は公式事業報告および助成制度の対象・目的から分類した。"
+  },
+  "elapsed_s": 72
+ },
+ "pref_652e1a8db293": {
+  "name": "公益財団法人新産業創造研究機構",
+  "url": "https://www.niro.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人新産業創造研究機構",
+   "established_year": 1997,
+   "established_source_url": "https://www.niro.or.jp/outline/history/",
+   "total_assets_jpy": 724853133,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.niro.or.jp/pdf/R6close.pdf",
+   "grant_fields": [
+    "engineering",
+    "environment",
+    "life_science",
+    "regional",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "兵庫県内の中小企業を対象に、航空・宇宙、環境・水素等新エネルギー（蓄電池を含む）、健康・医療、分野共通製品（半導体等）における新製品開発・改良試作、実用化および社会実装を支援する。",
+   "grant_field_source_url": "https://www.niro.or.jp/information/20260416/56353/",
+   "confidence": "medium",
+   "notes": "2026-07-18確認。公式沿革に1997年3月設立、2011年4月公益財団法人移行と記載。令和6年度貸借対照表（2025年3月31日現在、単位：円）の資産合計724,853,133円を採用した。年度表記は事業年度の開始年に合わせ2024年度とした。令和6年度事業報告では補助金交付・助成等の実施は確認できたが、年間の助成金・補助金支出総額は記載されておらず、公開された財務ページにも正味財産増減計算書がないためannual_grant_amount_jpyはnull。grant_fieldsは公式公募の対象産業分野と地域企業・産学連携を対象とする目的から分類した。"
+  },
+  "elapsed_s": 58
+ },
+ "pref_c7f80c3ebc0b": {
+  "name": "公益財団法人大阪産業局",
+  "url": "https://www.obda.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪産業局",
+   "established_year": 2019,
+   "established_source_url": "https://www.obda.or.jp/about.html",
+   "total_assets_jpy": 19149033272,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.obda.or.jp/wp-content/uploads/2026/06/fs_obda_r07.pdf",
+   "grant_fields": [
+    "regional",
+    "engineering",
+    "interdisciplinary",
+    "international",
+    "education",
+    "arts_culture"
+   ],
+   "grant_scope_text": "大阪府内の中小企業・小規模事業者・起業家等を主対象に、経営力強化、地域産業・ものづくり・クリエイティブ産業、創業・新事業、スタートアップ、先端技術活用、人材戦略、国際ビジネス展開を支援する。補助金を活用した新事業展開支援や商工会議所等への補助金交付も実施している。",
+   "grant_field_source_url": "https://www.obda.or.jp/wp-content/uploads/2026/06/r07business_report_obda.pdf",
+   "confidence": "medium",
+   "notes": "公式概要で設立年月日を平成31年4月1日（2019年）と確認。2025年度（令和7年度）収支決算書の貸借対照表（2026年3月31日現在）で資産合計19,149,033,272円を確認した。2025年度事業報告には商工会議所等への補助金交付、新事業展開テイクオフ支援における補助金利用693者などの記載があるが、年間の助成金・補助金支出総額は確認できなかったためnullとした。受取補助金や交付金は助成先への支出額ではないため算入していない。"
+  },
+  "elapsed_s": 89
+ },
+ "pref_a4294575c1c6": {
+  "name": "公益財団法人関西・大阪21世紀協会",
+  "url": "https://www.osaka21.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人関西・大阪21世紀協会",
+   "established_year": 1982,
+   "established_source_url": "https://www.osaka21.or.jp/about/outline.html",
+   "total_assets_jpy": 10614237947,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 151333000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.osaka21.or.jp/about/pdf/2025jigyou.pdf",
+   "grant_fields": [
+    "international",
+    "arts_culture",
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "日本万国博覧会記念基金では、国際交流・国際協力に寄与する活動、教育・学術に関する国際的活動、日本の伝統文化の伝承・振興、芸術・地域文化に関する活動を助成。アーツサポート関西では、関西の芸術・文化の振興と発展に資する卓越した活動を、美術・音楽・舞台芸術・伝統芸能の分野で支援する。",
+   "grant_field_source_url": "https://www.osaka21.or.jp/about/pdf/2025jigyou.pdf",
+   "confidence": "high",
+   "notes": "公式概要に設立日を1982年4月8日と記載。総資産は、最新公開の2025年度貸借対照表（2026年3月31日現在）の「資産合計」10,614,237,947円。年間助成金額は、2025年度事業報告で実際の助成として確認できた日本万国博覧会記念基金140,416千円、アーツサポート関西のクラウドファンディング助成3,517千円、一般助成3,000千円、個別寄金助成4,400千円の合計151,333千円。奨学金11,400千円は助成金支出総額に含めていない。"
+  },
+  "elapsed_s": 85
+ },
+ "pref_a169aa4b4fd4": {
+  "name": "公益財団法人鳥取県産業振興機構",
+  "url": "https://www.torisanki.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人鳥取県産業振興機構",
+   "established_year": 2000,
+   "established_source_url": "https://www.toriton.or.jp/outline/",
+   "total_assets_jpy": 9651615652,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 129545769,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.toriton.or.jp/hp/wp-content/uploads/2025/06/%E4%BB%A4%E5%92%8C6%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%A0%B1%E5%91%8A%E6%9B%B8%E3%80%90%E5%85%AC%E9%96%8B%E7%89%88%E3%80%91.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "environment",
+    "life_science",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "県内企業等を対象に、技術シーズを活用した応用研究、製品・技術の試作実証・社会実装、起業・新事業展開、外国出願などを助成する。対象事業には医療・福祉機器、バイオ、リサイクル・カーボンニュートラル関連の産業育成も含まれる。",
+   "grant_field_source_url": "https://www.toriton.or.jp/hp/wp-content/uploads/2026/07/R7%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A_0702.pdf",
+   "confidence": "high",
+   "notes": "公式沿革では、前身3団体を統合して「財団法人鳥取県産業振興機構」を設立したのは平成12年（2000年）4月1日。公益財団法人への移行は平成24年（2012年）4月1日。財務数値は内容を確認できた令和6年度決算（2024年度、2025年3月31日現在）による。貸借対照表の資産合計は9,651,615,652円。正味財産増減計算書の事業費内「支払助成金」は129,545,769円であり、年間助成金支出総額として採用した。公式情報公開ページには令和7年度決算も掲載されているが、調査時にPDF本文を取得・数値確認できなかったため、推測せず令和6年度の確認値を使用した。依頼記載のtorisanki.or.jpではなく、公式資料はtoriton.or.jpで公開されている。"
+  },
+  "elapsed_s": 94
+ },
+ "pref_d4223f320200": {
+  "name": "公益財団法人ひろしま産業振興機構",
+  "url": "https://www.hiwave.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ひろしま産業振興機構",
+   "established_year": 1983,
+   "established_source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/673937.pdf",
+   "total_assets_jpy": 9087873000,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/673937.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "広島県内の中小・ベンチャー企業による成長に向けた新規性・チャレンジ性のある取組を、助成金と専門的助言により支援する。また、県内中小企業等の外国における特許・実用新案・意匠・商標の出願費用の一部を補助する。",
+   "grant_field_source_url": "https://www.hiwave.or.jp/wp-content/uploads/2025/05/01-challenge_R7-1_bosyuuyouryou.pdf",
+   "confidence": "medium",
+   "notes": "広島県の令和8年度出資法人経営状況説明書で設立登記を昭和58年11月24日（1983年）、令和7年度末の資産計を9,087,873千円と確認した。同資料は平成22年4月1日に公益財団法人として運営開始とも記載しているため、established_yearには法人の設立登記年を採用した。令和7年度決算には「負担金及び補助金」224,930千円があるが、助成金のみの年間支出総額とは確認できず、複数助成事業の年間交付総額も確認できなかったためannual_grant_amount_jpyはnull。grant_scope_textは令和7年度チャレンジ応援事業募集要領を中心に要約し、国際分野は公式の海外出願支援事業（https://www.hiwave.or.jp/wp-content/uploads/2025/05/gs2025_01_bossyuyoryo.pdf）も確認した。"
+  },
+  "elapsed_s": 88
+ },
+ "pref_ef4094b2cfed": {
+  "name": "公益財団法人ひょうご産業活性化センター",
+  "url": "https://web.hyogo-iic.ne.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ひょうご産業活性化センター",
+   "established_year": 1966,
+   "established_source_url": "https://web.hyogo-iic.ne.jp/gaiyo/enkaku",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://web.hyogo-iic.ne.jp/gaiyo/jigyozaimu",
+   "grant_fields": [
+    "regional",
+    "engineering",
+    "international",
+    "environment",
+    "education",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "兵庫県内の起業・第二創業、地域課題を解決する社会的事業、革新的な技術・手法を用いるスタートアップ、農林漁業者と中小企業者の連携による新商品・新サービスの研究開発・販路開拓、商店街への新規出店、菓子職人育成・ブランド化、県内中小企業の海外展開などを支援する。",
+   "grant_field_source_url": "https://web.hyogo-iic.ne.jp/files/gaiyo/jigyozaimu_houkoku_2026_06.pdf",
+   "confidence": "medium",
+   "notes": "公式沿革は昭和41年7月1日に前身法人として設立と記載しているため1966年とした。公益財団法人への移行は2010年4月1日。公式の事業及び財務情報ページには令和7年度財務諸表が掲載されているが、調査時に同PDFの貸借対照表本文を取得できず、最新年度の資産合計を確認できなかったため総資産はnull。令和7年度事業報告には各制度の助成額・助成決定額・交付額が個別掲載されているものの、年間助成金支出総額の集計値はなく、決定額と実支出額が混在するため合算せずnullとした。grant_fieldsは令和7年度事業報告に明記された助成対象・目的から分類した。"
+  },
+  "elapsed_s": 122
+ },
+ "pref_97ac00ff7e1d": {
+  "name": "公益財団法人高知県産業振興センター",
+  "url": "https://joho-kochi.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人高知県産業振興センター",
+   "established_year": 1984,
+   "established_source_url": "https://joho-kochi.or.jp/php/gyomu.php",
+   "total_assets_jpy": 11862577177,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.joho-kochi.or.jp/gyomu/R7/7_zaimu.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "高知県内の中小企業等を主な対象として、デジタル技術の活用、新分野進出・新商品開発、省力化・省エネルギー等の設備投資、販路開拓、研究開発・製品開発を支援する。事業戦略等推進事業では人材養成・人材確保や海外展開も対象としている。",
+   "grant_field_source_url": "https://joho-kochi.or.jp/center/hojyokin.php",
+   "confidence": "high",
+   "notes": "公式概要に設立年月日を昭和59年12月15日（1984年）、公益財団法人への移行を平成24年4月1日と記載。established_yearは当初設立年の1984年とした。R7財務諸表の2026年3月31日現在の貸借対照表で資産合計11,862,577,177円を確認したため、対応する年度を2025年度とした。年間助成金支出総額は、財務諸表に「負担金、補助及び交付金」22,603,011円の記載があるものの、負担金等を含み助成・補助金だけを分離できず、事業報告にも年間交付総額を確認できなかったためnullとした。grant_fieldsは公式の補助金・助成金ページおよび公式サイト掲載の事業戦略等推進事業の対象内容に基づく。"
+  },
+  "elapsed_s": 63
+ },
+ "pref_e4d6773211c6": {
+  "name": "公益財団法人しまね産業振興財団",
+  "url": "https://www.joho-shimane.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人しまね産業振興財団",
+   "established_year": 1973,
+   "established_source_url": "https://www.joho-shimane.or.jp/about_us/public/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 158714000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.joho-shimane.or.jp/about_us/public/68",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "international",
+    "environment",
+    "education"
+   ],
+   "grant_scope_text": "県内中小企業者、企業グループまたはコンソーシアムによる新規事業化を中心に、新技術・製品開発、DX・販路拡大、海外展開・外国出願、脱炭素化、人材確保・活用などを支援する。",
+   "grant_field_source_url": "https://www.joho-shimane.or.jp/solution/subsidy/",
+   "confidence": "medium",
+   "notes": "公式沿革で、前身の「財団法人島根県中小企業設備貸与公社」が1973年4月1日に設立されたことを確認した。1999年4月1日に団体統合後の「財団法人しまね産業振興財団」が業務を開始し、2011年4月1日に公益財団法人へ移行している。令和7年度事業報告書の総事業費表にある「補助事業（助成金等）」158,714千円を年間助成金支出相当額として採用した。最新の令和7年度決算報告PDF（https://www.joho-shimane.or.jp/files/original/202606301538393305afa3ac3.pdf）の公開は確認できたが、貸借対照表本文を取得できず、資産合計は確認不能のためnullとした。参考として令和6年度決算では資産合計2,143,673,976円を確認できたが、最新年度ではないため採用していない。"
+  },
+  "elapsed_s": 93
+ },
+ "pref_1ab4bed3bce2": {
+  "name": "公益財団法人やまぐち産業振興財団",
+  "url": "https://www.ymg-ssz.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人やまぐち産業振興財団",
+   "established_year": 2000,
+   "established_source_url": "https://yipf.or.jp/about/overview/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://yipf.or.jp/about/information/",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "international",
+    "environment",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "山口県内の中小企業等を主な対象として、研究開発、技術・DX活用、起業・新事業創出、国内外での知的財産権取得、海外展開、脱炭素化や物流効率化などの取組を助成・補助する。",
+   "grant_field_source_url": "https://yipf.or.jp/",
+   "confidence": "medium",
+   "notes": "公式沿革では、前身2団体を統合して2000年に「財団法人やまぐち産業振興財団」がスタートし、2012年に公益財団法人へ移行しているため、設立年は2000年とした。公式情報公開ページには令和7年度決算報告書と事業報告書が掲載されているが、今回、決算PDF本文の貸借対照表にある「資産合計」を確実に抽出できなかったため、総資産はnullとした。事業報告書では複数制度ごとの助成・補助実績が記載されるが、全制度を包含する年間助成金支出総額を確認できなかったため、年間助成額もnullとした。提示されたymg-ssz.jpは現在、財団の正式な情報公開サイトとして確認できず、現行の公式サイトyipf.or.jpを根拠にした。"
+  },
+  "elapsed_s": 96
+ },
+ "pref_00b676f3be8b": {
+  "name": "公益財団法人福岡アジア都市研究所",
+  "url": "https://urc.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人福岡アジア都市研究所",
+   "established_year": 1988,
+   "established_source_url": "https://urc.or.jp/wp-content/uploads/2020/04/gaiyo200401.pdf",
+   "total_assets_jpy": 79072710,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.city.fukuoka.lg.jp/soki/s_teisu/shisei/documents/05_ajiatosikennkyuusho_r7.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "high",
+   "notes": "公式概要に設立日「昭和63年8月1日（1988.8.1）」と記載。福岡市公式資料掲載の令和7年3月31日現在の貸借対照表で、資産合計79,072,710円を確認したため、対応する令和6年度（2024年度）として収録。令和6年度事業報告および公式サイト内の助成関連検索では、同研究所が外部へ助成金を交付する制度・支出実績を確認できなかった。事業報告には同研究所がJSTの助成事業を実施した旨があるが、これは助成する側の実績ではないため年間助成額はnull、助成分野は空配列とした。"
+  },
+  "elapsed_s": 75
+ },
+ "pref_84ab333233de": {
+  "name": "公益財団法人長崎県産業振興財団",
+  "url": "https://www.joho-nagasaki.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人長崎県産業振興財団",
+   "established_year": 2001,
+   "established_source_url": "https://www.joho-nagasaki.or.jp/wp-area/2025/wp-content/uploads/2025/04/R7_zaidan-pamphlet.pdf",
+   "total_assets_jpy": 9986334541,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 234952577,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.joho-nagasaki.or.jp/wp-area/2025/wp-content/uploads/2025/07/82200e1242685fa49205bae3f49907ee.pdf",
+   "grant_fields": [
+    "engineering",
+    "environment",
+    "regional",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "県内中小企業者等による経営革新・創業を対象に、成長ものづくり（造船・プラント、航空機等）、環境・エネルギー、第4次産業革命（半導体、ロボット、組み込み、IoT）、食料品製造業の4分野を重点支援する。技術応用開発、商品化研究・開発、見本市出展、認証取得などを助成する。",
+   "grant_field_source_url": "https://www.joho-nagasaki.or.jp/business/miraifund/",
+   "confidence": "high",
+   "notes": "公式の令和7年度事業案内の沿革に「平成13年4月 長崎県産業振興財団（設立）」とあるため2001年とした。令和6年度決算報告書の2025年3月31日現在の貸借対照表で資産合計9,986,334,541円を確認。同報告書の2024年4月1日～2025年3月31日のキャッシュ・フロー計算書で助成金支出234,952,577円を確認した。年度は期間開始年の2024として記録。grant_fieldsのinterdisciplinaryは、公式サイトに産学連携助成制度があり、研究と事業化を横断して支援することに基づく分類。確認日: 2026-07-18。"
+  },
+  "elapsed_s": 48
+ },
+ "pref_4bd41fcb5f5b": {
+  "name": "公益財団法人福岡県中小企業振興センター",
+  "url": "https://www.joho-fukuoka.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人福岡県中小企業振興センター",
+   "established_year": 1966,
+   "established_source_url": "https://www.joho-fukuoka.or.jp/profile.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.joho-fukuoka.or.jp/contents/profile/jigyo-houkoku/R7.pdf",
+   "grant_fields": [
+    "regional",
+    "engineering",
+    "international",
+    "welfare",
+    "education",
+    "environment"
+   ],
+   "grant_scope_text": "福岡県内の中小企業者による経営革新、新事業展開、持続的な賃上げ、地域課題を解決する起業・事業承継・第二創業、海外での特許・商標出願、販路開拓を支援する。起業支援の社会的事業分野には、地域活性化、まちづくり、過疎地域活性化、買物弱者・地域交通、教育、子育て、環境、社会福祉などが含まれる。",
+   "grant_field_source_url": "https://www.joho-fukuoka.or.jp/yokatoko/index.html",
+   "confidence": "medium",
+   "notes": "公式概要に設立日「昭和41年5月23日」とあるため1966年。公式ページには令和7年度貸借対照表（https://www.joho-fukuoka.or.jp/contents/profile/taisyaku/R7.pdf）へのリンクが存在するが、PDF本文を取得できず資産合計を確認できなかったため総資産はnull。令和7年度事業報告書では、経営革新・賃上げ支援78,616,423円、起業支援7,570,000円、外国出願支援10,367,000円を確認したが、別途「展示会への出展支援」の助成額が記載されておらず、年間助成金支出総額を確定できないためnullとした。"
+  },
+  "elapsed_s": 125
+ },
+ "pref_3095c0d8a4e0": {
+  "name": "公益財団法人佐賀県地域産業支援センター",
+  "url": "https://www.saga-kiko.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐賀県地域産業支援センター",
+   "established_year": 1996,
+   "established_source_url": "https://sagaperch.jp/about.php",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://sagaperch.jp/file/R6jigyouhoukoku.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "interdisciplinary",
+    "education",
+    "welfare",
+    "international",
+    "natural_science"
+   ],
+   "grant_scope_text": "佐賀県内の中小企業等を主な対象として、新技術・新製品・知財開発、DX・GX、生産性改善・設備高度化、展示会出展・販路開拓、外国出願、創業・スタートアップ、人材育成・福利厚生、農村ビジネス、県産品の販売・海外展開、シンクロトロン光を利用する企業・大学等の研究を支援する。",
+   "grant_field_source_url": "https://sagaperch.jp/support/purpose-subsidy.php",
+   "confidence": "medium",
+   "notes": "現法人は2021年4月に「公益財団法人佐賀県産業振興機構」へ名称変更した同一法人。公式沿革では前身法人の創立は1967年だが、「（財）佐賀県地域産業支援センター（設立）」は1996年4月と明記されているため、対象名称の設立年として1996年を採用した。公益財団法人としての事業開始は2012年4月。公式サイトには令和7年度決算書へのリンク（https://sagaperch.jp/file/R7kessannsyo.pdf）があるが、調査時にPDF本文を取得できず、資産合計を確認できなかったためtotal_assets_jpyはnull。令和6年度事業報告書には個別の補助事業・支出額（例：ものづくり企業イノベーション促進事業13,749千円、新技術・新製品開発、知財、販路拡大、生産性向上等）が多数掲載される一方、財団全体の年間助成金支出総額として集約された確認可能な値を特定できなかったためannual_grant_amount_jpyはnull。grant_fieldsは公式の支援対象・公益目的事業から分類した。"
+  },
+  "elapsed_s": 100
+ },
+ "org_437536e77d91": {
+  "name": "日本機械学会",
+  "url": "https://www.jsme.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本機械学会",
+   "established_year": 1897,
+   "established_source_url": "https://www.jsme.or.jp/about/about-jsme/corporate-overview/",
+   "total_assets_jpy": 2208329381,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 290000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.jsme.or.jp/jsme/uploads/2025/09/JSMEReport2024.pdf",
+   "grant_fields": [
+    "engineering",
+    "education"
+   ],
+   "grant_scope_text": "次世代を担う大学生までを対象とする「機械工学の未来を拓く有意義な事業」。例として、小学生向けのものづくり・実験教室、中高生・大学生向け科学セミナーなどを助成する。",
+   "grant_field_source_url": "https://www.jsme.or.jp/event_project/mechalife/",
+   "confidence": "high",
+   "notes": "公式法人概況で、創立は明治30年6月12日（1897年）と確認。対象は公益財団法人ではなく、一般社団法人日本機械学会である。2024年度会計報告（2025年2月28日現在）の貸借対照表で資産合計2,208,329,381円を確認。同年度の正味財産増減計算書における「支払助成金」の合計は290,000円。事業報告にはメカライフ振興事業の助成51件も記載されているが、各件の交付額合計は確認できないため、年間助成額には財務諸表で明示された支払助成金を採用した。"
+  },
+  "elapsed_s": 53
+ },
+ "pref_bd5d68075d99": {
+  "name": "公益財団法人さいたま市文化振興事業団",
+  "url": "https://www.saitama-culture.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人さいたま市文化振興事業団",
+   "established_year": 1984,
+   "established_source_url": "https://saitama-culture.jp/profile/",
+   "total_assets_jpy": 1639794054,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://saitama-culture.jp/sculwp/wp-content/uploads/doc_bs-r06.pdf",
+   "grant_fields": [
+    "arts_culture",
+    "regional"
+   ],
+   "grant_scope_text": "文化芸術団体等がさいたま市内で実施し、一般に公開する文化芸術事業、および文化芸術を生かした地域活性化事業を対象とする。市民の自主的な文化芸術活動の促進と、さいたま市の文化芸術振興を目的としている。",
+   "grant_field_source_url": "https://artscouncil-saitama.jp/grants/information/r7jyoseikin/",
+   "confidence": "medium",
+   "notes": "公式沿革には1984年10月に前身の財団法人浦和市文化振興事業団を設立、2012年4月に公益財団法人へ移行と記載されているため、設立年は1984年とした。総資産は、数値を確認できた令和6年度貸借対照表（2025年3月31日現在）の「資産合計」1,639,794,054円。公式概要には令和7年度貸借対照表も掲載されているが、調査時にPDF本文を取得できなかったため、その数値は採用していない。年間助成金支出総額は、助成上限額および交付決定事業の資料は確認できたものの、直近年度の確定した実支出総額を示す公式資料を確認できなかったためnullとした。"
+  },
+  "elapsed_s": 87
+ },
+ "pref_2aff83f12b66": {
+  "name": "公益財団法人東京都歴史文化財団",
+  "url": "https://www.rekibun.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人東京都歴史文化財団",
+   "established_year": 1982,
+   "established_source_url": "https://www.rekibun.or.jp/%E6%B2%BF%E9%9D%A9/",
+   "total_assets_jpy": 22290096602,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 1373605661,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.rekibun.or.jp/sys/wp-content/uploads/2026/07/R7%E8%B2%A1%E5%8B%99%E8%AB%B8%E8%A1%A8%E7%AD%89.pdf",
+   "grant_fields": [
+    "arts_culture",
+    "regional",
+    "international",
+    "welfare",
+    "education"
+   ],
+   "grant_scope_text": "音楽、演劇、舞踊、美術・映像・写真・映画、文学、メディア芸術、伝統芸能、芸能、生活文化、ファッション、建築、複合的な芸術活動を対象とする。国内外での創造・発信、地域文化・文化財の継承、伝統芸能の体験、芸術による社会課題への取組、鑑賞時のアクセシビリティ向上などを支援する。",
+   "grant_field_source_url": "https://www.artscouncil-tokyo.jp/grants/",
+   "confidence": "high",
+   "notes": "公式沿革には昭和57年12月24日（1982年）の財団法人東京都文化振興会設立が最初の設立として記載され、1995年に財団法人東京都歴史文化財団へ統合・改称、2010年に公益財団法人へ移行しているため、設立年は1982年とした。最新公開済みの令和7年度財務諸表（2026年3月31日現在）で、貸借対照表の「資産合計」22,290,096,602円を確認。同財務諸表の令和7年度正味財産増減計算書で、事業費中の「支払助成金」1,373,605,661円を確認した。年度は令和7年度を開始年基準で2025と表記。助成領域は、財団が運営するアーツカウンシル東京の公式助成事業一覧に基づき分類した。"
+  },
+  "elapsed_s": 86
+ },
+ "org_b97467aab109": {
+  "name": "日本建築学会",
+  "url": "https://www.aij.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本建築学会",
+   "established_year": 1886,
+   "established_source_url": "https://www.aij.or.jp/130history-movie.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.aij.or.jp/disclosure.html",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": "https://www.aij.or.jp/subsidy.html",
+   "confidence": "medium",
+   "notes": "公式情報では、1886年（明治19年）に前身の造家学会として創立。対象法人は公益財団法人ではなく「一般社団法人日本建築学会」。公式ディスクロージャーページに2024年度決算資料・事業報告の掲載は確認できたが、検索・閲覧環境では資料本体から本会全体の資産合計を確実に抽出できなかったためnull。支部単独の貸借対照表は本会全体の数値ではないため採用していない。公式の「研究助成等一覧」は主として他団体の助成制度を紹介し、本会の年間助成金支出総額を示す助成実績ではないため、annual_grant_amount_jpyはnull。日本建築学会自身が外部へ行う助成制度について、対象分野と年間支出総額を公式資料から明確に確認できなかったため、grant_fieldsは空配列、grant_scope_textはnullとした。"
+  },
+  "elapsed_s": 58
+ },
+ "pref_e72bd94b9e14": {
+  "name": "公益財団法人宮崎県産業振興機構",
+  "url": "https://www.i-port.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人宮崎県産業振興機構",
+   "established_year": 2000,
+   "established_source_url": "https://www.mepo.or.jp/gaiyou/enkaku",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.mepo.or.jp/gaiyou/report_plan",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "environment",
+    "education",
+    "life_science",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "県内中小企業等による新事業・新分野進出、食品の商品開発、工業技術・産学官共同研究、環境リサイクル技術、特許等の知的財産取得、地域課題を解決する女性・若者の起業、脱炭素化技術などを支援・助成する。",
+   "grant_field_source_url": "https://www.mepo.or.jp/contents/wp-content/uploads/2026/07/bb047d2c847a31c0b968593040a2dd53.pdf",
+   "confidence": "medium",
+   "notes": "公式沿革では、前身2財団を統合して財団法人宮崎県産業支援財団を2000年4月に設立し、2013年4月に公益財団法人宮崎県産業振興機構へ名称変更したことを確認。公式財務ページには令和7年度貸借対照表が掲載されているが、調査時にPDF本文を取得できず、資産合計を確認できなかったためnull。令和7年度事業報告では食品開発補助4,334,000円、特許出願等助成1,584,000円および1,082,000円、脱炭素化技術検証補助2,789,000円など個別実績を確認したが、年間助成金支出の網羅的な総額は明記されておらず、事業費には人件費等も含まれるため合算せずnullとした。提示されたi-port.or.jpは現在、同機構とは無関係の不用品回収サイトになっており、現在の公式サイトはmepo.or.jpであることをサイトの法人表示・所在地から確認した。"
+  },
+  "elapsed_s": 109
+ },
+ "pref_083b3ab7f688": {
+  "name": "公益財団法人千葉市産業振興財団",
+  "url": "https://www.cmcic.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人千葉市産業振興財団",
+   "established_year": 2001,
+   "established_source_url": "https://www.chibashi-sangyo.or.jp/cszwp/wp-content/uploads/jigyo_r07.pdf",
+   "total_assets_jpy": 532585005,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 65008588,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.chibashi-sangyo.or.jp/cszwp/wp-content/uploads/kessan_r06.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "international",
+    "welfare",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "千葉市内の中小企業等を主な対象に、新製品・新サービスの開発、ICTを活用した生産性向上、知的財産権の取得・外国出願、販路・海外事業展開、大学等との共同研究を支援するほか、中小企業勤労者向けの健康・余暇活動費用等を助成する。",
+   "grant_field_source_url": "https://www.chibashi-sangyo.or.jp/hojokin-joseikin/",
+   "confidence": "medium",
+   "notes": "公式令和7年度事業報告書に「平成13年4月の設立以来」とあるため、設立年を2001年とした。財務数値は内容まで確認できた令和6年度財務諸表（2024年度、2025年3月31日現在）による。貸借対照表の資産合計は532,585,005円、正味財産増減計算書の支払助成金合計は65,008,588円。公式公告ページには令和7年度財務諸表も掲載されているが、調査時にPDF本文を取得できず数値を確認できなかったため、推測せず令和6年度値を採用した。ユーザー提示の旧ドメイン cmcic.or.jp ではなく、現在の公式サイト chibashi-sangyo.or.jp 上の資料を使用した。"
+  },
+  "elapsed_s": 114
+ },
+ "org_42f78ba422e6": {
+  "name": "電気学会",
+  "url": "https://www.iee.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人 電気学会",
+   "established_year": 1888,
+   "established_source_url": "https://www.iee.jp/about/overview/",
+   "total_assets_jpy": 2331602210,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 2755546,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.iee.jp/wp-content/uploads/honbu/31-doc-honb/2025-houkoku-keikaku.pdf",
+   "grant_fields": [
+    "international",
+    "engineering",
+    "education"
+   ],
+   "grant_scope_text": "国際交流基金・桜井資金を原資として、若手会員による海外国際会議での論文発表、電力技術に関する海外の国際会合への出席、日本開催の電気学会主催会議への海外研究者・技術者の招聘に伴う交通費・滞在費等を助成する。",
+   "grant_field_source_url": "https://www.iee.jp/member_serv/subsidy/",
+   "confidence": "high",
+   "notes": "対象は公益財団法人ではなく、公式名称が「一般社団法人 電気学会」である。公式概要で1888年創設を確認。令和6年度決算（2024年4月1日～2025年3月31日）の貸借対照表で資産合計2,331,602,210円を確認。年間助成金支出総額は、同年度の正味財産増減計算書に記載された事業費の支払助成金2,719,546円と管理費の支払助成金36,000円の合計2,755,546円。事業報告に記載された国際交流助成だけの実績額は25万円（10万円＋15万円）だが、annual_grant_amount_jpyには決算上の支払助成金全体を採用した。"
+  },
+  "elapsed_s": 48
+ },
+ "org_01c7e05c4874": {
+  "name": "情報処理学会",
+  "url": "https://www.ipsj.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人情報処理学会",
+   "established_year": 1960,
+   "established_source_url": "https://www.ipsj.or.jp/annai/aboutipsj/gakkai-shokai.html",
+   "total_assets_jpy": 1488889443,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 268000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.ipsj.or.jp/annai/aboutipsj/soukai/20250611soukai/soukai20250611-a01-2-2024zaimu.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "対象団体は公益財団法人ではなく、公式の定款および学会紹介で確認できる一般社団法人。1960年4月22日設立。2024年度財務諸表（2025年3月31日現在）の貸借対照表で資産合計1,488,889,443円を確認。同年度の正味財産増減計算書で管理費中の「支払助成金」268,000円を確認したが、同資料には支給先・助成目的・対象分野の内訳がなく、公式サイトで学会自身が実施主体となる助成制度も確認できなかったため、grant_fieldsは空配列、grant_scope_textとgrant_field_source_urlはnullとした。公式サイトの「関連団体からの各種賞・助成等のお知らせ」は外部団体の制度紹介であり、本会自身の助成対象とは扱っていない。"
+  },
+  "elapsed_s": 64
+ },
+ "org_9907a055a458": {
+  "name": "計測自動制御学会",
+  "url": "https://www.sice.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人計測自動制御学会",
+   "established_year": 1961,
+   "established_source_url": "https://www.sice.jp/about/about_outline.html",
+   "total_assets_jpy": 364595523,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.sice.jp/wp-content/uploads/16soukai_1b-1.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "high",
+   "notes": "対象法人は公益財団法人ではなく、公益社団法人。公式沿革では1961年9月30日の創立総会で発足。2025年度決算書（2025年12月31日現在）の貸借対照表で資産合計364,595,523円を確認した。公式の2025年度事業報告書・決算書には、同法人が研究者等へ交付する助成制度および年間助成金支出総額を確認できなかったため、annual_grant_amount_jpyはnullとした。公式サイトの「会告・公募・助成」は主として他団体の助成公募情報の掲載であり、同法人自身の助成事業とは確認できないため、grant_fieldsは空配列、grant_scope_textとgrant_field_source_urlはnullとした。決算書にある助成金2,450,000円は同法人が外部団体から受け取った開催助成等であり、助成金支出ではない。"
+  },
+  "elapsed_s": 45
+ },
+ "org_090bc47d6337": {
+  "name": "電子情報通信学会",
+  "url": "https://www.ieice.org/jpn_r",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人電子情報通信学会",
+   "established_year": 1917,
+   "established_source_url": "https://www.ieice.org/jpn_r/about/joho/kibo.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.ieice.org/jpn_r/about/shainsokai.html",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "high",
+   "notes": "対象法人は公益財団法人ではなく一般社団法人。公式情報公開ページで1917年（大正6年）5月1日設立を確認。社員総会ページには2025年度決算書が掲載されているが、調査時に決算PDFが403 Forbiddenとなり、貸借対照表の資産合計を確認できなかったため総資産はnull。公式サイトでは、他機関の研究助成情報の掲載・推薦取次ぎや表彰事業は確認できたが、同学会自身が公募・支出する助成制度および年間助成金支出総額は確認できなかったため、助成額・対象分野はnull／空配列とした。"
+  },
+  "elapsed_s": 95
+ },
+ "org_a1ac9b37d896": {
+  "name": "人工知能学会",
+  "url": "https://www.ai-gakkai.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人 人工知能学会",
+   "established_year": 1986,
+   "established_source_url": "https://www.ai-gakkai.or.jp/about/membership/",
+   "total_assets_jpy": 447512373,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.ai-gakkai.or.jp/pdf/general-meeting/no41.pdf",
+   "grant_fields": [
+    "engineering",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "人工知能分野の発展に寄与するコンペティションの開催を経済面・広報面で支援する。助成金は、データ収集・購入、データ作成、ウェブサイト運営、会場設営など、コンペティション開催に必要な物品・労務を対象とする。",
+   "grant_field_source_url": "https://www.ai-gakkai.or.jp/event/ai-seminar/competition_convening_support/",
+   "confidence": "high",
+   "notes": "対象は公益財団法人ではなく一般社団法人。公式入会案内で1986年7月発足を確認。第41回総会資料の2025年度決算（2026年3月31日現在）に資産合計447,512,373円を確認した。年間助成金支出総額は、同決算に「企画コンペティション」費1,161,952円があるものの、助成金以外の企画経費を含む可能性があり、助成金支出額として分離確認できないためnullとした。"
+  },
+  "elapsed_s": 81
+ },
+ "org_322c838b45a4": {
+  "name": "化学工学会",
+  "url": "https://www.scej.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人化学工学会",
+   "established_year": 1936,
+   "established_source_url": "https://www.scej.org/general/history.html",
+   "total_assets_jpy": 579105696,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 3023667,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.scej.org/docs/general/closing-report/2024-R6.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "対象法人は公益財団法人ではなく公益社団法人。公式沿革では1936年11月6日に「化学機械協会」として発足。2024年度決算報告書（2024年3月1日～2025年2月28日）の貸借対照表で資産合計579,105,696円、正味財産増減計算書で支払助成金3,023,667円を確認した。公式の「研究助成・表彰情報」は外部団体の公募紹介であり、同会自身の助成対象分野を示すものではない。支払助成金の個別制度・対象分野を公式資料から特定できなかったため、grant_fieldsは空配列、grant_scope_textとgrant_field_source_urlはnullとした。"
+  },
+  "elapsed_s": 70
+ },
+ "org_8a4d1ba0e37b": {
+  "name": "日本金属学会",
+  "url": "https://www.jim.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本金属学会",
+   "established_year": 1937,
+   "established_source_url": "https://jimm.jp/about/",
+   "total_assets_jpy": 1575706278,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 22500500,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://jimm.jp/about/disclosure/pdf/2025all-j_s002.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science"
+   ],
+   "grant_scope_text": "教育・研究機関における金属および関連材料分野の学術研究・技術研究の発展と若手研究者の育成・奨励を目的に、金属および関連材料分野の材料またはプロセスに関する調査、試験、研究、開発を助成する。",
+   "grant_field_source_url": "https://jimm.jp/grant/adoption/frontier_06.html",
+   "confidence": "high",
+   "notes": "対象法人は公益財団法人ではなく公益社団法人。公式概要で1937年2月14日創設を確認。2024年度事業報告・決算（2024年3月1日～2025年2月28日）の貸借対照表で資産合計1,575,706,278円、正味財産増減計算書で研究助成費22,500,500円（助成数15件）を確認した。"
+  },
+  "elapsed_s": 69
+ },
+ "org_58e4e1c79f74": {
+  "name": "日本免疫学会",
+  "url": "https://www.jsi-men-eki.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "特定非営利活動法人 日本免疫学会",
+   "established_year": 1970,
+   "established_source_url": "https://www.jsi-men-eki.org/outline/%E6%AD%B4%E5%8F%B2-%E5%8F%97%E8%B3%9E-%E8%A8%83%E5%A0%B1/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.jsi-men-eki.org/https-www.jsi-men-eki.org-https-www.jsi-men-eki.org-kaimu-260107/",
+   "grant_fields": [
+    "life_science",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "免疫学領域全般を対象に、若手研究者および博士課程大学院生の研究・キャリア形成を支援する。免疫学研究者による海外の国際会議での研究発表や研究機関訪問も助成対象とする。",
+   "grant_field_source_url": "https://www.jsi-men-eki.org/general/kibou/kibou1/",
+   "confidence": "medium",
+   "notes": "対象団体は公益財団法人ではなく、公式サイト上の法人種別は「特定非営利活動法人」。公式沿革には、1970年11月29日に日本免疫学会の設立が決定されたと記載されている。最新の公式会務報告では2025年度事業報告・決算の承認は確認できたが、貸借対照表、資産合計、助成金支出総額の数値は公開ページ上で確認できなかったためnullとした。grant_fieldsは、公式の「きぼう」プロジェクトが対象分野を「免疫学領域全般」とし博士課程学生を支援していること、および公式Travel Awardが若手免疫学研究者の海外国際会議での発表等を支援していることに基づく。個別制度の予定額や採用予定人数から年間実績額を推計・合算していない。"
+  },
+  "elapsed_s": 61
+ },
+ "org_0f65d8bfcb2f": {
+  "name": "日本癌学会",
+  "url": "https://www.jca.gr.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人 日本癌学会",
+   "established_year": 1941,
+   "established_source_url": "https://www.cancer.or.jp/modules/about/index.php?content_id=14",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "博士号取得後5年以内の若手研究者を対象に、がん薬物療法およびがん治療に関する研究を助成する。",
+   "grant_field_source_url": "https://www.cancer.or.jp/modules/recruiting/index.php?content_id=7",
+   "confidence": "high",
+   "notes": "対象法人は公益財団法人ではなく、一般社団法人日本癌学会。公式の歴史ページでは、昭和16年（1941年）4月5日に第1回日本癌学会が開催され、前夜の会合で学会が成立したと記載されている。公式サイトおよび検索で一般公開された最新の貸借対照表・決算書を確認できなかったため、総資産はnull。公式の歴代採択者一覧（https://www.cancer.or.jp/modules/recruiting/index.php?content_id=9）では2025年に10名の採択を確認できるが、同年度の1件当たり交付額または年間支出総額を明示した助成実績・事業報告を確認できなかった。2026年募集要項には1件100万円・合計10件とあるものの、募集予定額であり直近年度の支出実績ではないため、年間助成金支出総額は推計せずnullとした。"
+  },
+  "elapsed_s": 56
+ },
+ "org_b03af551cfba": {
+  "name": "日本鉄鋼協会",
+  "url": "https://www.isij.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本鉄鋼協会",
+   "established_year": 1915,
+   "established_source_url": "https://www.isij.or.jp/about/index.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.isij.or.jp/about/report/report2025.html",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "environment",
+    "interdisciplinary",
+    "humanities_social"
+   ],
+   "grant_scope_text": "鉄鋼および鉄鋼関連の材料・プロセスに関する学術・技術研究を助成する。加えて、化学工学、機械工学、電気工学、経済学などを含む、鉄鋼のカーボンニュートラル／グリーントランスフォーメーションに資する基盤研究、萌芽的・先端的研究も対象とする。",
+   "grant_field_source_url": "https://www.isij.or.jp/subcommittee/promotion.html",
+   "confidence": "medium",
+   "notes": "対象団体は公益財団法人ではなく、公式サイトで一般社団法人と確認した。公式概要には1915年2月6日設立と記載されている。最新の2025年度事業報告・収支決算（2025年3月1日～2026年2月28日）は確認でき、鉄鋼研究振興助成27件および鉄鋼カーボンニュートラル研究助成10件の実施が記載されているが、助成金支出総額は掲載ページで確認できないためannual_grant_amount_jpyはnullとした。最新決算PDF（https://www.isij.or.jp/about/report/data/balance-settlement-2025.pdf）は公式ページからリンクされているものの取得・内容確認ができず、最新年度の資産合計を検証できないためtotal_assets_jpyもnullとした。なお、取得できた2024年度決算には資産合計1,729,373,604円と記載されているが、最新年度ではないため採用していない。"
+  },
+  "elapsed_s": 101
+ },
+ "org_56b452f39160": {
+  "name": "土木学会",
+  "url": "https://www.jsce.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人土木学会",
+   "established_year": 1914,
+   "established_source_url": "https://www.jsce.or.jp/outline/index.shtml",
+   "total_assets_jpy": 3987048096,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 47091170,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://committees.jsce.or.jp/jsceoffice/system/files/2026JSCEgian.pdf",
+   "grant_fields": [
+    "engineering",
+    "international",
+    "regional"
+   ],
+   "grant_scope_text": "土木工学・土木技術の発展に資する研究および国際交流活動を助成する。具体例は、インフラマネジメント技術の国際展開、地域への新技術実装、国内外で行うジョイントセミナー、国際シンポジウム、共同研究・国際交流活動など。",
+   "grant_field_source_url": "https://committees.jsce.or.jp/iefund/",
+   "confidence": "high",
+   "notes": "公式概要で1914年11月の設立を確認。2025年度貸借対照表（2026年3月31日現在）の「資産合計」3,987,048,096円を採用した。2025年度正味財産増減計算書の事業費内訳にある「研究助成費」47,091,170円を年間助成金支出総額として採用。対象組織は公益財団法人ではなく、公式名称が「公益社団法人土木学会」である点に注意。"
+  },
+  "elapsed_s": 106
+ },
+ "org_02a20ff4b00f": {
+  "name": "日本生理学会",
+  "url": "https://physiology.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本生理学会",
+   "established_year": 1922,
+   "established_source_url": "https://int.physiology.jp/history/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science",
+    "natural_science",
+    "education"
+   ],
+   "grant_scope_text": "生理学分野で顕著な研究業績を有し、今後の活躍が期待される若手会員を対象に、研究実績、研究構想と発展性、学会活動を評価して奨励する。",
+   "grant_field_source_url": "https://www.physiology.jp/award/incentive/provision/",
+   "confidence": "medium",
+   "notes": "対象団体は公益財団法人ではなく、公式サイトで一般社団法人であることが確認された。公式沿革では1922年創立。公式サイト上で最新年度の貸借対照表または決算書を確認できなかったため、総資産はnull。日本生理学会奨励賞は1件20万円の副賞を定めているが、直近年度に実際に支出した全助成・副賞の合計額を示す事業報告または助成実績を確認できなかったため、年間助成金支出総額はnull。サイトの「研究助成」記事には他団体の公募案内が多く、それらは日本生理学会自身の助成支出に算入していない。"
+  },
+  "elapsed_s": 52
+ },
+ "org_8be60f91499c": {
+  "name": "日本生命科学会",
+  "url": "https://www.jslsm.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本生命科学会",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "low",
+   "notes": "指定名称「日本生命科学会」および指定URL https://www.jslsm.jp に対応する公益財団法人を公式情報から確認できなかった。検索で確認できた類似ドメイン https://www.jslsm.or.jp/ は「特定非営利活動法人 日本レーザー医学会」の公式サイトであり、対象名称・法人種別が異なるため、その設立年、財務情報、活動分野を転用していない。指定対象について公式の沿革、貸借対照表、助成実績、助成対象分野を確認できないため、全項目をnull（grant_fieldsは空配列）とした。"
+  },
+  "elapsed_s": 41
+ },
+ "org_bc9e08e428a7": {
+  "name": "日本内科学会",
+  "url": "https://www.naika.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本内科学会",
+   "established_year": 1903,
+   "established_source_url": "https://www.naika.or.jp/jigyo_top/naiyo/",
+   "total_assets_jpy": 5544786242,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://cdn-naikaprod.pressidium.com/wp-content/uploads/2026/04/882cf90b005668ebc51ae49493d548db.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "high",
+   "notes": "2026-07-18確認。対象は公益財団法人ではなく一般社団法人。公式概要に学会設立年1903年と明記。最新の令和7年度財務諸表（2026年1月31日現在）の貸借対照表に資産合計5,544,786,242円を確認した。財務諸表には「内科学会奨励賞」2,204,620円の費用計上があるが、研究助成金ではなく賞に当たるため年間助成金額には算入しなかった。公式サイトでは同会自身が交付する研究助成制度および助成対象分野を確認できず、annual_grant_amount_jpy、grant_fields、grant_scope_textは不明としてnull／空配列とした。"
+  },
+  "elapsed_s": 67
+ },
+ "org_cfd24f5f62a8": {
+  "name": "日本心理学会",
+  "url": "https://psych.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本心理学会",
+   "established_year": 1927,
+   "established_source_url": "https://psych.or.jp/about/about/",
+   "total_assets_jpy": 291915099,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://psych.or.jp/wp-content/uploads/2025/07/financial_statements_2024.pdf",
+   "grant_fields": [
+    "humanities_social",
+    "international",
+    "welfare",
+    "regional"
+   ],
+   "grant_scope_text": "心理学に関わる研究活動を行う研究会、心理学関連の国際学会・国際会議で発表する大学院生、および心理学の知識を活用して減災や災害復興に寄与する実践活動・研究を助成・補助の対象とする。",
+   "grant_field_source_url": "https://psych.or.jp/jpamember/jpa_offer/",
+   "confidence": "high",
+   "notes": "対象法人は公益財団法人ではなく公益社団法人。公式沿革で1927年4月7日の創立を確認。2024年度決算の貸借対照表（2025年3月31日現在）で資産合計291,915,099円を確認した。2024年度事業報告では研究会31件、国際会議参加者6名、減災・復興研究・活動2件への助成・補助実施を確認したが、支出総額は記載されていない。決算には「研究の奨励」1,348,291円と「災害研究支援」460,000円があるものの、これらが助成金支出のみで構成されるとは確認できず、年間助成金支出総額はnullとした。事業報告URL: https://psych.or.jp/wp-content/uploads/2025/07/report_2024.pdf"
+  },
+  "elapsed_s": 48
+ },
+ "org_4c3eba8ea670": {
+  "name": "日本社会学会",
+  "url": "https://jss-sociology.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本社会学会",
+   "established_year": 1924,
+   "established_source_url": "https://jss-sociology.org/about/outline/",
+   "total_assets_jpy": 133531377,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://jss-sociology.org/wp/wp-content/uploads/2026/02/kessan2023.pdf",
+   "grant_fields": [
+    "humanities_social"
+   ],
+   "grant_scope_text": "社会学の研究を奨め、その発展・普及を図る目的のもと、社会学教育の振興と研究の助成を行う。",
+   "grant_field_source_url": "https://jss-sociology.org/about/rules/",
+   "confidence": "medium",
+   "notes": "2026-07-18確認。対象は公益財団法人ではなく一般社団法人。公式学会紹介に1924年設立と明記されている。公開検索で確認できた公式の2023年度決算書の貸借対照表では資産合計133,531,377円。これより新しい貸借対照表は確認できなかった。定款には「社会学教育の振興と研究の助成」とあるが、直近年度の助成金支出総額を特定できる公式の助成実績・事業報告は確認できなかったためannual_grant_amount_jpyはnull。サイト上の他団体による助成公募記事は日本社会学会自身の助成実績に含めていない。"
+  },
+  "elapsed_s": 55
+ },
+ "org_756c2137f312": {
+  "name": "日本人類学会",
+  "url": "https://anthropology.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本人類学会",
+   "established_year": 1884,
+   "established_source_url": "https://anthropology.jp/about/history.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "natural_science",
+    "humanities_social"
+   ],
+   "grant_scope_text": "若手正会員による、人類学・考古学分野の優れた発想に基づく研究を対象として研究奨励金を支給する。",
+   "grant_field_source_url": "https://anthropology.jp/wakate_encouragement.html",
+   "confidence": "medium",
+   "notes": "2026-07-18確認。対象団体は公益財団法人ではなく一般社団法人。公式沿革は、1884年に前身「じんるいがくのとも」が結成されたことを学会の起源としている。公式サイトでは決算書類の作成義務は確認できたが、最新年度の貸借対照表および資産合計を確認できる公開資料を特定できなかったため、総資産はnull。河合研究奨励賞は2026年度募集額（150万円以内×2件程度）を公開しているが、これは募集上限であり実際の年間支出総額ではないため、年間助成金額はnull。grant_fieldsは、公式説明の「自然人類学に関連する諸分野」および助成名称・対象の「人類学・考古学」に基づく。"
+  },
+  "elapsed_s": 58
  }
 }
