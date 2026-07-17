@@ -26461,5 +26461,1163 @@
   },
   "elapsed_s": 102,
   "tier": "B"
+ },
+ "e3c7a31a-8cbe-4960-99d4-431128defe7f": {
+  "name": "公益財団法人塩事業センター",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人塩事業センター",
+   "established_year": 1996,
+   "established_source_url": "https://www.shiojigyo.com/center/profile/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式サイトの組織概要で、正式名称、東京都品川区大井1丁目47番1号の所在地、設立年月日「平成8年7月1日」を確認した。公式情報公開ページ（https://www.shiojigyo.com/center/information/）には令和7年度の貸借対照表・事業報告書が掲載されているが、PDF本文を取得できず、資産合計を確認できなかったためnull。公式の事業紹介では塩に関する調査研究、共同研究、生活用塩の供給・備蓄等を実施しているが、外部への公募助成制度または年間助成金支出総額は確認できなかったため、助成額はnull、助成領域は空配列とした。"
+  },
+  "elapsed_s": 123,
+  "tier": "B"
+ },
+ "4c8f5ee2-024a-452c-b715-dea54c10b525": {
+  "name": "公益財団法人大倉文化財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大倉文化財団",
+   "established_year": 1917,
+   "established_source_url": "https://www.shukokan.org/outline/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.shukokan.org/Portals/0/images/outline/index/2025_financial_statement.pdf",
+   "grant_fields": [
+    "arts_culture"
+   ],
+   "grant_scope_text": "美術工芸品の収集・修復、展覧会の開催とともに、芸術育成向上のための調査・研究および奨励援助を行う。",
+   "grant_field_source_url": "https://www.shukokan.org/outline/",
+   "confidence": "medium",
+   "notes": "公式サイトの所在地（東京都港区虎ノ門2-10-3）と法人名を照合。公式沿革は1917年8月に財団法人大倉集古館が誕生したと記載し、1960年に大倉文化財団へ改称、2011年に公益財団法人へ移行したとしているため、起源となる設立年を1917年とした。公式ページから令和7年度決算書を特定できたが、PDF本文を取得・検証できず、貸借対照表の資産合計は確認不能のためnull。令和7年度事業報告書も掲載されているが、年間助成金支出総額を確認できなかったためnull。助成分野は公式の基本運営方針にある芸術育成のための調査・研究および奨励援助に基づく。取得日: 2026-07-18。"
+  },
+  "elapsed_s": 103,
+  "tier": "B"
+ },
+ "24b53af0-e3f7-42e3-8d46-a573ca442f0c": {
+  "name": "公益財団法人大倉精神文化研究所",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大倉精神文化研究所",
+   "established_year": 1932,
+   "established_source_url": "https://www.okuraken.or.jp/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.okuraken.or.jp/about/report/",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式サイト記載の所在地（神奈川県横浜市港北区大倉山2-10-1）と対象法人名を照合。公式沿革では1932年4月9日創立、2012年4月1日に公益財団法人へ移行。公式情報公開ページには令和7年度の貸借対照表等が掲載されているが、PDF本文から資産合計の数値を確実に取得できなかったため総資産はnull。事業報告書および公式の目的・事業案内から外部への助成制度・年間助成金支出総額を確認できなかったため、助成額・助成対象分野もnull／空配列とした。研究・文化普及事業を行う財団であることは確認できるが、それを助成分野とは扱っていない。"
+  },
+  "elapsed_s": 116,
+  "tier": "B"
+ },
+ "b07c1df9-924b-438c-bb5a-1c9237dfb4c1": {
+  "name": "公益財団法人大原記念倉敷中央医療機構",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大原記念倉敷中央医療機構",
+   "established_year": 1923,
+   "established_source_url": "https://www.kchnet.or.jp/oharahcf/greeting/",
+   "total_assets_jpy": 70151000000,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.kchnet.or.jp/oharahcf/wp-content/uploads/2026/06/chinsyakutaisyouhyou.pdf",
+   "grant_fields": [
+    "welfare",
+    "life_science",
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "「赤い屋根まごころ基金」により、患者・家族・地域住民向けの健康づくり、疾病予防、治療に関する研修会等、療養環境整備、院内の臨床研究、職員教育研修、ボランティア活動環境、患者会の運営などを支援する。",
+   "grant_field_source_url": "https://www.kchnet.or.jp/oharahcf/donation/all-courses/akaiyanemagokorokikin/",
+   "confidence": "high",
+   "notes": "公式サイトの所在地（岡山県倉敷市美和1-1-1）と正式名称を照合。公式説明では1923年創立、2013年に公益財団法人へ移行。2025年度貸借対照表（2026年3月31日現在）は単位が百万円で、資産合計70,151百万円。最新の2025年度事業報告および公開された基金情報では年間助成金支出総額を確認できないため、annual_grant_amount_jpyはnull。基金は支援対象を示すが、一般公募型助成制度であることは確認できない。"
+  },
+  "elapsed_s": 83,
+  "tier": "B"
+ },
+ "7360ea37-99cd-4947-bb5c-e42f61a39c29": {
+  "name": "公益財団法人大和証券財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大和証券財団",
+   "established_year": 1994,
+   "established_source_url": "https://www.daiwa-grp.jp/dsz/about.html",
+   "total_assets_jpy": 2663347316,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 98415000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.daiwa-grp.jp/dsz/pdf/financial/2024/2024_05.pdf",
+   "grant_fields": [
+    "welfare",
+    "life_science",
+    "regional"
+   ],
+   "grant_scope_text": "中高年・高齢者特有の疾病に関する医学・医療、高齢者の寝たきり予防、リハビリテーション、在宅医療・介護の調査研究を助成する。また、高齢者、障がい児者、子どもへの支援、社会的意義の高いボランティア活動、大規模自然災害の被災者支援、子どもの未来につながる活動を助成する。",
+   "grant_field_source_url": "https://www.daiwa-grp.jp/dsz/about.html",
+   "confidence": "high",
+   "notes": "公式概要で所在地（東京都中央区京橋1-2-1）と主務官庁（内閣府）を照合。公式の設立年月日は1994年3月15日で、2023年4月に大和証券ヘルス財団と合併し現名称で新たに発足。総資産は2025年3月31日現在の2024年度貸借対照表（https://www.daiwa-grp.jp/dsz/pdf/financial/2024/2024_04.pdf）の資産合計。年間助成額は2024年度正味財産増減計算書に記載されたボランティア活動50,818,000円、子ども支援6,997,000円、災害時5,000,000円、調査研究35,600,000円の合計98,415,000円（返金収益は控除しない支出総額）。取得日: 2026-07-18。"
+  },
+  "elapsed_s": 56,
+  "tier": "B"
+ },
+ "09cac7b1-1772-408d-b34b-a7f4d75167dc": {
+  "name": "公益財団法人大分県地域保健支援センター",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大分県地域保健支援センター",
+   "established_year": 1995,
+   "established_source_url": "https://www.pref.oita.jp/uploaded/attachment/2197154.pdf",
+   "total_assets_jpy": 826447000,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.pref.oita.jp/uploaded/attachment/2238504.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "high",
+   "notes": "大分県の外郭団体資料で、所在地「大分市大字駄原2892番地の1」、公式サイト http://www.oita-sienc.jp、設立年月日「平成7年2月22日」を確認したため、設立年は1995年。令和5年度決算の大分県附属明細書には当財団の資産826,447千円、負債256,305千円、純資産570,143千円と記載されているため、資産額を円換算した。資料の年度は令和5年度（2023年度）。公式資料で確認できた事業は疾病予防の検診、普及啓発、研究・研修等であり、外部への助成事業・助成金支出は確認できなかったため、年間助成額はnull、助成分野は空配列とした。"
+  },
+  "elapsed_s": 142,
+  "tier": "B"
+ },
+ "fdeb67dd-b6cd-4dbd-9e83-a34095e0355d": {
+  "name": "公益財団法人大和文華館",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大和文華館",
+   "established_year": 1946,
+   "established_source_url": "https://www.kintetsu-g-hd.co.jp/culture/yamato/about/history.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式サイト記載の法人名と所在地（奈良市学園南1丁目11番6号）が対象法人に一致。公式沿革では昭和21年（1946年）に美術館づくりが始まり、1960年の開館まで「財団設立から14年」と記載されているため、設立年を1946年とした。公開・アクセス可能な最新の貸借対照表、決算書、事業報告書は確認できず、総資産はnull。公式サイト上で外部向け助成事業・助成実績を確認できないため、年間助成額はnull、助成分野は空配列。同一所在地にある別法人「公益財団法人大和文化財保存会」は文化財保存への助成を行うが、対象法人とは法人名・法人番号が異なるため、その資産・年間助成金・助成分野は採用していない。対象法人の法人番号は2150005008006。"
+  },
+  "elapsed_s": 73,
+  "tier": "B"
+ },
+ "5114e4b2-ad98-4731-9022-2b9e4b1ffccb": {
+  "name": "公益財団法人大原記念労働科学研究所",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大原記念労働科学研究所",
+   "established_year": 1945,
+   "established_source_url": "https://www.isl.or.jp/about/overview/overview.html",
+   "total_assets_jpy": 212151771,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.isl.or.jp/about/file/r6%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8.pdf",
+   "grant_fields": [
+    "life_science",
+    "welfare",
+    "humanities_social",
+    "interdisciplinary",
+    "education"
+   ],
+   "grant_scope_text": "労働科学に関する基礎的研究を助成・奨励し、研究成果の普及、働きやすい職場・環境の形成、労働安全衛生の促進、働く人々の安全・健康・福祉の増進を図る。寄附金は基礎研究に関する研究者育成、情報提供、国際協力、若手研究者への助成に使用する。",
+   "grant_field_source_url": "https://www.isl.or.jp/about/idea/donations.html",
+   "confidence": "high",
+   "notes": "公式概要では法人設立日を1945年11月30日としているため、established_yearは1945年とした。前身の倉敷労働科学研究所は1921年7月1日創立、公益財団法人への移行は2012年、現名称への変更と渋谷区への移転は2015年。現在の公式所在地は東京都豊島区であり、ユーザー提示の渋谷区所在地は旧所在地だが、公式沿革により同一法人と照合できた。令和6年度貸借対照表（2025年3月31日現在）の資産合計は212,151,771円。令和6年度正味財産増減計算書および公開資料には助成金支出を独立して確認できる費目・年間助成実績がないため、annual_grant_amount_jpyと年度はnull。助成対象分野は公式の寄附金募集ページに記載された目的・使途から分類した。"
+  },
+  "elapsed_s": 107,
+  "tier": "B"
+ },
+ "24ab22a7-cc80-40ce-bcb3-bd9014fffe2a": {
+  "name": "公益財団法人大場愛語会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大場愛語会",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "正式名称と所在地（宮城県遠田郡美里町南小牛田字町屋敷53番地）は美里町公式ページで対象法人と照合できたが、財団自身の公式サイトおよび公開された沿革・決算書・事業報告書を確認できなかったため、指定に従い全項目をnull（配列は空）とした。no public source"
+  },
+  "elapsed_s": 47,
+  "tier": "B"
+ },
+ "b7bfb905-d6c0-4ab7-80b7-d70645edf3aa": {
+  "name": "公益財団法人大和地所記念財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大和地所記念財団",
+   "established_year": 2020,
+   "established_source_url": "https://www.daiwajisyokinen-foundation.or.jp/overview/index.html",
+   "total_assets_jpy": 3424381,
+   "total_assets_fiscal_year": 2020,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.daiwajisyokinen-foundation.or.jp/financial-information/pdf/balance-sheet2020.pdf",
+   "grant_fields": [
+    "education"
+   ],
+   "grant_scope_text": "神奈川県内の高等学校に在学する生徒のうち、学業優秀・品行方正でありながら経済的理由により修学が困難な者へ奨学金を給付し、神奈川県の将来を担う人材を育成する。",
+   "grant_field_source_url": "https://www.daiwajisyokinen-foundation.or.jp/overview/index.html",
+   "confidence": "high",
+   "notes": "公式サイトの名称および所在地（横浜市中区山下町74番地1）を照合した。設立は公式概要記載の2020年5月。財務情報ページで公開を確認できた貸借対照表は第1期（2020年度）のみで、2021年3月31日現在の資産合計3,424,381円を採用した。直近年度の奨学金支出総額を確認できる助成実績・事業報告書は公開資料から確認できなかったため、annual_grant_amount_jpyはnull。"
+  },
+  "elapsed_s": 124,
+  "tier": "B"
+ },
+ "03cb2ab7-7908-40ac-8dba-e862cec3ccee": {
+  "name": "公益財団法人大分県奨学会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大分県奨学会",
+   "established_year": 1961,
+   "established_source_url": "https://oita-syogaku.com/aisatsu/index.html",
+   "total_assets_jpy": 10698680000,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.pref.oita.jp/uploaded/attachment/2251010.pdf",
+   "grant_fields": [
+    "education"
+   ],
+   "grant_scope_text": "大分県内に住所を有する保護者等の子弟のうち、経済的理由により修学が困難な高校生、高等専門学校生、専修学校高等課程生、大学生および短期大学生を対象に、無利子の奨学金を貸与する。",
+   "grant_field_source_url": "https://oita-syogaku.com/",
+   "confidence": "high",
+   "notes": "公式サイト記載の所在地（大分市府内町3丁目10番1号）が法人情報および所管する大分県の資料と一致。昭和36年4月設立を西暦1961年とした。総資産は大分県公式「県出資法人の経営状況報告概要書」の令和6年度貸借対照表にある資産10,698,680千円を円換算。本法人の事業は返済を要する奨学資金の貸与であり、確認できた令和6年度実績も貸与額である。助成金・給付金の年間支出総額とは認められないため、annual_grant_amount_jpyはnullとした。"
+  },
+  "elapsed_s": 181,
+  "tier": "B"
+ },
+ "44b14336-b209-4dea-ab06-15190c57695f": {
+  "name": "公益財団法人大島育英会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大島育英会",
+   "established_year": 1977,
+   "established_source_url": "https://oshima-ikueikai.or.jp/purpose/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "education"
+   ],
+   "grant_scope_text": "東京都内の短期大学・大学・大学院に在学する、志操堅固・学力優秀でありながら経済的理由により就学が困難な学生を対象に、返還義務のない奨学金を給付し、学生の指導も行う。",
+   "grant_field_source_url": "https://oshima-ikueikai.or.jp/outline/",
+   "confidence": "medium",
+   "notes": "公式サイト記載の所在地（東京都千代田区九段北4-2-28）が対象と一致し、gBizINFOの法人番号1010005015578および東京都の公益法人一覧でも同一法人と照合。公式「財団の目的と趣旨」に昭和52年11月設立とあるため、設立年は1977年。公式情報公開ページ（https://oshima-ikueikai.or.jp/information/）には事業報告、正味財産増減計算書、貸借対照表へのリンクが存在するが、調査時点でPDF本体が403 Forbiddenとなり内容を検証できなかった。したがって、資産合計および年間奨学金支出総額は推測せずnullとした。"
+  },
+  "elapsed_s": 80,
+  "tier": "B"
+ },
+ "87f010a3-8e8f-4f94-8969-65c2be6896ac": {
+  "name": "公益財団法人大堀秀夫記念育英財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大堀秀夫記念育英財団",
+   "established_year": 1975,
+   "established_source_url": "https://www.ohhori.or.jp/concept.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "education",
+    "arts_culture",
+    "natural_science",
+    "welfare",
+    "regional"
+   ],
+   "grant_scope_text": "福井県内を拠点とする団体が実施する、文化・芸術活動、スポーツ活動、科学教育活動、体験活動など、幅広い教育活動を通じて学生や子どもを育成する事業。",
+   "grant_field_source_url": "https://www.ohhori.or.jp/recruit.html",
+   "confidence": "medium",
+   "notes": "公式サイトの名称および所在地（福井県大野市篠座町5番8号）を照合。公式沿革には昭和50（1975）年設立とある。公式サイトは財務諸表PDFへのリンクを掲載しているが、調査環境ではPDF本文を取得できず、貸借対照表の資産合計を確認できなかったため総資産はnull。年間助成金支出総額を示す助成実績・事業報告も確認できなかったためnull。grant_fieldsのwelfareは公式対象にスポーツ活動が含まれること、regionalは募集対象が福井県内を拠点とする団体に限定されることによる分類。"
+  },
+  "elapsed_s": 140,
+  "tier": "B"
+ },
+ "863b567a-09e0-4b2a-8a10-c7243b812bde": {
+  "name": "公益財団法人大学セミナーハウス",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大学セミナーハウス",
+   "established_year": 1962,
+   "established_source_url": "https://iush.jp/about/",
+   "total_assets_jpy": 1105362817,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://iush.jp/uploads/files/20250701134219.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式サイト記載の法人名・所在地（東京都八王子市下柚木1987-1）が対象と一致。公式法人案内は1962年に財団法人として設立と記載。公式2024年度事業報告の「資産合計」1,105,362,817円を採用した。公式情報公開ページには2025年度決算も掲載されているが、検索・閲覧結果から資産合計の数値を確認できなかったため、数値を確認できた最新年度である2024年度を収録。公開資料では、教育研修施設の運営、セミナー、留学生支援・論文コンクール等は確認できたが、外部の研究・活動を対象とする助成事業および年間助成金支出総額は確認できなかった。受賞金や、同財団が受領したMICE助成金は助成金支出に含めていない。"
+  },
+  "elapsed_s": 118,
+  "tier": "B"
+ },
+ "2e94361d-b620-4ddc-8c97-94541302993a": {
+  "name": "公益財団法人大東育英会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大東育英会",
+   "established_year": 1988,
+   "established_source_url": "https://www.daitoh.info/ikuei/about.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 10320000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.daitoh.info/ikuei/business.html",
+   "grant_fields": [
+    "education"
+   ],
+   "grant_scope_text": "大阪府下の大学・高等学校に在学する者、または大阪府内居住者が保護する学生・生徒のうち、学業・人物が優秀で、経済的理由により修学困難な者へ返還不要の奨学金を給付する。",
+   "grant_field_source_url": "https://www.daitoh.info/ikuei/business.html",
+   "confidence": "medium",
+   "notes": "公式サイト記載の名称、所在地（大阪府寝屋川市香里本通町5番11号）、主務官庁（大阪府知事）が対象と一致。設立年は公式概要の「昭和63年4月1日」から1988年と確認した。年間助成額は公式の年度別実績に掲載された令和7年度の給与支給金額10,320千円を円換算した。公式情報公開ページに令和6年度貸借対照表へのリンクは存在するが、PDF本文を取得できず資産合計を検証できなかったため、総資産はnullとした。"
+  },
+  "elapsed_s": 70,
+  "tier": "B"
+ },
+ "42fc0648-259b-4e46-ab08-99b105277cfd": {
+  "name": "公益財団法人大学基準協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大学基準協会",
+   "established_year": 1947,
+   "established_source_url": "https://juaa.or.jp/outline/history/",
+   "total_assets_jpy": 4597070211,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://juaa.or.jp/media/files/pdf/outline/information/financial/2024/2024%E5%B9%B4%E5%BA%A6%E5%8F%8E%E6%94%AF%E6%B1%BA%E7%AE%97%E6%9B%B8%E9%A1%9E.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": "https://www.juaa.or.jp/outline/business/",
+   "confidence": "high",
+   "notes": "公式サイト記載の所在地（東京都新宿区市谷砂土原町2-7-13）と法人名を照合した。公式沿革では1947年に大学基準協会を創立し、1959年に財団法人として設立許可、2012年に公益財団法人へ移行している。設立年は公式が「創立」とする1947年を採用。2024年度決算（2025年3月31日現在）の貸借対照表・財産目録で資産合計4,597,070,211円を確認。公式の事業概要は評価事業、調査研究事業、国際化事業であり、外部への助成金交付事業は確認できなかったため、年間助成金額はnull、助成領域は空配列とした。検索で見つかる助成金への言及は、評価対象大学等が実施する制度の紹介であり、本協会自身による助成ではない。"
+  },
+  "elapsed_s": 134,
+  "tier": "B"
+ },
+ "7827422d-789d-48c0-bd42-9c13376a70d9": {
+  "name": "公益財団法人大松幸栄奨学財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大松幸栄奨学財団",
+   "established_year": 2024,
+   "established_source_url": "https://www.risu.co.jp/foundation/profile/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "岐阜県出身で岐阜県内の高校・高等専門学校に在学する生徒、または岐阜県出身で国内の4年制以上の大学に在学する学生のうち、学業・品行に優れ、修学上の経済的支援を必要とする者に、返済不要の奨学金を給付する。",
+   "grant_field_source_url": "https://www.risu.co.jp/foundation/outline/",
+   "confidence": "medium",
+   "notes": "公式ページで所在地が岐阜市神田町9丁目27番地、設立日が2024年4月8日であることを確認。2025年4月に公益財団法人として認可されたが、財団自体の設立年は公式概要に従い2024年とした。公式サイトおよび検索可能な公的・関連資料では、貸借対照表・決算書・事業報告書・助成実績を確認できなかったため、総資産と年間助成金支出総額はnull。募集要項には予定支給額・募集人数が掲載されているが、実際の採用人数や支出実績ではないため年間助成額には採用していない。"
+  },
+  "elapsed_s": 55,
+  "tier": "B"
+ },
+ "df895678-b6bd-4976-906a-88b44e4e3c4c": {
+  "name": "公益財団法人大山守大場家保存協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大山守大場家保存協会",
+   "established_year": 2010,
+   "established_source_url": "https://www.ohbakegoushiyashiki.com/library/67653c0df59b8150aa14a87c/69070a508a240105f6266d6b.pdf",
+   "total_assets_jpy": 815672000,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6050005006973",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": "https://www.ohbakegoushiyashiki.com/greeting",
+   "confidence": "high",
+   "notes": "正式名称、法人番号6050005006973、所在地（茨城県行方市玉造甲4533番地3）を公式サイトおよびGビズインフォで照合。公式の令和6年度事業報告書は、一般財団法人として2010年3月31日に設立、2012年3月12日に公益認定を受けたと記載しているため、設立年は2010年。総資産815,672,000円は、Gビズインフォ掲載の第13期決算公告（決算末日2024年12月31日）で確認。公式目的・事業は大場家住宅の保全管理、文化財の収集・調査・保管・公開、地域の歴史文化教育であり、外部への助成事業・助成対象分野・年間助成金支出は公開資料から確認できないため、助成関連項目はnullまたは空配列とした。"
+  },
+  "elapsed_s": 165,
+  "tier": "B"
+ },
+ "7ea6c2a5-04d8-45e5-8101-7e0c5484db9a": {
+  "name": "公益財団法人大川情報通信基金",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大川情報通信基金",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "life_science",
+    "education",
+    "welfare",
+    "humanities_social",
+    "arts_culture",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "情報通信分野における独創的、先進的または社会的に有用な調査・研究を助成する。対象は、基礎、通信・ネットワーク・システム、人工知能・脳科学、VR・AR・ロボット・知覚情報処理、バイオ・医療・ライフサイエンス、教育・福祉・ウェルビーイング、人文・社会科学、およびスマート社会などの応用分野。",
+   "grant_field_source_url": "https://www.okawa-foundation.or.jp/research-grants.html",
+   "confidence": "medium",
+   "notes": "公式サイトは、法人名および所在地（東京都千代田区平河町1-8-2 山京半蔵門パレス301）が対象法人と一致することを確認した。設立日は外部データベース等では1986年8月22日とされるが、公式の沿革・概要ページで確認できなかったためestablished_yearはnull。公開検索および公式サイト上で最新の貸借対照表・決算書、ならびに年間助成金支出総額を確認できなかったため、財務数値はnull。公式ページにある1件当たりの助成額は年間支出総額ではないため採用していない。"
+  },
+  "elapsed_s": 174,
+  "tier": "B"
+ },
+ "61caf849-2373-4132-8aea-a0576675136a": {
+  "name": "公益財団法人大本育英会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大本育英会",
+   "established_year": 1962,
+   "established_source_url": "https://www.ohmoto-ikueikai.or.jp/profile.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 144300000,
+   "annual_grant_fiscal_year": 2022,
+   "financial_source_url": "https://www.ohmoto-ikueikai.or.jp/pdf/jigyouhoukoku2023.pdf",
+   "grant_fields": [
+    "education"
+   ],
+   "grant_scope_text": "岡山県出身の高校・高専生および大学生ならびに岡山大学の大学院生のうち、心身健全・学力優秀で経済的に困窮する学生に給付奨学金を支給する。",
+   "grant_field_source_url": "https://www.ohmoto-ikueikai.or.jp/profile.html",
+   "confidence": "medium",
+   "notes": "公式サイトと岡山県資料の所在地（岡山市北区内山下1丁目1番13号）が一致し、対象法人を確認。設立日は公式概要の昭和37年1月11日。公式情報公開ページには令和6年度（2025年3月31日現在）の貸借対照表が掲載されているが、PDF本文の資産合計額を取得・確認できなかったため総資産はnull。年間給付額は、本文を確認できた公式の令和4年度事業報告に記載された給与実績合計144,300,000円を採用した。令和5・6年度の給付実績額は確認できなかったため、これは確認可能な最新値。"
+  },
+  "elapsed_s": 163,
+  "tier": "B"
+ },
+ "91ba01a9-6beb-4052-b129-db0cf67d49ad": {
+  "name": "公益財団法人大樹生命厚生財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大樹生命厚生財団",
+   "established_year": 1967,
+   "established_source_url": "https://www.taiju-life.co.jp/corporate/outline/history.htm",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 24500000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.taiju-life.co.jp/corporate/ir/pdf/disclosure202502.pdf",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "生活習慣病をはじめとする主要な医学研究課題について研究を公募し、国内の大学・医学研究機関等に所属する研究者による優れた研究を助成する。2024年度の課題は、救急患者の重症度評価、遠隔医療とPHRの臨床応用、認知症、骨髄細胞による老化抑制。",
+   "grant_field_source_url": "https://www.taiju-life.co.jp/corporate/ir/pdf/disclosure202502.pdf",
+   "confidence": "medium",
+   "notes": "大樹生命保険の公式サイトが関係機関として財団公式サイト（kousei-zigyodan.or.jp）へリンクしており、政府のGビズインフォに掲載された現在所在地（東京都港区東新橋1丁目5番2号）とも一致するため対象法人を特定。公式沿革では前身の財団法人三井生命厚生事業団を1967年8月に設立し、2019年4月に現名称へ改称。大樹生命の公式統合報告書によれば、2024年度は医学研究助成2,000万円と特別助成450万円、合計2,450万円を支出。財団単体の最新貸借対照表または決算資料を公開情報から確認できず、資産合計はnullとした。正味財産額による代用もしていない。"
+  },
+  "elapsed_s": 100,
+  "tier": "B"
+ },
+ "fe9f8dea-b5d2-46b4-aada-e4099ced22b1": {
+  "name": "公益財団法人大阪アイバンク",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪アイバンク",
+   "established_year": 1963,
+   "established_source_url": "https://www.osaka-eyebank.or.jp/guide.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 0,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.osaka-eyebank.or.jp/img/syoumizaisan2024.pdf",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "角膜疾患をはじめとする眼疾患の調査研究、特に視力障害者の視力回復または失明予防につながる研究への助成。",
+   "grant_field_source_url": "https://www.osaka-eyebank.or.jp/guide.html",
+   "confidence": "medium",
+   "notes": "公式サイトと大阪府ページで法人名、吹田市山田丘2番2号、電話番号を照合した。最新公開の令和6年度（2024年4月1日～2025年3月31日）正味財産増減計算書では支払助成金が0円で、事業報告書にも財政難により研究助成事業を休止したと明記されている。貸借対照表の公式PDFは事業運営状況ページに掲載されているが、調査時に本文を取得できなかったため、資産合計は推測せずnullとした。正味財産期末残高145,146,674円は確認できたが、総資産の代用にはしていない。設立年は公式概要の「昭和38年12月28日財団法人として設立」に基づく。"
+  },
+  "elapsed_s": 67,
+  "tier": "B"
+ },
+ "5702a58a-792f-46d5-a5d2-aeceda62f590": {
+  "name": "公益財団法人大谷美術館",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大谷美術館",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": 1517798955,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.disclo-koeki.org/13a/01116/b-2023.pdf",
+   "grant_fields": [
+    "arts_culture",
+    "engineering"
+   ],
+   "grant_scope_text": "公益目的事業として大谷美術館賞を授与。令和7年度は、材料表面の美的評価向上に関する優れた作品および顕著な技術・業績を挙げた個人または団体を対象とし、受賞作品には館内展示の機会を与える。",
+   "grant_field_source_url": "https://www.otanimuseum.or.jp/kyufurukawatei/bosyuuyoukououbohyou.pdf",
+   "confidence": "medium",
+   "notes": "公式サイトと情報公開共同サイトの所在地（東京都北区西ケ原）および共同サイト記載の行政庁（東京都）を照合した。公開一覧上は2024年度貸借対照表が最新だが、そのPDF本文を取得・確認できなかったため、本文を確認できた2023年度（2024年3月31日現在）の資産合計1,517,798,955円を採用。設立年は、公式沿革に1983～1988年の修復工事と1989年の一般公開はあるが、法人の設立年を明記した公式資料を確認できないためnull。2013年4月1日は公益財団法人への移行年月日であり設立年には採用しない。大谷美術館賞について賞金その他の金銭支出額や年間助成金総額を確認できないためannual_grant_amount_jpyはnull。"
+  },
+  "elapsed_s": 100,
+  "tier": "B"
+ },
+ "a6fcb87a-6e84-4116-aa70-22c9f0914185": {
+  "name": "公益財団法人大津市公園緑地協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大津市公園緑地協会",
+   "established_year": 1993,
+   "established_source_url": "https://otsu-park.org/about/",
+   "total_assets_jpy": 411339000,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.city.otsu.lg.jp/material/files/group/120/r7_kouen.pdf",
+   "grant_fields": [
+    "environment",
+    "regional"
+   ],
+   "grant_scope_text": "都市緑化に関する啓発・普及の一環として、緑の活動支援事業および緑の助成事業を実施する。花と緑のまちづくりや地域の緑化活動が対象。",
+   "grant_field_source_url": "https://otsu-park.org/bussiness/",
+   "confidence": "high",
+   "notes": "公式サイトの法人概要で、平成5年4月に財団法人大津市公園緑地協会として発足したことを確認。大津市作成の令和7年度外郭団体経営状況等調査票は、所在地を大津市浜大津四丁目1番1号、設立日を平成5年4月1日と記載しており、対象法人との一致を確認できる。同調査票の貸借対照表における令和6年度の資産合計411,339千円を円換算した。公式サイトには「緑の助成事業」の記載があるが、令和6年度の年間助成金支出総額として明確に集計された金額は公開資料から確認できなかったため、annual_grant_amount_jpyはnullとした。都市緑化に係る公益事業全体の事業費8,168,051円は助成金支出総額ではないため採用していない。"
+  },
+  "elapsed_s": 120,
+  "tier": "B"
+ },
+ "36e174d0-f6f3-4480-9e04-63441b18cfb5": {
+  "name": "公益財団法人大船渡市育英奨学会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大船渡市育英奨学会",
+   "established_year": 1974,
+   "established_source_url": "https://ofunato-ikuei.jp/koukai.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://ofunato-ikuei.jp/koukai.html",
+   "grant_fields": [
+    "education"
+   ],
+   "grant_scope_text": "大船渡市に住所を有する者の子女のうち、高等学校、大学、短期大学、高等専門学校、大学院または専修学校に在学し、学資の支弁が困難で、健康・成績・品行の要件を満たす者に無利子の奨学金を貸与する。",
+   "grant_field_source_url": "https://ofunato-ikuei.jp/bosyu.html",
+   "confidence": "medium",
+   "notes": "公式サイトの所在地は岩手県大船渡市盛町字宇津野沢15で、対象法人と一致。公式沿革に昭和49年8月の設立許可が記載されているため、設立年を1974年とした。情報公開ページには令和7年度の貸借対照表・事業報告書へのリンクがあるが、今回そのPDF本文の最新数値を検証可能な形で取得できなかったため、総資産はnull。事業は助成金の給付ではなく返還義務のある奨学金貸与であり、年間助成金支出額に該当する確認値がないためnull。貸与額を助成金額として計上していない。"
+  },
+  "elapsed_s": 132,
+  "tier": "B"
+ },
+ "35dc038b-972c-4534-9f04-0a626a6a1c68": {
+  "name": "公益財団法人大阪国際がん治療財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪国際がん治療財団",
+   "established_year": 2016,
+   "established_source_url": "https://www.osaka-himak.or.jp/foundation/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": "https://www.osaka-himak.or.jp/foundation/about/",
+   "confidence": "medium",
+   "notes": "公式サイトの財団概要で、所在地が大阪市中央区大手前三丁目1番10号、設立日が平成28年10月21日であることを確認したため、設立年は2016年。公式サイトおよび検索でアクセス可能な最新の貸借対照表・決算書・事業報告書を確認できず、資産合計はnull。公式の目的・公益目的事業は重粒子線がん治療、人材育成、研究、普及啓発であり、外部への助成事業や助成対象分野、年間助成金支出実績は確認できなかったため、助成額はnull、grant_fieldsは空配列、grant_scope_textはnullとした。大阪府等が患者に提供する助成制度は、この財団自身の助成事業ではないため含めていない。"
+  },
+  "elapsed_s": 88,
+  "tier": "B"
+ },
+ "4689a33b-a436-41ac-9e68-31a4903be3aa": {
+  "name": "公益財団法人大阪府文化財センター",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪府文化財センター",
+   "established_year": 1972,
+   "established_source_url": "https://www.pref.osaka.lg.jp/documents/27519/17bunkazaic.pdf",
+   "total_assets_jpy": 1709722494,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.pref.osaka.lg.jp/documents/27519/17bunkazaic.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": "https://www.pref.osaka.lg.jp/documents/27519/17bunkazaic.pdf",
+   "confidence": "high",
+   "notes": "大阪府公表資料で、所在地が堺市南区竹城台3-21-4、所管課が大阪府教育庁文化財保護課、公式サイトがhttps://www.occh.or.jpであることを照合した。設立年月日は昭和47年11月28日。令和6年度貸借対照表（令和7年3月31日現在）の資産合計は1,709,722,494円。公式資料に記載された事業は埋蔵文化財調査、博物館運営、文化財資料活用等であり、外部への助成事業および助成金支出実績は確認できなかったため、年間助成額はnull、助成分野は空配列とした。決算上の「受取助成金」は財団が受領した金額であり、助成金支出には算入していない。"
+  },
+  "elapsed_s": 58,
+  "tier": "B"
+ },
+ "cbba20e6-a4ef-4b69-a322-bd738d9fbb8c": {
+  "name": "公益財団法人大阪府スポーツ協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪府スポーツ協会",
+   "established_year": 1970,
+   "established_source_url": "https://www.osaka-sports.or.jp/gaiyo_enkaku",
+   "total_assets_jpy": 55537640,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.osaka-sports.or.jp/upfiles/6816d8652d4ef173f91a528fa0b2c531.pdf",
+   "grant_fields": [
+    "regional",
+    "education",
+    "welfare"
+   ],
+   "grant_scope_text": "府民の体力向上とスポーツ振興を目的として、地域スポーツの振興、青少年スポーツの育成、スポーツ指導者の養成、スポーツ大会・講習会等の実施および援助を行う。",
+   "grant_field_source_url": "https://www.osaka-sports.or.jp/gaiyo_enkaku",
+   "confidence": "high",
+   "notes": "公式サイト記載の所在地（大阪市浪速区難波中3丁目4番36号）と対象所在地を照合。沿革では1931年に前身の大阪体育運動連盟が発足し、1970年3月24日に財団法人大阪体育協会へ改組されたため、法人の設立年は1970年とした。2012年4月に公益財団法人へ移行、2019年4月に現名称へ改称。令和6年度決算の貸借対照表（2025年3月31日現在）で資産合計55,537,640円を確認。決算には支払交付金12,094,122円があるが、その全額を助成金支出と認定できる内訳・助成実績が確認できないため、年間助成金支出総額はnullとした。grant_fieldsは公式の目的・事業内容に基づく分類であり、一般公募型助成制度の存在を示すものではない。"
+  },
+  "elapsed_s": 92,
+  "tier": "B"
+ },
+ "4080ad41-e61e-4978-b8b2-fc557bf245ee": {
+  "name": "公益財団法人大阪府保健医療財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪府保健医療財団",
+   "established_year": 1965,
+   "established_source_url": "https://www.osaka-mf.jp/about.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.osaka-mf.jp/publish.html",
+   "grant_fields": [
+    "life_science",
+    "welfare"
+   ],
+   "grant_scope_text": "がんの一次予防・二次予防のための健康教育、検診、検査を対象とする臨床的または疫学的研究。対象者は、がん予防活動を推進する大阪府内在住・在勤の個人または団体で、所定機関の推薦を受けた者。",
+   "grant_field_source_url": "https://www.osaka-mf.jp/pdf/jigyou_houkoku5.pdf",
+   "confidence": "medium",
+   "notes": "公式サイトの名称・所在地（大阪市城東区森之宮1丁目6番107号）は大阪府の指定出資法人情報と一致。公式沿革で昭和40年7月26日設立を確認した。情報公開ページには令和6年度の貸借対照表・事業報告書が掲載されているが、今回、貸借対照表の資産合計および事業報告書の年間助成金支出総額を直接確認できなかったためnullとした。令和5年度事業報告では助成先2件を確認できるが、各支出額の記載を確認できず、1件25万円以内という上限額からの推計は行っていない。"
+  },
+  "elapsed_s": 102,
+  "tier": "B"
+ },
+ "38cdaa27-c8b5-4308-9150-c9bab5d54da0": {
+  "name": "公益財団法人大阪対がん協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪対がん協会",
+   "established_year": 1959,
+   "established_source_url": "https://www.osakacancer.jp/introduce.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 4500000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.osakacancer.jp/docs/r06_3hokoku..pdf",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "大阪府において、がんの予防・治療に関する基礎、臨床、疫学（社会医学）、看護等（緩和ケア・リハビリ等）に取り組む研究者・医療従事者の研究を助成する。",
+   "grant_field_source_url": "https://www.osakacancer.jp/information.html",
+   "confidence": "medium",
+   "notes": "公式サイトの所在地・定款および大阪府資料から、大阪市所在の対象法人であることを照合。設立年は公式概要で確認。2024年度事業報告書に15人へ各30万円を贈呈したとの記載があり、年間総額を4,500,000円と算定した。公式情報公開ページに令和6年度貸借対照表へのリンクは存在するが、PDF本文を取得できず資産合計を検証できなかったためnull。令和7年度決算の掲載告知も確認したが、情報公開ページおよび資料本文を取得できなかったため採用していない。"
+  },
+  "elapsed_s": 113,
+  "tier": "B"
+ },
+ "4fb376cb-a0aa-4ba4-9acf-fda771109ef0": {
+  "name": "公益財団法人大阪成人病予防協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪成人病予防協会",
+   "established_year": 1960,
+   "established_source_url": "https://www.osyk.jp/about/index.html",
+   "total_assets_jpy": 496843068,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 17680000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.osyk.jp/pdf/project/information/2024/2024_keisanshorui.pdf",
+   "grant_fields": [
+    "life_science",
+    "welfare",
+    "regional"
+   ],
+   "grant_scope_text": "大阪府内で行われる、がん・循環器疾患などの成人病の予防、診断および治療に関する医学・臨床研究を助成するほか、成人病患者会・患者支援団体が主体となって地域活動や交流を行い、健康向上に取り組む活動を支援する。",
+   "grant_field_source_url": "https://www.osyk.jp/about/index.html",
+   "confidence": "high",
+   "notes": "公式サイトの名称・所在地（大阪市中央区）を照合。設立許可は1960年2月25日。令和6年度計算書類（2025年3月31日現在）の貸借対照表で資産合計496,843,068円を確認。同計算書類の正味財産増減計算書内訳で、経常費用の「助成金」合計17,680,000円を確認した。「奨励金」2,000,000円は別科目のため年間助成金額に含めていない。助成対象は公式概要に記載された成人病の医学・臨床研究助成および患者団体等への支援に基づき分類した。"
+  },
+  "elapsed_s": 84,
+  "tier": "B"
+ },
+ "a5741208-6369-48ff-9f1a-51a605482579": {
+  "name": "公益財団法人大阪府消防協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪府消防協会",
+   "established_year": 1970,
+   "established_source_url": "https://www.osaka-fsa.org/",
+   "total_assets_jpy": 65296642,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://9b0606a4-375c-4f88-970e-a8d60909fdda.filesusr.com/ugd/ec286a_515cd03aa5e6461fbe38e7190b2b859e.pdf",
+   "grant_fields": [
+    "regional",
+    "education",
+    "welfare"
+   ],
+   "grant_scope_text": "消防団等の活性化と地域防災力の充実、防火防災思想の普及、消防団員等の消防知識・技能の向上および福利厚生に関する事業を行う。",
+   "grant_field_source_url": "https://www.osaka-fsa.org/",
+   "confidence": "medium",
+   "notes": "大阪府公式ページと財団公式サイトの所在地（大阪市中央区谷町2丁目2番20号）が一致し、対象法人を確認した。公式沿革では1948年に任意団体として発足し、1970年10月30日に大阪府知事の許可を得て財団法人として発足したため、設立年は1970年とした。総資産は公式貸借対照表の2024年3月31日現在の資産合計65,296,642円（令和5年度＝2023年度）。公式サイトには令和6年度事業報告・決算資料の掲載があるが、より新しい貸借対照表の資産合計を確認できなかった。検索で支払助成金を含む資料は確認したものの、年度および単位を確実に特定できず、直近年度の助成金支出総額はnullとした。grant_fieldsは公式の目的・事業内容に基づく分類であり、公募型研究助成を確認したものではない。"
+  },
+  "elapsed_s": 105,
+  "tier": "B"
+ },
+ "53d51b40-4b09-4de1-bf69-858640b9bcc5": {
+  "name": "公益財団法人天一美術文化財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人天一美術文化財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "arts_culture",
+    "education",
+    "humanities_social"
+   ],
+   "grant_scope_text": "美術分野の研究者（専門・一般、個人・団体）を対象に、意欲的な美術教育・美術活動、芸術全般の研究に関する未発表論文・研究発表、未発表の美術作品、天一美術館で行うワークショップ・講演を助成する。",
+   "grant_field_source_url": "https://www.kcic.jp/contribute_event/90434",
+   "confidence": "medium",
+   "notes": "所在地が東京都中央区銀座6丁目7番15号である同一法人を確認し、公式サイト http://tenichi-museum.com/ も特定したが、調査時に公式サイトは502エラーで閲覧できなかった。設立日は助成財団センターの情報に1995年6月22日との記載があるものの、財団公式の沿革・概要では確認できないためestablished_yearはnull。公開された最新の貸借対照表・決算書および助成実績報告は確認できず、総資産と年間助成金支出総額はnull。募集情報には2026年度の助成金総額50万円との記載があるが、募集予定額であって実際の年間支出総額ではないためannual_grant_amount_jpyには採用していない。grant_scopeは、財団公式募集ページへのリンクを掲載し、その募集内容を転載している鹿児島市の文化情報サイトで確認した。"
+  },
+  "elapsed_s": 74,
+  "tier": "B"
+ },
+ "e6b01167-71e3-45ac-85f0-c284ac2649e1": {
+  "name": "公益財団法人大阪造船所奨学会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪造船所奨学会",
+   "established_year": 2014,
+   "established_source_url": "https://www.daizo.co.jp/scholarship/greetings.html",
+   "total_assets_jpy": 1307278046,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 12600000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.daizo.co.jp/scholarship/release.html",
+   "grant_fields": [
+    "education",
+    "engineering",
+    "natural_science"
+   ],
+   "grant_scope_text": "学業優秀でありながら経済的理由により修学困難な、理工系学科を専攻する大学3・4年生および大学院修士課程1・2年生に給付型奨学金を支給し、科学技術分野の教育・学術研究の発展に寄与する。",
+   "grant_field_source_url": "https://www.daizo.co.jp/scholarship/recruit.html",
+   "confidence": "high",
+   "notes": "公式サイト記載の所在地（大阪府大阪市港区福崎三丁目1番201号）と対象法人名を照合。一般財団法人として2014年7月14日に設立され、2015年10月1日に公益財団法人へ移行。最新公開決算は第12期（令和6年4月1日～令和7年3月31日）。同期貸借対照表の資産合計は1,307,278,046円。正味財産増減計算書の支払奨学金は12,600,000円で、公式概要の令和6年度総給付額とも一致する。financial_source_urlは第12期の貸借対照表・正味財産増減計算書への公式公開情報ページ。"
+  },
+  "elapsed_s": 118,
+  "tier": "B"
+ },
+ "8d5448f8-ddd1-441d-8f8e-54432643ef84": {
+  "name": "公益財団法人大阪観光局",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪観光局",
+   "established_year": 2003,
+   "established_source_url": "https://octb.osaka-info.jp/organization.html",
+   "total_assets_jpy": 868342891,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 16148323,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://s3.ap-northeast-1.amazonaws.com/content.osaka-info.jp/disclosure/%E4%BB%A4%E5%92%8C6%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "grant_fields": [
+    "international",
+    "interdisciplinary",
+    "life_science",
+    "engineering",
+    "environment",
+    "humanities_social",
+    "arts_culture",
+    "regional"
+   ],
+   "grant_scope_text": "大阪府内で開催される一定規模以上の国際会議を対象に、誘致・開催経費の一部を助成。対象分野は、ライフサイエンス、ものづくり、環境・エネルギー、国際金融都市、スポーツ・食文化・エンターテインメント、万博テーマ、SDGs、その他大阪のイノベーション創出・産業競争力強化に資する分野・内容。",
+   "grant_field_source_url": "https://mice.osaka-info.jp/whyosaka/news/2025/subsidies-for-international-conventions-align-with-expo-2025-ver3.php",
+   "confidence": "high",
+   "notes": "公式組織概要は、前身の財団法人大阪観光コンベンション協会が2003年に設立され、2015年に体制・名称を再構築して公益財団法人大阪観光局となったと記載しているため、法人の設立年を2003年とした。所在地は公式サイト記載の大阪市中央区南船場4-4-21と照合済み。令和6年度決算報告書（2024年4月1日～2025年3月31日）の貸借対照表で資産合計868,342,891円、正味財産増減計算書で支払助成金16,148,323円を確認。公式ディスクロージャーには令和7年度決算報告書も掲載されているが、調査時にPDF本文の数値を確認できなかったため、確認可能な直近年度である令和6年度を採用した。"
+  },
+  "elapsed_s": 135,
+  "tier": "B"
+ },
+ "60a0e166-c873-483f-8b05-b0a3905da6e7": {
+  "name": "公益財団法人天風会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人天風会",
+   "established_year": 1962,
+   "established_source_url": "https://www.tempukai.or.jp/about/history",
+   "total_assets_jpy": 439020376,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 5380000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.tempukai.or.jp/wp-content/uploads/2025/07/202404.pdf",
+   "grant_fields": [
+    "education",
+    "welfare",
+    "regional"
+   ],
+   "grant_scope_text": "全国20の賛助会が行う、心身統一法の講習会・行修会・勉強会などの普及活動を対象に、財務状況を考慮して必要な賛助会へ活動補助金を配賦する。",
+   "grant_field_source_url": "https://www.tempukai.or.jp/wp-content/uploads/2025/07/202403.pdf",
+   "confidence": "high",
+   "notes": "公式サイトの法人名称、所在地（東京都文京区大塚5丁目40番8号）および行政庁（内閣府）が指定条件と一致。沿革では1919年を天風会の創立年とする一方、財団法人の設立許可は1962年3月のため、法人の設立年として1962年を採用した。2024年度決算（2025年3月31日現在）の貸借対照表で資産合計439,020,376円を確認。年間助成額は同決算の事業費「活動補助金」5,380,000円と、事業報告の「賛助会への助成・運営支援等」を照合した。これは一般公募型の研究助成ではなく、財団の関連組織である全国20賛助会への活動補助金である。"
+  },
+  "elapsed_s": 80,
+  "tier": "B"
+ },
+ "af62c4b1-9fb9-4022-9372-9663564409e4": {
+  "name": "公益財団法人太田・オリオン財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人太田・オリオン財団",
+   "established_year": 2018,
+   "established_source_url": "https://www.orionkikai.co.jp/company/environment/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "education",
+    "engineering",
+    "regional"
+   ],
+   "grant_scope_text": "長野県内で学ぶ理工学系学生の就学を支援するとともに、学校を対象とする助成を行い、地域教育の充実と人材育成に寄与する。",
+   "grant_field_source_url": "https://www.orionkikai.co.jp/company/environment/",
+   "confidence": "medium",
+   "notes": "法人番号9100005012261、所在地「長野県須坂市大字幸高246」を政府のgBizINFOおよび長野県資料で照合した。オリオン機械の公式ページに、2018年7月設立および助成対象が明記されている。旧財団公式ドメイン zaidan-ohtaorion.or.jp は現在オリオン機械の企業サイトを表示しており、財団の貸借対照表、決算書、事業報告書、助成実績総額を確認できる公開資料は検索で発見できなかった。このため総資産と年間助成金支出総額はnullとした。"
+  },
+  "elapsed_s": 74,
+  "tier": "B"
+ },
+ "90414b5f-e86e-42fa-a309-75f824bd6056": {
+  "name": "公益財団法人太田サンシャイン",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人太田サンシャイン",
+   "established_year": 2023,
+   "established_source_url": "https://ohtasunshine.com/about.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "沖縄県内の学校に在籍する学生への奨学資金給付、および沖縄県内で活動する地域振興目的の団体への助成。",
+   "grant_field_source_url": "https://ohtasunshine.com/img/rule.pdf",
+   "confidence": "medium",
+   "notes": "公式サイトの名称・所在地（沖縄県宜野湾市志真志4-1-1）が対象法人と一致。公式概要で設立日を2023年10月6日と確認した。公式サイトには「決算報告」ページへのリンクがあるが、貸借対照表・事業報告書・助成実績の具体的資料および数値をアクセス可能な状態で確認できなかったため、総資産と年間助成金支出総額はnull。2026年度募集要項の予定人数・給付年額から実績額を推計していない。助成領域は公式定款第3条・第4条に基づく。"
+  },
+  "elapsed_s": 85,
+  "tier": "B"
+ },
+ "c814e658-9b08-45af-9272-2f1737c0dae5": {
+  "name": "公益財団法人天門美術館",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人天門美術館",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "low",
+   "notes": "no public source。大阪府枚方市山之上北町3番1号の同法人であることは、大阪府が案内する公益法人informationおよび公開施設情報との照合により確認した。公式サイト（tenmon-museum.com）は検索で特定できたが、調査時に502エラーでアクセス不能。公益法人informationの検索画面は閲覧できたものの、当該法人の個別ページ、公式沿革、貸借対照表、事業報告書、助成実績をアクセス可能な公開資料として確認できなかった。観光情報には昭和33年の財団法人認可との記載があるが、公式沿革ではないため設立年には採用していない。美術館の展示活動は確認できるが、外部への助成事業は公式資料で確認できないため、助成額・助成分野ともに不明とした。"
+  },
+  "elapsed_s": 104,
+  "tier": "B"
+ },
+ "79120145-dcaa-4c71-911e-ee4b1f2d86ae": {
+  "name": "公益財団法人奥内陶芸美術館",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人奥内陶芸美術館",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "low",
+   "notes": "no public source。文化庁資料および関西観光本部の施設案内により、豊中市岡町北3丁目8-1所在の奥内陶芸美術館は確認できたが、財団の公式サイト、公益法人informationの公開ページ、公式の沿革、貸借対照表・決算書、助成実績、助成対象分野を確認できなかった。検索上は1972年開設との二次情報があるが、公式沿革では確認できないため設立年には採用していない。美術館の展示・収集活動は確認できるものの、助成事業の実施は確認できないため、助成額・助成分野はnull／空配列とした。"
+  },
+  "elapsed_s": 39,
+  "tier": "B"
+ },
+ "ad7d0445-048f-4bde-96e7-cb3bff11e650": {
+  "name": "公益財団法人奈良県奨学会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人奈良県奨学会",
+   "established_year": 1917,
+   "established_source_url": "https://www.pref.nara.jp/67699.htm",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "education"
+   ],
+   "grant_scope_text": "奈良県に居住する保護者の子弟で、首都圏の大学に入学する男子学生を対象に、学生寮「養徳学舎」を運営する。",
+   "grant_field_source_url": "https://www.pref.nara.lg.jp/n003/12189.html",
+   "confidence": "medium",
+   "notes": "奈良県公式ページおよび東京都の公益法人一覧により、東京都文京区小日向4丁目3番3号の法人であることを照合した。奈良県公式の知事記者会見資料に「大正6年に財団法人奈良県奨学会を設立」とあるため、設立年を1917年とした。公開検索で当法人の最新の貸借対照表・事業報告書・決算書および助成金支出実績を確認できなかったため、総資産と年間助成金支出額はnull。確認できた公益事業は学生寮の運営であり、研究助成・給付型助成の公開実績は確認できない。"
+  },
+  "elapsed_s": 59,
+  "tier": "B"
+ },
+ "c9220d11-0715-453d-882b-5c4cb366863d": {
+  "name": "公益財団法人奈良人権文化財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人奈良人権文化財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "low",
+   "notes": "no public source。奈良県資料およびGビズインフォで、所在地が奈良県御所市大字柏原235番地の2、法人番号が1150005008015である対象法人は照合できた。水平社博物館の公式サイトとして案内されるURLも確認したがアクセスできず、公益法人informationを含め、公式の沿革、貸借対照表、事業報告書、助成実績・助成対象を閲覧可能な形で確認できなかった。博物館の開館年は財団の設立年とはみなさず、補助金の受給額も助成金支出額とはみなしていない。ユーザー指定に従い全収集項目をnull（配列は空）とした。"
+  },
+  "elapsed_s": 89,
+  "tier": "B"
+ },
+ "8f89c253-b0e1-4d61-9112-94cfba9b274c": {
+  "name": "公益財団法人奄美市農業研究センター",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人奄美市農業研究センター",
+   "established_year": 1972,
+   "established_source_url": "https://www.city.amami.lg.jp/norin/kanko/nogyo/center.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "奄美市で農業経営を希望し、市の重点振興品目の栽培と自立経営農家を目指す者を対象に、農業技術・知識の研修を実施する。研修実績に応じて日額5,800円の営農研修助成金を支給するが、国の就農準備資金との重複支給は行わない。",
+   "grant_field_source_url": "https://www.city.amami.lg.jp/norin/kanko/nogyo/center.html",
+   "confidence": "medium",
+   "notes": "奄美市公式ページで、所在地（奄美市名瀬朝戸1489番地）と名称を照合し、昭和47年設立を確認したため1972年とした。鹿児島県の知事所管公益法人一覧でも同所在地の法人を確認でき、公益財団法人への移行登記日は2013年4月1日だが、これは当初設立年として採用していない。公開検索で最新の貸借対照表・決算書・事業報告書を確認できなかったため、総資産はnull。公式ページには営農研修助成金の日額のみが掲載され、年度別の年間支出総額や支給日数・人数別実績は確認できないため、年間助成金額もnull。一般公募型の研究助成財団ではなく、地域農業の担い手育成を目的とする研修・営農支援法人である。"
+  },
+  "elapsed_s": 109,
+  "tier": "B"
+ },
+ "5f79cb13-f813-44c0-a5da-79d401a04619": {
+  "name": "公益財団法人奄美奨学会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人奄美奨学会",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "education"
+   ],
+   "grant_scope_text": "奄美大島出身者の子弟で、大学等に在学し、成績優秀・心身健全でありながら経済的理由により修学が困難な者を対象とする奨学金貸与。",
+   "grant_field_source_url": "https://www.town.kikai.lg.jp/koho/machi/koho/documents/201902.pdf",
+   "confidence": "medium",
+   "notes": "東京都港区芝5丁目13番14号の法人であることを、東京奄美会掲載ページおよび自治体資料で照合した。共同情報公開サイトの法人検索にも東京都所在の公益財団法人として掲載されているが、対象法人の公開資料ページは取得時に文字コードエラーとなり、貸借対照表の資産合計を確認できなかったため総資産はnull。年間助成金支出総額を示す事業報告・助成実績も確認できずnull。確認できた事業は給付助成ではなく奨学金貸与である。1913年設立とする第三者記事は見つかったが、公式の沿革・概要では確認できなかったため設立年はnull。調査日: 2026-07-18。"
+  },
+  "elapsed_s": 142,
+  "tier": "B"
+ },
+ "a324f59b-513b-4222-adce-094162826423": {
+  "name": "公益財団法人太田記念美術館",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人太田記念美術館",
+   "established_year": 1976,
+   "established_source_url": "https://www.ukiyoe-ota-muse.jp/about/zaidangaiyou/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "humanities_social",
+    "arts_culture",
+    "education"
+   ],
+   "grant_scope_text": "新進の浮世絵研究者の育成を目的として、国内外の個人またはグループが行う浮世絵に関する学術的な調査・研究を助成する。",
+   "grant_field_source_url": "https://www.ukiyoe-ota-muse.jp/josei/",
+   "confidence": "medium",
+   "notes": "公式サイトの財団概要で、名称、東京都渋谷区神宮前1丁目10番10号の所在地、設立年月日（昭和51年9月14日）を照合した。公式開示ページには令和6年度決算報告および令和7年3月31日現在の貸借対照表が公開されているが、PDF内の数値を確実に抽出・確認できなかったため総資産はnullとした。研究助成ページでは2025年の採択者1名と、募集時の助成上限（総額100万円以下）は確認できるが、実際の年間支出総額は確認できないため年間助成額はnullとした。"
+  },
+  "elapsed_s": 154,
+  "tier": "B"
+ },
+ "9f612783-cd7f-4899-9b9f-a5b2a729e124": {
+  "name": "公益財団法人奄美群島地域産業振興基金協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人奄美群島地域産業振興基金協会",
+   "established_year": 1989,
+   "established_source_url": "https://www.city.amami.lg.jp/gikai/shise/shigikai/documents/h30-1st_kaigiroku.pdf",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.pref.kagoshima.jp/ab05/kensei/zaisei/kessan/documents/27829_20250328082243-1.pdf",
+   "grant_fields": [
+    "regional",
+    "engineering",
+    "education"
+   ],
+   "grant_scope_text": "奄美群島の本場大島紬などの地域産業を対象に、新商品・新技術の研究開発と企業化、特産品のデザイン開発、情報発信・PR、商談会等による販路開拓、後継者を含む人材育成を行う。",
+   "grant_field_source_url": "https://www.pref.kagoshima.jp/da01/kensei/gyokaku/kansa/documents/14919_20140318154409-1.pdf",
+   "confidence": "medium",
+   "notes": "2026-07-18確認。公式サイトと法人番号3340005004777の本店所在地（鹿児島県奄美市名瀬浦上町48番地1）を照合し、対象法人を特定。奄美市議会の公式会議録に「平成元年9月に設立」と明記されているため1989年とした。鹿児島県の令和5年度財政状況資料集には正味財産211百万円のみが掲載され、貸借対照表の資産合計ではないためtotal_assets_jpyはnull。最新の公開事業報告・助成実績から年間助成金支出総額を確認できずannual_grant_amount_jpyはnull。公式資料で確認できるのは研究開発・販路開拓・人材育成等の自主事業であり、一般公募型助成制度およびその支出総額は確認できなかった。grant_fieldsは公式事業目的に基づき、地域産業振興、新商品・新技術開発、人材育成を分類した。"
+  },
+  "elapsed_s": 111,
+  "tier": "B"
+ },
+ "a727797b-7e96-48f7-9d0b-9d3aa4858eb5": {
+  "name": "公益財団法人奈良先端科学技術大学院大学支援財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人奈良先端科学技術大学院大学支援財団",
+   "established_year": 1991,
+   "established_source_url": "https://www.science-plaza.or.jp/about.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "natural_science",
+    "engineering",
+    "life_science",
+    "education",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "奈良先端科学技術大学院大学の教員・博士後期課程学生による先端科学技術分野の研究、新任教授の研究室立ち上げ、社会人博士学生の修学、国際会議参加・海外派遣・外国人教員招へい・留学生、研究成果の普及、企業・団体との共同研究および実用化を支援する。",
+   "grant_field_source_url": "https://www.science-plaza.or.jp/activities.html",
+   "confidence": "medium",
+   "notes": "公式サイトの財団概要で、正式名称、所在地（奈良県生駒市高山町8916-12）、行政庁（内閣府）および設立日（平成3年7月18日）を照合した。公式情報公開ページには令和7年度の計算書類・事業報告書へのリンクが存在するが、PDF本文を取得・検証できず、貸借対照表の資産合計および年間助成金支出総額を確認できなかったためnullとした。grant_fieldsは公式の目的・事業紹介に明記された先端科学技術研究、研究者・技術者育成、国際交流、複数研究領域と産業界の共同研究支援に基づく。"
+  },
+  "elapsed_s": 105,
+  "tier": "B"
  }
 }
