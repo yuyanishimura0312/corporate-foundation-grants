@@ -72,6 +72,12 @@
   "reason": "net_assets_not_total (正味財産)"
  },
  {
+  "name": "（株）大塚商会",
+  "field": "total_assets",
+  "value": 729200000000,
+  "reason": "non_foundation_entity_assets (company/national agency)"
+ },
+ {
   "name": "公益財団法人サントリー生命科学財団",
   "field": "total_assets",
   "value": 1170131737,
@@ -93,31 +99,61 @@
   "name": "三井物産株式会社",
   "field": "total_assets",
   "value": 20821528000000,
-  "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+  "reason": "non_foundation_entity_assets (company/national agency)"
+ },
+ {
+  "name": "（独法）日本芸術文化振興会",
+  "field": "total_assets",
+  "value": 274716336126,
+  "reason": "non_foundation_entity_assets (company/national agency)"
  },
  {
   "name": "（独政）福祉医療機構（WAM）／子供の未来応援基金",
   "field": "total_assets",
   "value": 5361753640749,
-  "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+  "reason": "non_foundation_entity_assets (company/national agency)"
  },
  {
   "name": "第一生命保険株式会社",
   "field": "total_assets",
   "value": 35185307000000,
-  "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+  "reason": "non_foundation_entity_assets (company/national agency)"
  },
  {
   "name": "アステラス製薬株式会社",
   "field": "total_assets",
   "value": 3567042000000,
-  "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+  "reason": "non_foundation_entity_assets (company/national agency)"
  },
  {
   "name": "農林中央金庫",
   "field": "total_assets",
   "value": 79452524000000,
   "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+ },
+ {
+  "name": "国立研究開発法人情報通信研究機構",
+  "field": "total_assets",
+  "value": 315584962528,
+  "reason": "non_foundation_entity_assets (company/national agency)"
+ },
+ {
+  "name": "日本新薬株式会社",
+  "field": "total_assets",
+  "value": 346359000000,
+  "reason": "non_foundation_entity_assets (company/national agency)"
+ },
+ {
+  "name": "日本医療研究開発機構",
+  "field": "total_assets",
+  "value": 686825201862,
+  "reason": "non_foundation_entity_assets (company/national agency)"
+ },
+ {
+  "name": "日本学術振興会",
+  "field": "total_assets",
+  "value": 346235507758,
+  "reason": "non_foundation_entity_assets (company/national agency)"
  },
  {
   "name": "マルホ・高木皮膚科学振興財団",

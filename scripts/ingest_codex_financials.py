@@ -20,6 +20,9 @@ def net_asset_skip(n): return ("正味財産" in (n or "")) and ("資産合計" 
 def guarantee_skip(n): return any(k in (n or "") for k in ("債務保証", "機関保証", "保証見返"))  # JEES 4.8兆 distortion
 EXCLUDE_ASSET_NAME = ("むつ小川原", "日本国際教育支援協会")  # source unverifiable / JEES 4.8兆=債務保証見返込み (fable)
 IMPLAUSIBLE_ASSETS = 1_000_000_000_000  # >1兆 for a grant foundation = likely guarantee/consolidated → review
+# non-foundation entity: company / national agency の親実体資産が混入 (2026-07-18 検証: 大塚商会/日本新薬/AMED/JSPS/NICT/芸術文化振興会)
+NON_FOUNDATION = re.compile(r'株式会社|（株）|\(株\)|国立研究開発法人|独立行政法人|（独|日本学術振興会|日本医療研究開発機構')
+NON_FOUNDATION_ASSET_MIN = 100_000_000_000  # >1000億 かつ非財団名 = 親実体の資産混入
 
 staging = json.load(open(STAGING))
 c = sqlite3.connect(DB); c.row_factory = sqlite3.Row
@@ -60,6 +63,7 @@ for oid, rec in staging.items():
         elif net_asset_skip(notes): reason = "net_assets_not_total (正味財産)"
         elif guarantee_skip(notes): reason = "guarantee_liability_inflated (債務保証見返)"
         elif any(x in name for x in EXCLUDE_ASSET_NAME): reason = "source_unverified_or_guarantee_inflated"
+        elif NON_FOUNDATION.search(name) and ta > NON_FOUNDATION_ASSET_MIN: reason = "non_foundation_entity_assets (company/national agency)"
         elif ta > IMPLAUSIBLE_ASSETS: reason = "implausibly_large_>1兆 (likely guarantee/consolidated)"
         if reason:
             plan["assets_flagged_review"] += 1

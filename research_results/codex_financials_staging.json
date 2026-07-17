@@ -15934,5 +15934,933 @@
    "notes": "公式サイトは日本実験力学会の発足日を2001年1月1日と記載し、前身の日本光弾性学会は1979年1月1日設立としている。対象団体は名称および公式会則上「公益財団法人」ではなく学会である。公式サイトと検索結果から貸借対照表・決算書を確認できなかったため、総資産はnull。2025年の学生支援は参加費援助と確認できるが、支出総額、支援単価および採択人数の実績を確認できないため、年間助成額はnull。学会賞は表彰制度であり助成額には含めていない。"
   },
   "elapsed_s": 56
+ },
+ "org_1a6c48daf77f": {
+  "name": "日本音響学会",
+  "url": "https://acoustics.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本音響学会",
+   "established_year": 1936,
+   "established_source_url": "https://acoustics.jp/overview/about-asj/",
+   "total_assets_jpy": 272558408,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://acoustics.jp/cms/wp_asj/wp-content/uploads/2024taisyaku_taisyouhyou.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく、一般社団法人日本音響学会。公式概要で1936年設立を確認。令和6年度貸借対照表（令和7年3月31日現在）の「資産合計」272,558,408円を採用した。公式公開資料ページには令和7年度決算も掲載されているが、調査時に当該PDF本文へアクセスできず数値を確認できなかったため、本文を確認できた直近年度を使用。令和6年度事業報告および公式の選奨情報では賞・顕彰制度は確認できるものの、財団型の助成事業や年間助成金支出総額は確認できなかったため、annual_grant_amount_jpyはnull、grant_fieldsは空配列とした。"
+  },
+  "elapsed_s": 72
+ },
+ "org_53b38517dad3": {
+  "name": "日本ロボット学会",
+  "url": "https://www.rsj.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本ロボット学会",
+   "established_year": 1983,
+   "established_source_url": "https://www.rsj.or.jp/info/about/history.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.rsj.or.jp/info/about/materials/",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "ロボット学・ロボティクスに関する研究・技術の進展、知識の普及、若手研究者・技術者の奨励、研究専門委員会活動、および学生会員による国際会議IROSへの論文投稿（英語添削・翻訳）の支援。",
+   "grant_field_source_url": "https://www.rsj.or.jp/info/about/outline.html",
+   "confidence": "medium",
+   "notes": "公式沿革で1983年1月28日設立を確認。対象は公益財団ではなく、公式サイト表記上は一般社団法人日本ロボット学会（1991年に社団法人、2011年に一般社団法人へ移行）。公式公開資料には最新の第16回定時総会報告（会計報告を含む）が掲載されているが、リンク先PDFを本調査環境で取得・内容確認できなかったため、貸借対照表の資産合計と対象年度はnull。年間助成金支出総額についても、公式ページでは研究専門委員会の運営資金支援やIROS論文投稿奨励金制度を確認できる一方、直近年度の支出総額を確認できる助成実績・事業報告を取得できなかったためnull。grant_fieldsは公式活動目的・支援内容から分類した。表彰・賞金は助成金支出総額として計上していない。"
+  },
+  "elapsed_s": 75
+ },
+ "org_61c6f18c030b": {
+  "name": "日本臨床細胞学会",
+  "url": "https://jscc.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本臨床細胞学会",
+   "established_year": 1961,
+   "established_source_url": "https://jscc.or.jp/about/history/",
+   "total_assets_jpy": 560284522,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://cdn.jscc.or.jp/files/report-22.pdf",
+   "grant_fields": [
+    "life_science",
+    "welfare",
+    "regional",
+    "education"
+   ],
+   "grant_scope_text": "臨床細胞学・細胞診断学に関する研究を助成するとともに、地域連携組織が実施する子宮頸がん検診の普及・啓発活動を支援する。",
+   "grant_field_source_url": "https://jscc.or.jp/news/2026013002/",
+   "confidence": "medium",
+   "notes": "対象法人は公益財団法人ではなく公益社団法人。公式沿革は起源を1961年としているため設立年を1961年とした（日本臨床細胞学会への改称は1962年）。公式サイトで確認できた貸借対照表は2024年3月31日現在（2023年度）で、資産合計は560,284,522円。直近年度の助成金支出総額は確認できなかった。子宮頸がん検診推進活動助成は1件5万円が上限だが実費支給であり、申請・実施件数から総支出額を算定できないためnullとした。研究助成制度も確認できるが、決算の「研究費」を助成金支出総額と同一視できないため算入していない。"
+  },
+  "elapsed_s": 56
+ },
+ "org_64c1348ac65f": {
+  "name": "日本伝熱学会",
+  "url": "https://htsj.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本伝熱学会",
+   "established_year": 1961,
+   "established_source_url": "https://www.htsj.or.jp/50th/2299.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 607366,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.htsj.or.jp/wp/media/64-giansyo.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "伝熱に関する研究を対象に、研究会・調査活動の支援や研究成果の海外発表助成を行う。対象領域には熱・物質移動、流体、エネルギー、材料、細胞内熱現象などの分野横断的な研究が含まれる。",
+   "grant_field_source_url": "https://www.htsj.or.jp/wp/media/63-giansyo.pdf",
+   "confidence": "high",
+   "notes": "対象は公益財団法人ではなく公益社団法人。公式サイトは、前身の日本伝熱研究会が1961年11月に発足したと明記している。第64期（2025年度）総会議案書の決算内訳で、2025年4月1日から2026年3月31日までの「支払助成金」607,366円を確認した。最新の第64期通常総会資料には貸借対照表が収録されておらず、決算審議先とされる臨時総会資料（https://www.htsj.or.jp/wp/media/64R-giansyo.pdf）は内容を取得・検証できなかったため、最新年度の総資産はnullとした。なお、旧年度の第62期資料では2024年3月31日現在の負債及び正味財産合計56,575,067円を確認できるが、最新値ではないため採用していない。助成分野は、公式事業計画の「研究に対する海外発表のための助成」、研究会・調査支援、および伝熱関連領域の公式記載に基づき分類した。"
+  },
+  "elapsed_s": 97
+ },
+ "org_6c669eef162c": {
+  "name": "日本磁気共鳴医学会",
+  "url": "http://www.jsmrm.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本磁気共鳴医学会",
+   "established_year": 1986,
+   "established_source_url": "https://www.jsmrm.jp/modules/about/index.php?content_id=1",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science",
+    "engineering",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "学会所属の若手研究者が国内で実施する磁気共鳴医学に関する研究を対象とし、若手研究者の育成と関連分野の学術発展を目的とする。",
+   "grant_field_source_url": "https://www.jsmrm.jp/uploads/files/%E3%83%8F%E3%82%99%E3%82%A4%E3%82%A8%E3%83%AB%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90%E5%88%B6%E5%BA%A6.pdf",
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく、2010年7月1日に一般社団法人となった学会。公式沿革は、1981年創立の核磁気共鳴医学研究会を母体として、日本磁気共鳴医学会が1986年に設立されたと記載しているため、設立年は1986年とした。公式サイト上で貸借対照表または決算書を確認できず、資産合計はnull。2025年度のバイエル研究助成制度では公式の受給者一覧に2件の採択が掲載され、応募要項には助成金額「総額100万円」とあるが、実際の年間支出総額を示す事業報告・決算・助成実績資料ではないため、annual_grant_amount_jpyはnullとした。助成対象は磁気共鳴医学研究であり、医学・生命科学を中心に画像・計測技術などの工学領域を含む学際分野と分類した。"
+  },
+  "elapsed_s": 35
+ },
+ "org_63b94755c8f3": {
+  "name": "日本生体医工学会",
+  "url": "https://jsmbe.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本生体医工学会",
+   "established_year": 1962,
+   "established_source_url": "https://jsmbe.org/outline.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "interdisciplinary",
+    "life_science",
+    "engineering",
+    "education"
+   ],
+   "grant_scope_text": "齋藤奨学金により、生体医工学研究に専念し、同分野の発展に貢献する人材となることを期待して若手研究者を支援する。対象領域は医学・生物学と理工学の境界・融合領域である生体医工学。",
+   "grant_field_source_url": "https://www.jstage.jst.go.jp/article/jsmbe/62/4-5/62_97/_pdf/-char/en",
+   "confidence": "medium",
+   "notes": "対象団体は公益財団法人ではなく公益社団法人。公式の学会案内で1962年11月10日設立を確認。検索および公式サイト閲覧で貸借対照表・最新決算を確認できなかったため、総資産はnull。公式サイトで2024年度および2025年度の齋藤奨学金募集、2025年度受給者3名は確認できたが、事業報告等による当該年度の支出総額を確認できないため年間助成額はnull。公式学会誌には遺族から1億円の寄付を受けて齋藤奨学金を設置した旨があるが、これは寄付受入額であり、総資産または年間助成金支出額としては採用していない。"
+  },
+  "elapsed_s": 60
+ },
+ "org_18feb96c10b5": {
+  "name": "日本バーチャルリアリティ学会",
+  "url": "https://vrsj.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本バーチャルリアリティ学会",
+   "established_year": 1996,
+   "established_source_url": "https://vrsj.org/about/introduction/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://vrsj.org/wp-content/uploads/2024/07/soukai2024.pdf",
+   "grant_fields": [
+    "engineering",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "バーチャルリアリティに関する研究の発展を目的として、研究委員会が行う学会員に有意義な特別活動（シンポジウム、ワークショップなど）の直接経費を助成する制度。",
+   "grant_field_source_url": "https://www.vrsj.org/wp-content/uploads/2016/07/Manual_sigs_2016071502.pdf",
+   "confidence": "medium",
+   "notes": "公式概要で1996年5月27日の設立を確認。対象団体は公益財団法人ではなく、2005年6月7日にNPO法人として再発足した特定非営利活動法人。公式サイトが掲載する最新の通常総会資料は2024年資料（2023年度決算）で、貸借対照表の掲載は確認できたが、財務表が画像化されており資産合計を正確に読み取れなかったためnullとした。研究委員会向け助成制度は確認できたが、2023年度の助成金支出総額または交付実績は公開資料から特定できなかったためnull。助成は一般公募型の研究助成ではなく、学会の研究委員会による特別活動への支援である。"
+  },
+  "elapsed_s": 113
+ },
+ "org_f079743f0850": {
+  "name": "日本バイオインフォマティクス学会",
+  "url": "https://www.jsbi.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本バイオインフォマティクス学会",
+   "established_year": 1999,
+   "established_source_url": "https://www.jsbi.org/about/outline/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.jsbi.org/media/files/_u/topic/file/jsbi-riji32_r7-2025-03.pdf",
+   "grant_fields": [
+    "interdisciplinary",
+    "life_science",
+    "engineering",
+    "education"
+   ],
+   "grant_scope_text": "バイオインフォマティクスおよび関連分野をテーマとする研究会の開催を支援する制度。分野横断的・萌芽的テーマや新たな研究コミュニティ形成、小規模な勉強会・セミナーから大規模なシンポジウムまでを対象とする。",
+   "grant_field_source_url": "https://www.jsbi.org/activity/koubo/",
+   "confidence": "medium",
+   "notes": "公式概要により1999年設立を確認した。対象団体は公益財団法人ではなく、2011年に法人格を取得した特定非営利活動法人である。第32回理事会議事録では2024年度貸借対照表・活動計算書・事業報告書を基に決算が承認されたことを確認できるが、公開された議事録PDFに別紙の財務諸表や金額は収録されていないため、資産合計は確認不能としてnullとした。2024年度公募研究会の開催報告が行われたことは確認できるものの、年間助成金支出総額は公開資料から確認できないためnullとした。公募ページ記載の「最大15万円程度」は1研究会当たりの助成上限であり、年間支出実績ではないため採用していない。"
+  },
+  "elapsed_s": 68
+ },
+ "org_1ed7b8954ebb": {
+  "name": "日本繊維機械学会",
+  "url": "https://www.tmsj.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本繊維機械学会",
+   "established_year": 1948,
+   "established_source_url": "https://tmsj.or.jp/overview/",
+   "total_assets_jpy": 44723721,
+   "total_assets_fiscal_year": 2022,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://tmsj.or.jp/wp/wp-content/uploads/2023/05/TMSJ76.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式概要で昭和23年（1948年）創立を確認。公式の第76回定時総会資料に収録された2022年度貸借対照表（2023年3月31日現在）で資産合計44,723,721円を確認した。対象は公益財団法人ではなく一般社団法人である。公式サイトでは学術研究奨励賞などの表彰制度は確認できたが、助成金を交付する助成事業および年間助成金支出総額は確認できなかったため、助成関連項目はnullまたは空配列とした。検索で確認できた公式決算資料は2022年度分であり、それより新しい公開決算資料は確認できなかった。"
+  },
+  "elapsed_s": 49
+ },
+ "org_1f4ca385ecb4": {
+  "name": "日本分析化学会",
+  "url": "https://www.jsac.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本分析化学会",
+   "established_year": 1952,
+   "established_source_url": "https://www.jsac.jp/history/",
+   "total_assets_jpy": 325785934,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 1913314,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.jsac.jp/assets/docs/pdf/public-information/kaihou-2026.pdf",
+   "grant_fields": [
+    "education",
+    "regional",
+    "natural_science"
+   ],
+   "grant_scope_text": "分析化学分野の若手研究者交流を支援し、各支部の若手交流会企画等に助成する。学会の目的・活動分野は、分析化学を共通基盤とする科学・技術分野である。",
+   "grant_field_source_url": "https://www.jsac.jp/assets/docs/pdf/public-information/kaihou-2026.pdf",
+   "confidence": "high",
+   "notes": "公式沿革で1952年の設立総会・発会式を確認。2025年度会計報告（2025年3月1日～2026年2月28日）の貸借対照表で資産合計325,785,934円、正味財産増減計算書で支払助成金1,913,314円を確認した。事業報告には若手交流会への支援および各支部への助成が記載されている。なお、対象法人は公益財団法人ではなく公益社団法人である。外部団体の研究助成情報も掲載しているが、それらは本会自身の助成として集計していない。"
+  },
+  "elapsed_s": 53
+ },
+ "org_9c9a1fdeb609": {
+  "name": "日本顕微鏡学会",
+  "url": "https://microscopy.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人 日本顕微鏡学会",
+   "established_year": 1949,
+   "established_source_url": "https://microscopy.or.jp/about/",
+   "total_assets_jpy": 134506435,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 1454835,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://microscopy.or.jp/jsm2022/wp-content/uploads/overview/statements/06kessan.pdf",
+   "grant_fields": [
+    "interdisciplinary",
+    "engineering",
+    "life_science",
+    "natural_science"
+   ],
+   "grant_scope_text": "生物系・材料系の別を問わず、超微構造研究または関連する可視化技術研究を対象とし、基礎研究・応用研究のいずれも対象とする。日本国内の大学、公的研究機関等に所属する若手研究者向けの研究奨励制度。",
+   "grant_field_source_url": "https://microscopy.or.jp/jsm2022/wp-content/uploads/2026/04/20260402_wakate_info.pdf",
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく公益社団法人。公式概要は、1939年発足の委員会を起源とし、1949年に日本電子顕微鏡学会へ発展したと記載しているため、学会の設立年を1949年とした。財務値は2024年度（2024年4月1日～2025年3月31日）の公式決算報告書による。貸借対照表の資産合計は134,506,435円。年間助成額は同決算の経常費用「補助金」決算額1,454,835円を採用した。公式サイトには2025年度決算PDFも掲載されているが、調査時に本文を取得・検証できなかったため、数値を確認できた直近年度を使用した。公募額（1件50万円、4件募集）は採択・支出実績ではないため年間助成額には使用していない。"
+  },
+  "elapsed_s": 84
+ },
+ "org_6ebe93e78548": {
+  "name": "日本太陽エネルギー学会",
+  "url": "https://www.jses-solar.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本太陽エネルギー学会",
+   "established_year": 2010,
+   "established_source_url": "https://www.jses-solar.jp/aboutus",
+   "total_assets_jpy": 33938768,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.jses-solar.jp/wp-content/uploads/51_gian1.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "対象団体は公益財団法人ではなく、一般社団法人。公式概要は法人の設立を2010年10月と記載している。前身の日本太陽エネルギー利用協会は1961年、日本太陽エネルギー学会は1975年に発足。最新確認資料である2024年度事業報告・決算報告の2025年3月31日現在の貸借対照表では、資産合計33,938,768円。公式サイトと同報告書では研究助成を行う助成制度および年間助成金支出総額を確認できなかったためnullとした。報告書の「研究発表会助成金100,000円」は同会が札幌市立大学から受領した収入であり、支出した助成金ではない。学会賞・奨励賞と副賞は確認できるが、研究・活動への助成金制度とは区別し、grant_fieldsには採用していない。"
+  },
+  "elapsed_s": 46
+ },
+ "org_7c549878f0b3": {
+  "name": "日本臨床化学会",
+  "url": "https://jscc-jp.gr.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本臨床化学会",
+   "established_year": 1981,
+   "established_source_url": "https://jscc-jp.gr.jp/?page_id=39",
+   "total_assets_jpy": 46907158,
+   "total_assets_fiscal_year": 2022,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://jscc-jp.gr.jp/file/gakkaishi/2024/53-1/5301%E3%80%80%E5%85%A8%E9%A0%81PDF.pdf",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "若手研究者による臨床化学に関わりのある研究を対象とし、個人研究および多機関共同研究を支援する。",
+   "grant_field_source_url": "https://jscc-jp.gr.jp/file/prize/wakate/%E5%AE%9F%E6%96%BD%E8%A6%81%E7%B6%B12026_%E7%A2%BA%E5%AE%9A.pdf",
+   "confidence": "medium",
+   "notes": "対象団体は公益財団法人ではなく、公式資料上は一般社団法人。公式沿革では、3組織の合体により1981年に日本臨床化学会が発足。公開検索で確認できた貸借対照表は2022年度（2023年3月31日現在）で、資産合計46,907,158円。より新しい貸借対照表は公式サイトの公開・アクセス可能な資料から確認できなかった。若手育成助成金は2025年度に開始され、公式採択者一覧には個人研究2件、多機関共同研究1件、実施要綱には各50万円・100万円とあるため採択額は計200万円と算定できるが、実際の年間支出総額を示す決算・事業報告は確認できず、annual_grant_amount_jpyはnullとした。"
+  },
+  "elapsed_s": 48
+ },
+ "org_7b15c8520cbe": {
+  "name": "日本水文科学会",
+  "url": "http://wwwsoc.nii.ac.jp/jahs",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本水文科学会",
+   "established_year": 1987,
+   "established_source_url": "https://jahs.info/%E5%AD%A6%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+   "total_assets_jpy": 3397357,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": 50000,
+   "annual_grant_fiscal_year": 2023,
+   "financial_source_url": "https://jahs.info/wp-content/uploads/2024/10/2024%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9C%AC%E6%B0%B4%E6%96%87%E7%A7%91%E5%AD%A6%E4%BC%9A%E7%B7%8F%E4%BC%9A%E8%B3%87%E6%96%99.pdf",
+   "grant_fields": [
+    "natural_science",
+    "environment"
+   ],
+   "grant_scope_text": "水文学に関する研究ワーキンググループ、および災害発生時の緊急調査を対象とする研究補助。",
+   "grant_field_source_url": "https://jahs.info/%E6%97%A5%E6%9C%AC%E6%B0%B4%E6%96%87%E7%A7%91%E5%AD%A6%E4%BC%9A%E3%81%AE%E7%A0%94%E7%A9%B6%E8%A3%9C%E5%8A%A9%E9%87%91/",
+   "confidence": "high",
+   "notes": "公式サイトは1987年6月創立と記載。2024年度総会資料に収録された2023年度貸借対照表（2024年3月31日時点）の資産合計3,397,357円を採用した。同資料の2023年度収支計算書では「ワーキンググループ補助ほか」の支出済額が50,000円で、事業報告では研究ワーキンググループと災害時緊急調査補助金が研究補助制度として示されている。なお、確認できた公式資料では同会は会員制の学術団体として記載されており、「公益財団法人」であることは確認できなかった。"
+  },
+  "elapsed_s": 87
+ },
+ "org_a0dac0649b2c": {
+  "name": "日本呼吸器学会",
+  "url": "https://www.jrs.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本呼吸器学会",
+   "established_year": 1961,
+   "established_source_url": "https://www.jrs.or.jp/about/outline.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science",
+    "international"
+   ],
+   "grant_scope_text": "呼吸器領域の研究助成を実施。対象には、気管支喘息の基礎的・臨床的研究、間質性肺疾患および関連疾患の病因・診断・治療に関する基礎研究・臨床研究、ならびに呼吸器領域への貢献が期待される会員の海外留学が含まれる。",
+   "grant_field_source_url": "https://www.jrs.or.jp/award/",
+   "confidence": "medium",
+   "notes": "公式概要で昭和36年（1961年）10月11日設立を確認。対象団体は公益財団法人ではなく、2013年2月1日に移行した一般社団法人。公式の情報公開規定では貸借対照表等を事務局内で閲覧できるとされているが、ウェブ上でアクセス可能な最新の貸借対照表・決算書は確認できなかったため、総資産はnull。募集要項には制度ごとの予定額・上限額（喘息研究支援プログラムBは総額1,500万円、海外留学助成金は年間支給総額800万円の範囲内、2026年ベーリンガーインゲルハイム研究助成は総額1,000万円／年）が掲載されているが、直近年度に実際に支出した全助成金の合計を示す事業報告・決算資料は確認できなかったため、年間助成金支出総額はnull。"
+  },
+  "elapsed_s": 37
+ },
+ "org_198f22d21121": {
+  "name": "日本乳癌学会",
+  "url": "http://jbcs.gr.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本乳癌学会",
+   "established_year": 1992,
+   "established_source_url": "https://www.jbcs.gr.jp/modules/y_introduction/index.php?content_id=1",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "乳癌関連の基礎・臨床研究を対象とする研究奨励と、若手乳腺専門医による海外学会での研究発表・国際交流を支援するTravel Grantを実施。",
+   "grant_field_source_url": "https://www.jbcs.gr.jp/modules/education/index.php?content_id=2",
+   "confidence": "medium",
+   "notes": "対象団体は公益財団ではなく一般社団法人。公式沿革に「1992年に乳癌学会が設立」とあるため設立年を1992年とした。公式サイト上で最新年度の貸借対照表または決算書を確認できず、総資産はnull。定款には貸借対照表等を作成する旨の規定があるが金額の掲載はない。研究奨励賞の受賞実績およびTravel Grantの募集額は確認できたものの、直近年度に実際に支出した全助成制度の合計額を示す事業報告・決算・助成実績は確認できないため、年間助成金支出総額はnull。研究奨励賞実績：https://www.jbcs.gr.jp/modules/education/index.php?content_id=2 、Travel Grant：https://www.jbcs.gr.jp/modules/info/index.php?content_id=268"
+  },
+  "elapsed_s": 54
+ },
+ "org_c91461399254": {
+  "name": "日本表面科学会",
+  "url": "https://www.sssj.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本表面科学会",
+   "established_year": 1979,
+   "established_source_url": "https://www.jvss.jp/ja/introduction/history.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式沿革で、1979年9月13日に日本表面科学会の設立総会が開催されたことを確認。対象は公益財団法人ではなく、2011年に公益社団法人へ移行し、2018年4月1日に旧日本真空学会との合併で日本表面真空学会となった団体。旧団体の最新年度について、資産合計を判読・確認できる貸借対照表および年間助成金支出総額を示す公式資料を確認できなかったため財務値はnull。公式資料では研究奨励・表彰事業は確認できるが、研究費等を交付する助成制度とは確認できないため、grant_fieldsは空配列、grant_scope_textはnullとした。"
+  },
+  "elapsed_s": 114
+ },
+ "org_0110a9ef1c83": {
+  "name": "日本消化器病学会",
+  "url": "https://www.jsge.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般財団法人日本消化器病学会",
+   "established_year": 1898,
+   "established_source_url": "https://www.jsge.or.jp/about/index/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 22002870,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.jsge.or.jp/wp-content/uploads/2026/04/zaisanzougen2025.pdf",
+   "grant_fields": [
+    "life_science",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "消化器疾患に関する基礎・臨床研究を中心に、会員の臨床研究を助成する。また、若手研究者の留学支援や国際学会参加費の一部助成を通じ、消化器病学に関する国際学術交流と人材育成を支援する。",
+   "grant_field_source_url": "https://www.jsge.or.jp/about/awards/",
+   "confidence": "high",
+   "notes": "公式概要は、1898年12月17日に胃腸病研究会として創立したと記載。2025年度正味財産増減計算書の当年度「支払助成金」22,002,870円を年間助成金支出総額として採用した。公式サイトで公開されている最新決算資料は正味財産増減計算書で、貸借対照表および資産合計は確認できなかったため、total_assets_jpyはnullとした。同計算書記載の正味財産期末残高は3,260,517,704円だが、総資産ではないため代用していない。法人格は公益財団法人ではなく一般財団法人。"
+  },
+  "elapsed_s": 44
+ },
+ "org_33b5e6670f07": {
+  "name": "日本皮膚科学会",
+  "url": "https://www.dermatol.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本皮膚科学会",
+   "established_year": 1900,
+   "established_source_url": "https://www.dermatol.or.jp/medical/about/4988/",
+   "total_assets_jpy": 1431023635,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 82203209,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/kessan_2024.pdf",
+   "grant_fields": [
+    "life_science",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "皮膚科学領域の基礎医学研究や炎症性皮膚疾患研究を担う研究者の育成・研究助成を行うほか、留学支援制度およびトラベルグラントにより会員の国際的な研究活動を支援する。",
+   "grant_field_source_url": "https://www.dermatol.or.jp/medical/about/4997/",
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく「公益社団法人」。公式沿革は1900年12月創立と記載。令和6年度決算書（2024年4月1日～2025年3月31日）の貸借対照表に資産合計1,431,023,635円、正味財産増減計算書に支払助成費82,203,209円を確認した。公式サイトには令和7年度決算書も掲載されているが、調査時にPDF本文を取得できなかったため、数値を直接確認できた直近の令和6年度決算を採用した。"
+  },
+  "elapsed_s": 82
+ },
+ "org_10a9771f0f06": {
+  "name": "日本脳神経外科学会",
+  "url": "https://jns.umin.ac.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本脳神経外科学会",
+   "established_year": 1948,
+   "established_source_url": "https://jns-official.jp/jns/ayumi",
+   "total_assets_jpy": 731639390,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://jns-official.jp/jns_wp/wp-content/uploads/2025/11/2025%E5%B9%B4%E5%BA%A6%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8.pdf",
+   "grant_fields": [
+    "life_science",
+    "education"
+   ],
+   "grant_scope_text": "脳神経外科学の発展と若手脳神経外科医の育成を目的として、脳神経外科学に関する優秀な論文の筆頭著者を表彰する。国内研究を対象とする学会奨励賞と、国外研究を対象とする特別賞がある。",
+   "grant_field_source_url": "https://jns-official.jp/topics/20260422/21379",
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく一般社団法人。公式沿革では前身の日本脳・神経外科研究会が1948年5月3日に結成されたため、設立年を1948年とした（社団法人としての正式発足は2003年12月4日、一般社団法人への移行は2012年）。2025年度貸借対照表（2025年8月31日現在）の資産合計731,639,390円を採用。2025年度事業報告には学会奨励賞受賞者や国際学会への補助金制度の実施が記載されているが、年間の助成金・賞金支出総額は開示されていないためannual_grant_amount_jpyはnull。grant_fieldsは公式の奨励賞目的・対象から分類した。"
+  },
+  "elapsed_s": 61
+ },
+ "org_4e5304716f9e": {
+  "name": "日本救急医学会",
+  "url": "https://www.jaam.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人 日本救急医学会",
+   "established_year": 1973,
+   "established_source_url": "https://www.jaam.jp/english/english-top.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "日本救急医学会会員を研究代表者とする、国際・国内の多施設共同前向き救急医学研究を公募し、研究費の一部を助成する。",
+   "grant_field_source_url": "https://www.jaam.jp/info/2021/info-20210701_1.html",
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく一般社団法人。公式英語ページに1973年11月創立と明記されている。なお、現法人の定款は2003年3月3日の法人設立から施行されているが、established_yearには学会の公式創立年を採用した。公式サイト上で最新年度の貸借対照表または決算書を確認できなかったため、総資産はnull。学会主導研究の公募要項には1研究当たり年100万円、全体で年1000万円という上限があるが、実際の年間支出総額・助成実績ではないため年間助成額はnull。サイト掲載の公益信託丸茂救急医学研究振興基金は、りそな銀行を受託者とする別主体なので本学会の財務・助成実績には算入していない。"
+  },
+  "elapsed_s": 39
+ },
+ "org_d0171b3c808f": {
+  "name": "日本生殖医学会",
+  "url": "http://www.jsrm.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本生殖医学会",
+   "established_year": 1955,
+   "established_source_url": "https://cdn.jsrm.or.jp/magazine/60%E5%B7%BB/1%E3%83%BB2%E5%8F%B7.pdf",
+   "total_assets_jpy": 573574339,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 3000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://cdn.jsrm.or.jp/magazine/70%E5%B7%BB/4%E5%8F%B7.pdf",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "生殖医学の発展に寄与すると見込まれる、人類および家畜・動物の生殖に関する基礎的・臨床的研究。申請分野は基礎、産婦人科、泌尿器科。国内の研究機関・医療機関に所属する会員が、日本国内で実施する研究を対象とする。",
+   "grant_field_source_url": "https://cdn.jsrm.or.jp/magazine/70%E5%B7%BB/1%E3%83%BB2%E5%8F%B7.pdf",
+   "confidence": "high",
+   "notes": "対象団体は公益財団法人ではなく、公式資料上は一般社団法人。公式学会誌は、前身の日本不妊学会が1955年に設立されたと明記。令和6年度（2024年度）貸借対照表の流動資産523,112,320円と固定資産50,462,019円の合計として、資産合計573,574,339円が明記されている。2024年度の助成実績は3名で、公式規程の支給額は1研究100万円であるため、年間交付総額は3,000,000円。募集上限だけではなく、実際の資格者3名が公式報告で確認できた。"
+  },
+  "elapsed_s": 56
+ },
+ "org_9aa2daf16f90": {
+  "name": "日本耳鼻咽喉科学会",
+  "url": "https://www.jibika.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人 日本耳鼻咽喉科頭頸部外科学会",
+   "established_year": 1893,
+   "established_source_url": "https://www.jibika.or.jp/modules/about/index.php?content_id=38",
+   "total_assets_jpy": 1313305480,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 43267979,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.jibika.or.jp/uploads/files/R7kessan.pdf",
+   "grant_fields": [
+    "life_science",
+    "education"
+   ],
+   "grant_scope_text": "若手研究者を育成し、耳鼻咽喉科・頭頸部外科の医学・医療の発展を図るため、40歳以下の正会員が行う同領域の基礎研究および臨床研究を助成する。",
+   "grant_field_source_url": "https://www.jibika.or.jp/uploads/files/info_shourei%20%281%29.pdf",
+   "confidence": "high",
+   "notes": "対象団体は公益財団法人ではなく、一般社団法人の学術団体。公式沿革では、1893年に結成された「東京耳鼻咽喉科会」を起源とする。令和7年度（2025年4月1日～2026年3月31日）決算書の貸借対照表に記載された資産合計1,313,305,480円を採用。年間助成額は同決算書の正味財産増減計算書にある支払助成金の事業費35,396,979円と管理費7,871,000円の合計43,267,979円。支払寄付金は含めていない。"
+  },
+  "elapsed_s": 56
+ },
+ "org_2dbea1cb9d00": {
+  "name": "日本腎臓学会",
+  "url": "https://jsn.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人 日本腎臓学会",
+   "established_year": 2013,
+   "established_source_url": "https://jsn.or.jp/notice/_2364.php",
+   "total_assets_jpy": 1202994619,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://jsn.or.jp/medic/data/2026shingi.pdf",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "腎臓学および関連諸分野の研究・調査を行い、研究の奨励と研究業績の表彰を実施する。",
+   "grant_field_source_url": "https://jsn.or.jp/jsninfo/about/excerpt/",
+   "confidence": "high",
+   "notes": "対象は公益財団法人ではなく、公式名称は「一般社団法人 日本腎臓学会」。公式の法人移行案内に2013年4月1日設立と明記されているため、現法人の設立年として採用した。2025年度決算（2026年3月31日現在）の貸借対照表で資産合計1,202,994,619円を確認。決算には「奨励金」2,050,000円が計上されているが、年間助成金支出総額または助成実績であることを資料上確認できないため、annual_grant_amount_jpyはnullとした。公式サイト掲載の日本腎臓財団など外部団体の公募助成は本学会自身の助成額に含めていない。"
+  },
+  "elapsed_s": 77
+ },
+ "org_3b0f2cabeffc": {
+  "name": "日本心臓病学会",
+  "url": "https://www.jcc.gr.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本心臓病学会",
+   "established_year": 1970,
+   "established_source_url": "https://www.jcc.gr.jp/about/info/index.html",
+   "total_assets_jpy": 517869411,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 5000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.jcc.gr.jp/about/soukai/data/2024-financial_statements.pdf",
+   "grant_fields": [
+    "life_science",
+    "education"
+   ],
+   "grant_scope_text": "50歳以下の日本心臓病学会会員を研究代表者・分担者とする3施設以上の多施設共同臨床研究を支援する若手研究者向け事業。研究期間は原則3年間。",
+   "grant_field_source_url": "https://www.jcc.gr.jp/members/kaiininfo/CRsupport.html",
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく、一般社団法人日本心臓病学会。公式沿革では前身の臨床心音図研究会が1970年10月に設立され、1987年10月に日本心臓病学会へ移行、2015年2月に一般社団法人へ移行している。総資産は最新公開の2024年度決算報告書（2024年8月1日～2025年7月31日）の2025年7月31日現在の資産合計。年間助成額は同決算に明記された「臨床研究サポート事業費支出」5,000,000円を採用した。賞金・副賞および他団体の助成案内は助成金総額に含めていない。公式ページには同サポート事業の3回目を実施する予定はない旨が記載されている。"
+  },
+  "elapsed_s": 54
+ },
+ "org_4fc0173f0475": {
+  "name": "日本臨床腫瘍学会",
+  "url": "https://www.jsmo.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本臨床腫瘍学会",
+   "established_year": 2002,
+   "established_source_url": "https://www.jsmo.or.jp/members/about/history/",
+   "total_assets_jpy": 909781216,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.jsmo.or.jp/about/doc/kesanshorui2025.pdf",
+   "grant_fields": [
+    "life_science",
+    "education"
+   ],
+   "grant_scope_text": "博士号取得後5年以内の若手研究者個人を対象に、がん薬物療法およびがん治療に関する研究を助成し、治療成績の向上・進展と次世代リーダーの育成を目的とする。",
+   "grant_field_source_url": "https://www.jsmo.or.jp/kfcr-subsidy2025/",
+   "confidence": "high",
+   "notes": "対象法人は公益財団法人ではなく公益社団法人。公式沿革では、前身の日本臨床腫瘍研究会は1993年発足、日本臨床腫瘍学会は2002年に任意団体として設立、2015年6月に公益社団法人へ移行しているため、設立年は2002年とした。2025年12月31日現在の貸借対照表で資産合計909,781,216円を確認。2025年度決算には年間助成金支出総額として独立確認できる科目・実績がなく、2025年度の公募ページに記載された「1件100万円、合計10件」は2026年3～4月頃の交付予定額であって実支出額ではないため、annual_grant_amount_jpyはnullとした。"
+  },
+  "elapsed_s": 36
+ },
+ "org_f3e5d003febe": {
+  "name": "日本体育・スポーツ・健康学会",
+  "url": "https://taiiku-gakkai.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本体育・スポーツ・健康学会",
+   "established_year": 1950,
+   "established_source_url": "https://taiiku-gakkai.or.jp/",
+   "total_assets_jpy": 155966848,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 3850000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://taiiku-gakkai.or.jp/wp-content/uploads/2025/06/2025jspesokai.pdf",
+   "grant_fields": [
+    "interdisciplinary",
+    "education",
+    "life_science",
+    "humanities_social",
+    "welfare",
+    "natural_science",
+    "regional"
+   ],
+   "grant_scope_text": "体育・スポーツ・健康科学に関する専門領域および地域協力学会の活動を支援する。公式決算では、2024年度に専門領域補助金と地域協力学会補助金を支出している。",
+   "grant_field_source_url": "https://taiiku-gakkai.or.jp/wp-content/uploads/2025/06/2025jspesokai.pdf",
+   "confidence": "high",
+   "notes": "対象団体は公益財団法人ではなく一般社団法人。公式サイトは前身の日本体育学会が1950年2月11日に発足したと記載し、法人としては2002年6月に社団法人認可、2021年に現名称へ変更。2025年総会資料の2025年3月31日現在の貸借対照表で資産合計155,966,848円を確認。年間助成額は同資料の2024年度決算にある専門領域補助金1,850,000円と地域協力学会補助金2,000,000円の合計3,850,000円。賞金、大学院生参加費補助、若手会員国際会議派遣費は性質が異なるため助成金総額に含めていない。"
+  },
+  "elapsed_s": 73
+ },
+ "org_4ce5dee39aa0": {
+  "name": "日本医学放射線学会",
+  "url": "https://www.radiology.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本医学放射線学会",
+   "established_year": 1940,
+   "established_source_url": "https://www.radiology.jp/jrs_about/outline.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science",
+    "engineering",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "学会員による放射線医学の基礎・臨床研究を対象とし、若手研究者の育成と放射線医学水準の向上を目的に研究助成を行う。また、海外研修・研究助成を通じて放射線医学の発展、国際交流および人材育成を支援する。",
+   "grant_field_source_url": "https://www.radiology.jp/member_info/news_member/20250624_1.html",
+   "confidence": "medium",
+   "notes": "対象は公益財団法人ではなく公益社団法人。公式概要に学会成立日「昭和15年4月23日」とあるため設立年を1940年とした（法人設立許可は1950年、公益社団法人認可は2012年）。検索および公式サイト閲覧では、最新年度の貸借対照表・事業報告書を確認できなかったため総資産はnull。2025年度Bayer研究助成は1件100万円以内・総額500万円とされ、公式の令和7年度受給者ページには5名が掲載されているが、実際の年間支出総額を示す決算・助成実績資料ではなく上限額にすぎないため、annual_grant_amount_jpyはnullとした。grant_fieldsは、公式の助成対象である放射線医学（基礎・臨床）、医用画像・AI等の研究、および海外研修・国際人材育成という公式記載に基づく。"
+  },
+  "elapsed_s": 54
+ },
+ "org_05b000bc3148": {
+  "name": "日本産科婦人科学会",
+  "error": "fail",
+  "envelope": {
+   "label": "cfgfin-org_05b0",
+   "status": "fail",
+   "exit": 1,
+   "model": "default",
+   "profile": "research",
+   "sandbox": "profile-default",
+   "elapsed_s": 50,
+   "out_file": "/Users/nishimura+/.codex/team/runs/20260718-011549-cfgfin-org_05b0/cfgfin-org_05b0.out",
+   "result_file": "/Users/nishimura+/.codex/team/runs/20260718-011549-cfgfin-org_05b0/cfgfin-org_05b0.result.json",
+   "log_file": "/Users/nishimura+/.codex/team/runs/20260718-011549-cfgfin-org_05b0/cfgfin-org_05b0.jsonl",
+   "run_dir": "/Users/nishimura+/.codex/team/runs/20260718-011549-cfgfin-org_05b0"
+  }
+ },
+ "org_fa64f15fcd59": {
+  "name": "美術史学会",
+  "error": "fail",
+  "envelope": {
+   "label": "cfgfin-org_fa64",
+   "status": "fail",
+   "exit": 1,
+   "model": "default",
+   "profile": "research",
+   "sandbox": "profile-default",
+   "elapsed_s": 21,
+   "out_file": "/Users/nishimura+/.codex/team/runs/20260718-011622-cfgfin-org_fa64/cfgfin-org_fa64.out",
+   "result_file": "/Users/nishimura+/.codex/team/runs/20260718-011622-cfgfin-org_fa64/cfgfin-org_fa64.result.json",
+   "log_file": "/Users/nishimura+/.codex/team/runs/20260718-011622-cfgfin-org_fa64/cfgfin-org_fa64.jsonl",
+   "run_dir": "/Users/nishimura+/.codex/team/runs/20260718-011622-cfgfin-org_fa64"
+  }
+ },
+ "org_51eba5f450f6": {
+  "name": "日本血栓止血学会",
+  "url": "http://www.jsth.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般社団法人日本血栓止血学会",
+   "established_year": 1978,
+   "established_source_url": "https://www.jsth.org/wordpress/membership/m01/",
+   "total_assets_jpy": 929223911,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.jsth.org/wordpress/wp-content/uploads/2015/05/%E4%BB%A4%E5%92%8C6%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A-%E8%A1%A8%E7%B4%99.pdf",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "血栓止血学における基礎的・臨床的研究を対象とし、血栓止血学の発展または血栓止血疾患患者への貢献が期待される研究を助成する。薬剤を用いた介入研究は対象外。",
+   "grant_field_source_url": "https://www.jsth.org/wordpress/news/2026%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9C%AC%E8%A1%80%E6%A0%93%E6%AD%A2%E8%A1%80%E5%AD%A6%E4%BC%9A%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90%E7%94%B3%E8%AB%8B%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/index.html",
+   "confidence": "high",
+   "notes": "対象団体は公益財団ではなく一般社団法人。公式概要で1978年4月設立を確認。令和6年度（2024年4月1日～2025年3月31日）貸借対照表の2025年3月31日現在「資産の部合計」は929,223,911円。計算書類には「研究助成事業費」10,007,370円とあるが、助成金そのものと事務経費等を区分できず、海外留学助成などを含む年間助成金支出総額も明示されていないためannual_grant_amount_jpyはnullとした。"
+  },
+  "elapsed_s": 75
+ },
+ "org_e7b9d3dcf988": {
+  "name": "日本民俗学会",
+  "url": "https://www.fsjnet.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本民俗学会（一般社団法人）",
+   "established_year": 1949,
+   "established_source_url": "https://www.fsjnet.jp/about_us/about_us.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "humanities_social",
+    "arts_culture",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "日本民俗学に係る単年度の研究を対象とし、調査、研究会運営、学会での成果発表、シンポジウム開催、出版・映像制作・アーカイブ作成等の成果公開を助成する。また、35歳以下の会員による国内外の民俗学関係学会・国際学会での研究発表を対象とする海外渡航助成も実施している。",
+   "grant_field_source_url": "https://www.fsjnet.jp/information/notice.html",
+   "confidence": "medium",
+   "notes": "2026-07-18確認。公式概要には1949年発足、2014年11月1日に一般社団法人へ移行と記載されている。対象は公益財団法人ではなく一般社団法人。公式サイトの学会誌目次には「一般社団法人日本民俗学会2024年度会計決算書」の掲載が確認できるが、資産合計の数値を閲覧可能な公式資料から確認できなかったため、総資産はnull。2025年度研究助成は採択5件が公表されているものの各採択額がなく、募集上限額（年度総額150万円）を実支出額とは扱えない。海外渡航助成についても募集枠のみで支出実績を確認できないため、年間助成金支出総額はnull。助成分野は公式の研究助成・海外渡航助成の対象と目的から分類した。"
+  },
+  "elapsed_s": 48
+ },
+ "org_fcb53c42b3e6": {
+  "name": "日本肥満学会",
+  "url": "http://www.jasso.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本肥満学会",
+   "established_year": 1980,
+   "established_source_url": "https://www.jasso.or.jp/contents/Introduction/index.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science",
+    "natural_science"
+   ],
+   "grant_scope_text": "肥満に関する国内で行われる基礎研究を助成対象とする。応募者は日本肥満学会会員で、対象研究に意欲的に従事する研究者であることなどが求められる。",
+   "grant_field_source_url": "https://www.jasso.or.jp/data/data/pdf/5th_novo-nordisk-pharma_application-guidelines.pdf",
+   "confidence": "medium",
+   "notes": "公式沿革は、前身の肥満研究会が1980年に発足したと記載しているため設立年を1980年とした。なお、現在の法人格は公益財団法人ではなく一般社団法人で、2012年5月に任意団体から移行した。最新の貸借対照表または決算資料から資産合計を確認できなかったため、総資産はnull。2025年度研究助成は公式募集要項で1件100万円以内、選考結果で11名採択と確認できるが、各人への実交付額および年間支出総額は公表資料から確認できず、上限額×採択人数による推計は行わずnullとした。選考結果：https://www.jasso.or.jp/contents/Introduction/academic-information-prize.html"
+  },
+  "elapsed_s": 72
+ },
+ "org_0bb62f891cd7": {
+  "name": "日本考古学協会",
+  "url": "http://archaeology.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本考古学協会",
+   "established_year": 1948,
+   "established_source_url": "https://archaeology.jp/about/history",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://archaeology.jp/info/conventions/1137",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式情報では対象団体は公益財団法人ではなく「一般社団法人日本考古学協会」。公式沿革に1948年4月2日設立と明記されている。最新の2026年度総会議題には2025年度収支決算の承認議案があるが、公開ページ上に貸借対照表や資産合計の金額は掲載されていないため、総資産は確認不能。公式サイトでは他団体の研究助成募集を案内している例は確認できたが、日本考古学協会自身が助成金を交付する事業および年間助成金支出額は確認できなかったため、助成額・対象分野ともnull（空配列）とした。"
+  },
+  "elapsed_s": 51
+ },
+ "org_f8d031cf7f54": {
+  "name": "日本麻酔科学会",
+  "url": "https://anesth.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益社団法人日本麻酔科学会",
+   "established_year": 1954,
+   "established_source_url": "https://anesth.or.jp/users/common/about/overview",
+   "total_assets_jpy": 2903553731,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://anesth.or.jp/files/pdf/2025kessan.pdf",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "麻酔科学の進歩に寄与する研究を対象とし、研究対象分野は限定しない。公式資料では、麻酔科学領域における臨床研究を支援し、科学的根拠に基づく麻酔科関連研究を推進することを目的としている。",
+   "grant_field_source_url": "https://www.anesth.or.jp/info/support/pdf/jyosei_yoko.pdf",
+   "confidence": "medium",
+   "notes": "2026年7月18日確認。対象は公益財団法人ではなく公益社団法人。公式概要は前身の日本麻酔学会が1954年10月22日に設立されたと記載。2025年度決算報告書の2026年3月31日現在の貸借対照表で資産合計2,903,553,731円を確認した。2025年度事業報告書および決算報告書では年間助成金支出総額を独立して確認できず、経費科目からの推計も行わないためannual_grant_amount_jpyはnull。助成対象は公式募集要項および学術研究助成規則から分類した。"
+  },
+  "elapsed_s": 70
+ },
+ "org_baebcefc5671": {
+  "name": "日本音楽学会",
+  "url": "http://www.msj.gr.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "日本音楽学会",
+   "established_year": 1952,
+   "established_source_url": "https://www.musicology.jp/aboutus/history/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "arts_culture",
+    "humanities_social",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "一定の学術性を有し、会員が主体的に企画・実施する音楽関係の学術イベントを対象とする。国際シンポジウム、海外研究者の招致、演奏を伴う学術イベントなど、個人の予算では実施が難しい企画への助成または協賛を行う。全会員に広く開かれた非営利の催しが前提で、従来の全国大会・支部研究会では実現しにくい企画が優先される。",
+   "grant_field_source_url": "https://www.musicology.jp/activities/project/",
+   "confidence": "medium",
+   "notes": "公式沿革では、1952年4月の創立総会を経て「音楽学会」として発足したことを確認した。日本音楽学会は公式概要上「学術団体」であり、公益財団法人であることは確認できない。公式サイトで貸借対照表または最新決算の資産合計を確認できなかったため、total_assets_jpyはnull。助成制度ページには助成予算が年間40万円程度とあるが、これは実際の年間支出総額ではないためannual_grant_amount_jpyには採用せずnullとした。grant_fieldsのinternationalは国際シンポジウム・海外研究者招致、educationは会員による学術イベントと研究活動支援を根拠に分類した。"
+  },
+  "elapsed_s": 43
+ },
+ "1593ea5e-301f-4fd9-854e-0c6ef092c2ce": {
+  "name": "一般財団法人リモート・センシング技術センター",
+  "url": "https://www.restec.or.jp/about/research_grant_2025.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "一般財団法人リモート・センシング技術センター",
+   "established_year": 1975,
+   "established_source_url": "https://www.restec.or.jp/about/outline/",
+   "total_assets_jpy": 6717441228,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.restec.or.jp/about/outline/report/BalanceSheet_2024.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "人工衛星、航空機、ドローン、近接観測などによるリモートセンシング技術を活用し、基礎データの取得や画像等のデータ処理を含む研究を対象とする。社会経済の発展、人々の生活の豊かさ、社会課題の解決に寄与する研究を支援する。",
+   "grant_field_source_url": "https://www.restec.or.jp/about/RESTEC_reserchgrant_guideline_2025.pdf",
+   "confidence": "medium",
+   "notes": "公式概要で1975年8月1日設立を確認。最新公開の2024年度貸借対照表（2025年3月31日現在）で資産合計6,717,441,228円を確認した。2025年度は10件採択、2024年度事業報告では9件採択と確認できるが、各採択額または実際の年間助成金支出総額は公式公開資料で確認できない。1件100万円は上限額にすぎないため、annual_grant_amount_jpyは推計せずnullとした。grant_fieldsは、リモートセンシング技術を中心とするためengineeringを最優先とし、地球観測・自然現象を扱うnatural_science、多分野の社会課題へ応用するinterdisciplinaryを付与した。確認日: 2026-07-18。"
+  },
+  "elapsed_s": 43
+ },
+ "1bf63767-41e0-4739-80cb-833fc681122a": {
+  "name": "公益財団法人高原環境財団",
+  "url": "https://research-miyacology.tmu.ac.jp/fundingdb/19790",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人高原環境財団",
+   "established_year": 2008,
+   "established_source_url": "https://takahara-env.or.jp/about/",
+   "total_assets_jpy": 22097908938,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 25681000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://takahara-env.or.jp/about/accounting/files/2024/accounts.pdf",
+   "grant_fields": [
+    "environment",
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "地域の環境意識向上に役立つ活動を対象に、緑化を伴うヒートアイランド対策、子供たちの緑化・自然体験などの環境学習活動、全国都市緑化フェア開催地周辺の子供たちの環境学習活動を助成する。",
+   "grant_field_source_url": "https://takahara-env.or.jp/activity/",
+   "confidence": "high",
+   "notes": "2026-07-18確認。公式概要は設立年月日を2008年11月25日（財団法人高原環境振興財団）とし、2012年4月1日に公益財団法人へ移行したと記載。2024年度決算報告書（2025年3月31日現在）の貸借対照表で資産合計22,097,908,938円を確認。同決算の支払助成金は25,681,000円で、2024年度事業報告書（https://takahara-env.or.jp/about/accounting/files/2024/status.pdf）にも2025年3月末までの助成金支払額25,681,000円と明記されている。公式公開ページでは2025年度の事業報告書・決算報告書へのリンクが未掲載だったため、実績資料が公開済みの最新年度である2024年度を採用した。"
+  },
+  "elapsed_s": 47
+ },
+ "f180ff20-4c40-4ac6-9dcb-10ca1c2c6c6b": {
+  "name": "公益財団法人電気通信工学振興会",
+  "url": "https://www.refec.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人電気通信工学振興会",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "low",
+   "notes": "指定された法人名と公式サイトの対応を確認できなかったため、別法人の情報を混入させず全項目を未確認とした。検索で確認できた類似法人は「一般財団法人電気通信工学振興会」（https://www.foundation.riec.tohoku.ac.jp/）であり、指定の「公益財団法人」と法人格が異なる。また、指定ドメイン https://www.refec.or.jp は閲覧・検索結果で実在を確認できなかった。類似する https://www.refec.org は「公益財団法人中部電気利用基礎研究振興財団」のサイトであり、対象法人とは異なる。"
+  },
+  "elapsed_s": 54
  }
 }
