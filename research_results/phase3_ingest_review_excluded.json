@@ -70,5 +70,11 @@
   "field": "total_assets",
   "value": 398744691,
   "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人サントリー生命科学財団",
+  "field": "total_assets",
+  "value": 1170131737,
+  "reason": "net_assets_not_total (正味財産)"
  }
 ]

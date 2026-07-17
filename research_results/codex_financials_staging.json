@@ -2015,5 +2015,2130 @@
    "notes": "対象団体は公益財団法人ではなく公益社団法人。公式概要は1908年1月19日創立、1935年に社団法人設立認可、2012年に公益社団法人登記と記載するため、established_yearは創立年の1908年とした。2025年度決算報告書（2026年3月31日現在）の貸借対照表で資産合計158,683,899円を確認。annual_grant_amount_jpyは同報告書の正味財産増減計算書内訳表における「助成事業」の事業費合計7,018,037円。内訳は学術交流費経費538,000円、研究奨励賞経費465,244円、早川幸男基金経費5,542,904円、林忠四郎賞経費445,541円、雑費26,348円であり、純粋な交付金以外の賞関連経費等を含む会計上の助成事業費総額である。"
   },
   "elapsed_s": 56
+ },
+ "koeki_423633afb5ac": {
+  "name": "公益財団法人りそな中小企業振興財団",
+  "url": "https://mizuho-ewf.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人りそな中小企業振興財団",
+   "established_year": 1990,
+   "established_source_url": "https://www.resona-fdn.or.jp/annai.html",
+   "total_assets_jpy": 2315365764,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.resona-fdn.or.jp/pdf/2025_kessan.pdf",
+   "grant_fields": [
+    "engineering"
+   ],
+   "grant_scope_text": "中小企業が開発した優れた新技術・新製品を対象とする表彰事業。一般部門とソフトウエア部門があり、受賞者には副賞が贈呈される。",
+   "grant_field_source_url": "https://www.resona-fdn.or.jp/shingijutu.html",
+   "confidence": "high",
+   "notes": "公式概要で設立日を平成2年12月12日（1990年）と確認。2025年度決算報告書の貸借対照表（2026年3月31日現在）で資産合計2,315,365,764円を確認した。公式サイトで確認できた金銭支援は助成事業ではなく、新技術・新製品の表彰に伴う副賞（1件当たり最高100万円）。2025年度の副賞支出総額または助成金支出総額は事業報告書・決算報告書で確認できないため、annual_grant_amount_jpyはnullとした。ユーザー提示のmizuho-ewf.orgは対象財団の公式サイトではなく、検索で確認した公式サイトはresona-fdn.or.jp。"
+  },
+  "elapsed_s": 63
+ },
+ "koeki_dced780e9ad8": {
+  "name": "公益財団法人杉浦記念財団",
+  "url": "http://sugi-zaidan.jp/assist_decoration/boshuyoko.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人杉浦記念財団",
+   "established_year": 2011,
+   "established_source_url": "https://sugi-zaidan.jp/smf/about/",
+   "total_assets_jpy": 20949733147,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 10000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://sugi-zaidan.jp/smf/wp-content/uploads/2026/03/2025_%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A.pdf",
+   "grant_fields": [
+    "welfare",
+    "life_science",
+    "regional",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "地域医療・福祉振興の分野で優れた研究・活動を行う個人・団体を対象とし、医療・介護福祉の多職種連携による「地域包括ケアの実現」と「健康寿命の延伸」に寄与する研究・活動を助成する。",
+   "grant_field_source_url": "https://sugi-zaidan.jp/smf/reward/",
+   "confidence": "high",
+   "notes": "公式財団概要で2011年9月1日設立（2015年7月1日公益認定）を確認。2025年度事業報告書の貸借対照表（2025年12月31日現在）で資産合計20,949,733,147円を確認。同報告書で第14回杉浦地域医療振興助成14件、助成額総額10,000,000円（研究分野7,710,000円、活動分野2,290,000円）を確認した。褒賞の副賞6,000,000円は助成金ではないため年間助成額に含めていない。"
+  },
+  "elapsed_s": 64
+ },
+ "koeki_256967b9ad90": {
+  "name": "公益財団法人サントリー生命科学財団",
+  "url": "http://www.sunbor.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人サントリー生命科学財団",
+   "established_year": 1946,
+   "established_source_url": "https://www.sunbor.or.jp/about/rinen/",
+   "total_assets_jpy": 1170131737,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 141599072,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.sunbor.or.jp/wp/wp-content/uploads/2026/05/r6account.pdf",
+   "grant_fields": [
+    "life_science",
+    "natural_science",
+    "education",
+    "interdisciplinary",
+    "international"
+   ],
+   "grant_scope_text": "生物有機科学関連分野を中心に、有機化学を基盤とする生命科学、「分子を中心に据えた生命現象のメカニズム解明」に関する研究を助成する。大学院生・研究者への支援に加え、有機化学、生物有機科学、分子生物学、構造生物学、基礎生物学、基礎医学などに関する国内外の学術集会も対象とする。臨床医学・臨床薬学など、疾病の診断・治療や新薬開発を目的とする分野は対象外。",
+   "grant_field_source_url": "https://www.sunbor.or.jp/jyosei/",
+   "confidence": "high",
+   "notes": "公式沿革は「創立：1946年」と明記しているため設立年を1946年とした。現在の公益財団法人への移行登記は2011年1月4日。令和6年度決算（2024年4月1日～2025年3月31日）の貸借対照表で、2025年3月31日現在の「資産の部合計」1,170,131,737円を確認。同年度の正味財産増減計算書で「支払助成金」141,599,072円を確認した。年度値は令和6年度の開始年である2024年として記録した。"
+  },
+  "elapsed_s": 65
+ },
+ "koeki_bbdcf3b94952": {
+  "name": "公益財団法人みずほ学術振興財団",
+  "url": "https://www.konicaminolta.jp/about/csr/contribution/science",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人みずほ学術振興財団",
+   "established_year": 1957,
+   "established_source_url": "https://www.disclo-koeki.org/02b/00475/67-1.pdf",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 22998000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.disclo-koeki.org/02b/00475/2.pdf",
+   "grant_fields": [
+    "engineering",
+    "humanities_social"
+   ],
+   "grant_scope_text": "青年層の学術研究を奨励するため、工学研究への助成金交付と、法律・経済分野の懸賞論文募集・表彰を行う。工学研究助成は指定された大学から推薦を受けて選考する。",
+   "grant_field_source_url": "https://www.disclo-koeki.org/02b/00475/a.pdf",
+   "confidence": "medium",
+   "notes": "公式募集要項に、1957年に「河上記念財団」として設立され、2013年4月に公益財団法人へ移行した旨が記載されている。2025年度事業報告で、工学研究助成金21,978,000円と懸賞論文の学術奨励金1,020,000円の交付を確認し、合計22,998,000円を年間助成・奨励金支出額とした。最新の2025年度貸借対照表は情報公開ページに掲載されているが、検索・閲覧環境でPDF本文を取得できず、資産合計を確認できなかったためtotal_assets_jpyはnull。ユーザー提示のコニカミノルタURLは同財団の公式ページではなく、別法人であるコニカミノルタ科学技術振興財団に関するページであるため、みずほ学術振興財団が利用する一般法人・公益法人等情報公開共同サイトの資料を根拠とした。"
+  },
+  "elapsed_s": 71
+ },
+ "koeki_215c1ae39a4b": {
+  "name": "公益財団法人ヤマハ発動機スポーツ振興財団",
+  "url": "https://www.ymfs.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ヤマハ発動機スポーツ振興財団",
+   "established_year": 2006,
+   "established_source_url": "https://www.ymfs.jp/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 28608106,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.ymfs.jp/doc/2024/ymfs-shoumizaisan_202404-202503.pdf",
+   "grant_fields": [
+    "education",
+    "life_science",
+    "natural_science",
+    "humanities_social"
+   ],
+   "grant_scope_text": "アスリート・指導者・審判などによるスポーツの普及・振興や競技水準向上につながる活動と、スポーツ医・科学、スポーツ文化など自然科学・人文社会科学にわたる研究を助成する。",
+   "grant_field_source_url": "https://www.ymfs.jp/support/outline/",
+   "confidence": "medium",
+   "notes": "公式組織概要に設立日を平成18年11月20日と記載。年間助成額は2024年度正味財産増減計算書の「支払助成金」28,608,106円（体験14,398,007円、研究14,210,099円）の合計で、採択時の予定額ではなく会計上の支出額。公式財務資料一覧には貸借対照表が掲載されているが、今回取得できた検索・閲覧結果では資産合計を原資料上で確実に確認できなかった。正味財産期末残高404,537,346円は確認できたが、総資産とは異なるためtotal_assets_jpyには採用せずnullとした。"
+  },
+  "elapsed_s": 81
+ },
+ "koeki_bb03619b81d5": {
+  "name": "公益財団法人岡三加藤文化振興財団",
+  "url": "https://casiozaidan.org/naiyou/about.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人岡三加藤文化振興財団",
+   "established_year": 1988,
+   "established_source_url": "https://www.okasan-kato-zaidan.or.jp/outline.html",
+   "total_assets_jpy": 809830968,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 16000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.okasan-kato-zaidan.or.jp/disclosure.html",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "arts_culture",
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "三重県における科学技術に関する研究および施設、科学知識の普及啓発、文化活動に対して助成する。",
+   "grant_field_source_url": "https://www.okasan-kato-zaidan.or.jp/project.html",
+   "confidence": "high",
+   "notes": "公式概要で設立年月日を昭和63年4月4日と確認。2024年度貸借対照表（2025年3月31日現在）の資産合計は809,830,968円。2024年度事業報告では研究助成1,000万円、普及助成100万円、文化助成500万円で、年間助成総額は16,000,000円。なお、ユーザー提示のcasiozaidan.orgは対象財団の公式サイトではなく、検索で確認した公式サイトokasan-kato-zaidan.or.jpを使用した。"
+  },
+  "elapsed_s": 85
+ },
+ "koeki_5ceaaf8160fb": {
+  "name": "公益財団法人コニカミノルタ科学技術振興財団",
+  "url": "https://dojindo-f.or.jp/subsidy",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人コニカミノルタ科学技術振興財団",
+   "established_year": 1966,
+   "established_source_url": "https://www.konicaminoltastf.or.jp/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://km-stf-iplt.app.box.com/s/6ct6n6or2onite5m8zv1jxej9ueqi08d",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "life_science",
+    "interdisciplinary",
+    "environment",
+    "arts_culture",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "AI、エレクトロニクス、ICT、医療、生命科学、生物、バイオテクノロジー、材料、デバイス、光学、環境、スマート農業、エネルギー、ロボティクス、量子コンピューティングなどの幅広い技術領域における「光と画像」に関する研究を助成する。材料・デバイス、システム・ソフトウェア、その他の先端研究を対象とし、異分野技術の融合も重視する。このほか、光・画像分野の学会や国内開催の国際会議、工学と写真芸術を融合する大学研究および若手人材育成も助成する。",
+   "grant_field_source_url": "https://www.konicaminoltastf.or.jp/prize.html",
+   "confidence": "medium",
+   "notes": "公式サイトの沿革で、昭和41年（1966年）に前身の「財団法人橘保善会」として設立されたことを確認した。提示された https://dojindo-f.or.jp/subsidy は同仁化学学術振興財団の公式ページであり、対象財団とは異なる。対象財団の公式サイトから「事業報告書・財務諸表等」のBox共有先までは確認できたが、公開資料の本文を取得・検証できなかったため、貸借対照表の資産合計および年間助成金支出総額は推測せずnullとした。grant_fieldsのうち国際交流・芸術文化・教育は、公式の「その他助成事業」（https://www.konicaminoltastf.or.jp/otherbusiness.html）に記載された国際会議助成、工学・写真芸術の融合研究、若手人材育成に基づく。"
+  },
+  "elapsed_s": 102
+ },
+ "koeki_9bc477317b81": {
+  "name": "公益財団法人アサヒグループ財団",
+  "url": "https://www.asahigroup-foundation.com",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人アサヒグループ財団",
+   "established_year": 1989,
+   "established_source_url": "https://www.asahigroup-foundation.com/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 16500000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.asahigroup-foundation.com/about/pdf/foundation/2024_jh.pdf",
+   "grant_fields": [
+    "life_science",
+    "environment",
+    "humanities_social",
+    "arts_culture",
+    "natural_science"
+   ],
+   "grant_scope_text": "食・生活部門では食に関わる生活科学・生活文化、環境・サステナビリティ部門では地球環境科学・サステナブル社会・経済学に関する研究を助成する。また、公式の財団目的には医療に関わる科学・文化の研究および芸術文化活動への助成・支援も含まれる。",
+   "grant_field_source_url": "https://www.asahigroup-foundation.com/support/",
+   "confidence": "medium",
+   "notes": "2026-07-17確認。公式概要に「設立 1989年3月31日」と記載。2024年度事業報告書では学術研究助成が食・生活部門7,000千円、環境・サステナビリティ部門9,000千円（計16,000千円）、芸術文化活動への助成が500千円であり、年間助成金支出総額を16,500,000円とした。公式情報公開ページには2024年度貸借対照表へのリンクが存在するが、調査環境でPDF本文を取得できず、資産合計を確認できなかったためtotal_assets_jpyはnullとした。基本財産10億8,719万円は総資産ではないため代用していない。"
+  },
+  "elapsed_s": 114
+ },
+ "koeki_05db5f28f2e9": {
+  "name": "公益財団法人日産財団",
+  "url": "https://www.nissan-zaidan.or.jp/oitline-rika",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人日産財団",
+   "established_year": 1974,
+   "established_source_url": "https://www.nissan-zaidan.or.jp/wp-content/uploads/katsudo2016.pdf",
+   "total_assets_jpy": 5781357568,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 69779000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.nissan-zaidan.or.jp/information-disclosure/",
+   "grant_fields": [
+    "education",
+    "natural_science",
+    "engineering",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "小中学校等が行う、科学的思考力の育成を目指す理科教育実践研究、および創造性・問題解決力の育成を目指す先進的な科学教育実践研究を支援する。理系分野への関心・能力を育てる活動への褒賞も実施する。",
+   "grant_field_source_url": "https://www.nissan-zaidan.or.jp/wp-content/uploads/2025_jigyouhoukoku.pdf",
+   "confidence": "high",
+   "notes": "公式の2016年度活動報告書に、前身の日産科学振興財団が1974年に設立されたと記載。2024年度貸借対照表（2025年3月31日現在）の資産合計は5,781,357,568円。2024年度事業報告の「2024年度助成実績」合計69,779千円を年間助成額とした。この合計には理科教育助成42,968千円のほか、理科教育賞、リカジョ育成賞、自主事業、普及啓発事業および調査研究事業が含まれる。"
+  },
+  "elapsed_s": 57
+ },
+ "koeki_b722d685d51a": {
+  "name": "公益財団法人コーセーコスメトロジー研究財団",
+  "url": "https://www.kose-cosmetology.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人コーセーコスメトロジー研究財団",
+   "established_year": 1990,
+   "established_source_url": "https://www.kose-cosmetology.or.jp/aboutUs/profile.html",
+   "total_assets_jpy": 9425040433,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 107000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.kose-cosmetology.or.jp/aboutUs/materialData.html",
+   "grant_fields": [
+    "life_science",
+    "natural_science",
+    "engineering",
+    "humanities_social",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "美しく豊かな人間生活の実現に向けたコスメトロジーの理論的体系化、皮膚の生理機能・老化機構、美容に役立つ素材など、コスメトロジーに関連する生命科学その他の調査研究を助成する。また、これらの研究に関する国際交流およびシンポジウム等の開催も支援する。",
+   "grant_field_source_url": "https://www.kose-cosmetology.or.jp/aboutUs/profile.html",
+   "confidence": "high",
+   "notes": "公式概要に1990年7月5日付の厚生省認可による設立と記載。2024年度貸借対照表（2025年3月31日現在）の資産合計9,425,040,433円を採用した。2024年度事業報告書には、コスメトロジー研究助成60,000,000円、特定課題研究助成40,000,000円、国際交流助成2,500,000円、学術集会支援助成4,500,000円、合計107,000,000円を交付したと明記されている。表彰金2,000,000円は助成金総額に含めていない。財務資料一覧から貸借対照表と事業報告書の双方にアクセス可能。"
+  },
+  "elapsed_s": 56
+ },
+ "koeki_b1890eb58ee4": {
+  "name": "公益財団法人江副記念リクルート財団",
+  "url": "https://www.rinri.or.jp/research",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人江副記念リクルート財団",
+   "established_year": 1976,
+   "established_source_url": "https://www.recruit-foundation.org/about/",
+   "total_assets_jpy": 17192131157,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 0,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.recruit-foundation.org/wp/wp-content/uploads/2026/06/2025%E5%B9%B4%E5%BA%A6%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8.pdf",
+   "grant_fields": [
+    "education",
+    "arts_culture",
+    "natural_science",
+    "engineering",
+    "life_science"
+   ],
+   "grant_scope_text": "音楽・スポーツ・アート・学術の分野で世界に挑戦する若者を対象とする人材育成型の奨学援助。学術部門は、Natural Sciences、Engineering & Technology、Life Sciences & Medicine等に該当する理系分野を対象とする。",
+   "grant_field_source_url": "https://www.recruit-foundation.org/scholarship/academic2026",
+   "confidence": "high",
+   "notes": "公式沿革・財団情報は前身の財団法人江副育英会を1976年設立と明記。2025年度貸借対照表（2026年3月31日現在）の当年度「資産合計」17,192,131,157円を採用。2025年度事業報告書（https://www.recruit-foundation.org/wp/wp-content/uploads/2026/06/2025%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf）は、助成金給付事業について対象者が選出されず給付を行わなかったと明記しているため、年間助成金支出額は0円。なお、同年度の奨学金給付額581,509,000円およびスポーツ部門の特別奨学金1,500,000円は、報告書上「助成金給付事業」と区別されているためannual_grant_amount_jpyには含めていない。ユーザー提示のrinri.or.jpは対象財団の公式サイトではなく、確認できた公式ドメインはrecruit-foundation.org。"
+  },
+  "elapsed_s": 57
+ },
+ "koeki_b5a3f4441c50": {
+  "name": "公益財団法人明治安田厚生事業団",
+  "url": "http://www.my-zaidan.or.jp/josei",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人明治安田厚生事業団",
+   "established_year": 1962,
+   "established_source_url": "https://www.my-zaidan.or.jp/about/",
+   "total_assets_jpy": 432440775,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 15000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.my-zaidan.or.jp/about/doc/kz_report_14.pdf",
+   "grant_fields": [
+    "life_science",
+    "welfare",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "若手研究者による、広く健康の維持増進に活用できる科学的研究を助成する。指定課題は、エビデンスに基づく健康増進策を社会に普及・定着させる方法の開発・評価を行う実装研究、一般課題は健康増進に寄与する学術研究。疾病の治療そのものや創薬は対象外。",
+   "grant_field_source_url": "https://www.my-zaidan.or.jp/josei/about/",
+   "confidence": "high",
+   "notes": "公式サイトは1962年6月設立と明記。最新の第14期報告書（2025年4月1日～2026年3月31日）の貸借対照表で、2026年3月31日現在の資産合計432,440,775円を確認したため、会計年度は開始年基準で2025年度とした。同報告書で第41回（2025年度）は指定課題1件300万円、一般課題12件各100万円と確認でき、年間助成総額は15,000,000円。助成分野は公式の趣旨・公募テーマおよびFAQに基づき分類した。"
+  },
+  "elapsed_s": 43
+ },
+ "koeki_1a5e3c43508c": {
+  "name": "公益財団法人三菱ＵＦＪ信託地域文化財団",
+  "url": "http://www.mut-tiikibunkazaidan.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人三菱ＵＦＪ信託地域文化財団",
+   "established_year": 1989,
+   "established_source_url": "https://www.mut-tiikibunkazaidan.or.jp/gaiyo.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 20000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.mut-tiikibunkazaidan.or.jp/pdf/2024_jigyou.pdf",
+   "grant_fields": [
+    "arts_culture",
+    "regional"
+   ],
+   "grant_scope_text": "日本国内で地域文化の振興に寄与する音楽・美術・演劇・伝統芸能を助成する。音楽・演劇は地域で継続的に活動するアマチュア団体の公演、美術は地域住民に優れた美術品の鑑賞機会を提供する活動、伝統芸能は伝承・保存および後継者育成を図る公演が対象。",
+   "grant_field_source_url": "https://www.mut-tiikibunkazaidan.or.jp/youkou.html",
+   "confidence": "medium",
+   "notes": "公式概要で1989年11月28日設立を確認。公式2024年度事業報告で52件、総額2,000万円の助成実施を確認した。公式財務資料ページには2025年度貸借対照表の掲載が確認できたが、検索・閲覧環境ではPDF本文および直接URLを取得できず、資産合計を検証できなかったためtotal_assets_jpyはnullとした。予算書記載の正味財産額や公式概要の基本財産額は総資産ではないため代用していない。"
+  },
+  "elapsed_s": 84
+ },
+ "koeki_4a1abdb47db6": {
+  "name": "公益財団法人三菱ＵＦＪ環境財団",
+  "url": "https://www.fukutsu-komaru-ef.or.jp/about/outline.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人三菱ＵＦＪ環境財団",
+   "established_year": 2003,
+   "established_source_url": "https://www.muef.or.jp/muef/zaidan-overview/kiji-zaidan-gaiyo",
+   "total_assets_jpy": 2151265864,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 7841688,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.muef.or.jp/muef/images/pdffile/disclosure/new/r06_houkoku_kesan.pdf",
+   "grant_fields": [
+    "environment",
+    "education"
+   ],
+   "grant_scope_text": "植樹による森・街づくり、里山保全活動、児童・生徒・教職員・保護者・地域住民が協働する学校ビオトープ整備、および大学における環境教育の寄附講座を支援する。",
+   "grant_field_source_url": "https://www.muef.or.jp/muef/zaidan-overview/kaku-zigyou-katsudou",
+   "confidence": "high",
+   "notes": "公式概要で設立日を2003年4月1日と確認。令和6年度（2024年4月1日～2025年3月31日）の貸借対照表における資産合計は2,151,265,864円。年間助成金額は、同年度決算に明記された里山保全助成金2,100,000円、学校ビオトープ助成金2,741,688円、大学向け寄附講座助成金3,000,000円の合計。樹木寄贈費10,122,708円は「助成金」科目ではないため含めていない。ユーザー提示URLは別法人（公益財団法人福山通運小丸環境財団）の公式サイトだったため、対象法人の実在する公式サイト muef.or.jp を検索で特定して使用した。"
+  },
+  "elapsed_s": 82
+ },
+ "koeki_31394b5d1081": {
+  "name": "公益財団法人豊田都市交通研究所",
+  "url": "https://www.ttri.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人豊田都市交通研究所",
+   "established_year": 1991,
+   "established_source_url": "https://www.ttri.or.jp/about/",
+   "total_assets_jpy": 3453953182,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 235000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.ttri.or.jp/cms/wp-content/themes/ttri/pdf/koukoku/03_kessanhoukoku/ttri_kessanhoukoku_2025.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式概要で設立日は1991年3月1日と確認。令和6年度（2024年4月1日～2025年3月31日）決算報告書で、2025年3月31日現在の資産合計3,453,953,182円、同年度の支払助成金235,000円を確認した。ただし、最新の公式事業報告書および現行サイト上では、この支払助成金の交付先・助成対象分野や現行の公募助成制度を確認できなかったため、grant_fieldsは空配列、grant_scope_textとgrant_field_source_urlはnullとした。過去には市民研究助成の記録があるが、現行制度への推定利用はしていない。"
+  },
+  "elapsed_s": 50
+ },
+ "e34d8d99-31c8-4057-9663-9df5293ff7ef": {
+  "name": "公益財団法人田村科学技術振興財団",
+  "url": "http://www.niigata-mf.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人田村科学技術振興財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": 74049458,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 4000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.disclo-koeki.org/06b/00895/3.pdf",
+   "grant_fields": [
+    "life_science",
+    "natural_science",
+    "engineering",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "富山県内の高等教育・研究機関に所属する教育・研究者を対象に、医療・保健に直接または間接的に関わる生命科学領域の研究、研究者の海外派遣・海外研究者の招聘、講演会・シンポジウム等の開催を助成する。生命科学領域には医学・薬学のほか、生物学・物理学・化学・工学等が含まれる。",
+   "grant_field_source_url": "https://www.disclo-koeki.org/06b/00895/5-2025.pdf",
+   "confidence": "high",
+   "notes": "指定された公式サイト http://www.niigata-mf.or.jp は別法人「公益財団法人新潟医学振興会」のサイトであり、田村科学技術振興財団の公式サイトとしては使用できなかった。田村財団が申請書等の掲載先として案内している公益法人等情報公開共同サイトの公開資料を採用。2024年度財産目録の流動資産13,308,411円と固定資産60,741,047円の資産合計は74,049,458円。2024年度事業報告書では、研究助成2,400,000円、海外派遣助成200,000円、講演会・シンポジウム等開催助成1,400,000円で合計4,000,000円。正味財産増減計算書の支払助成金も4,000,000円で一致する。設立について外部データベースには昭和59年2月10日との記載があるが、公式の沿革・概要資料で確認できなかったためnullとした。"
+  },
+  "elapsed_s": 52
+ },
+ "e658f8ca-4b90-47af-899c-9ac1e1649303": {
+  "name": "公益財団法人イハラサイエンス中野記念財団",
+  "url": "https://ito-zaidan.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人イハラサイエンス中野記念財団",
+   "established_year": 2018,
+   "established_source_url": "https://www.ihara-zaidan.or.jp/overview/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "engineering",
+    "education",
+    "environment",
+    "regional"
+   ],
+   "grant_scope_text": "公的な学術研究機関（主として大学）が行う機械装置の配管システムおよびその構成製品分野の研究を助成する。あわせて、修学が困難な高校・高専・大学の優秀な学生への給付型奨学金と、中津川市付知地区周辺での里山環境整備・自然環境の普及啓発を実施する。",
+   "grant_field_source_url": "https://www.ihara-zaidan.or.jp/overview/",
+   "confidence": "medium",
+   "notes": "公式沿革では、一般財団法人を2018年3月9日に設立し、2018年12月11日に公益財団法人へ移行したことを確認したため、設立年は2018年とした。指定された https://ito-zaidan.jp は別法人「公益財団法人伊藤医薬学術交流財団」のサイトであり、対象財団の公式サイトは https://www.ihara-zaidan.or.jp/ と確認した。対象財団の公開サイトおよび検索結果から、最新年度の貸借対照表・事業報告書・決算書ならびに年間助成金支出総額を確認できる資料を発見できなかったため、総資産、対象年度、年間助成額、助成年度、財務資料URLはnullとした。研究助成ページには年度別採択案件が掲載されているが、実支出総額は記載されていないため、件数や募集上限額からの推計は行っていない。"
+  },
+  "elapsed_s": 55
+ },
+ "23923bbc-cb2a-4623-a662-70a59e06610e": {
+  "name": "公益財団法人川西記念新明和教育財団",
+  "url": "http://www.kawanishi-shinmaywa.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人川西記念新明和教育財団",
+   "established_year": 1992,
+   "established_source_url": "https://www.kawanishi-shinmaywa.or.jp/about/overview/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 6000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.kawanishi-shinmaywa.or.jp/wp/wp-content/uploads/2025/07/2024_shoumi.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "兵庫県内の大学で行われる科学技術の基礎的または応用的研究のうち、工学系（機械、電気・電子、情報、建築、応用化学等）および理学系（物理、化学等）を対象に研究助成を行う。また、兵庫県内の大学・大学院にアジア諸国等から私費留学する学生に奨学金を支給する。",
+   "grant_field_source_url": "https://www.kawanishi-shinmaywa.or.jp/about/overview/",
+   "confidence": "medium",
+   "notes": "公式概要で1992年9月22日設立を確認。2024年度正味財産増減計算書の経常費用に「研究助成」6,000,000円を確認したため、年間助成金額に採用した（奨学金3,000,000円は含めていない）。公式資料一覧には2024年度貸借対照表が掲載されているが、調査時にPDF本文へアクセスできず資産合計を確認できなかったため、total_assets_jpyはnull。正味財産期末残高298,305,225円は確認できたが、総資産ではないため代用していない。"
+  },
+  "elapsed_s": 58
+ },
+ "9e25d41e-523b-4435-a0ab-d6f7a7efa8b3": {
+  "name": "公益財団法人クリタ水・環境科学振興財団",
+  "url": "https://www.sompo-ef.org/about/about.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人クリタ水・環境科学振興財団",
+   "established_year": 1997,
+   "established_source_url": "https://www.kwef.org/info/info.html",
+   "total_assets_jpy": 2596970529,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 134230000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.kwef.org/pdf/info/jigyouhoukokusyo.pdf",
+   "grant_fields": [
+    "environment",
+    "engineering",
+    "natural_science",
+    "humanities_social",
+    "education",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "水処理に関する理論・技術・分析・材料、水域生態系の保全・循環、水に関する文化・教育・歴史・政策・制度・経済・社会課題、水や水環境に関する萌芽的研究を対象とする。また、水・水環境分野における国内外の研究者交流とネットワーク構築、海外研究者への研究助成も行う。",
+   "grant_field_source_url": "https://www.kwef.org/josei/josei_koku.html",
+   "confidence": "high",
+   "notes": "公式サイトは1997年3月創設と記載。2024年度事業報告・決算の貸借対照表（2025年3月31日現在）で資産合計2,596,970,529円を確認。年間助成額は同報告記載の国内研究助成交付額99,030千円と海外研究助成交付額35,200千円の合計134,230,000円。ユーザー提示の https://www.sompo-ef.org/about/about.html は対象財団の公式サイトではなく、SOMPO環境財団のURLであるため使用していない。"
+  },
+  "elapsed_s": 41
+ },
+ "ead97882-da77-40cd-af8a-960d9c36c2ed": {
+  "name": "公益財団法人遠藤斉治朗記念科学技術振興財団",
+  "url": "http://www.suzukenzaidan.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人遠藤斉治朗記念科学技術振興財団",
+   "established_year": 1989,
+   "established_source_url": "https://www.kai-group.com/global/about/activity_foundation.html",
+   "total_assets_jpy": 113124469,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.kai-group.com/contents_file/global/about/pdf/e-publication_2024.pdf",
+   "grant_fields": [
+    "engineering",
+    "education",
+    "natural_science",
+    "environment",
+    "regional"
+   ],
+   "grant_scope_text": "岐阜県内の学校・公的試験研究機関等における、機械、刃物、金属加工および関連分野の学術・教育・試験研究を対象とする。大学等では機械工学、電気・電子工学、精密工学、工業化学、合成化学、高校では機械、電気、電子、工業化学、計測情報、デザイン、公的試験研究機関では金属、化学、窯業、公害等の分野を助成する。",
+   "grant_field_source_url": "https://www.kai-group.com/global/about/activity_foundation.html",
+   "confidence": "high",
+   "notes": "貝印公式ページで平成元年12月28日の設立許可を確認したため、設立年を1989年とした。最新掲載の2023年度貸借対照表（2024年3月31日現在）で資産合計113,124,469円を確認。公式サイト上では直近年度の事業報告書・助成実績総額を確認できなかったため、年間助成金支出総額と年度はnull。ユーザー提示のsuzukenzaidan.or.jpは対象財団ではなく、公益財団法人鈴木謙三記念医科学応用研究財団のサイトであるため、対象財団を運営する貝印グループの公式ページを出典とした。確認日: 2026-07-17。"
+  },
+  "elapsed_s": 54
+ },
+ "0257db41-077a-48bc-ade6-514792968fb8": {
+  "name": "公益財団法人ファイザーヘルスリサーチ振興財団",
+  "url": "https://www.health-research.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ファイザーヘルスリサーチ振興財団",
+   "established_year": 1992,
+   "established_source_url": "https://www.health-research.or.jp/outline/",
+   "total_assets_jpy": 2845547479,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 46630000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.health-research.or.jp/outline/pdf/35rd_zaimu.pdf",
+   "grant_fields": [
+    "life_science",
+    "welfare",
+    "humanities_social",
+    "interdisciplinary",
+    "international"
+   ],
+   "grant_scope_text": "一人ひとりのQOL向上を目的に、医学・薬学・健康科学等の自然科学と、法学・経済学・社会学等の社会科学の成果を基礎として、変化する社会の中で全ての人が最適なケアを享受できる仕組みを研究・提言する、国内の問題解決型ヘルスリサーチを助成する。国際共同研究、国内共同研究、若手研究者による国内共同研究が対象。",
+   "grant_field_source_url": "https://www.health-research.or.jp/content/",
+   "confidence": "high",
+   "notes": "設立は公式財団概要の「平成4年（1992年）3月23日」で確認。財務数値は公開済みの最新決算である第35期（2024年4月1日～2025年3月31日）から取得。貸借対照表の資産合計は2,845,547,479円、正味財産増減計算書の支払助成金は46,630,000円。年度は期間開始年により2024年度とした。"
+  },
+  "elapsed_s": 52
+ },
+ "koeki_4bb42a55dc5c": {
+  "name": "公益財団法人明治安田クオリティオブライフ文化財団",
+  "url": "https://www.meijiyasuda-qol-bunka.or.jp/culture/guide",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人明治安田クオリティオブライフ文化財団",
+   "established_year": 1991,
+   "established_source_url": "https://www.meijiyasuda-qol-bunka.or.jp/profile/",
+   "total_assets_jpy": 1468568919,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 48300000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.meijiyasuda-qol-bunka.or.jp/profile/publicnotice/",
+   "grant_fields": [
+    "arts_culture",
+    "education",
+    "regional",
+    "international"
+   ],
+   "grant_scope_text": "音楽分野では、国際的音楽家を目指す若手音楽家の海外留学費用など、人材育成を助成する。地域の伝統文化分野では、各地に伝わる民俗芸能・民俗技術の継承、特に後継者育成に取り組む団体または個人を助成する。",
+   "grant_field_source_url": "https://www.meijiyasuda-qol-bunka.or.jp/profile/",
+   "confidence": "high",
+   "notes": "公式財団概要で1991年6月10日設立を確認。2025年度貸借対照表（2026年3月31日現在）の資産合計1,468,568,919円を採用。年間助成額は、アクセスして内容を確認できた2024年度正味財産増減計算書の実支出である音楽助成金26,300,000円と伝統助成金22,000,000円の合計48,300,000円。2025年度事業報告書・正味財産増減計算書は公式公告に掲載されているが、調査時に本文を取得できなかったため、予算額を実績値として使用せず、直近で確認できた2024年度実績を記載した。internationalは海外音楽留学への助成、regionalは地域の伝統文化継承への助成に基づく分類。"
+  },
+  "elapsed_s": 144
+ },
+ "3d9602f0-0aaf-4a8f-8620-f5f3a5364902": {
+  "name": "公益財団法人光科学技術研究振興財団",
+  "url": "http://www.refost-hq.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人光科学技術研究振興財団",
+   "established_year": 1988,
+   "established_source_url": "https://www.refost-hq.jp/about/outline/",
+   "total_assets_jpy": 3073974286,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 50000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.refost-hq.jp/about/disclosure/file/907/hokoku_r7.pdf",
+   "grant_fields": [
+    "natural_science",
+    "engineering",
+    "life_science"
+   ],
+   "grant_scope_text": "光科学に関する基礎的または将来性のある独創的研究を助成する。令和7年度の募集課題は「光科学の未知領域の研究―とくに光の本質について―」および「光科学技術による生命科学分野の先端研究」。",
+   "grant_field_source_url": "https://www.refost-hq.jp/activities/research_grant/",
+   "confidence": "high",
+   "notes": "公式概要で設立日を1988年12月23日と確認。令和7年度（2025年度、2025年4月1日～2026年3月31日）事業報告記載の流動資産80,972,569円と固定資産2,993,001,717円の合計を総資産3,073,974,286円とした。同報告で新規助成34,200千円、継続助成15,800千円、合計50,000千円を確認した。光科学を自然科学、光科学技術を工学・技術、生命科学分野の先端研究を生命科学・医学に分類した。"
+  },
+  "elapsed_s": 52
+ },
+ "ee731daf-6e60-431b-9da6-6bbd0602cf3a": {
+  "name": "公益財団法人総合健康推進財団",
+  "url": "https://soukensui.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人総合健康推進財団",
+   "established_year": 1985,
+   "established_source_url": "https://soukensui.jp/pages/52/",
+   "total_assets_jpy": 725452909,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 7400000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://soukensui.jp/pages/54/",
+   "grant_fields": [
+    "life_science",
+    "welfare",
+    "environment",
+    "education"
+   ],
+   "grant_scope_text": "幼少者から高齢者までの住民を対象とし、フィールドで行う健康科学・予防医学分野の研究を助成する。対象課題は、栄養、老化、保健対策、衣食住、代替医療、生活環境、福祉、産業と健康。加えて、健康科学・予防医学・健康教育に関する非営利の学会、研究会、講演会、シンポジウム等の開催も助成する。疾病の診断・治療に直接関与する研究、検査手法の開発、バイオ細胞研究、動物実験による研究等は原則対象外。",
+   "grant_field_source_url": "https://soukensui.jp/files/libs/3775/202506271800136443.pdf",
+   "confidence": "high",
+   "notes": "公式概要で設立年月日を昭和60年（1985年）2月7日と確認。総資産は公式の2024年度財産目録（2025年3月31日現在、https://soukensui.jp/files/libs/3638/202506121401332115.pdf）の「資産合計」725,452,909円。年間助成額は2024年度事業報告書で確認できる一般研究奨励助成6,600,000円と、学会助成（日本公衆衛生学会500,000円、日本衛生学会300,000円）の合計7,400,000円。公式資料ページには2025年度資料も掲載されているが、検索・閲覧時にPDF本文の金額を確認できなかったため、値を確認できた直近の2024年度を採用した。"
+  },
+  "elapsed_s": 74
+ },
+ "ca359b52-52f5-49e0-9e26-5b1911f5d1ad": {
+  "name": "公益財団法人大阪ガス国際交流財団",
+  "url": "https://www.jpf.go.jp/j/program",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大阪ガス国際交流財団",
+   "established_year": 1992,
+   "established_source_url": "https://www.osakagas.co.jp/company/efforts/international/profile/index.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 23957000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.osakagas.co.jp/company/efforts/international/enterprise/katsudou/__icsFiles/afieldfile/2025/07/31/r6_Jigyo_hokokusho.pdf",
+   "grant_fields": [
+    "education",
+    "engineering",
+    "natural_science",
+    "international"
+   ],
+   "grant_scope_text": "東南アジア、大洋州、南アジアおよび日本において、学校への教育機材助成、生徒・学生への奨学金、学術・科学技術分野の試験研究助成、生徒・学生・教師・技術者・研究者の研修助成を行い、日本との国際相互理解を深め、国際親善に寄与する。",
+   "grant_field_source_url": "https://www.osakagas.co.jp/company/efforts/international/enterprise/index.html",
+   "confidence": "medium",
+   "notes": "公式概要で1992年9月16日設立を確認。令和6年度事業報告書は助成額を「約23,957千円」と記載しているため、円換算して23,957,000円とした。附属明細書には手数料等を含む総額23,993千円との別記があるが、年間助成金支出総額には本文の「助成額」を採用した。公式財務諸表ページには令和6年度貸借対照表が掲載されていることを確認したが、資産合計の正確な数値を取得・検証できなかったためtotal_assets_jpyはnull。提示されたjpf.go.jpのURLは独立行政法人国際交流基金のページであり、対象財団の公式サイトではない。"
+  },
+  "elapsed_s": 93
+ },
+ "85352922-22f4-44b0-b01a-f81c93893de6": {
+  "name": "公益財団法人服部報公会",
+  "url": "http://www.hattori-hokokai.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人服部報公会",
+   "established_year": 1930,
+   "established_source_url": "https://www.hattori-hokokai.or.jp/history.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 16000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.hattori-hokokai.or.jp/pdf/2025_report.pdf",
+   "grant_fields": [
+    "engineering",
+    "interdisciplinary",
+    "life_science",
+    "environment"
+   ],
+   "grant_scope_text": "工学の発展に寄与する基礎的研究のうち、単なる調査ではなく、1年間に一定の進展が期待される理論的または実験的研究。情報・生命・環境に関わる分野を含む広義の工学全般を対象とする。",
+   "grant_field_source_url": "https://www.hattori-hokokai.or.jp/shoreienjo.html",
+   "confidence": "medium",
+   "notes": "公式沿革で1930年（昭和5年）10月設立を確認。令和7年度事業報告書の受領者一覧で、工学研究奨励援助金16件、合計援助額16,000,000円を確認した。公式の財務・業務資料ページには令和7年度貸借対照表へのリンクが表示されるが、調査環境ではリンク先がPDFアイコン画像として誤取得され、貸借対照表の資産合計を直接確認できなかったため、総資産はnullとした。令和6年度資料では資産合計を確認できるものの、最新年度ではないため採用していない。grant_fieldsは、公式に明記された広義の工学全般、および情報・生命・環境を含むという対象説明から分類した。"
+  },
+  "elapsed_s": 94
+ },
+ "51612744-79d7-4cd9-833e-65289e90d895": {
+  "name": "公益財団法人双葉電子記念財団",
+  "url": "http://www.futaba-zaidan.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人双葉電子記念財団",
+   "established_year": 1986,
+   "established_source_url": "https://www.futaba-zaidan.org/outline/history.html",
+   "total_assets_jpy": 2142461698,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 47947231,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.futaba-zaidan.org/outline/pdf/info/2024_report.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "education"
+   ],
+   "grant_scope_text": "国内の大学・研究機関等の研究者を対象に、自然科学・技術の基礎・応用分野における独創的な研究や学術会議の開催を支援する。重点分野は情報通信、ロボティクス、先端材料・プロセス等。また、児童生徒の創造性を育む自然科学・技術に関する教育・実践活動も助成する。",
+   "grant_field_source_url": "https://www.futaba-zaidan.org/business/research.html",
+   "confidence": "high",
+   "notes": "公式沿革で1986年6月設立を確認。2024年度事業報告書の2025年3月31日現在の貸借対照表で資産合計2,142,461,698円を確認。年間助成金支出総額は、同報告書の支払助成金4区分（研究30,034,339円、奨学11,246,371円、青少年5,465,723円、顕彰1,200,798円）の合計47,947,231円。電子公告には2025年度事業報告書も掲載されているが、調査時にPDF本文を取得できなかったため、数値を検証できた最新の2024年度を採用した。"
+  },
+  "elapsed_s": 68
+ },
+ "b6055f8b-565d-4fff-93ab-23792dde97c1": {
+  "name": "公益財団法人内田エネルギー科学振興財団",
+  "url": "http://www.corona.co.jp/energy",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人内田エネルギー科学振興財団",
+   "established_year": 1994,
+   "established_source_url": "https://www.corona.co.jp/energy/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 80000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.corona.co.jp/energy/R7jyoseisyameibo.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "environment",
+    "regional",
+    "welfare",
+    "education",
+    "life_science"
+   ],
+   "grant_scope_text": "エネルギー資源、自然・地球環境の保護、災害防止等に関する科学技術の試験研究、研究機関・施設の整備、科学技術知識を普及する講演会・公開講座等のほか、地域活性化・地域再生および生活弱者の自立支援活動を助成する。試験研究では機械、電気、情報、化学、生物、環境科学、物理、建設の各分野を対象とする。",
+   "grant_field_source_url": "https://www.corona.co.jp/energy/mousikomiyouryou.html",
+   "confidence": "medium",
+   "notes": "公式サイトに「平成6年に財団法人として設立」とあり、1994年と確認した。令和7年度各種助成者名簿には5助成区分の合計として334件、80,000千円と記載されているため、年間助成額を80,000,000円とした。公式サイト掲載の最新貸借対照表は令和6年度（https://www.corona.co.jp/energy/R06taisyakutaisyouhyou.pdf）だが、調査環境ではPDF本文を取得できず、資産合計を検証できなかったため総資産と年度はnullとした。正味財産額による代用はしていない。"
+  },
+  "elapsed_s": 89
+ },
+ "bfec8ca5-93f5-44cc-b799-125eb977aa1a": {
+  "name": "公益財団法人日比科学技術振興財団",
+  "url": "http://www.hibizaidan.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人日比科学技術振興財団",
+   "established_year": 1998,
+   "established_source_url": "https://www.hibizaidan.jp/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 69000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.hibizaidan.jp/asset/pdf/disclosure/houkoku_r06.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "life_science",
+    "environment",
+    "regional"
+   ],
+   "grant_scope_text": "愛知県内で生活環境のための科学技術に関する研究開発および普及啓発を行う個人・法人を助成対象とする。対象には衣食住等の生活技術、精神的充足やコミュニティ形成を支援する技術などが含まれる。",
+   "grant_field_source_url": "https://www.hibizaidan.jp/about/",
+   "confidence": "medium",
+   "notes": "公式概要で設立年月日を平成10年8月11日（1998年）と確認。令和6年度事業報告書で研究助成金69百万円の交付を確認。最新の令和6年度計算書類は公式情報開示ページに実在するが、PDF本文の取得エラーにより貸借対照表の資産合計を確認できなかったため、総資産はnullとした（正味財産による代用はしていない）。grant_fieldsは公式目的・設立趣意書と公開助成課題から分類し、中心領域順に記載。"
+  },
+  "elapsed_s": 75
+ },
+ "58374523-c786-4792-8528-a95ca3a9badc": {
+  "name": "公益財団法人同仁化学学術振興財団",
+  "url": "https://www.fost.or.jp/guidelines.html",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人同仁化学学術振興財団",
+   "established_year": 2024,
+   "established_source_url": "https://dojindo-f.or.jp/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science",
+    "natural_science"
+   ],
+   "grant_scope_text": "ライフサイエンス分野の基礎科学研究、またはライフサイエンスを指向した有機化学研究のうち、独創的・先駆的で科学技術の振興への貢献が期待される研究を助成する。",
+   "grant_field_source_url": "https://dojindo-f.or.jp/subsidy/",
+   "confidence": "medium",
+   "notes": "公式概要で、一般財団法人として2024年6月3日に設立されたことを確認。指定された https://www.fost.or.jp/guidelines.html は別法人「公益財団法人科学技術融合振興財団」のサイトであり、対象財団の公式サイトは https://dojindo-f.or.jp/ 。対象財団の情報公開ページは検索・閲覧を試みたが、貸借対照表および事業報告・決算の数値をアクセス可能な資料から確認できなかったため、総資産はnull。2026年度は公式募集要項で1件100万円、公式受賞者一覧（https://dojindo-f.or.jp/subsidy/doc/2026award.pdf）で8名を確認できるが、年間助成金支出総額として明記された決算・助成実績資料ではなく、単純乗算による推計を避けるため年間助成額はnullとした。"
+  },
+  "elapsed_s": 92
+ },
+ "038bf256-136b-4798-a909-d7856ab055a4": {
+  "name": "公益財団法人徳山科学技術振興財団",
+  "url": "http://www.tokuyama.co.jp/japanese/zaidan",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人徳山科学技術振興財団",
+   "established_year": 1988,
+   "established_source_url": "https://www.tokuyama.co.jp/zaidan/about/",
+   "total_assets_jpy": 2414659668,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 60115000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.tokuyama.co.jp/zaidan/disclosure/index.html",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "新材料（無機、有機、高分子、複合、その他）およびこれに関連する科学技術分野で、新材料開発の基礎・応用を指向する独創的研究を助成する。このほか、同分野の国際交流・国際シンポジウムと、青少年を対象とした科学技術の普及啓発事業も助成対象とする。",
+   "grant_field_source_url": "https://www.tokuyama.co.jp/zaidan/about/activity.html",
+   "confidence": "high",
+   "notes": "公式概要で設立日を1988年9月19日と確認。総資産は、本文まで確認できた2024年度末貸借対照表（2025年3月31日現在）の資産合計2,414,659,668円。情報公開ページには2025年度末貸借対照表も掲載されているが、PDF本文の数値を確認できなかったため採用していない。年間助成額は公式「助成事業の累計」（https://www.tokuyama.co.jp/zaidan/grant/total.html）に記載された2025年度の年度合計60,115千円（研究助成、スタートアップ助成、発展研究助成、国際交流助成、国際シンポジウム助成、科学技術啓蒙助成の合計）を円換算した。"
+  },
+  "elapsed_s": 91
+ },
+ "f5a5b75d-b88a-4e72-8344-6474f5ce7374": {
+  "name": "公益財団法人日本板硝子材料工学助成会",
+  "url": "http://nsg-zaidan.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人日本板硝子材料工学助成会",
+   "established_year": 1979,
+   "established_source_url": "https://www.nsg.co.jp/about-nsg/nsg-group-history",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 53900000,
+   "annual_grant_fiscal_year": 2026,
+   "financial_source_url": "https://www.nsg.co.jp/ja-jp/media/ir-updates/announcements-2026/48th-research-grant-award-ceremony-of-joseikai",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "主として無機固体材料および関連材料の科学・技術研究を助成する。ガラス・セラミックスなどのバルク、薄膜、ナノレベルのハイブリッド構造を対象とし、フォトニクス、エレクトロニクス、医用、環境、省エネルギー、構造材料などに用いる材料（複合材料を含む）の基礎・応用研究を含む。純粋な金属は対象外。",
+   "grant_field_source_url": "http://www.nsg-zaidan.or.jp/event/r7collection.html",
+   "confidence": "medium",
+   "notes": "設立年は日本板硝子公式沿革で確認。令和8年度（2026年度）の国内研究助成は40件、総額5,390万円と日本板硝子公式発表で確認した。これは研究助成金贈呈実績であり、国際会議助成等を含む財団の全助成支出額とは確認できない。公開検索および公式サイトで最新の貸借対照表・決算書を確認できなかったため、総資産はnullとした。正味財産額による代用はしていない。"
+  },
+  "elapsed_s": 115
+ },
+ "61e3877e-737a-403d-a56e-514e8b35292a": {
+  "name": "公益財団法人山口内分泌疾患研究振興財団",
+  "url": "https://www.yamaguchi-endocrine.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人山口内分泌疾患研究振興財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": 132805000,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://catr.jp/companies/22ff7/20507/settlements/d40d3/421304",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "内分泌疾患の成因・診断・治療・予防等に関する研究を助成する。対象領域は基礎・内科、産婦人科、泌尿器科を含む。",
+   "grant_field_source_url": "https://yamaguchi-endocrine.org/pdf/jyosei_yoko2025.pdf",
+   "confidence": "medium",
+   "notes": "設立年は、公式サイトの沿革・概要として確認可能な資料を取得できなかったためnull。2009年設立との外部資料は見つかったが、指定条件に従い採用していない。総資産は第17期決算公告（決算末日2025年3月31日）の資産合計132,805,000円を採用。2026年3月期の第18期については検索結果上に総資産額の断片があったものの、決算公告本文と実在する直接URLを十分に確認できなかったため採用していない。年間助成金支出総額は、研究助成・学術集会助成・奨学寄附金を合算した直近年度の確定実績を公式事業報告または助成実績資料で確認できなかったためnull。募集予定額からの推計は行っていない。"
+  },
+  "elapsed_s": 125
+ },
+ "54492916-709f-441f-a16c-b2fd6570c94d": {
+  "name": "公益財団法人東洋食品研究所",
+  "url": "https://www.shokuken.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人東洋食品研究所",
+   "established_year": 1962,
+   "established_source_url": "https://www.shokuken.or.jp/aboutus/profile.html",
+   "total_assets_jpy": 71708327236,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 39383333,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.shokuken.or.jp/docs/business_report_2025.pdf",
+   "grant_fields": [
+    "life_science",
+    "engineering",
+    "natural_science",
+    "environment",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "食品素材・食品資源、食品の機能・栄養・物性・おいしさ、食品の製造・加工・調理・殺菌・容器包装・保存・流通、食品と健康・安全性に関する研究を助成する。重点課題には、高齢化社会に向けた食品研究、食品需給に関する資源研究、食品廃棄物削減、食品評価技術の向上を含む。",
+   "grant_field_source_url": "https://www.shokuken.or.jp/subsidize/Research-grants_2026.pdf",
+   "confidence": "high",
+   "notes": "公式公開情報に設立認可日が昭和37年8月8日と記載されているため、設立年は1962年。最新の2025年度事業報告書（2025年4月1日～2026年3月31日）の貸借対照表に、2026年3月31日現在の資産合計71,708,327,236円を確認。同報告書の正味財産増減計算書に、当年度の研究助成費39,383,333円を確認したため、年間助成金支出総額として採用した。grant_fieldsは公式助成案内に記載された食品資源・食品科学・食品加工・健康安全・食品廃棄物削減等の対象から分類した。"
+  },
+  "elapsed_s": 73
+ },
+ "996528f0-724b-48d9-92c5-e8f77af3e1f8": {
+  "name": "公益財団法人永井科学技術財団",
+  "url": "https://www.sinto.co.jp/nagaizaidan",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人永井科学技術財団",
+   "established_year": 1983,
+   "established_source_url": "https://www.sinto.co.jp/nagaizaidan/introduction/history/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.sinto.co.jp/nagaizaidan/information/",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "education",
+    "international",
+    "interdisciplinary",
+    "life_science",
+    "environment"
+   ],
+   "grant_scope_text": "素形材分野、その関連分野、または素形材を他産業分野へ応用する分野の科学技術について、学術研究・技術開発・国際交流等を助成し、科学技術全般の育成教育も支援する。",
+   "grant_field_source_url": "https://www.sinto.co.jp/nagaizaidan/introduction/history/",
+   "confidence": "medium",
+   "notes": "公式の設立趣旨・事業概要で、1983年（昭和58年）11月25日設立を確認。公式公開情報ページでは令和6年度の決算報告書、事業報告書、第42回助成実績一覧表の公開を確認したが、決算PDFを取得できず貸借対照表の資産合計を検証できなかったため、総資産はnull。助成実績一覧には採択者・事業名は掲載されているが交付額がなく、事業報告PDFも取得できなかったため、年間助成金支出総額はnull。grant_fieldsは公式の目的・助成事業と掲載研究例に基づく優先順。life_scienceとenvironmentは、医工連携・医療応用・カーボンニュートラルなどの公式掲載対象に基づく。"
+  },
+  "elapsed_s": 58
+ },
+ "deabc313-66a9-4e87-84a9-e3a34b2c1823": {
+  "name": "公益財団法人松籟科学技術振興財団",
+  "url": "https://www.shorai-foundation.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人松籟科学技術振興財団",
+   "established_year": 1983,
+   "established_source_url": "https://www.shorai-foundation.or.jp/profile/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 42000000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.shorai-foundation.or.jp/",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "environment",
+    "life_science"
+   ],
+   "grant_scope_text": "植物有用成分およびバイオマス資源の高度利用、次世代エレクトロニクスを担う材料・周辺技術、持続可能な社会を実現する有機系新素材とその機能化に関する研究を助成する。",
+   "grant_field_source_url": "https://www.shorai-foundation.or.jp/application/",
+   "confidence": "medium",
+   "notes": "設立日は公式概要で1983年3月12日と確認。年間助成額は公式ホームページに「2025年度は21件、1件200万円、総額4,200万円」と明記されている。公式情報公開ページには2024年度貸借対照表へのリンクが存在するが、PDF本文を取得できず資産合計を確認できなかったため、総資産と年度はnullとした。grant_fieldsは公式募集課題から分類した。"
+  },
+  "elapsed_s": 74
+ },
+ "6287d826-f345-4a52-bc58-4209e361ef89": {
+  "name": "公益財団法人秋山記念生命科学振興財団",
+  "url": "https://www.akiyama-foundation.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人秋山記念生命科学振興財団",
+   "established_year": 1987,
+   "established_source_url": "https://www.akiyama-foundation.org/aboutus/aboutus_02",
+   "total_assets_jpy": 5121921713,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 42280000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.akiyama-foundation.org/wp-content/uploads/2025/06/m29hl6xdtjxef1qqp7b4v5rb152w84edhw.pdf",
+   "grant_fields": [
+    "life_science",
+    "natural_science",
+    "regional",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "生命科学諸領域の基礎的研究を対象とする研究助成と、「生命科学（いのち）」をテーマに北海道の社会的課題の解決に取り組む、分野横断的なネットワーク形成プロジェクト・起業への助成を実施している。",
+   "grant_field_source_url": "https://www.akiyama-foundation.org/grants",
+   "confidence": "high",
+   "notes": "設立日は公式財団概要で1987年1月8日と確認。総資産は2024年度末（2025年3月31日）の公式貸借対照表に記載された資産合計5,121,921,713円。2025年度の年間助成額は公式採択発表（https://www.akiyama-foundation.org/news/8933.html）の研究助成一般22,800,000円、研究助成奨励10,200,000円、ネットワーク形成事業助成A新規3,000,000円、同B新規1,000,000円、継続5,280,000円の合計42,280,000円。秋山財団賞3,000,000円と秋山喜代賞500,000円は褒賞金であり、助成金支出総額から除外した。"
+  },
+  "elapsed_s": 61
+ },
+ "9c869ea8-e352-4dc8-8b16-1c356065f683": {
+  "name": "公益財団法人昭和医科大学医療振興財団",
+  "url": "http://www.fukudakinen.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人昭和医科大学医療振興財団",
+   "established_year": 2013,
+   "established_source_url": "https://showa-mf.jp/aboutus/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://showa-mf.jp/wp-content/uploads/2026/05/2024%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E6%9B%B8.pdf",
+   "grant_fields": [
+    "regional",
+    "welfare",
+    "education",
+    "life_science",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "全国の病院、診療所、薬局その他の医療関連機関で、多職種と連携して地域保健医療を実践・推進する個人またはグループを顕彰する。対象活動には、診療・治療・ケア、疾病予防・公衆衛生・生活支援、保健・福祉・介護・育成機関等と連携した包括的な医療システムや住民サービスが含まれる。",
+   "grant_field_source_url": "https://showa-mf.jp/application-guidelines/",
+   "confidence": "medium",
+   "notes": "公式概要に設立年月日「平成25年4月1日」とあるため2013年を採用した。沿革には前身の財団法人昭和大学医学振興財団が1970年設立とも記載されている。最新公開済み決算は2024年度だが、決算PDFから貸借対照表の資産合計を確実に抽出・照合できなかったため総資産はnull。事業は助成金交付ではなく顕彰であり、2024年度事業報告書は3件の採択を確認できるものの、副賞等の実支出総額を確認できないため年間助成金額もnullとした。公式サイトは提示された旧ドメインから https://showa-mf.jp/ へ移行している。"
+  },
+  "elapsed_s": 145
+ },
+ "61d0d761-5679-4f15-a46b-2ec280f6daca": {
+  "name": "公益財団法人艮陵医学振興会",
+  "url": "https://www.kitakyu-hp.or.jp/contents/group_shogakukai.htm",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人艮陵医学振興会",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "宮城県内の教育・研究施設に所属する医学研究者、医師および医療研究者が行う基礎医学・臨床医学研究を対象とし、研究のボトムアップと若手研究者のスタートアップを支援する。",
+   "grant_field_source_url": "https://www.med.tohoku.ac.jp/wp-content/uploads/2025/10/niitsu_yoko_20251006.pdf",
+   "confidence": "medium",
+   "notes": "指定された公式サイトURLは、対象財団ではなく「公益財団法人西日本奨学会」のページであり、艮陵医学振興会の資料として使用できない（https://www.kitakyu-hp.or.jp/contents/group_shogakukai.htm）。艮陵医学振興会について、公式の沿革・概要で設立年を確認できなかったためnull。最新の貸借対照表および年間助成金支出総額を示す事業報告・決算資料も確認できなかったため財務値はnull。宮城県決算資料には同会の財務状況に関する丸められた数値が掲載されているが、同会自身の貸借対照表ではなく円単位の資産合計を確定できないため採用していない。助成分野は、東北大学医学系研究科・医学部サイトで公開されている同会提出先の「新津記念賞実施要項」に基づく。"
+  },
+  "elapsed_s": 43
+ },
+ "e228aca8-1c22-4499-a73c-40d5c909ac2f": {
+  "name": "公益財団法人荏原畠山記念文化財団",
+  "url": "https://foundation.hatakeyama-museum.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人荏原畠山記念文化財団",
+   "established_year": 1960,
+   "established_source_url": "https://foundation.hatakeyama-museum.org/about/",
+   "total_assets_jpy": 34169598665,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 34200000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://foundation.hatakeyama-museum.org/files/2025report.pdf",
+   "grant_fields": [
+    "engineering",
+    "environment",
+    "education",
+    "arts_culture"
+   ],
+   "grant_scope_text": "研究助成では、国内の研究者による風水力・流体機械、環境・エネルギー・バイオマス、半導体製造装置およびプロセスの研究を対象とする。このほか、育英奨学および文化・芸術・茶道・スポーツの振興に資する援助を行う。",
+   "grant_field_source_url": "https://foundation.hatakeyama-museum.org/about/",
+   "confidence": "high",
+   "notes": "公式概要に設立年月日を昭和35年6月6日と記載。2025（令和7）年度事業報告書および計算書類（2025年4月1日～2026年3月31日）の貸借対照表で資産合計34,169,598,665円を確認した。同年度の正味財産増減計算書で事業費の助成金34,200,000円を確認しており、研究助成だけでなく同年度に助成金として支出された総額を採用した。助成領域は公式概要および研究助成公募に基づき分類した。"
+  },
+  "elapsed_s": 57
+ },
+ "a02dd06e-b144-4bfb-9b71-d92b9d936c5a": {
+  "name": "公益財団法人肥後医育振興会",
+  "url": "http://www.119higo.com",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人肥後医育振興会",
+   "established_year": 1996,
+   "established_source_url": "https://www.119higo.com/info/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.119higo.com/info/koukoku.html",
+   "grant_fields": [
+    "life_science",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "医学・歯学・薬学・看護学・医療技術学分野の教育・研究活動、医学・医療関連の学会・研修会・シンポジウム、医学分野の国際交流および外国人留学生を助成する。",
+   "grant_field_source_url": "https://www.119higo.com/info/katudo.html",
+   "confidence": "medium",
+   "notes": "公式紹介で平成8年5月設立を確認。公式情報公開ページでは最新として令和6年度（2024年度）の貸借対照表、事業報告書、正味財産増減計算書が公開されているが、取得できた本文から資産合計を直接確認できなかったため総資産はnull。令和6年度事業報告書（https://www.119higo.com/info/image/r6_businessreport.pdf）では学術奨励賞4件・各15万円（計60万円）のほか、外国人留学生4名への奨学金、学会・シンポジウム9件、研修会等8件への助成を確認したが、これらの金額または年間合計額が記載されていないため、年間助成金支出総額はnullとした。"
+  },
+  "elapsed_s": 81
+ },
+ "76a9c45e-e52f-48ee-8659-1b2a04c0db68": {
+  "name": "公益財団法人石本記念デサントスポーツ科学振興財団",
+  "url": "http://www.descente.co.jp/ishimoto",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人石本記念デサントスポーツ科学振興財団",
+   "established_year": 1979,
+   "established_source_url": "https://www.descente.co.jp/ishimoto/index.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.descente.co.jp/ishimoto/pdf/reiwa6_houkoku.pdf",
+   "grant_fields": [
+    "life_science",
+    "engineering",
+    "education",
+    "welfare",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "健康の増進、体力の向上およびスポーツ振興に寄与する学術研究を対象とする。対象分野には体育学、健康科学、人間工学、被服科学、運動施設工学、スポーツ安全、運動生理、バイオメカニクス、医療・看護、トレーニング、食物・栄養、用具・被服、体育活動調査、パラスポーツが含まれる。",
+   "grant_field_source_url": "https://www.descente.co.jp/ishimoto/pdf/des_shinsei48.pdf",
+   "confidence": "medium",
+   "notes": "設立日は公式概要に「昭和54年3月27日」と記載されているため1979年とした。公式資料一覧で最新の決算資料が令和6年度事業報告・決算であることは確認できたが、公開PDFから貸借対照表の資産合計および年間助成金支出総額を確実に読み取れなかったため、両数値と年度はnullとした。公式概要にある「基本財産 現金77億円」は総資産ではないため採用していない。また、募集要項の予定助成額も年間の実支出総額ではないため採用していない。"
+  },
+  "elapsed_s": 138
+ },
+ "5e7f9049-e5eb-447f-a43a-b491254852a9": {
+  "name": "公益財団法人フジシール財団",
+  "url": "https://www.fujiseal.or.jp/support",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人フジシール財団",
+   "established_year": 2005,
+   "established_source_url": "https://www.fujiseal.or.jp/guide/history.html",
+   "total_assets_jpy": 13793651476,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 90000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.fujiseal.or.jp/documents.html",
+   "grant_fields": [
+    "engineering",
+    "environment",
+    "interdisciplinary",
+    "natural_science",
+    "humanities_social"
+   ],
+   "grant_scope_text": "パッケージ分野の発展に貢献し得る研究を対象とし、特に斬新な発想・枠組みによる研究、パッケージ分野の環境対策に関する研究、ならびに学術的意義や社会的波及効果の高い研究を助成する。",
+   "grant_field_source_url": "https://www.fujiseal.or.jp/support/",
+   "confidence": "high",
+   "notes": "公式沿革に「2005年12月 財団法人設立」と記載。2024年度財産目録（2025年3月31日現在、https://www.fujiseal.or.jp/assets/pdf/2024_7.pdf?20250725=）の資産合計13,793,651,476円を採用。2024年度事業報告書（https://www.fujiseal.or.jp/assets/pdf/2024_4.pdf?20250725=）には、研究助成費として研究者37人へ計90,000千円を支給したと記載されているため、年間助成金額を90,000,000円とした。奨学給付費および研究助成発表費は研究助成金額に含めていない。grant_fieldsは公式の助成対象説明と、パッケージの機能・材料・環境対策・情報表示などを含む研究対象から分類した。"
+  },
+  "elapsed_s": 56
+ },
+ "7cd75244-5342-484d-afa7-2b397de32c15": {
+  "name": "公益財団法人高エネルギー加速器科学研究奨励会",
+  "url": "https://heas.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人高エネルギー加速器科学研究奨励会",
+   "established_year": 1983,
+   "established_source_url": "https://www.heas.jp/outline/teikan.html",
+   "total_assets_jpy": 130754445,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 1620235,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.heas.jp/manage/files/2024taisyakutaisyouhyou.pdf",
+   "grant_fields": [
+    "natural_science",
+    "engineering",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "加速器の原理・物理・技術、加速器利用研究の測定技術・装置開発、高エネルギー加速器を用いる研究、ならびに加速器科学振興に必要な研究・人材育成を対象とする。研究費・旅費のほか、研究者の海外派遣・招聘および国内開催の国際会議等も助成する。",
+   "grant_field_source_url": "https://www.heas.jp/support/josei.html",
+   "confidence": "high",
+   "notes": "公式定款の沿革（抄）に「1983年10月7日 財団法人設立許可」とあるため、法人としての設立年を1983年とした（任意団体としての発足は1977年）。2024年度貸借対照表（2025年3月31日現在）の資産合計は130,754,445円。年間助成額は公式の2024年度正味財産増減計算書（https://www.heas.jp/manage/files/2024syoumizaisan.pdf）に記載された研究助成費0円、国際交流助成費620,235円、国際会議助成費1,000,000円、その他の助成0円の合計1,620,235円。"
+  },
+  "elapsed_s": 96
+ },
+ "275e002d-ddf3-4957-8437-d7b3fec4125b": {
+  "name": "公益財団法人パナック財団",
+  "url": "https://foundation.tokyu.co.jp/environment/kankyo-josei/support/2024",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人パナック財団",
+   "established_year": 2021,
+   "established_source_url": "https://www.panac-f.or.jp/profile/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 4000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.panac-f.or.jp/wp-content/uploads/2025/08/9e78edc7f8deb4e0261bb9fc708e94ed.pdf",
+   "grant_fields": [
+    "engineering",
+    "environment",
+    "natural_science"
+   ],
+   "grant_scope_text": "SDGsの課題解決に役立ち、地球環境に配慮した持続可能な世界の実現に向けて期待される素材技術分野の研究。特に、省・創・蓄エネルギー用先端素材、プラスチックフィルム資源の循環・クリーン廃棄、接着剤・粘着剤の解体・クリーン廃棄、廃プラスチックのケミカル／マテリアルリサイクルに関する研究を優先する。",
+   "grant_field_source_url": "https://www.panac-f.or.jp/wp-content/uploads/2024/07/d214653fca32c5dff4a8fa02dc4f5bb7.pdf",
+   "confidence": "medium",
+   "notes": "公式概要で設立日を2021年8月2日と確認。最新の公開済み事業報告書は第4期（2024年6月1日～2025年5月31日）で、2025年度助成金として4件、計400万円の支給実績を記載しているため、報告書の事業年度に合わせannual_grant_fiscal_yearを2024とした。情報公開ページ（https://www.panac-f.or.jp/information/）には2024年度決算報告書が掲載されているが、調査時にPDF本文を取得できず資産合計を確認できなかったため、総資産はnull。ユーザー提示URLは東急財団の環境助成ページで対象財団と一致しないため、検索で確認したパナック財団公式サイトを使用した。"
+  },
+  "elapsed_s": 85
+ },
+ "60f69f9c-c015-4c92-8bba-818d065d892c": {
+  "name": "公益財団法人三豊科学技術振興協会",
+  "url": "http://www.mast.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人三豊科学技術振興協会",
+   "established_year": 1999,
+   "established_source_url": "https://www.mast.or.jp/h/enkaku.html",
+   "total_assets_jpy": 601644320,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 24341000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.mast.or.jp/h/b_sheet.html",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "international"
+   ],
+   "grant_scope_text": "精密機械工業の発展に寄与する加工・計測・制御に関する科学技術、およびその基礎となる理工学分野の優れた研究と国際交流を助成する。",
+   "grant_field_source_url": "https://www.mast.or.jp/h/app_gl.html",
+   "confidence": "high",
+   "notes": "公式沿革では平成11年1月6日設立（1999年）、平成23年4月1日に公益財団法人へ移行。令和7年度貸借対照表（令和8年3月31日現在）の資産合計は601,644,320円。令和7年度事業状況報告書（https://www.mast.or.jp/h/b_report.html）では、研究助成20,000,000円、国際交流渡航助成3,341,000円、国際交流会議助成1,000,000円で、助成総額24,341,000円と明記されている。年度は令和7年度を西暦開始年の2025年度として記録した。"
+  },
+  "elapsed_s": 27
+ },
+ "8c16e267-fe73-4592-bea5-b59dd29b3bc0": {
+  "name": "公益財団法人近藤記念財団",
+  "url": "https://www.kondo-zaidan.or.jp/award",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人近藤記念財団",
+   "established_year": 1994,
+   "established_source_url": "https://www.kondo-zaidan.or.jp/about",
+   "total_assets_jpy": 5537186240,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 68570000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.kondo-zaidan.or.jp/_wp/wp-content/uploads/2026/05/2025%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%A0%B1%E5%91%8A-.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "education"
+   ],
+   "grant_scope_text": "炭素材料に関する基礎研究・応用研究・周辺技術を研究助成の対象とする。また、学業・人物ともに優秀で、経済的理由により修学が困難な指定校の学生・生徒に給付型奨学金を支給する。",
+   "grant_field_source_url": "https://www.kondo-zaidan.or.jp/about",
+   "confidence": "high",
+   "notes": "2026-07-17確認。公式概要に設立年月日「平成6年3月10日」とあり、設立年を1994年とした。最新公開の2025年度決算報告書（2026年2月28日現在）の貸借対照表における資産合計は5,537,186,240円。年間助成金支出総額は、同決算の奨学金給付43,570,000円と研究助成金25,000,000円の合計68,570,000円。研究表彰金1,000,000円は助成金ではなく表彰金として別掲されているため含めていない。助成分野は公式の事業目的および研究助成募集要項（https://www.kondo-zaidan.or.jp/research/application）に基づき分類した。"
+  },
+  "elapsed_s": 119
+ },
+ "9b27a585-eb3d-4431-aa94-cb7841aa7cca": {
+  "name": "公益財団法人ノバルティス科学振興財団",
+  "url": "http://www.novartisfound.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ノバルティス科学振興財団",
+   "established_year": 1987,
+   "established_source_url": "https://novartis-foundation-japan.or.jp/about/introduction.html",
+   "total_assets_jpy": 1207283766,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 38000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://novartis-foundation-japan.or.jp/resources/pdf/2025%2837th%29_Annual_Report.pdf",
+   "grant_fields": [
+    "life_science",
+    "natural_science",
+    "engineering",
+    "international"
+   ],
+   "grant_scope_text": "生物・生命科学と、それに関連する化学・情報科学の領域における創造的な研究、および日本国内で開催される同領域の国際色豊かな研究集会を助成する。",
+   "grant_field_source_url": "https://novartis-foundation-japan.or.jp/programs/content.html",
+   "confidence": "high",
+   "notes": "公式概要で設立日を1987年9月4日と確認。公式年報掲載の第38期（2024年度）財務報告（2025年3月31日現在）で、貸借対照表の資産合計1,207,283,766円を確認。同じ財務報告の正味財産増減計算書で支払助成金38,000,000円（研究奨励金36,000,000円、研究集会助成金2,000,000円）を確認した。公式財務ページには2025年度資料も掲載されているが、調査時に個別PDF本文を取得できなかったため、本文と数値を直接確認できた最新の2024年度確定値を採用した。grant_fieldsのengineeringは情報科学、internationalは国際色豊かな研究集会への助成に基づく分類。"
+  },
+  "elapsed_s": 96
+ },
+ "65ccf7f5-2f8a-4d40-9cbc-a0727ec34e9c": {
+  "name": "公益財団法人インテリジェント・コスモス学術振興財団",
+  "url": "http://www3.ic-net.or.jp/~incos",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人インテリジェント・コスモス学術振興財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "international"
+   ],
+   "grant_scope_text": "国際学会の開催に対する助成。令和8年度の「国際学会への助成事業」が確認できる。",
+   "grant_field_source_url": "https://www.shokei.jp/institution/research/grant/detail.php?p=89",
+   "confidence": "low",
+   "notes": "2026-07-17確認。現行公式サイトは閲覧時にタイムアウトし、国立国会図書館WARP（https://warp.ndl.go.jp/waid/21871）では公式サイトの保存記録までは確認できたが、沿革・貸借対照表・助成実績の本文を取得できなかった。このため設立年、公式決算に基づく資産合計、年間助成金支出総額は確認不能としてnull。自治体資料には財団の資産額らしき百万円単位の数値が掲載されているが、財団自身の最新事業報告書・決算では確認できないため採用していない。助成分野は、アクセス可能な大学公示が公式サイトの「国際学会への助成事業」ページへ直接案内していることからinternationalのみ採用した。自然科学等の対象分野までは確認できないため追加していない。"
+  },
+  "elapsed_s": 108
+ },
+ "09dd159a-d71e-4344-bcd9-3b8b241b2ab9": {
+  "name": "公益財団法人下中記念財団",
+  "url": "http://www.shimonaka.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人下中記念財団",
+   "established_year": 1962,
+   "established_source_url": "https://www.shimonaka.or.jp/about-shimonaka/",
+   "total_assets_jpy": 180501758,
+   "total_assets_fiscal_year": 2021,
+   "annual_grant_amount_jpy": 6300000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.shimonaka.or.jp/wp/wp-content/uploads/2022/08/shimonaka-accounting-report-10.pdf",
+   "grant_fields": [
+    "education",
+    "natural_science",
+    "humanities_social",
+    "engineering",
+    "arts_culture",
+    "environment",
+    "life_science",
+    "welfare",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "学校教育に携わる教員・教育実務者による、教育のための研究を助成する。対象は自然科学・工学系、人文・社会科学系のほか、教育一般、総合的な学習・探究、特別支援教育、環境教育、情報教育、防災・安全教育、国際理解など、理系・文系を問わず教育全般に及ぶ。",
+   "grant_field_source_url": "https://www.shimonaka.or.jp/topics/2026-3s-grant-requirements/",
+   "confidence": "medium",
+   "notes": "公式概要で1962年6月設立を確認。総資産は、公式サイトで確認できた第10期会計報告の令和4年3月31日現在（2021年度末）貸借対照表「資産合計」180,501,758円。これより新しい決算資料は公式サイトの検索結果から確認できなかった。年間助成額は、令和7年度の公式審査結果で21名に各300,000円を授与すると確認できるため6,300,000円。出典：https://www.shimonaka.or.jp/topics/shimonaka-science-study-grant-prize-list-64/ 。これは公式の授与決定額であり、会計上の実支出額を示す決算資料ではない。"
+  },
+  "elapsed_s": 51
+ },
+ "11b25685-7857-4a3f-8a72-59695159690a": {
+  "name": "公益財団法人ホクト生物科学振興財団",
+  "url": "http://www.hokto-kinoko.co.jp/etc/bio.php",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人ホクト生物科学振興財団",
+   "established_year": 1997,
+   "established_source_url": "https://www.hokto-kinoko.co.jp/z0y6LaZKWu/wp-content/uploads/2025/07/43a5c5a00aaa499f47e675621fa71753.pdf",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 13500000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.hokto-kinoko.co.jp/z0y6LaZKWu/wp-content/uploads/2025/07/43a5c5a00aaa499f47e675621fa71753.pdf",
+   "grant_fields": [
+    "life_science",
+    "engineering",
+    "natural_science"
+   ],
+   "grant_scope_text": "バイオテクノロジーを主体とする生物科学に関する調査・研究・技術開発のうち、新規性があり、将来の生物科学の研究開発に貢献すると認められるもの。主に国内の若手研究者・研究グループ等を助成する。",
+   "grant_field_source_url": "https://www.hokto-kinoko.co.jp/z0y6LaZKWu/wp-content/uploads/2026/04/0ccb9b758e3a3522e530cf6f98ece357.pdf",
+   "confidence": "high",
+   "notes": "公式の令和6年度事業報告で、設立年月日を平成9年6月18日、令和6年度の研究奨励金を17名・総額1,350万円と確認した。年度は事業期間（2024年4月1日～2025年3月31日）の開始年で表記。公式ページ掲載の最新決算報告書PDFにはアクセスできたが、画像主体で貸借対照表の「資産合計」を確実に判読できなかったため、総資産とその年度はnullとした。正味財産を総資産として代用していない。"
+  },
+  "elapsed_s": 103
+ },
+ "0d76b0ce-696c-42be-b6ff-408ffff0883a": {
+  "name": "公益財団法人内藤科学技術振興財団",
+  "url": "http://www.naitozaidan.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人内藤科学技術振興財団",
+   "established_year": 1988,
+   "established_source_url": "https://www.naitozaidan.or.jp/gaiyou.html",
+   "total_assets_jpy": 3169184574,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 68000000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.naitozaidan.or.jp/joukyou/syushi06.pdf",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "natural_science",
+    "life_science",
+    "interdisciplinary",
+    "education",
+    "environment",
+    "arts_culture"
+   ],
+   "grant_scope_text": "愛知県内の大学・高専、研究機関・団体に所属する研究者、および科学技術の普及啓発を行う団体が対象。専門分野は不問で、産業技術・モノづくり、地域産業の発展、科学技術振興につながる研究課題を助成する。対象例は機械・メカトロニクス、電気・電子、情報・通信、化学・物理、土木・建築、新素材、エネルギー、バイオ・生命科学、農学・水産学、保健衛生、創薬科学・薬学、デザイン・造形など。",
+   "grant_field_source_url": "https://www.naitozaidan.or.jp/sp/josei/youkou.pdf",
+   "confidence": "medium",
+   "notes": "公式概要で1988年11月22日の設立を確認。2024年度決算報告書（2025年3月31日現在）の貸借対照表で資産合計3,169,184,574円、正味財産増減計算書で助成金支出60,000,000円を確認した。ただし同年度事業報告書（https://www.naitozaidan.or.jp/joukyou/houkoku06.pdf）は、一次・二次募集を合わせた助成実績を全68件・6,800万円と明記しているため、年間助成金支出総額には事業報告上の68,000,000円を採用した。公式サイトには2025年度決算へのリンク（https://www.naitozaidan.or.jp/joukyou/syushi07.pdf）が掲載されているが、調査時にPDF本文を取得・検証できなかったため、数値は本文を確認できた直近の2024年度とした。grant_fieldsは2026年度公式募集要領の列挙分野と、地域産業発展・普及啓発という目的から分類した。確認日: 2026-07-17。"
+  },
+  "elapsed_s": 65
+ },
+ "682c48e5-ef23-4028-a8a3-4284267598d7": {
+  "name": "公益財団法人前田記念工学振興財団",
+  "url": "https://www.obayashifoundation.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人前田記念工学振興財団",
+   "established_year": 1993,
+   "established_source_url": "https://www.maedakksz.or.jp/gaiyou/",
+   "total_assets_jpy": 2708893625,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 57990000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.maedakksz.or.jp/info/",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "工学分野の独創的研究を助成し、科学技術の発展に寄与する。研究助成は土木、建築、i-constructionを中心とし、地域課題を工学的知見で解決する地域工学、工学振興に関する国際会議、学生グループによる海外調査を主体とする特別研究テーマも対象とする。",
+   "grant_field_source_url": "https://www.maedakksz.or.jp/kenkyu/",
+   "confidence": "high",
+   "notes": "ユーザー提示の https://www.obayashifoundation.org は公益財団法人大林財団のサイトであり、対象財団とは不一致。対象財団の公式サイト https://www.maedakksz.or.jp/ で確認した。設立許可日は1993年2月2日。令和6年度（2024年4月1日～2025年3月31日）決算の2025年3月31日現在の資産合計は2,708,893,625円（決算PDF: https://www.maedakksz.or.jp/wordpress/wp-content/uploads/2025/06/2_R6_keisan.pdf）。年間助成額は事業報告記載の研究助成39,990,000円、国際会議助成4,000,000円、特別研究テーマ助成14,000,000円の合計57,990,000円（事業報告PDF: https://www.maedakksz.or.jp/wordpress/wp-content/uploads/2025/06/1_R6_houkoku.pdf）。顕彰事業の賞金は助成金ではないため年間助成額に含めていない。"
+  },
+  "elapsed_s": 61
+ },
+ "79a3a80f-1c10-4c7a-87b7-a28814a6aa89": {
+  "name": "公益財団法人南北海道学術振興財団",
+  "url": "http://www.science-pro.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人南北海道学術振興財団",
+   "established_year": 1998,
+   "established_source_url": "https://www.science-pro.jp/",
+   "total_assets_jpy": 356679505,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 7964576,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.science-pro.jp/outline/pdf/R6/3_zaimusyohyou.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "education",
+    "international",
+    "regional"
+   ],
+   "grant_scope_text": "情報科学分野を中心に、南北海道地域の学術振興に寄与する先端的学術研究を助成する。あわせて、海外の学会・視察への参加および海外高等教育機関への留学を支援する。",
+   "grant_field_source_url": "https://www.science-pro.jp/assist/index.html",
+   "confidence": "high",
+   "notes": "公式トップページに「平成10年11月に設立」とあるため、設立年を1998年とした。令和6年度財務諸表の貸借対照表（令和7年3月31日現在）に記載された資産合計356,679,505円を採用。年間助成金支出は、同年度の正味財産増減計算書に記載された学術研究支援事業の助成金7,384,000円と海外視察等支援事業の助成金580,576円の合計7,964,576円。海外交流支援事業の助成金は0円。年度は令和6年度＝2024年度として記録した。"
+  },
+  "elapsed_s": 36
+ },
+ "dceb24f1-8e79-4d20-8047-8c347937fc45": {
+  "name": "公益財団法人医療機器センター",
+  "url": "https://www.jaame.or.jp/mdsi/activity",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人医療機器センター",
+   "established_year": 1985,
+   "established_source_url": "https://www.jaame.or.jp/info/guide/history/",
+   "total_assets_jpy": 1969957821,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 16932321,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.jaame.or.jp/info/disclosure/paper/",
+   "grant_fields": [
+    "engineering",
+    "life_science",
+    "humanities_social",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "医療分野の社会的課題の解決に資する医療機器の基礎的研究開発を助成する。対象は、疾病・重症化予防、早期診断、個別化医療、身体機能の補完・向上、医療従事者の負担軽減、次世代医療機器の要素技術・製造基盤。また、医療機器産業の振興・発展に寄与する経済学、経営学、法学、レギュラトリーサイエンス、医療経済評価、歴史学、政治学等の社会科学系研究も対象とする。",
+   "grant_field_source_url": "https://www.jaame.or.jp/mdsi/activity/",
+   "confidence": "high",
+   "notes": "公式沿革では、前身の医療技術研究開発財団は1971年設立だが、医療機器センターは1985年6月21日に設立・発足しているため1985年を採用。令和6年度貸借対照表（https://www.jaame.or.jp/info/pdf/disclosure/paper/so_bs.pdf）の2025年3月31日現在の資産合計は1,969,957,821円。令和6年度正味財産増減計算書（https://www.jaame.or.jp/info/pdf/disclosure/paper/so_syou.pdf）の事業費「支払寄付金」は16,932,321円。公式公募要領が助成金を寄附として交付すると明記し、同年度事業報告書（https://www.jaame.or.jp/info/pdf/disclosure/paper/so_report.pdf）も調査研究助成1件、医療技術研究開発助成11件を実施したと確認できるため、この支払寄付金を年間助成金支出総額として採用した。年度は令和6年度（2024年4月1日～2025年3月31日）を2024年度として表記。"
+  },
+  "elapsed_s": 95
+ },
+ "1ec9930f-9eda-4c6b-a2e0-660af11bcd92": {
+  "name": "公益財団法人両備てい園記念財団",
+  "url": "http://www.ryobi.gr.jp/teienzaidan",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人両備てい園記念財団",
+   "established_year": 1972,
+   "established_source_url": "https://www.ryobi.gr.jp/teienzaidan/02_gaiyo.html",
+   "total_assets_jpy": 628689186,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://ryobi.gr.jp/teienzaidan/pdf/2025/taisyaku.pdf",
+   "grant_fields": [
+    "life_science",
+    "arts_culture",
+    "education",
+    "natural_science",
+    "engineering",
+    "welfare",
+    "regional"
+   ],
+   "grant_scope_text": "岡山県下を対象に、基礎から応用までの生物学的研究、生物学を基礎とする新産業創出研究、文化・芸術・教育研究、生物学に関する学術研究集会を助成する。文化財の保護・保存、スポーツおよび文化振興も事業対象。",
+   "grant_field_source_url": "https://ryobi.gr.jp/teienzaidan/01_jyoseikin.html",
+   "confidence": "medium",
+   "notes": "公式概要に「昭和47年3月に設立」とあるため1972年。2024年度貸借対照表（2025年3月31日現在）で資産合計628,689,186円を確認した。公式概要には2025年度決算資料も掲載されているが、調査時点で最新PDFの数値本文を取得・確認できなかったため、総資産は直近で値を検証できた2024年度を採用。2025年度事業報告書も存在するが助成総額を確認できず、年間助成金支出額はnullとした。2026年度の公募予定総額3,000万円や贈呈式記事の概数は、実績支出総額ではないため採用していない。"
+  },
+  "elapsed_s": 126
+ },
+ "456da884-aaed-436e-9155-86784bb168a2": {
+  "name": "公益財団法人京都健康管理研究会",
+  "url": "http://www.shinshu-u.ac.jp/group/i-shinkoukai",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人京都健康管理研究会",
+   "established_year": 1953,
+   "established_source_url": "https://kyoto-f.com/%E3%81%94%E6%A1%88%E5%86%85/",
+   "total_assets_jpy": 268219583,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 16050000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://kyoto-f.com/wp-content/uploads/2025/08/r6kessan2.pdf",
+   "grant_fields": [
+    "life_science",
+    "education",
+    "welfare",
+    "international"
+   ],
+   "grant_scope_text": "難病指定疾患等の調査・臨床研究に取り組む研究者・グループを中心に、研究、海外留学、国際学会参加、国内学会等の開催、医学・医療関係書籍の出版を助成する。また、京都府内で難病患者支援や難病の啓発・普及を行う団体の個別事業活動費も助成する。",
+   "grant_field_source_url": "https://kyoto-f.com/%E5%8A%A9%E6%88%90%E4%BA%8B%E6%A5%AD/",
+   "confidence": "medium",
+   "notes": "公式沿革では、前身の中央診療所が1952年9月に誕生し、1953年11月に法人化して財団法人京都結核予防研究会となったため、法人の設立年は1953年とした。公益財団法人への移行は2012年4月。令和6年度決算（2024年4月1日～2025年3月31日）の貸借対照表で資産合計268,219,583円を確認。年間助成額16,050,000円は、同年度事業報告に記載された難病患者団体活動助成200,000円、研究助成5,000,000円、海外留学助成4,800,000円（当年度採択分2,400,000円と前年度採択分の2年目2,400,000円）、国際学会参加助成3,750,000円、学会・講演会等運営助成2,300,000円の合計。公式サイトには令和7年度資料も掲載されているが、調査時にPDF本文を取得できなかったため、数値を直接確認できた最新の令和6年度を採用した。ユーザー提示URLは別法人『公益財団法人信州医学振興会』のサイトであり、対象法人の公式サイトは https://kyoto-f.com/ 。"
+  },
+  "elapsed_s": 119
+ },
+ "88011a34-5d93-4806-8a3c-3b88d2d583aa": {
+  "name": "公益財団法人原田積善会",
+  "url": "http://www.haradasekizenkai.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人原田積善会",
+   "established_year": 1920,
+   "established_source_url": "https://www.haradasekizenkai.or.jp/aboutus/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.haradasekizenkai.or.jp/aboutus/info.html",
+   "grant_fields": [
+    "welfare",
+    "education",
+    "life_science",
+    "regional",
+    "arts_culture",
+    "natural_science"
+   ],
+   "grant_scope_text": "福祉分野および教育・科学分野を対象とし、特に経済格差・社会的孤立に苦しむこども・若者、障がいのある若者、重い病気のこどもと家族、DV・貧困から避難する若者、こどもの居場所・こども食堂・ヤングケアラーへの支援を重視する。災害支援や松阪市周辺の文化・市民活動、奨学金・地域創生活動も支援する。",
+   "grant_field_source_url": "https://www.haradasekizenkai.or.jp/grant/",
+   "confidence": "medium",
+   "notes": "公式概要・沿革で1920年7月の創設を確認。公式情報公開ページには最新の令和7年度（2025年）事業報告書・貸借対照表・正味財産増減計算書が掲載されているが、PDF本文の数値を判読できなかったため、総資産および年間助成金支出総額は推測せずnullとした。参考として、数値を確認できた令和6年度資料では資産合計3,747,571,369円、助成金・寄付金合計24,494,000円だが、最新年度ではないため結果には採用していない。grant_fieldsは公式記載の福祉、教育・科学、重い病気のこども、松阪市の文化・市民活動などを指定区分へ対応付けた。"
+  },
+  "elapsed_s": 75
+ },
+ "990e076d-c9c4-48a5-942d-f3c12d56738d": {
+  "name": "公益財団法人国際耳鼻咽喉科学振興会",
+  "url": "https://www.spio.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人国際耳鼻咽喉科学振興会",
+   "established_year": 1969,
+   "established_source_url": "https://www.spio.or.jp/spio/history.html",
+   "total_assets_jpy": 271685605,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.spio.or.jp/spio/pdf/report/07Zaisanmokuroku.pdf",
+   "grant_fields": [
+    "life_science",
+    "international",
+    "education"
+   ],
+   "grant_scope_text": "耳鼻咽喉科学および関連分野の研究を対象とし、外国人留学研究者や海外留学する若手日本人研究者への助成、難聴・補聴器関連研究への助成、国際学術会議・国際シンポジウム・外国研究者の招待講演等への開催助成を行う。",
+   "grant_field_source_url": "https://www.spio.or.jp/research/application.html",
+   "confidence": "medium",
+   "notes": "公式沿革は設立日を昭和44年（1969年）11月28日と明記。令和7年度（2025年度、2026年3月31日現在）の公式財産目録で資産合計271,685,605円を確認した。事業報告には奨学金300万円、コストコSPIO研究助成金150万円、国際学術会議等開催助成160万円などが個別記載されているが、寄附金募集助成36件を含む年間助成金支出の総額を一意に確認できなかったためannual_grant_amount_jpyはnullとした。grant_fieldsは公式の助成対象・財団目的から分類した。"
+  },
+  "elapsed_s": 65
+ },
+ "8cf691cf-3cc8-4541-ba00-e2666a618b5b": {
+  "name": "公益財団法人国際医学研究振興財団",
+  "url": "https://ifpmr.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人国際医学研究振興財団",
+   "established_year": 2019,
+   "established_source_url": "https://ifpmr.or.jp/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 49320000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://ifpmr.or.jp/pdf/2025_jigyouhoukoku.pdf",
+   "grant_fields": [
+    "life_science",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "疾病の病態生理の解明や予防・診断・治療に関する基礎医学・臨床医学研究を目的とする研究者の海外留学、および国内外で開催される医学研究に関する国際シンポジウムを助成する。",
+   "grant_field_source_url": "https://ifpmr.or.jp/abroad/",
+   "confidence": "medium",
+   "notes": "公式概要で設立日を2019年4月8日と確認。2025年度事業報告で、海外留学助成事業の支払助成金46,320,000円と国際シンポジウム助成事業の支払助成金3,000,000円を確認し、年間合計を49,320,000円とした。公式情報公開ページには2025年度計算書類が掲載されているが、調査時にリンク先PDFを取得できず、貸借対照表の資産合計を確認できなかったため総資産はnullとした。助成分野は公式募集要項と事業目的に基づく。"
+  },
+  "elapsed_s": 83
+ },
+ "8fbfee4b-df68-4cd7-bf73-9eda864e480f": {
+  "name": "公益財団法人医用原子力技術研究振興財団",
+  "url": "https://www.jmef.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人医用原子力技術研究振興財団",
+   "established_year": 1996,
+   "established_source_url": "https://www.antm.or.jp/about/history.html",
+   "total_assets_jpy": 346554742,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.antm.or.jp/about/file/5mokuroku.pdf",
+   "grant_fields": [
+    "life_science",
+    "engineering",
+    "natural_science"
+   ],
+   "grant_scope_text": "医用原子力技術における基礎的研究、診断技術に関する研究開発、治療技術および薬剤等の研究開発を対象としていた。公式サイトでは研究助成事業は終了と明記されている。",
+   "grant_field_source_url": "https://www.antm.or.jp/activities/overseas_training.html",
+   "confidence": "medium",
+   "notes": "指定URLのjmef.or.jpは別法人「公益財団法人医学教育振興財団」のサイト。法人名が一致する現行公式サイトantm.or.jpで確認した。沿革では平成8年3月26日設立。総資産は、数値まで検証できた公式の令和5年度財産目録（令和6年3月31日現在）の資産合計346,554,742円を採用した。公式財務ページには令和6・7年度の貸借対照表も掲載されているが、今回の閲覧環境ではPDF本文を取得できず、より新しい総資産額は検証できなかった。研究助成事業は終了しており、直近年度の助成金支出総額を示す公式資料上の数値を確認できなかったためannual_grant_amount_jpyはnullとした。"
+  },
+  "elapsed_s": 150
+ },
+ "4893e63d-e993-468d-9ebb-3f3a4fe7badf": {
+  "name": "公益財団法人大澤科学技術振興財団",
+  "url": "https://www.nagamori-f.org",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人大澤科学技術振興財団",
+   "established_year": 1991,
+   "established_source_url": "https://www.osawazaidan.or.jp/about/index.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 94910000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.osawazaidan.or.jp/report/index.html",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "international"
+   ],
+   "grant_scope_text": "金属およびその他新材料の切削・研削などの機械加工と、その基礎となる理工学分野の研究開発を助成する。また、同分野の国際学会での講演・発表や外国在住研究者の招聘も対象とする。",
+   "grant_field_source_url": "https://www.osawazaidan.or.jp/subsidy/index.html",
+   "confidence": "high",
+   "notes": "公式概要で1991年7月設立を確認。年間助成額は公式活動報告の2025年度実績（研究開発助成91,410,000円＋国際交流助成3,500,000円＝94,910,000円）。公式情報公開ページには2024年度決算報告書へのリンクが存在するが、調査時にPDF本文を取得できず、貸借対照表の資産合計を確認できなかったため総資産はnullとした。ユーザー提示の https://www.nagamori-f.org は当財団の公式サイトとして確認できず、検索で確認した当財団公式サイト https://www.osawazaidan.or.jp を使用した。"
+  },
+  "elapsed_s": 69
+ },
+ "405ef73a-9218-4ed3-825c-3c321c431e37": {
+  "name": "公益財団法人川野小児医学奨学財団",
+  "url": "http://www.kawanozaidan.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人川野小児医学奨学財団",
+   "established_year": 1989,
+   "established_source_url": "https://kawanozaidan.or.jp/about/",
+   "total_assets_jpy": 18855663471,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 96021674,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://kawanozaidan.or.jp/wp/wp-content/uploads/2026/06/about_kessan_R7.pdf",
+   "grant_fields": [
+    "life_science",
+    "welfare",
+    "regional"
+   ],
+   "grant_scope_text": "小児疾患の原因究明、診断、治療、予防等に関する基礎医学・臨床医学・社会医学研究を助成するほか、小児医学関連の医学会、小児医療施設、医師が地域と協働して行う子どものためのアドボカシー活動を支援する。研究助成は日本国内の研究機関で行う研究が対象。",
+   "grant_field_source_url": "https://kawanozaidan.or.jp/research_support/",
+   "confidence": "high",
+   "notes": "公式概要に設立年月日を1989年12月25日と記載。令和7年度決算書（2025年4月1日～2026年3月31日）の貸借対照表で、2026年3月31日現在の資産合計18,855,663,471円を確認。年間助成金支出総額は、同決算書記載の研究助成金83,563,000円、医学会助成金7,575,000円、小児医療施設支援金1,884,493円、医療・地域連携助成金2,999,181円の合計96,021,674円。奨学金37,560,000円と川野賞賞金3,000,000円は「助成金支出総額」には含めていない。"
+  },
+  "elapsed_s": 52
+ },
+ "09f33871-8d87-42aa-82ba-eeeba1ecb751": {
+  "name": "公益財団法人園芸振興松島財団",
+  "url": "http://www.matsushima-foundation.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人園芸振興松島財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science",
+    "natural_science",
+    "engineering",
+    "humanities_social"
+   ],
+   "grant_scope_text": "日本における青果物（花きを除き、イモ類を含む）の生産、流通および消費に関する研究活動を助成する。",
+   "grant_field_source_url": "https://www.matsushima-foundation.or.jp/%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90",
+   "confidence": "medium",
+   "notes": "2026-07-17確認。公式サイトは2024年度の事業報告・決算報告を掲載したと案内しているが、今回アクセスできたページおよび検索結果から貸借対照表の資産合計と年間助成金支出総額を確認できなかったためnull。2025年度の助成対象者数は確認できたが、人数や募集上限額から年間支出額を推計していない。設立年についても公式の沿革・概要本文を取得できず、助成回数等から推測せずnullとした。grant_fieldsは、公式対象に含まれる青果物の生産研究を生命科学・自然科学、生産技術等を工学、流通・消費研究を人文社会科学に分類した。"
+  },
+  "elapsed_s": 104
+ },
+ "8e1b21cd-738c-442d-8e02-b058012a8d7e": {
+  "name": "公益財団法人富徳会",
+  "url": "http://www.isi-sys.net/futokukai",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人富徳会",
+   "established_year": 1971,
+   "established_source_url": "https://www.isi-sys.net/futokukai/",
+   "total_assets_jpy": 393985595,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": 9800000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.isi-sys.net/futokukai/appli_f/zaisanmokuroku2023.pdf",
+   "grant_fields": [
+    "life_science",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "歯科疾患の予防・治療に関する研究助成。具体的には、小児歯科学、口腔衛生学・予防歯科学・高齢者歯科保健、海外留学研究者による歯周病学・矯正歯科学等、歯科衛生学・歯科衛生教育学の研究、および学生・大学院生による海外歯科保健医療活動を対象とする。",
+   "grant_field_source_url": "https://www.isi-sys.net/futokukai/img/2026josei_poster.pdf",
+   "confidence": "medium",
+   "notes": "設立年は公式トップページで確認。総資産は公式財産目録の2024年3月31日現在の「資産合計」393,985,595円であり、2023年度値とした。年間助成額は公式2024年度助成者一覧（https://www.isi-sys.net/futokukai/page02_2024.html）の各部門の実支給者数×明記された単価（研究者16名×30万円、留学研究者4名×30万円、海外活動2件×30万円、歯科衛生学4名×20万円、歯科衛生教育2名×20万円＝780万円）と、公式フォローアップ助成採択者一覧（https://www.isi-sys.net/futokukai/page04_2024.html）の5名について公式募集要項（https://www.isi-sys.net/futokukai/appli_f/2024followup.pdf）記載の初年度40万円を乗じた200万円を合算し、9,800,000円と算出した。単一の事業報告書に年間助成総額として明記された値ではなく、公式助成実績からの算術集計であるためconfidenceはmedium。"
+  },
+  "elapsed_s": 91
+ },
+ "a93374e7-affc-44e0-8103-04d6e36b019f": {
+  "name": "公益財団法人御器谷科学技術財団",
+  "url": "http://mikiya-zaidan.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人御器谷科学技術財団",
+   "established_year": 1990,
+   "established_source_url": "https://www.mikiya-zaidan.or.jp/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "engineering",
+    "welfare",
+    "life_science",
+    "environment",
+    "international"
+   ],
+   "grant_scope_text": "生産分野（環境配慮・省資源型の駆動装置、新エネルギー・省エネルギー・環境改善機器、材料加工技術、省力化・自動化機械等）および医療・福祉分野（人体機能の回復・補助、介護支援、住宅・災害救助機器等）の研究開発、ならびに国内での国際的学会等の開催・海外の国際的学会等への出席を助成。",
+   "grant_field_source_url": "https://www.mikiya-zaidan.or.jp/guideline.html",
+   "confidence": "medium",
+   "notes": "公式サイトで平成2年11月2日（1990年）の発足を確認。情報公開ページには事業状況報告書・貸借対照表へのリンクがあるが、調査時に最新PDF本体を取得できず、資産合計は確認不能のためnull。助成実績ページの直近公開年度は2024年度だが、採択課題一覧に個別助成額・年間総額の記載がなく、実支出総額は確認不能のためnull。2026年度応募要領の助成総額（研究開発800万円、国際交流100万円）は募集予定額であり、実支出額として採用していない。"
+  },
+  "elapsed_s": 61
+ },
+ "61a51785-e22f-41de-86f0-ff5adeb50192": {
+  "name": "公益財団法人山口育英奨学会",
+  "url": "https://www.yamaguchi-esf.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人山口育英奨学会",
+   "established_year": 1959,
+   "established_source_url": "https://yamaguchi-esf.or.jp/purpose/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "natural_science",
+    "environment"
+   ],
+   "grant_scope_text": "大学・高等専門学校の研究者による自然科学研究、および日本国内で非営利団体が行う自然環境保護の実践活動または環境保全の啓発・指導活動を助成する。",
+   "grant_field_source_url": "https://yamaguchi-esf.or.jp/purpose/",
+   "confidence": "medium",
+   "notes": "公式の設立背景ページに「昭和34年8月に設立」とあり、1959年と確認した。助成分野は公式の学術研究助成ページ（https://yamaguchi-esf.or.jp/academic-research/）および自然環境保護活動助成ページ（https://yamaguchi-esf.or.jp/natural-environment-protection/）でも確認した。公式公開資料ページ（https://yamaguchi-esf.or.jp/document/）には事業報告書と貸借対照表が掲載されているが、今回の閲覧ではPDF本文の資産合計および助成金支出総額を確認できなかったため、財務数値は推測せずnullとした。"
+  },
+  "elapsed_s": 108
+ },
+ "1ce6958f-971d-4f37-b5d6-273e2e8765c5": {
+  "name": "公益財団法人成長科学協会",
+  "url": "http://www.fgs.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人成長科学協会",
+   "established_year": 1977,
+   "established_source_url": "https://www.fgs.or.jp/foundation/history.html",
+   "total_assets_jpy": 853325506,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 12800000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.fgs.or.jp/foundation/disclosure.html",
+   "grant_fields": [
+    "life_science"
+   ],
+   "grant_scope_text": "ヒトの成長に関する臨床・基礎研究、成長・発達および内分泌領域の臨床研究、ならびに成長ホルモンとその関連因子に関する研究を助成する。",
+   "grant_field_source_url": "https://www.fgs.or.jp/business/growth_science/grant/",
+   "confidence": "high",
+   "notes": "公式沿革で1977年7月28日の財団法人設立を確認。2024年度決算報告（2025年3月31日現在）の貸借対照表にある「資産合計」853,325,506円を採用（正味財産額ではない）。年間助成額は2024年度事業報告の交付実績、自由課題15件×50万円、FGHR臨床研究5件×60万円、ノルディサイエンス研究2件×90万円、学会団体への助成50万円を合計した12,800,000円。財務資料の直接URLは https://www.fgs.or.jp/pdf/04_foundation/01_information/03_finance/07_report_29/closing_2024.pdf 、事業報告の直接URLは https://www.fgs.or.jp/pdf/04_foundation/01_information/03_finance/07_report_29/business_report_2024.pdf 。"
+  },
+  "elapsed_s": 73
+ },
+ "36fad86e-56c4-4375-a12b-4bf2196b8546": {
+  "name": "公益財団法人広島県漁業振興基金",
+  "url": "https://www.kanhokyo.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人広島県漁業振興基金",
+   "established_year": 1977,
+   "established_source_url": "https://www.hiroshima-kgk.jp/kikin/home.htm",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.hiroshima-kgk.jp/kikin/zaimujyouhou.htm",
+   "grant_fields": [
+    "environment",
+    "regional",
+    "natural_science",
+    "education"
+   ],
+   "grant_scope_text": "広島県内の漁業団体等を対象に、水産資源の維持増大、栽培漁業・資源管理、漁場・海洋環境の保全、漁業の担い手育成、栽培漁業等の研究・技術開発、普及啓発など、漁業振興に資する事業を助成する。",
+   "grant_field_source_url": "https://www.hiroshima-kgk.jp/kikin/jyoseikinyoukou.pdf",
+   "confidence": "medium",
+   "notes": "公式沿革に「昭和52年12月に設立」および同年12月5日の広島県知事認可が記載されているため、設立年は1977年。公式財務情報ページには令和6年度までの貸借対照表・事業報告等が掲載されているが、PDFリンクが画像リンクとして実装されており、今回の閲覧環境ではリンク先資料を取得できなかった。このため、資産合計および年間助成金支出総額は確認不能としてnull。助成分野は公式の助成金等交付要綱、定款、事業概要から分類した。ユーザー提示の https://www.kanhokyo.or.jp は当該財団の公式サイトとして確認できず、当該財団自身の公開資料は https://www.hiroshima-kgk.jp/kikin/ に掲載されている。"
+  },
+  "elapsed_s": 99
+ },
+ "a342f02c-2a2f-414c-9ec8-14f7d782cedd": {
+  "name": "公益財団法人木村看護教育振興財団",
+  "url": "https://www.nurseed.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人木村看護教育振興財団",
+   "established_year": 1991,
+   "established_source_url": "https://www.nurseed.jp/about/outline.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.nurseed.jp/cms/nurseed/pdf/disclosure/2025_kessan.pdf",
+   "grant_fields": [
+    "life_science",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "看護教育・看護実践に関する研究・調査、海外看護研修派遣、専門看護師を目指す看護職者への奨学金を助成する。研究助成では、看護の質的充実・向上が期待できる、国内の患者・医療従事者等を対象とした臨床に役立つ先駆的かつ未発表の研究を対象とする。",
+   "grant_field_source_url": "https://www.nurseed.jp/about/outline.html",
+   "confidence": "medium",
+   "notes": "公式概要で設立年月日を1991年3月28日と確認。公式公開情報ページで最新確定資料が2025年度決算報告書・事業報告書であること、およびPDFの実在を確認したが、今回の閲覧環境では決算PDF本文を取得できず、貸借対照表の資産合計を検証できなかったため総資産はnull。看護研究助成実績では2025年度775万円（https://www.nurseed.jp/projects/research/data.html）を確認したが、海外看護研修助成と専門看護師奨学金助成を含む全助成事業の年間支出総額ではないためannual_grant_amount_jpyはnull。公開資料一覧: https://www.nurseed.jp/disclosure/index.html、2025年度事業報告書: https://www.nurseed.jp/cms/nurseed/pdf/disclosure/2025_houkoku.pdf、研究助成募集要綱: https://www.nurseed.jp/projects/research/apply.html"
+  },
+  "elapsed_s": 95
+ },
+ "8f9ea1f7-8f03-4904-9edc-c449d3b20234": {
+  "name": "公益財団法人松尾学術振興財団",
+  "url": "https://matsuo-acad.or.jp/%e6%9d%be%e5%b0%be%e8%b2%a1%e5%9b%a3%e5%ae%85%e9%96%93%e5%ae%8f%e8%a8%98%e5%bf%b5%e5%ad%a6%e8%a1%93%e8%b3%9e",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人松尾学術振興財団",
+   "established_year": 1988,
+   "established_source_url": "https://matsuo-acad.or.jp/%E8%B2%A1%E5%9B%A3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+   "total_assets_jpy": 977855503,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 21500000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://matsuo-acad.or.jp/wp-content/uploads/2025/12/322d20a42f5ae1292c1f0fc91eb3f4c9.pdf",
+   "grant_fields": [
+    "natural_science",
+    "arts_culture"
+   ],
+   "grant_scope_text": "自然科学分野では、原子物理学および量子エレクトロニクス・量子光学の基礎に関する実験的・理論的研究と、これらを手段として用いる物理学の基礎研究を助成する。音楽分野では、本格的に弦楽四重奏へ取り組む若手団体の研修・研鑽を助成する。",
+   "grant_field_source_url": "https://matsuo-acad.or.jp/wp-content/uploads/2025/12/322d20a42f5ae1292c1f0fc91eb3f4c9.pdf",
+   "confidence": "high",
+   "notes": "公式概要で設立日を1988年12月8日と確認。令和6年度決算の2025年3月31日現在の貸借対照表にある「資産合計」977,855,503円を採用し、正味財産合計964,103,055円とは区別した。年間助成額は令和6年度事業報告の松尾学術研究助成6件合計18,000,000円と松尾音楽助成4件（1,400,000円、1,400,000円、500,000円、200,000円）の合計3,500,000円を合算した21,500,000円。褒賞の賞金2,000,000円は助成金ではないため含めていない。年度は令和6年度＝2024年度として記録した。"
+  },
+  "elapsed_s": 49
+ },
+ "8f131d74-0943-4909-a18a-40709d21b028": {
+  "name": "公益財団法人本荘由利産学振興財団",
+  "url": "http://www.hy-sangaku.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人本荘由利産学振興財団",
+   "established_year": 2013,
+   "established_source_url": "https://www.hy-sangaku.or.jp/about/index.htm",
+   "total_assets_jpy": 1108525314,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.city.yurihonjo.lg.jp/_res/projects/default_project/_page_/001/005/425/506311273-2.pdf",
+   "grant_fields": [
+    "engineering",
+    "international",
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "秋田県立大学を対象とする産学共同研究開発、ベンチャー自主研究、国際交流への助成。財団は、本荘由利地域における工業技術の高度化・研究開発の支援、科学技術教育・研究の振興、地域産業経済の発展を目的とする。",
+   "grant_field_source_url": "https://www.hy-sangaku.or.jp/data/topics/img/1752127684-4.pdf",
+   "confidence": "high",
+   "notes": "公式概要に「平成25年4月1日公益財団法人として新たに発足」とあるため、設立年は2013年。前身財団の設立は2001年4月。総資産は、由利本荘市の令和6（2024）年度財務書類附属明細書に掲載された当財団の「資産(B)」1,108,525,314円を採用した。令和7年度の公式採択一覧では助成決定額合計3,127,000円を確認できるが、実際の年間助成金支出総額を示す決算・事業報告ではないためannual_grant_amount_jpyには採用せずnullとした。"
+  },
+  "elapsed_s": 73
+ },
+ "86204223-209d-41c1-89a8-e97ed85aafec": {
+  "name": "公益財団法人戸田育英財団",
+  "url": "http://www.toda-ikuei.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人戸田育英財団",
+   "established_year": 1981,
+   "established_source_url": "https://www.toda-ikuei.or.jp/about.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.toda-ikuei.or.jp/about.html",
+   "grant_fields": [
+    "engineering"
+   ],
+   "grant_scope_text": "大学に勤務する教授・准教授が行う建築学・土木工学に関する研究を対象とし、助成によって学術研究の発展に寄与する。",
+   "grant_field_source_url": "https://www.toda-ikuei.or.jp/researchgrants.html",
+   "confidence": "medium",
+   "notes": "公式概要で、1981年6月19日に「財団法人戸田育英会」として設立認可を受けたことを確認。情報公開欄には令和7年度貸借対照表（令和8年3月31日現在）へのリンクが存在するが、調査環境ではPDF本文を取得できず、資産合計を確認できなかったためnull。研究助成ページには給付上限として総額500万円（1件50万円）とあるが、これは募集上限であり年間の実支出総額ではない。直近年度の実支出総額を示す事業報告・助成実績を確認できなかったためannual_grant_amount_jpyはnull。"
+  },
+  "elapsed_s": 120
+ },
+ "aea0f77e-907e-48e8-985f-8b6b2ccbdcc1": {
+  "name": "公益財団法人東洋紡バイオテクノロジー研究財団",
+  "url": "http://www.toyobo.co.jp/biofund",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人東洋紡バイオテクノロジー研究財団",
+   "established_year": 1982,
+   "established_source_url": "https://www.toyobo.co.jp/biofund/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.toyobo.co.jp/biofund/business/",
+   "grant_fields": [
+    "life_science",
+    "engineering",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "若手研究者の海外派遣を支援する長期研究助成。生命科学における基礎研究一般を中心に、関連するメカトロニクス、材料技術、システム技術なども対象とする。",
+   "grant_field_source_url": "https://www.toyobo.co.jp/biofund/recruit/",
+   "confidence": "medium",
+   "notes": "公式概要で1982年4月9日設立許可、同年4月13日成立を確認。公式サイトには2025年度決算書が最新資料として掲載されているが、調査時にPDF本文を取得できず、資産合計および長期研究助成金支出額を確認できなかったためnullとした。参考として、取得できた2024年度決算書には資産合計657,913,506円、長期研究助成金35,000,000円と記載されているが、より新しい2025年度決算書が存在するため採用していない。助成分野は公式の2026年度募集要項および海外派遣支援という助成目的から分類した。"
+  },
+  "elapsed_s": 75
+ },
+ "3393e094-0f28-4e08-97cc-ddd22cef1925": {
+  "name": "公益財団法人杜の都医学振興財団",
+  "url": "https://www.morinomiyako.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人杜の都医学振興財団",
+   "established_year": 2021,
+   "established_source_url": "https://www.morinomiyako.or.jp/overview/",
+   "total_assets_jpy": 39195095690,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.morinomiyako.or.jp/wp-content/themes/Morinomiyako/assets/pdf/Balancesheet2025.pdf",
+   "grant_fields": [
+    "life_science",
+    "education"
+   ],
+   "grant_scope_text": "感染症学・微生物学に関する基礎医学、臨床医学、社会医学的研究およびサーベイランスを助成する。あわせて、指定大学の医学部医学科に在籍する学生へ給付型奨学金を支給する。",
+   "grant_field_source_url": "https://www.morinomiyako.or.jp/",
+   "confidence": "high",
+   "notes": "公式概要で設立年月日を2021年5月28日と確認。第七期貸借対照表（2025年9月30日現在）の当年度「資産合計」39,195,095,690円を採用した。公式サイトでは助成実績の採択者・採択団体や募集上限額は確認できたが、直近年度に実際に支出した助成金の年間総額を示す事業報告書・収支資料は確認できなかったため、annual_grant_amount_jpyはnullとした。"
+  },
+  "elapsed_s": 94
+ },
+ "efd3a0b8-a40d-4cab-8fbe-275a075d83fe": {
+  "name": "公益財団法人木原記念横浜生命科学振興財団",
+  "url": "http://www.kihara.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人木原記念横浜生命科学振興財団",
+   "established_year": 1985,
+   "established_source_url": "https://kihara.or.jp/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "life_science",
+    "engineering",
+    "environment",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "健康・医療分野、およびバイオテクノロジーを基盤とする環境・エネルギー分野の基礎研究成果や臨床ニーズ等の実用化につながる取組を対象とし、部品・製品・ソフトウェア・試作品の開発、予備試験、仮説検証、データ取得・検証を助成する。",
+   "grant_field_source_url": "https://kihara.or.jp/news/trial2026/",
+   "confidence": "medium",
+   "notes": "公式法人概要で設立年月日を1985年3月12日と確認した。公式情報公開ページ（https://kihara.or.jp/about/information/）には最新の令和7年度貸借対照表・事業報告書が掲載されているが、調査環境からPDF本文を取得できず、資産合計と助成金支出総額を検証できなかったためnullとした。取得できた令和6年度事業報告書（https://kihara.or.jp/wp/wp-content/themes/kihara/assets/pdf/R06_jigyouhoukoku.pdf）では横浜市トライアル助成金11件の採択と限度額は確認できたが、実際の年間支出総額は記載されていないため、件数×限度額による推計は行っていない。"
+  },
+  "elapsed_s": 130
+ },
+ "a355bd93-f610-4847-8bd5-ba7a3e8c791c": {
+  "name": "公益財団法人細胞科学研究財団",
+  "url": "https://www.shionogi.com/jp/ja/zaidan",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人細胞科学研究財団",
+   "established_year": 1988,
+   "established_source_url": "https://www.shionogi.com/jp/ja/sustainability/society/social-contribution-activities/foundation/zaidan/guide/guide3.html",
+   "total_assets_jpy": 4102529344,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 69850000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.shionogi.com/content/dam/shionogi/jp/sustainability/society/social-contribution-activities/foundation/zaidan/pdf/other/r06_zaimu.pdf",
+   "grant_fields": [
+    "life_science",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "医学、薬学、生物学等の生命科学分野における細胞レベルの研究を対象に、研究助成、研究者育成および研究活動の国際交流を支援する。病因・病態の解明と疾病の予防・治療への寄与を目的とする。",
+   "grant_field_source_url": "https://www.shionogi.com/jp/ja/sustainability/society/social-contribution-activities/foundation/zaidan/guide/guide3.html",
+   "confidence": "high",
+   "notes": "公式財団概要に設立日を「昭和63年3月17日」と明記。令和6年度財務諸表の2025年3月31日現在の貸借対照表で資産合計4,102,529,344円を確認。年間助成額は同財務諸表の研究調査助成費55,000,000円、研究者育成費12,000,000円、国際交流推進費2,850,000円の合計69,850,000円。令和6年度事業報告（https://www.shionogi.com/content/dam/shionogi/jp/sustainability/society/social-contribution-activities/foundation/zaidan/pdf/other/r06_jigyouhoukoku.pdf）にも助成金総額6,985万円の交付実績が明記されている。fiscal_yearは令和6年度を西暦開始年の2024として記録。"
+  },
+  "elapsed_s": 39
+ },
+ "87b7fa31-ced6-4eb1-bbac-ee4ccf0da890": {
+  "name": "公益財団法人精密測定技術振興財団",
+  "url": "https://www.pmtp-f.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人精密測定技術振興財団",
+   "established_year": 1985,
+   "established_source_url": "https://www.pmtp-f.or.jp/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 221250000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.pmtp-f.or.jp/site/wp-content/uploads/2026/06/b-report-R7.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "life_science",
+    "international",
+    "interdisciplinary"
+   ],
+   "grant_scope_text": "精密測定技術の分野およびその周辺技術に関する調査・研究、講演会・研究会の開催、国際会議参加・外国人研究者招聘などの国際交流を助成する。研究テーマには工学・物理計測を中心に、生体・医療計測なども含まれる。",
+   "grant_field_source_url": "https://www.pmtp-f.or.jp/apprication/",
+   "confidence": "medium",
+   "notes": "公式サイトで1985年4月1日の設立を確認。2025年度事業報告は、区分(1)調査・研究1億9,500万円、区分(2)国際会議等660万円・講習会100万円・共催講演会12万円、区分(3)国際交流1,750万円、区分(4)表彰96万円、総合計2億2,125万円と明記しているため年間助成額に採用した。2025年度会計報告PDF（https://www.pmtp-f.or.jp/site/wp-content/uploads/2026/06/a-report-R7.pdf）の掲載は公式情報公開ページで確認できたが、文書内容を取得できず、貸借対照表の資産合計を検証できなかったため総資産はnull。grant_fieldsのlife_scienceとinterdisciplinaryは、公式掲載の採択テーマに生体・医療計測や複数分野の融合テーマが含まれることに基づく分類。"
+  },
+  "elapsed_s": 85
+ },
+ "cbded731-8f1d-4a17-ad98-18e5dcf8711b": {
+  "name": "公益財団法人藤原ナチュラルヒストリー振興財団",
+  "url": "http://fujiwara-nh.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人藤原ナチュラルヒストリー振興財団",
+   "established_year": 1980,
+   "established_source_url": "https://fujiwara-nh.or.jp/archives/info/aboutfujiwara-nh/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 23228444,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://fujiwara-nh.or.jp/archives/report2024.pdf",
+   "grant_fields": [
+    "natural_science",
+    "life_science",
+    "education"
+   ],
+   "grant_scope_text": "生物学、地質学、鉱物学、人類学等におけるナチュラルヒストリー（自然史）の学術研究・教育を対象とする。研究者・研究グループへの学術研究助成に加え、初等中等教育機関での自然史学習や教員の研究活動に必要な実験機材・教材等も助成する。",
+   "grant_field_source_url": "https://fujiwara-nh.or.jp/archives/info/aboutfujiwara-nh/",
+   "confidence": "medium",
+   "notes": "設立許可は公式概要記載の1980年8月5日。総資産は、公式サイト上で2025年度決算報告書の公開自体は確認できたが、貸借対照表の「資産合計」の具体額を取得・検証できなかったためnull（概要ページの概数「資産総額11億」は決算書の資産合計ではないため採用せず）。年間助成金支出総額は、2024年度事業報告で確認できた学術研究助成14,751,000円、高等学校助成3,975,260円、能登半島地震被災校への特別助成4,502,184円の合計23,228,444円。賞金・顕彰等は助成金に含めていない。grant_fieldsは、自然史全般をnatural_science、生物学をlife_science、学校での学習支援をeducationに分類した。"
+  },
+  "elapsed_s": 58
+ },
+ "aae2da01-a657-4fc8-b987-119928285193": {
+  "name": "公益財団法人関西エネルギー・リサイクル科学研究振興財団",
+  "url": "http://www.krf.or.jp",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人関西エネルギー・リサイクル科学研究振興財団",
+   "established_year": 1992,
+   "established_source_url": "https://www.krf.or.jp/category/about",
+   "total_assets_jpy": 1998361454,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 20140961,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.krf.or.jp/wordpress/wp-content/uploads/2026/03/keisanshorui2025.pdf",
+   "grant_fields": [
+    "engineering",
+    "natural_science",
+    "environment",
+    "humanities_social",
+    "interdisciplinary",
+    "international"
+   ],
+   "grant_scope_text": "電気エネルギーをはじめとする各種エネルギーの供給・利用および資源リサイクルに関する基礎・応用研究と、幅広い視点から防災・減災に資する総合防災科学分野の基礎・応用研究を助成する。研究助成に加え、国際交流活動、研究成果の出版、研究発表会・シンポジウム等の開催も助成対象とする。主な対象は関西地域の大学等に所属する研究者。",
+   "grant_field_source_url": "https://www.krf.or.jp/wordpress/wp-content/uploads/2025/12/2026_bosyu_gaiyo.pdf",
+   "confidence": "high",
+   "notes": "公式概要で設立年月日が平成4年3月9日と確認できる。令和7年度計算書類の貸借対照表（2025年12月31日現在）に資産合計1,998,361,454円、正味財産増減計算書に当年度の支払助成金20,140,961円と記載されている。事業報告書記載の20,141千円は千円単位の表示であるため、円単位の値には計算書類の支払助成金を採用した。grant_fieldsは公式募集案内に明記されたエネルギー・リサイクル、総合防災科学、自然科学・人文社会科学、および国際交流活動の助成内容から分類した。"
+  },
+  "elapsed_s": 62
+ },
+ "00ad20dc-64d3-4ff3-8d45-9e95994c5cb3": {
+  "name": "公益財団法人おきぎんふるさと振興基金",
+  "url": "http://www.npo-foundation.com/general.php?page=6",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人おきぎんふるさと振興基金",
+   "established_year": 1989,
+   "established_source_url": "https://www.okinawa-bank.co.jp/opf/index.html",
+   "total_assets_jpy": 362895158,
+   "total_assets_fiscal_year": 2025,
+   "annual_grant_amount_jpy": 8349900,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.okinawa-bank.co.jp/_files/00061063/bs2025.pdf",
+   "grant_fields": [
+    "welfare",
+    "environment",
+    "education",
+    "arts_culture",
+    "regional",
+    "engineering",
+    "humanities_social"
+   ],
+   "grant_scope_text": "健康・環境・教育・福祉・文化を募集部門とし、これらをテーマとする起業・事業化、学術研究、地域コミュニティー活性化などを助成する。新技術・特殊技術、県内名産品・工芸品、沖縄の歴史・文化・芸能に関する学術研究、子どもの貧困問題を含むSDGs達成に資する取組みも対象。",
+   "grant_field_source_url": "https://www.okinawa-bank.co.jp/opf/index.html",
+   "confidence": "high",
+   "notes": "公式概要で設立を「平成元年8月」と確認したため1989年とした。2025年度財務諸表の貸借対照表（2025年9月30日現在）に記載された資産合計362,895,158円を採用。同資料の正味財産増減計算書（2024年10月1日～2025年9月30日）に記載された支払助成金8,349,900円を年間助成額とした。grant_fieldsは公式の募集部門、主な事業内容および助成対象活動から分類した。"
+  },
+  "elapsed_s": 50
+ },
+ "a488d955-4bd2-45d6-a2b6-024f9e58c693": {
+  "name": "公益財団法人電気科学技術奨励会",
+  "url": "https://shoureikai.or.jp/awards",
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人電気科学技術奨励会",
+   "established_year": 1962,
+   "established_source_url": "https://shoureikai.or.jp/outline/index.html",
+   "total_assets_jpy": 248410480,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 2750000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://shoureikai.or.jp/img/outline/r06_zaisan_mokuroku.pdf",
+   "grant_fields": [
+    "engineering",
+    "education"
+   ],
+   "grant_scope_text": "電気科学技術に関する発明、研究・実用化、ソフトウェア開発、教育等が対象。募集分野は、電力・エネルギー、産業・交通、家電・民生機器およびエレクトロニクス、情報・通信、教育。大学院生・大学生による電気科学技術関係の国際会議での優秀な論文発表も学生賞の対象としている。",
+   "grant_field_source_url": "https://shoureikai.or.jp/awards/recommendation/index.html",
+   "confidence": "high",
+   "notes": "公式概要で、1962年4月12日に「財団法人オーム技術奨励会」として設立認可されたことを確認。令和6年度（2024年4月1日～2025年3月31日）の財産目録で、2025年3月31日現在の資産合計248,410,480円を確認した。年間助成額は同年度の正味財産増減計算書（https://shoureikai.or.jp/img/outline/r06_shoumi_zaisan_zougen_keikaku.pdf）の「支払助成金」2,750,000円。これは独立した公募研究助成だけでなく、電気科学技術奨励賞等に伴う奨励助成金を含む財団の年間支出科目である。年度は開始年を西暦表記した。"
+  },
+  "elapsed_s": 71
  }
 }
