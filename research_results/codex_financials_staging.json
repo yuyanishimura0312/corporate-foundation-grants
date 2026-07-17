@@ -22387,5 +22387,732 @@
   },
   "elapsed_s": 86,
   "tier": "B"
+ },
+ "571f6679-e601-40a8-a8b6-d6cea8000ae6": {
+  "name": "公益財団法人佐々木洋寧奨学財団",
+  "error": "fail",
+  "envelope": {
+   "label": "cfgfinB-571f6679",
+   "status": "fail",
+   "exit": 1,
+   "model": "default",
+   "profile": "research",
+   "sandbox": "profile-default",
+   "elapsed_s": 161,
+   "out_file": "/Users/nishimura+/.codex/team/runs/20260718-022827-cfgfinB-571f6679/cfgfinB-571f6679.out",
+   "result_file": "/Users/nishimura+/.codex/team/runs/20260718-022827-cfgfinB-571f6679/cfgfinB-571f6679.result.json",
+   "log_file": "/Users/nishimura+/.codex/team/runs/20260718-022827-cfgfinB-571f6679/cfgfinB-571f6679.jsonl",
+   "run_dir": "/Users/nishimura+/.codex/team/runs/20260718-022827-cfgfinB-571f6679"
+  }
+ },
+ "22967634-9331-4387-ba11-3ef9dda274c6": {
+  "name": "公益財団法人似鳥国際奨学財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人似鳥国際奨学財団",
+   "established_year": 2005,
+   "established_source_url": "https://www.nitori-shougakuzaidan.com/overview/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 613299177,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.nitori-shougakuzaidan.com/wp-content/themes/shougakuzidan/pdf/2024%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "grant_fields": [
+    "education",
+    "international",
+    "welfare"
+   ],
+   "grant_scope_text": "世界各国の学生への奨学金支給、奨学生への生活指導・助言および居住支援を行い、国内外の大規模災害・紛争の被災者等も支援する。",
+   "grant_field_source_url": "https://www.nitori-shougakuzaidan.com/overview/",
+   "confidence": "medium",
+   "notes": "公式サイトで正式名称、東京都北区の東京事務所、内閣府所管を照合した。公式概要で設立年月日を2005年3月15日と確認。2024年度事業報告書で奨学金（公1）支給総額613,299,177円を確認した。最新の2024年度決算報告書は公開されているが、取得結果から貸借対照表の資産合計を確実に読み取れなかったため、total_assets_jpyは推測せずnullとした。grant_fieldsは公式記載の奨学援助、人材育成、国際友好親善、学生の居住支援および被災者等への支援に基づく分類。"
+  },
+  "elapsed_s": 170,
+  "tier": "B"
+ },
+ "2ada887a-4a46-419b-96b3-bd978b519dd1": {
+  "name": "公益財団法人住宅リフォーム・紛争処理支援センター",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人住宅リフォーム・紛争処理支援センター",
+   "established_year": 1984,
+   "established_source_url": "https://www.chord.or.jp/foundation/index.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.chord.or.jp/foundation/info.html",
+   "grant_fields": [
+    "regional",
+    "welfare"
+   ],
+   "grant_scope_text": "全国の各弁護士会に設置された住宅紛争審査会が行う紛争処理業務に必要な費用を助成するほか、住宅供給業者等の不測の事態により被害を受ける消費者について、弁護士会等による救済活動を支援する。",
+   "grant_field_source_url": "https://www.chord.or.jp/foundation/index.html",
+   "confidence": "medium",
+   "notes": "公式サイト掲載の法人名と東京都千代田区九段北4丁目1番7号の所在地を照合した。公式沿革では1984年に前身の財団法人日本住宅リフォームセンターを設立、2000年に現名称へ改組、2012年に公益財団法人へ移行。設立年は前身法人の設立年である1984年とした。情報公開ページには令和7年度貸借対照表・事業報告が掲載されているが、資料本文の数値を取得して検証できなかったため、総資産および年間助成金支出総額はnullとした。grant_fieldsは、全国の住宅紛争審査会への費用助成をregional、住宅消費者の利益保護・被害者救済支援をwelfareに分類したもので、分類には解釈を含む。"
+  },
+  "elapsed_s": 173,
+  "tier": "B"
+ },
+ "5e14f82f-bea0-4871-811e-8234134f8a48": {
+  "name": "公益財団法人会田病院",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人会田病院",
+   "established_year": 1953,
+   "established_source_url": "https://aida-hp.or.jp/aboutus/outline/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://aida-hp.or.jp/aboutus/open/",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式サイトで法人名・所在地（福島県西白河郡矢吹町本町216番地）を照合。設立は公式法人概要記載の昭和28年2月1日から1953年。公式情報公開ページには2024年度の貸借対照表と事業報告書が掲載されているが、取得できた内容から資産合計を確認できなかったため総資産はnull。年間助成金支出総額、助成事業、助成対象分野も公式資料で確認できなかったためnull／空配列。公式目的は医療・介護・福祉関連事業の運営であり、外部への助成を行う財団とは確認できない。"
+  },
+  "elapsed_s": 199,
+  "tier": "B"
+ },
+ "1f2752df-e414-4076-8480-aa4e8afd9fb9": {
+  "name": "公益財団法人但馬ふるさとづくり協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人但馬ふるさとづくり協会",
+   "established_year": 1995,
+   "established_source_url": "https://furusato.tajima.or.jp/about/",
+   "total_assets_jpy": 210232732,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 223650,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://furusato.tajima.or.jp/core/wp-content/uploads/2025/07/%E6%AD%A3%E5%91%B3%E8%B2%A1%E7%94%A3%E5%A2%97%E6%B8%9B%E8%A8%88%E7%AE%97%E6%9B%B8%E3%80%90R6%E3%80%91%E4%BB%964%EF%BE%8C%EF%BD%A7%EF%BD%B2%EF%BE%99.pdf",
+   "grant_fields": [
+    "regional"
+   ],
+   "grant_scope_text": "但馬地域へのU・Iターンなどの移住促進を目的とする活動が対象。移住体験イベント、移住促進に関する調査・研究や広報、住民の意向調査・合意形成・ワークショップ、地域PRイベントなどを助成する。",
+   "grant_field_source_url": "https://tajimalife.jp/wp-content/uploads/6247448765afb7b9a6a35f.pdf",
+   "confidence": "high",
+   "notes": "公式サイト記載の所在地（兵庫県豊岡市城南町23番6号）と法人名を照合。1995年10月25日に財団法人として設立し、2011年4月1日に公益財団法人へ移行。令和6年度（2024年4月1日～2025年3月31日）の公式財務資料で、2025年3月31日現在の資産合計210,232,732円を確認した。同年度の正味財産増減計算書における支払助成金の合計は223,650円（公益目的事業会計102,000円、収益事業等会計121,650円）。"
+  },
+  "elapsed_s": 232,
+  "tier": "B"
+ },
+ "5fadbddd-5f09-485d-9e8b-490bc020b817": {
+  "name": "公益財団法人伊藤青少年育成奨学会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人伊藤青少年育成奨学会",
+   "established_year": 1999,
+   "established_source_url": "https://www.ito-zaidan.or.jp/about/",
+   "total_assets_jpy": 8078731909,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": 44818000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.ito-zaidan.or.jp/about/",
+   "grant_fields": [
+    "education",
+    "regional",
+    "arts_culture",
+    "international",
+    "natural_science",
+    "welfare"
+   ],
+   "grant_scope_text": "岐阜県内の高等学校・高等専門学校・特別支援学校のスポーツ・文化クラブや生徒による研究活動、ならびに文化・スポーツ・教育・国際交流等を通じて青少年の健全育成または地域社会の発展に寄与する岐阜県内団体の活動を助成する。",
+   "grant_field_source_url": "https://www.ito-zaidan.or.jp/sports_area/",
+   "confidence": "medium",
+   "notes": "公式サイト記載の所在地（岐阜県多治見市大針町661番地の1）が対象情報と一致。設立日は平成11年12月27日。総資産は公式の令和5年度財産目録（2024年3月31日現在、https://www.ito-zaidan.or.jp/wp-content/themes/ito/img/data/r05_mokuroku.pdf）で確認できた資産合計。公式サイトには令和6・7年度決算資料へのリンクもあるが、今回そのPDF本文から資産合計を確認できなかったため、確認可能な直近値を採用した。年間助成額は公式サイト掲載の令和6年度「助成事業」実績44,818千円で、奨学金給付62,460千円および活性化事業2,674千円は含めていない。welfareは公式助成対象にスポーツ活動が明記されているため健康領域として分類した。"
+  },
+  "elapsed_s": 242,
+  "tier": "B"
+ },
+ "09d9e399-2a2a-414b-90b5-2304a1b9bdfe": {
+  "name": "公益財団法人佐賀国際重粒子線がん治療財団",
+  "error": "fail",
+  "envelope": {
+   "label": "cfgfinB-09d9e399",
+   "status": "fail",
+   "exit": 1,
+   "model": "default",
+   "profile": "research",
+   "sandbox": "profile-default",
+   "elapsed_s": 3,
+   "out_file": "/Users/nishimura+/.codex/team/runs/20260718-023229-cfgfinB-09d9e399/cfgfinB-09d9e399.out",
+   "result_file": "/Users/nishimura+/.codex/team/runs/20260718-023229-cfgfinB-09d9e399/cfgfinB-09d9e399.result.json",
+   "log_file": "/Users/nishimura+/.codex/team/runs/20260718-023229-cfgfinB-09d9e399/cfgfinB-09d9e399.jsonl",
+   "run_dir": "/Users/nishimura+/.codex/team/runs/20260718-023229-cfgfinB-09d9e399"
+  }
+ },
+ "302f00d1-9d7a-4857-8566-f558450a76af": {
+  "name": "公益財団法人佐々木研究所",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐々木研究所",
+   "established_year": 1939,
+   "established_source_url": "https://www.sasaki-institute.org/aboutus/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.sasaki-foundation.jp/foundation/pdf/2023jigyouhoukoku.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式サイトの所在地（東京都千代田区神田駿河台2-2）と法人名が対象に一致。公式沿革で1939年1月の財団法人「佐々木研究所」設立認可を確認した。公開検索で確認できた2023年度事業報告書には貸借対照表の資産合計が掲載されておらず、最新の総資産額は確認不能。外部への助成事業・助成実績も公式資料から確認できなかったため、年間助成金額、助成分野および助成対象はnullまたは空配列とした。研究所・病院・健診センターを運営する法人であることは確認できるが、助成財団であるとは確認できない。"
+  },
+  "elapsed_s": 253,
+  "tier": "B"
+ },
+ "f09c0ed4-849a-4434-a875-df3833460477": {
+  "name": "公益財団法人佐藤奨学会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐藤奨学会",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 14442000,
+   "annual_grant_fiscal_year": 2025,
+   "financial_source_url": "https://www.sato-shogakukai.jp/information/report/index.html",
+   "grant_fields": [
+    "education",
+    "engineering"
+   ],
+   "grant_scope_text": "経済的理由により修学が困難な高校・高専・大学・大学院の学生・生徒への奨学援助を中心とし、公式概要では産業科学技術に関する調査・研究に従事する者への支援も目的としている。",
+   "grant_field_source_url": "https://www.sato-shogakukai.jp/outline/",
+   "confidence": "medium",
+   "notes": "公式サイトの名称・所在地（東京都港区元赤坂一丁目5番27号）を照合した。設立年は公式の沿革・概要に西暦年の明記を確認できなかったためnull。令和7年度事業報告（2025年4月1日～2026年3月31日）記載の奨学費支出合計は14,442,000円。公式財務ページには令和6年度貸借対照表が掲載されていることを確認したが、取得できた本文から資産合計額を確実に確認できなかったため総資産はnull。"
+  },
+  "elapsed_s": 89,
+  "tier": "B"
+ },
+ "5bd4e213-fff2-4c77-85af-47f8656dc482": {
+  "name": "公益財団法人佐伯記念育英会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐伯記念育英会",
+   "established_year": 1981,
+   "established_source_url": "https://www.pref.ehime.jp/uploaded/attachment/143196.pdf",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 9420000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.city.saijo.ehime.jp/uploaded/attachment/79188.pdf",
+   "grant_fields": [
+    "education"
+   ],
+   "grant_scope_text": "高等学校・高等専門学校・大学に在学する、学力が優秀でありながら経済的に修学が困難な生徒・学生への給付型奨学金事業。",
+   "grant_field_source_url": "https://www.city.saijo.ehime.jp/uploaded/attachment/79183.pdf",
+   "confidence": "high",
+   "notes": "愛媛県資料で所在地が西条市の同法人を照合し、設立登記日は昭和56年1月16日と確認した。西条市公開の年度別給付状況では、最新実績の令和6年度給付額計は9,420,000円。令和6年度貸借対照表の公開自体は西条市ページ（https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/saiki-jigyo.html）で確認できたが、本文の資産合計額を取得・検証できなかったため、総資産はnullとした。助成領域は研究助成ではなく奨学金給付であるためeducationのみ。"
+  },
+  "elapsed_s": 102,
+  "tier": "B"
+ },
+ "c16ac735-d190-4b17-adec-b8562f89dc9d": {
+  "name": "公益財団法人佐賀育英会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐賀育英会",
+   "established_year": 1921,
+   "established_source_url": "https://www.shoutougakusya.com/cont1/12.html",
+   "total_assets_jpy": 683001326,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 0,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.shoutougakusya.com/cont3/27.html",
+   "grant_fields": [
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "佐賀県内の高校から全国の大学へ進学する学生への奨学金給付、および佐賀県内の教職員・高校生を対象とする教育実践、英語スピーチ、職業資格取得の顕彰。奨学金給付事業は令和6年度も休止。",
+   "grant_field_source_url": "https://www.shoutougakusya.com/cont1/12.html",
+   "confidence": "high",
+   "notes": "公式サイトと東京都資料で、法人名および東京都小金井市前原町3丁目3番28号の所在地を照合した。公式沿革では1918年に佐賀育英会が発足し、1921年に財団法人として認可。公式が2021年を創立100周年としているため設立年は1921年とした。令和6年度貸借対照表（2025年3月31日現在）の資産合計は683,001,326円。令和6年度事業報告書には奨学金給付事業が休止と明記され、同年度の収支計算書にも奨学金・助成金の支出項目はないため、年間助成金支出総額は0円。表彰費108,558円は顕彰事業の支出であり、助成金には含めていない。"
+  },
+  "elapsed_s": 73,
+  "tier": "B"
+ },
+ "8bae0431-bcda-476b-a491-2a7ef8c4a042": {
+  "name": "公益財団法人佐藤定雄国際奨学財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐藤定雄国際奨学財団",
+   "established_year": 2016,
+   "established_source_url": "https://sato-isf.or.jp/purpose-of-establishment/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://sato-isf.or.jp/public-information/",
+   "grant_fields": [
+    "education",
+    "engineering"
+   ],
+   "grant_scope_text": "日本国内の大学に通う理工系学生、またはスポーツに励む学生のうち、成績等が優秀でありながら経済的理由により修学が困難な者を対象に、給付型奨学金を支給する。",
+   "grant_field_source_url": "https://sato-isf.or.jp/about-scholarship/",
+   "confidence": "medium",
+   "notes": "公式概要で所在地が神奈川県横浜市港北区、行政庁が内閣府であることを照合した。公式の設立目的ページには2016年7月26日設立と明記されている。情報公開ページに「2025年度2月期 貸借対照表」の掲載は確認できたが、PDF本文の資産合計額を取得・検証できなかったため総資産はnull。公開ページでは奨学生数や月額、計画額は確認できるが、直近年度に実際に支出した奨学金総額を示す事業報告・助成実績は確認できなかったため年間助成額もnull。"
+  },
+  "elapsed_s": 130,
+  "tier": "B"
+ },
+ "5f0739b4-1452-43e7-ae66-a165eb8ce296": {
+  "name": "公益財団法人佐藤国際文化育英財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐藤国際文化育英財団",
+   "established_year": 1990,
+   "established_source_url": "https://sato-museum.la.coocan.jp/museum/",
+   "total_assets_jpy": 1886404002,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://sato-museum.la.coocan.jp/files/museum/2024/R06_taishaku.pdf",
+   "grant_fields": [
+    "arts_culture",
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "美術を専攻する国内外の学生への奨学援助、若手美術作家への作品発表機会の提供・育成支援、および美術を通じた国際交流を行う。奨学金の対象は、指定美術大学で日本画・油画・版画等の美術実技を専攻する邦人学生および外国人留学生。",
+   "grant_field_source_url": "https://sato-museum.la.coocan.jp/museum/",
+   "confidence": "high",
+   "notes": "公式サイト記載の所在地（東京都新宿区大京町31-10）および法人名が対象と一致。設立年は公式沿革の「1990年3月に設立」に基づく。総資産は令和6年度貸借対照表（令和7年3月31日現在）の「資産合計」1,886,404,002円。公式サイトには令和7年度資料も掲載されているが、調査時点（2026-07-18）に貸借対照表PDF本文へアクセスできなかったため、本文を確認できた最新年度を採用した。年間助成金支出総額は確認不能。予算書の「奨学費」や個別の奨学金額は確認できたが、実績に基づく年間助成金支出総額とは同一視せずnullとした。"
+  },
+  "elapsed_s": 172,
+  "tier": "B"
+ },
+ "9647fb14-5715-4e9c-95ec-da4f2dce1c86": {
+  "name": "公益財団法人似鳥文化財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人似鳥文化財団",
+   "established_year": 2011,
+   "established_source_url": "https://www.nitori-bunkazaidan.com/01_02.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.nitori-bunkazaidan.com/pdf/2024-financial_report.pdf",
+   "grant_fields": [
+    "arts_culture"
+   ],
+   "grant_scope_text": "歴史書類、美術品、美術工芸品、絵画、古建造物などの保存・修復・展示・調査を通じて文化、芸術、歴史に寄与するとともに、幅広い文化活動を支援する。",
+   "grant_field_source_url": "https://www.nitori-bunkazaidan.com/01_02.html",
+   "confidence": "medium",
+   "notes": "公式概要で所在地が北海道小樽市色内一丁目3番10号、所管官庁が北海道庁、設立年月日が2011年4月1日（公益財団法人への移行は2012年12月1日）と確認でき、同名別法人ではないと照合した。公式財務資料ページでは2024年度決算報告書が最新だが、当該PDFは検索・閲覧環境で本文を数値として抽出できず、貸借対照表の資産合計を確実に確認できなかったため総資産はnull。2024年度事業報告書には美術館運営等の記載はあるが、年間助成金支出総額を確認できる助成実績または金額記載がなく、決算PDFからも支払助成金を検証できなかったため助成額はnull。ゼロとは推定していない。"
+  },
+  "elapsed_s": 353,
+  "tier": "B"
+ },
+ "1a73e56c-b368-4c66-ae25-0e9649694ed7": {
+  "name": "公益財団法人体力つくり指導協会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人体力つくり指導協会",
+   "established_year": 1965,
+   "established_source_url": "https://www.tairyoku.or.jp/association/info/",
+   "total_assets_jpy": 1081540403,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.tairyoku.or.jp/association/disclosure/pdf/2024zaisanmokuroku.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "high",
+   "notes": "公式法人概要で、法人名、東京都江東区の所在地、行政庁が内閣府であることを照合した。設立欄には1965年9月発足、1968年7月22日財団法人許可、2011年12月1日公益財団法人認定とあるため、設立年は1965年とした。2024年度財産目録（2025年3月31日現在）で資産合計1,081,540,403円を確認。公式サイトが掲載するのは健康・体力づくり事業および「助成金受給」であり、外部への助成制度・助成対象・年間助成金支出実績は確認できなかったため、年間助成額はnull、助成領域は空配列とした。受取助成金や自治体への支払・施設運営は助成金支出として計上していない。"
+  },
+  "elapsed_s": 103,
+  "tier": "B"
+ },
+ "3ef24c5d-9dcd-44fe-92fc-fabf6e4fecb9": {
+  "name": "公益財団法人佐賀県産業振興機構",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐賀県産業振興機構",
+   "established_year": 1967,
+   "established_source_url": "https://sagaperch.jp/about.php",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://sagaperch.jp/about.php",
+   "grant_fields": [
+    "engineering",
+    "regional",
+    "environment"
+   ],
+   "grant_scope_text": "佐賀県内の中小企業者等を対象に、生産性向上、経営基盤強化、新技術・新製品開発、基盤技術高度化、DX・GX、知的財産活用、販路開拓などの取組を支援する。",
+   "grant_field_source_url": "https://sagaperch.jp/support/purpose-subsidy.php",
+   "confidence": "medium",
+   "notes": "2026-07-18確認。公式サイトの法人名および所在地（佐賀市鍋島町八戸溝114）が対象と一致。公式沿革に、前身の（財）佐賀県中小企業機械貸与公社が1967年10月設立、2012年に公益財団法人化、2021年に現在名へ変更とあるため、設立年は1967年とした。公式の業務・財務状況ページには令和7年度決算書・事業報告書へのリンクが存在するが、PDF本文から貸借対照表の資産合計および年間助成金支出総額を確認できなかったため、両数値は推測せずnullとした。grant_fieldsは公式の補助対象である技術・製品開発、県内中小企業支援、DX・GXから分類した。"
+  },
+  "elapsed_s": 129,
+  "tier": "B"
+ },
+ "a757b5e6-f5c5-4505-8e1f-5d697aca4f5d": {
+  "name": "公益財団法人佐藤陽国際奨学財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐藤陽国際奨学財団",
+   "established_year": 1996,
+   "established_source_url": "https://sisf.or.jp/ja/introduction/history/",
+   "total_assets_jpy": 9546851716,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 163230000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://sisf.or.jp/ja/introduction/sisf-data/",
+   "grant_fields": [
+    "education",
+    "international"
+   ],
+   "grant_scope_text": "ASEAN・南西アジアの対象18か国から日本へ留学する学生、日本から対象国へ留学する日本人学生、および日本の大学院修士課程へ進学する日本人学生に奨学援助を行う。",
+   "grant_field_source_url": "https://sisf.or.jp/ja/",
+   "confidence": "medium",
+   "notes": "公式サイトの名称と東京都港区芝浦3丁目1番1号の所在地を照合した。設立日は1996年11月11日。2024年度（2025年3月31日現在）の公式貸借対照表・財産目録で資産合計9,546,851,716円を確認。第17事業年度事業報告書には奨学金の支給人数115名、総額163,230,000円と明記されているため、推計や補助金項目との合算を行わず、この明示額を年間助成金支出額とした。公式ページには第18事業年度資料も掲載されているが、調査時点でリンク先資料の数値本文を安定して取得・確認できなかったため、確認可能な直近完了年度である2024年度の値を採用した。"
+  },
+  "elapsed_s": 168,
+  "tier": "B"
+ },
+ "3dc98c1e-0192-4121-bbd5-b672c6f4ec9a": {
+  "name": "公益財団法人俵美術館",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人俵美術館",
+   "established_year": 1989,
+   "established_source_url": "https://www.hyogo-c.ed.jp/~somu-bo/hojin/houjin.pdf",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [
+    "education",
+    "arts_culture"
+   ],
+   "grant_scope_text": "東京藝術大学美術研究科の絵画専攻（版画）の学生を対象とする奨学。公式案内上の給付額は200,000円だが、年間の支出総額や受給人数は確認できない。",
+   "grant_field_source_url": "https://www.geidai.ac.jp/life/scholarship/geidai_scholarship",
+   "confidence": "medium",
+   "notes": "兵庫県教育委員会の所管公益法人一覧で、所在地が芦屋市月若町6-1の（財）俵美術館について設立年月日「平成元年8月1日」を確認したため、設立年を1989年とした。公式サイト（tawara-museum.or.jp）も同住所であり、対象法人との一致を確認。公開された最新の貸借対照表・決算書・事業報告書を確認できなかったため、総資産とその年度はnull。東京藝術大学の公式奨学金案内には給付額200,000円とあるが、これは対象者単位の給付額であり、年間助成金支出総額とは確認できないため年間助成額・年度はnull。"
+  },
+  "elapsed_s": 69,
+  "tier": "B"
+ },
+ "3427b123-ce96-4da2-b9f5-5affbc68ced0": {
+  "name": "公益財団法人佐野美術館",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人佐野美術館",
+   "established_year": 1966,
+   "established_source_url": "https://sanobi.or.jp/about/",
+   "total_assets_jpy": 3114490073,
+   "total_assets_fiscal_year": 2022,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://sanobi.or.jp/snwp/wp-content/uploads/2024/12/id-91-2022_taishakutaisho.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": "https://sanobi.or.jp/snwp/wp-content/uploads/2024/12/id-01-teikan.pdf",
+   "confidence": "medium",
+   "notes": "公式サイトと定款により、静岡県三島市中田町1番43号の公益財団法人佐野美術館であることを照合。公式沿革では1966年2月に財団法人を設立。確認できた貸借対照表（令和5年3月31日現在、2022年度）の資産合計は3,114,490,073円。公式サイトには後年度の情報公開項目もあるが、貸借対照表の数値を検証できなかったため、確認可能な年度の値を採用した。定款上の事業は美術工芸品の保存・公開、展覧会、調査研究、講演会・講習会、刊行物頒布、文化財維持管理であり、外部への助成事業は確認できない。年間助成金支出総額および助成対象分野は確認不能のためnull・空配列とした。検索・確認日: 2026-07-18。"
+  },
+  "elapsed_s": 167,
+  "tier": "B"
+ },
+ "2bc1643b-0c3f-43db-a9af-93f2358cb99a": {
+  "name": "公益財団法人体質研究会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人体質研究会",
+   "established_year": 1941,
+   "established_source_url": "https://www.taishitsu.or.jp/E-H/E-H-25/25-1.pdf",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式サイト掲載誌『環境と健康』Vol.25 No.1に、故・辻寛治氏の寄付金により1941年に設立されたと明記されている。京都府公開の公益法人一覧（https://www.pref.kyoto.jp/zeimu/documents/5_koueki.pdf）で、名称、内閣府所管、京都市左京区所在を照合済み。公式サイトおよびWeb検索では、貸借対照表・決算書、年間助成金支出実績、外部向け助成制度の対象分野を確認できる公開資料が見つからなかった。公式・公的資料で確認できる主な事業は体質および遺伝・内分泌・血液・移植・微生物・放射線等の調査研究、研究所・アイバンクの運営等であり、助成財団であることは確認できないため、助成関連項目はnullまたは空配列とした。"
+  },
+  "elapsed_s": 111,
+  "tier": "B"
+ },
+ "410a7a78-3ac9-4a10-afb9-0de5747aaa7f": {
+  "name": "公益財団法人余慶会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人余慶会",
+   "established_year": 2015,
+   "established_source_url": "https://www.cosmospc.co.jp/yokeikai/outline.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.cosmospc.co.jp/yokeikai/public/",
+   "grant_fields": [
+    "education",
+    "welfare",
+    "regional"
+   ],
+   "grant_scope_text": "福岡県内の遺児、ひとり親家庭、里親家庭、児童養護施設等の生徒・学生を対象に、経済的理由で修学が困難な者への給付型奨学金、指導・育成・交流支援、および支援機関への助成を行う。",
+   "grant_field_source_url": "https://www.cosmospc.co.jp/yokeikai/outline.html",
+   "confidence": "medium",
+   "notes": "公式サイトの所在地（福岡市博多区博多駅東2丁目10番1号）と福岡県知事所管公益法人一覧を照合し、対象法人を特定。公式情報公開ページには2024年度貸借対照表（2025年5月31日現在）へのリンクがあるが、PDF本文を取得できず資産合計を確認できなかったためnull。事業報告書・助成実績は公開ページで確認できず、年間助成金支出総額もnullとした。"
+  },
+  "elapsed_s": 114,
+  "tier": "B"
+ },
+ "4cf53797-b70d-4b70-908a-617306c09d9b": {
+  "name": "公益財団法人健康予防医学財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人健康予防医学財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.h-p-m.org/wp-content/uploads/2025/02/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式サイトは所在地（神奈川県厚木市旭町1-25-1）および法人名を照合して特定した。公開されている令和5年度事業報告書には、平成23年4月に公益財団法人への移行認定を受けたとの記載はあるが、法人そのものの設立年を示す公式沿革は確認できないためestablished_yearはnull。事業報告書には貸借対照表または資産合計が収録されていないためtotal_assets_jpyはnull。公開事業は健診、特定保健指導、健康知識の普及・啓発、研究協力等であり、外部への助成金交付事業および助成金支出額は公式資料から確認できないためannual_grant_amount_jpyはnull、grant_fieldsは空配列とした。"
+  },
+  "elapsed_s": 75,
+  "tier": "B"
+ },
+ "a86676af-a43a-4beb-951e-12f92b568925": {
+  "name": "公益財団法人信濃通俗大学会",
+  "error": "fail",
+  "envelope": {
+   "label": "cfgfinB-a86676af",
+   "status": "fail",
+   "exit": 1,
+   "model": "default",
+   "profile": "research",
+   "sandbox": "profile-default",
+   "elapsed_s": 110,
+   "out_file": "/Users/nishimura+/.codex/team/runs/20260718-023409-cfgfinB-a86676af/cfgfinB-a86676af.out",
+   "result_file": "/Users/nishimura+/.codex/team/runs/20260718-023409-cfgfinB-a86676af/cfgfinB-a86676af.result.json",
+   "log_file": "/Users/nishimura+/.codex/team/runs/20260718-023409-cfgfinB-a86676af/cfgfinB-a86676af.jsonl",
+   "run_dir": "/Users/nishimura+/.codex/team/runs/20260718-023409-cfgfinB-a86676af"
+  }
+ },
+ "8e992a70-06b2-4788-8642-66a06b27a539": {
+  "name": "公益財団法人倉敷民芸館",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人倉敷民芸館",
+   "established_year": null,
+   "established_source_url": "https://www.kurashiki-mingeikan.com/about.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": "https://kurashiki-mingeikan.com/gaiyou/20160701teikan.pdf",
+   "confidence": "medium",
+   "notes": "公式サイトおよびGビズインフォで、法人名・所在地（岡山県倉敷市中央1丁目4番11号、法人番号5260005003232）を照合した。公式沿革で確認できるのは昭和23年（1948年）の「開館」であり、法人の設立年とは断定できないためestablished_yearはnull。公式開示ページ（https://kurashiki-mingeikan.com/gaiyou.html）には令和7年度決算報告書へのリンクがあるが、PDF本文の貸借対照表にある資産合計をアクセス可能な検索結果から検証できなかったためtotal_assets_jpyはnull。定款上の事業は重要工芸品の保護活用、工芸品の生産指導・調査・収集展示等であり、外部への助成事業や公募対象分野は確認できない。倉敷民芸館賞に関する記載はあるが、直近年度の実支出額および助成金としての性質を確認できないためannual_grant_amount_jpyはnull、grant_fieldsは空配列とした。"
+  },
+  "elapsed_s": 116,
+  "tier": "B"
+ },
+ "e29ba694-bea3-4e47-b4e7-a1eda35409a9": {
+  "name": "公益財団法人元興寺文化財研究所",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人元興寺文化財研究所",
+   "established_year": 1967,
+   "established_source_url": "https://gangoji-tera.or.jp/read/history.html",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "経済産業省Gビズインフォ（https://info.gbiz.go.jp/hojin/ichiran?hojinBango=8150005000782）で、法人番号8150005000782、本店所在地「奈良県奈良市中院町11番地」、設立年月日1967年2月15日を確認し、対象法人を照合した。公式の元興寺年表には、1967年に「財団法人元興寺仏教民俗資料研究所」を設立、1978年に「財団法人元興寺文化財研究所」へ改称、2013年に内閣府が公益財団法人として認定した旨が記載されているため、設立年は1967年とした。公式サイトの研究所ページは検索で特定できたが閲覧時にタイムアウトし、最新の貸借対照表・事業報告書を確認できなかったため総資産はnull。検索で見つかった京都府埋蔵文化財調査研究センターの決算書は、同研究所を取引先として記載した別法人の資料なので採用していない。公式情報では文化財の保存・修理・調査を行う研究機関とされ、外部への助成制度・助成実績は確認できなかったため、年間助成額はnull、助成分野は空配列とした。"
+  },
+  "elapsed_s": 123,
+  "tier": "B"
+ },
+ "a5999034-4de0-493d-be70-5bd93b66d5ce": {
+  "name": "公益財団法人全国山の日協議会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人全国山の日協議会",
+   "established_year": 2016,
+   "established_source_url": "https://www.yamanohi.net/aboutus_foundation_history.php",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://www.yamanohi.net/aboutus_foundation_activity.php",
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": null,
+   "confidence": "medium",
+   "notes": "公式サイトの財団概要で、名称、東京都新宿区四谷2-10-5の所在地、2016年4月1日設立を確認。沿革では2024年8月1日の公益財団法人移行も確認した。公式サイトが公開する最新の2024年度事業報告書案内は確認できたが、貸借対照表または資産合計を確認できる公開決算資料は特定できなかったため、総資産はnull。助成金支出総額および当財団が助成主体となる公募・助成対象分野も公式情報から確認できなかったため、年間助成額はnull、grant_fieldsは空配列とした。公式に確認できる主な活動は、国民の祝日「山の日」の周知、全国大会・フォーラム、教育・啓発、環境・健康・地域・国際連携等であり、助成事業とは確認できない。"
+  },
+  "elapsed_s": 99,
+  "tier": "B"
+ },
+ "202b8d61-7058-4617-8b26-00751a62c6e1": {
+  "name": "公益財団法人全国生活衛生営業指導センター",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人全国生活衛生営業指導センター",
+   "established_year": 1979,
+   "established_source_url": "https://www.seiei.or.jp/zenkoku/index.html",
+   "total_assets_jpy": 1099957143,
+   "total_assets_fiscal_year": 2024,
+   "annual_grant_amount_jpy": 10482000,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.seiei.or.jp/pdf-infor/06_taisyaku.pdf",
+   "grant_fields": [
+    "welfare"
+   ],
+   "grant_scope_text": "労災保険の受動喫煙防止対策助成金の対象外となる生活衛生関係営業者（いわゆる一人親方等）を対象に、事業所内の喫煙室設置等に要する費用の一部を助成する。",
+   "grant_field_source_url": "https://www.seiei.or.jp/pdf-infor/06_hokoku.pdf",
+   "confidence": "high",
+   "notes": "公式概要で所在地が東京都港区新橋6丁目8番2号であることを照合。設立年は公式概要の「昭和54年に設立」から1979年。令和6年度貸借対照表（2025年3月31日現在）の資産合計は1,099,957,143円。令和6年度事業報告に記載された助成実績は14件、10,482,000円。公式概要は「厚生労働省所管の公益法人」と記載しており、提示された「所管: 内閣府」と表記が異なるが、名称・所在地は一致する。情報公開ページには令和7年度欄もあるものの、今回、数値を確認できた最新の公開決算・事業報告は令和6年度資料だった。"
+  },
+  "elapsed_s": 112,
+  "tier": "B"
+ },
+ "86e313be-3eba-4f1e-893d-a5ebbd018ddc": {
+  "name": "公益財団法人八十二文化財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人八十二文化財団",
+   "established_year": 1985,
+   "established_source_url": "https://www.82bunka.or.jp/about/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": 898740,
+   "annual_grant_fiscal_year": 2024,
+   "financial_source_url": "https://www.82bunka.or.jp/img/pdf/2024jiho.pdf",
+   "grant_fields": [
+    "arts_culture",
+    "education",
+    "regional",
+    "environment"
+   ],
+   "grant_scope_text": "長野県内の小中学校の児童・生徒を対象に、学校と地域の個人・団体が連携して行う文化継承活動。地域に根差した伝統文化、民俗芸能、郷土の歴史、食文化等の保存・伝承のほか、児童・生徒の地域文化活動を目的とするまちづくり、自然保護、環境保護などを対象とする。",
+   "grant_field_source_url": "https://www.82bunka.or.jp/grant/data/2026/youkou.pdf",
+   "confidence": "medium",
+   "notes": "公式サイトで名称と所在地（長野市岡田178-13）を照合。設立日は昭和60年3月27日。2024年度事業報告書で助成先10事業、助成額合計898,740円を確認した。公式サイトには2024年度貸借対照表が掲載されているが、調査時にPDF本文を取得できず資産合計を検証できなかったため、総資産とその年度はnullとした。"
+  },
+  "elapsed_s": 103,
+  "tier": "B"
+ },
+ "3967ca9f-f8e6-4155-9a4e-9979304b4902": {
+  "name": "公益財団法人全国里親会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人全国里親会",
+   "established_year": 1971,
+   "established_source_url": "https://www.zensato.or.jp/zensatokai/about-us",
+   "total_assets_jpy": 255761939,
+   "total_assets_fiscal_year": 2023,
+   "annual_grant_amount_jpy": 2630000,
+   "annual_grant_fiscal_year": 2023,
+   "financial_source_url": "https://www.zensato.or.jp/home/wp-content/uploads/2024/09/r05_kessan.pdf",
+   "grant_fields": [
+    "welfare",
+    "education"
+   ],
+   "grant_scope_text": "里親の育成および里親制度の普及啓発に関する助成。決算書では、支払助成金が「里親育成」と「普及啓発」の公益目的事業に計上されている。",
+   "grant_field_source_url": "https://www.zensato.or.jp/home/wp-content/uploads/2024/09/r05_kessan.pdf",
+   "confidence": "high",
+   "notes": "公式サイトの所在地（東京都港区赤坂9-1-7-857）および所管省庁（内閣府）が対象情報と一致。公式概要で設立年月日を昭和46年3月18日と確認した。公式サイトで公開され、内容を確認できた最新の決算書は令和5年度（2023年4月1日～2024年3月31日）。貸借対照表の2024年3月31日現在の資産合計は255,761,939円。正味財産増減内訳書の「支払助成金」は、里親育成1,430,000円、普及啓発1,200,000円、合計2,630,000円。「被災児童支援費」2,600,000円は支払助成金とは別科目のため、年間助成金支出総額には含めていない。"
+  },
+  "elapsed_s": 111,
+  "tier": "B"
+ },
+ "c43afd93-701e-4b35-b605-1876a1a977ae": {
+  "name": "公益財団法人入善町文化振興財団",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人入善町文化振興財団",
+   "established_year": null,
+   "established_source_url": null,
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": null,
+   "grant_fields": [],
+   "grant_scope_text": null,
+   "grant_field_source_url": "https://www.town.nyuzen.toyama.jp/gyosei/soshiki/chomin_kaikan/900.html",
+   "confidence": "medium",
+   "notes": "入善町公式ページおよび富山県公益法人一覧により、法人名・所在地（富山県下新川郡入善町入膳3200番地）・所管課を照合した。公式ページには2012年4月1日の公益財団法人への移行が記載されているが、財団自体の設立年は公式の沿革・概要で確認できないためnull。最新の令和7年度財務諸表と事業報告は公式ページ上に実在するが、PDF本文を取得できず資産合計を確認できなかったため総資産はnull。公式情報で確認できる事業は文化事業および文化施設の管理運営であり、外部への助成制度・助成対象・年間助成金支出総額は確認できなかったため助成関連項目はnullまたは空配列。事業報告に記載される他機関からの助成金は財団による助成支出ではないため計上していない。"
+  },
+  "elapsed_s": 141,
+  "tier": "B"
+ },
+ "faafe6bf-5866-4049-b135-d385f9bd7ca6": {
+  "name": "公益財団法人八幡育英会",
+  "url": null,
+  "jfc_rank": null,
+  "codex": {
+   "foundation_name": "公益財団法人八幡育英会",
+   "established_year": 2024,
+   "established_source_url": "https://www.yawata.or.jp/%E8%82%B2%E8%8B%B1%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+   "total_assets_jpy": null,
+   "total_assets_fiscal_year": null,
+   "annual_grant_amount_jpy": null,
+   "annual_grant_fiscal_year": null,
+   "financial_source_url": "https://yawata.or.jp/%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A/",
+   "grant_fields": [
+    "education",
+    "regional"
+   ],
+   "grant_scope_text": "東庄町に住所を有し、学業・人物ともに優秀で、経済的理由により大学進学への援助が必要な者を対象とする給付型奨学金。地域の活性化を担う人材や国内外で活躍する人材の育成を目的とする。",
+   "grant_field_source_url": "https://yawata.or.jp/%E5%85%AB%E5%B9%A1%E8%82%B2%E8%8B%B1%E4%BC%9A%E3%80%80%E5%A5%A8%E5%AD%A6%E7%94%9F%E5%8B%9F%E9%9B%86/",
+   "confidence": "medium",
+   "notes": "公式サイトの所在地（千葉県香取郡東庄町笹川ろ1101）と千葉県公表資料の法人名・所在地・所管（千葉県）を照合した。公式概要は2024年設立と明記。公式サイトには令和6年度（2024年度）の貸借対照表が掲載されているが、PDF本文を取得・検証できなかったため資産合計はnull。取得できた2024年度事業報告には奨学金支出額の記載がなく、2025年度以降の金額は事業計画額であって実績ではないため、年間助成金支出総額はnullとした。"
+  },
+  "elapsed_s": 123,
+  "tier": "B"
  }
 }
