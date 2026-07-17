@@ -118,5 +118,17 @@
   "field": "total_assets",
   "value": 79452524000000,
   "reason": "implausibly_large_>1兆 (likely guarantee/consolidated)"
+ },
+ {
+  "name": "マルホ・高木皮膚科学振興財団",
+  "field": "total_assets",
+  "value": 793098862,
+  "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "油脂工業会館",
+  "field": "total_assets",
+  "value": 807248357,
+  "reason": "net_assets_not_total (正味財産)"
  }
 ]
