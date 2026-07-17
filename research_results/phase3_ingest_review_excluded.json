@@ -172,5 +172,17 @@
   "field": "total_assets",
   "value": 38081407527,
   "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人印旛沼環境基金",
+  "field": "total_assets",
+  "value": 579694852,
+  "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人史学会",
+  "field": "total_assets",
+  "value": 91780000,
+  "reason": "net_assets_not_total (正味財産)"
  }
 ]
