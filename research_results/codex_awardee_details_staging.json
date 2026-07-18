@@ -81644,5 +81644,5599 @@
    ]
   },
   "elapsed_s": 43
+ },
+ "https://saruhashisho.or.jp/jushosha-list/": {
+  "fdn": "女性科学者に明るい未来をの会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "女性科学者に明るい未来をの会",
+   "source_url": "https://saruhashisho.or.jp/jushosha-list/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "今田由紀子",
+     "affiliation": "東京大学大気海洋研究所",
+     "position": "准教授",
+     "project_title": "近年の気候変動と異常気象の要因分析に関する研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 42
+ },
+ "https://www.ai-gakkai.or.jp/event/ai-seminar/competition_convening_support/": {
+  "fdn": "人工知能学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "人工知能学会",
+   "source_url": "https://www.ai-gakkai.or.jp/event/ai-seminar/competition_convening_support/",
+   "fiscal_year": 2025,
+   "awardees": []
+  },
+  "elapsed_s": 21
+ },
+ "https://square.umin.ac.jp/mihara/winners_j.html": {
+  "fdn": "美原脳血管障害研究振興基金",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "美原脳血管障害研究振興基金",
+   "source_url": "https://square.umin.ac.jp/mihara/winners_j.html",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "青木 友浩",
+     "affiliation": "東京慈恵会医科大学 薬理学講座",
+     "position": "教授",
+     "project_title": "空間トランスクリプトーム解析による破裂点に形成される微小環境構築の単細胞解析を切り口とした脳動脈瘤破裂を制御する機構の解明",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 51
+ },
+ "https://urc.or.jp/wp-content/uploads/2014/04/wakate251.pdf": {
+  "fdn": "公益財団法人福岡アジア都市研究所",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人福岡アジア都市研究所",
+   "source_url": "https://urc.or.jp/wp-content/uploads/2014/04/wakate251.pdf",
+   "fiscal_year": 2013,
+   "awardees": []
+  },
+  "elapsed_s": 48
+ },
+ "https://peraichi.com/landing_pages/view/he0xt/": {
+  "fdn": "ドラベ症候群の研究治療を進める会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "ドラベ症候群の研究治療を進める会",
+   "source_url": "https://peraichi.com/landing_pages/view/he0xt/",
+   "fiscal_year": 2019,
+   "awardees": [
+    {
+     "awardee_name": "廣瀬伸一",
+     "affiliation": "福岡大学医学部小児科",
+     "position": "教授",
+     "project_title": "医療用冷蔵庫購入",
+     "project_abstract": null,
+     "amount_jpy": 500000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "山川和弘",
+     "affiliation": "理化学研究所脳科学総合研究センター",
+     "position": null,
+     "project_title": "ドラベ症候群発生機構の解明",
+     "project_abstract": null,
+     "amount_jpy": 500000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "石井敦士",
+     "affiliation": "都城市郡医師会病院小児科",
+     "position": "医長",
+     "project_title": "ドラベ症候群のSCNIA遺伝子変異と表現系のWebデータベースの作成と維持",
+     "project_abstract": null,
+     "amount_jpy": 500000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "荻野郁夫",
+     "affiliation": "日本医科大学システム生理学",
+     "position": null,
+     "project_title": "電位依存性ナトリウムチャンネルα1（Nav1.1)と複合体を形成するタンパク質から探るDrvet症候群の新規治療戦術",
+     "project_abstract": null,
+     "amount_jpy": 500000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "伊藤進",
+     "affiliation": "東京女子医科大学",
+     "position": null,
+     "project_title": "Dravet症候群におけるウェアラブルデバイス及びスマートフォンを利用した体温管理及びてんかん発作予防の予備的検討",
+     "project_abstract": null,
+     "amount_jpy": 500000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "田中泰圭",
+     "affiliation": "福岡大学てんかん分子病態研究所",
+     "position": null,
+     "project_title": "MEAシステムを用いたドラベ症候群に対する創薬スクリーニング系プラットホームの構築",
+     "project_abstract": "Dravet症候群患者由来iPS細胞を用いた疾患研究より明らかにした分子病態を利用して、革新的な創薬スクリーニング系プラットホームの確立を目指す。これにより、ドラベ症候群の病態モデルに基づいた創薬に繋げる。",
+     "amount_jpy": 500000,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 80
+ },
+ "https://www.antibiotics.or.jp/news/incentive/winner/": {
+  "fdn": "日本感染症医薬品協会（旧：日本抗生物質学術協議会）",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本感染症医薬品協会（旧：日本抗生物質学術協議会）",
+   "source_url": "https://www.antibiotics.or.jp/news/incentive/winner/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "犬飼達也",
+     "affiliation": "東京医科大学微生物学分野",
+     "position": null,
+     "project_title": "肺アスペルギルス症に対する新規治療法の開発：真菌標的型DDS×核酸医薬の融合による新規治療アプローチ",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.antm.or.jp/activities/overseas_training.html": {
+  "fdn": "公益財団法人医用原子力技術研究振興財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人医用原子力技術研究振興財団",
+   "source_url": "https://www.antm.or.jp/activities/overseas_training.html",
+   "fiscal_year": 2016,
+   "awardees": [
+    {
+     "awardee_name": "大野 達也",
+     "affiliation": "群馬大学重粒子線医学センター",
+     "position": "教授",
+     "project_title": "限局性肝細胞癌に対する重粒子線治療と肝動脈化学塞栓療法の医療経済研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 22
+ },
+ "https://tmsj.or.jp/award/?order=1": {
+  "fdn": "日本繊維機械学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本繊維機械学会",
+   "source_url": "https://tmsj.or.jp/award/?order=1",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "Kengo KUBOTERA",
+     "affiliation": "Tokyo Metropolitan Industrial Technology Research Institute",
+     "position": null,
+     "project_title": "Enhanced flexibility and performance of nickel yarn triple plain weave current collectors for solid oxide fuel cells",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "Eiichi F. MINE",
+     "affiliation": "Tokyo Metropolitan Industrial Technology Research Institute",
+     "position": null,
+     "project_title": "Enhanced flexibility and performance of nickel yarn triple plain weave current collectors for solid oxide fuel cells",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "Masaki ABE",
+     "affiliation": "MAGNEX CO., LTD.",
+     "position": null,
+     "project_title": "Enhanced flexibility and performance of nickel yarn triple plain weave current collectors for solid oxide fuel cells",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "Yoshio KOBAYASHI",
+     "affiliation": "Ibaraki University",
+     "position": null,
+     "project_title": "Enhanced flexibility and performance of nickel yarn triple plain weave current collectors for solid oxide fuel cells",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "米 雅子",
+     "affiliation": "村田機械株式会社",
+     "position": null,
+     "project_title": "人間中心設計によるヒューマンインターフェース開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "原 洋介",
+     "affiliation": "村田機械株式会社",
+     "position": null,
+     "project_title": "人間中心設計によるヒューマンインターフェース開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "平井克尚",
+     "affiliation": "村田機械株式会社",
+     "position": null,
+     "project_title": "人間中心設計によるヒューマンインターフェース開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "富山公貴",
+     "affiliation": "村田機械株式会社",
+     "position": null,
+     "project_title": "人間中心設計によるヒューマンインターフェース開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "春日照之",
+     "affiliation": "村田機械株式会社",
+     "position": null,
+     "project_title": "人間中心設計によるヒューマンインターフェース開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "石井佑弥",
+     "affiliation": "京都工芸繊維大学",
+     "position": null,
+     "project_title": "無給電状態で静的および動的な圧力センシングが可能な糸の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "宮田千歌",
+     "affiliation": "SUMINOE株式会社",
+     "position": null,
+     "project_title": "無給電状態で静的および動的な圧力センシングが可能な糸の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "横山笑香",
+     "affiliation": "SUMINOE株式会社",
+     "position": null,
+     "project_title": "無給電状態で静的および動的な圧力センシングが可能な糸の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "下村行徳",
+     "affiliation": "SUMINOE株式会社",
+     "position": null,
+     "project_title": "無給電状態で静的および動的な圧力センシングが可能な糸の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "宮村佳成",
+     "affiliation": "SUMINOE株式会社",
+     "position": null,
+     "project_title": "無給電状態で静的および動的な圧力センシングが可能な糸の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "仙波壽朗",
+     "affiliation": "東京工業高等専門学校 一般教育科",
+     "position": "講師",
+     "project_title": "消費科学的視点に基づく保温性肌着の性能・耐久性・価格の総合評価",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "林田剛一",
+     "affiliation": "福井工業高等専門学校",
+     "position": null,
+     "project_title": "仮撚加工機を走行中の糸が受ける空気抵抗の数値解析に向けた取り組み",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "藤村真司",
+     "affiliation": "信州大学",
+     "position": null,
+     "project_title": "導電糸電極を用いた通電性測定による布地の吸水状態センシングに関する研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "林 優希",
+     "affiliation": "大阪大学",
+     "position": null,
+     "project_title": "編目形状予測器を用いた柄編地の変形シミュレーション",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "谷口航大",
+     "affiliation": "大阪大学",
+     "position": null,
+     "project_title": "有限要素法による複合ケーブルの曲げ負荷下における撚り構造の影響評価",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "梅田有希",
+     "affiliation": "京都工芸繊維大学",
+     "position": null,
+     "project_title": "溶融電界紡糸ポリ（L-乳酸）ファイバ膜に発現する疑似圧電特性と発現機構の解明",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 69
+ },
+ "https://www.daad.jp/ja/2026/04/15/sieboldpreis-preistraeger-2026/": {
+  "fdn": "ドイツ学術交流会(DAAD)",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "ドイツ学術交流会(DAAD)",
+   "source_url": "https://www.daad.jp/ja/2026/04/15/sieboldpreis-preistraeger-2026/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "卜部匡司",
+     "affiliation": "広島市立大学国際学部国際学科",
+     "position": "教授",
+     "project_title": null,
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.amada-f.or.jp/include/images/2026/05/2025_joseiichiran.pdf": {
+  "fdn": "天田金属加工機械技術財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "天田金属加工機械技術財団",
+   "source_url": "https://www.amada-f.or.jp/include/images/2026/05/2025_joseiichiran.pdf",
+   "fiscal_year": 2025,
+   "awardees": []
+  },
+  "elapsed_s": 50
+ },
+ "https://rishiri-island.sakura.ne.jp/RRP/theme.html": {
+  "fdn": "利尻島調査研究事業事務局",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "利尻島調査研究事業事務局",
+   "source_url": "https://rishiri-island.sakura.ne.jp/RRP/theme.html",
+   "fiscal_year": null,
+   "awardees": [
+    {
+     "awardee_name": "金子之史",
+     "affiliation": null,
+     "position": null,
+     "project_title": "リシリヤチネズミの形態・生態学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "前田喜四雄",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島におけるコウモリ相の研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "岩井雅夫",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島新第三系の微化石層序と古環境解析",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "門田裕一",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻岳特産のボタンキンバイの起源について",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "岩坪美兼",
+     "affiliation": null,
+     "position": null,
+     "project_title": "日本産ワレモコウ属植物の細胞分類学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "浅川満彦",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻産アカネズミの内部寄生虫調査",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "田村憲司",
+     "affiliation": null,
+     "position": null,
+     "project_title": "酸性雨に対する利尻島生態系の感受性評価に関する研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "布村 昇",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島における等脚目甲殻類の系統分類学ならびに生物地理学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "森谷キヨシ",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻町民の長寿とライフスタイルの特徴についての調査研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "植木岳雪",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島における海成段丘面から推定される日本海東縁の第四紀後期の地殻変動",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "石塚吉浩",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻火山の最終ステージの側噴火",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "渡邊幹男",
+     "affiliation": null,
+     "position": null,
+     "project_title": "リシリビャクシンの分子系統学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "小林廣司",
+     "affiliation": null,
+     "position": null,
+     "project_title": "ショウジョウバエの生態学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "河島克久",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻山豊仙沢雪渓の内部構造と氷化過程に関する雪氷学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "佐藤清吉",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島のキノコ調査研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "岡村吉彦",
+     "affiliation": null,
+     "position": null,
+     "project_title": "鳥取県民の利尻島移住に関する史的・民俗学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "石田幸子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島固有種プラナリア二種に関する分子系統進化学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "冨士田裕子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島に所在する湿原の現植生の解析と保護・保全状況の評価",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "澤辺智雄",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻コンブ穴あき症藻体から分離された海洋細菌の種の記載と利尻島分布調査",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "久松正樹",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島の借孔性ハチ類を中心とした有剣類ハチ類相の調査研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "山田高嗣",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻の雪形「枠舟」の出現メカニズムに関する研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "石橋整司",
+     "affiliation": null,
+     "position": null,
+     "project_title": "年輪情報に基づく利尻島における森林の成長過程の解析",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "岩佐真宏",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島産小型哺乳類の遺伝的特性に関する調査",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "下村道誉",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島沿岸のベントス相の調査",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "安倍 弘",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島に生息する水生ダニ類相の調査研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "愛甲哲也",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻山における登山者の用便による踏み荒らしと登山者の意識",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "赤塚伊三武",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島の海藻種の分布に及ぼす対馬暖流の影響",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "山崎麻里",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島におけるコウモリ類の音声による生息調査",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "岡田嘉仁",
+     "affiliation": null,
+     "position": null,
+     "project_title": "生活習慣病予防を目的とした利尻島産海藻の調査研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "近藤玲介",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島における最終氷期の氷河の検討：変形構造と新しい年代測定法の適用",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "四ツ倉典滋",
+     "affiliation": null,
+     "position": null,
+     "project_title": "リシリコンブの分類に関する研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "春木雅寛",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島の森林植生と土壌環境に関する研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "小山裕樹",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島沿岸域における海底湧水の挙動とその沿岸環境での役割",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "大石善隆",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島のコケ類調査",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "加藤 克",
+     "affiliation": null,
+     "position": null,
+     "project_title": "札幌農学校所属博物館の利尻島資料について",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "小松美英子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻沿岸における棘皮動物と生殖に関する研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "志波 敬",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島の地衣類",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "近藤哲也",
+     "affiliation": null,
+     "position": null,
+     "project_title": "リシリヒナゲシの種子発芽特性",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "植木岳雪",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻火山の溶岩の絶対古地磁気強度測定",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "百原 新",
+     "affiliation": null,
+     "position": null,
+     "project_title": "溶岩流直下の種実類、葉化石による最終氷期の古植生の復元",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "若山典央",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島におけるウミホタル類の生息調査",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "吉田康子",
+     "affiliation": null,
+     "position": null,
+     "project_title": "絶滅危惧植物レブンコザクラの利尻島における保全単位の決定",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "萩谷盛雄",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島海岸の多岐腸類の調査・研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "吾妻行雄",
+     "affiliation": null,
+     "position": null,
+     "project_title": "分布北限域におけるバフンウニの生物学的特徴",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "山崎博史",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島における動吻動物の分類学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "森井悠太",
+     "affiliation": null,
+     "position": null,
+     "project_title": "北方系陸産貝類の島嶼生物地理",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "近江奈央",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島における原卵黄目（扁形動物門）の分類学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "阿部博和",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島におけるスピオ科多毛類の分類学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "新倉 綾",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島におけるマダニ媒介性ヒトバベシア症病原体の探索",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "谷内 元",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻火山の安山岩の岩石学・地球化学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "久松定智",
+     "affiliation": null,
+     "position": null,
+     "project_title": "微小甲虫と呼ばれるヒラタムシ上科（コウチュウ目）の分布調査",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "小林 格",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島におけるヒメヒトデ類の多様性",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "開澤菜月",
+     "affiliation": null,
+     "position": null,
+     "project_title": "利尻島におけるツムギヤスデ目およびジヤスデ目の解明",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 102
+ },
+ "https://www.yfams.or.jp/report/img/r5_h.pdf": {
+  "fdn": "横浜総合医学振興財団",
+  "n_existing": 2,
+  "codex": {
+   "foundation_name": "横浜総合医学振興財団",
+   "source_url": "https://www.yfams.or.jp/report/img/r5_h.pdf",
+   "fiscal_year": 2023,
+   "awardees": [
+    {
+     "awardee_name": "鈴木 秀文",
+     "affiliation": "横浜市立大学大学院医学研究科 分子生物学分野",
+     "position": "助教",
+     "project_title": "リン酸化修飾によるMED26の液滴形成の調節を介した遺伝子発現制御機構の解明",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "園田 大",
+     "affiliation": "北里大学医学部呼吸器外科",
+     "position": "助教",
+     "project_title": "がん細胞株を用いた肺がんにおけるtumor dormancyの機序に関する研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "中村 治子",
+     "affiliation": "横浜市立大学大学院医学研究科 脳神経内科・脳卒中医学",
+     "position": "助教",
+     "project_title": "非翻訳領域リピート病におけるRNA代謝異常の解明と治療法開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "松村 怜生",
+     "affiliation": "横浜市立大学大学院医学研究科 救急医学",
+     "position": "博士課程",
+     "project_title": "自己免疫応答による心臓血管恒常性破綻メカニズムの解明",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "小嶋 朋之",
+     "affiliation": "横浜市立大学附属市民総合医療センター 総合周産期母子医療センター",
+     "position": "助教",
+     "project_title": "臍帯動脈平滑筋細胞における低酸素下周期加圧への応答と移植可能な細胞シート作製",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "押 正徳",
+     "affiliation": "横浜市立大学附属病院 消化器・腫瘍外科",
+     "position": "助教",
+     "project_title": "遺伝子発現および癌関連伝達経路新規スコアにおける日本人胃癌患者予後・治療効果予測バイオマーカーの開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "石川 智弘",
+     "affiliation": "北里大学医学部呼吸器外科学",
+     "position": "特別研修生",
+     "project_title": "がん細胞株を用いた微小乳頭型肺腺がんの新規治療法、予後判定法の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "伊集院 昌郁",
+     "affiliation": "横浜市立大学附属市民総合医療センター 生殖医療センター婦人科・臨床研究部",
+     "position": "助教",
+     "project_title": "ミトコンドリアを活用した新たな非侵襲的な胚評価方法の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "安部 えりこ",
+     "affiliation": "横浜市立大学附属病院 腎臓・高血圧内科",
+     "position": "指導診療医",
+     "project_title": "1型アンジオテンシン受容体関連タンパク質ATRAPによる高血圧-心腎代謝内分泌疾患の克服",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "下田 愛美",
+     "affiliation": "横浜市立大学大学院医学研究科 顎顔面口腔機能制御学",
+     "position": "シニアレジデント",
+     "project_title": "口腔癌微小環境オルガノイドを用いた再発メカニズムの解析",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "三澤 菜穂",
+     "affiliation": "横浜市立大学大学院医学研究科 救急医学",
+     "position": "博士課程",
+     "project_title": "サルコペニア（加齢に伴う身体的虚弱）に対し、EMS（Electrical Muscle Stimulation）によるトレーニングとスマートシューズによる測定を連動させた行動変容プログラムの作成",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "杉森 慎",
+     "affiliation": "横浜市立大学附属市民総合医療センター がんゲノム診療科、ゲノム検査部",
+     "position": "助教",
+     "project_title": "C-CAT利活用データベースを用いた，本邦のがんゲノムプロファイリング検査を実施された消化器癌の実態調査",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "土井 智喜",
+     "affiliation": "国家公務員共済組合連合会 横須賀共済病院 救急科",
+     "position": "部長",
+     "project_title": "医療情報をリアルタイムで安全に扱える情報共有ツールの構築",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "山田 顕光",
+     "affiliation": "横浜市立大学大学院医学研究科 消化器・腫瘍外科",
+     "position": "講師",
+     "project_title": "エストロゲン受容体陽性乳癌における乳癌幹細胞と晩期再発に関する探索的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "勝田 絵里子",
+     "affiliation": "横浜市立大学大学院医学研究科 がん総合医科学",
+     "position": "助教",
+     "project_title": "神経内分泌腫瘍（NET）のペプチド受容体放射性核種療法（PRRT）による宿主免疫機能への影響の解析",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "渡部 眞幸",
+     "affiliation": "横浜市立大学大学院医学研究科看護学専攻",
+     "position": "博士前期課程1年",
+     "project_title": "吸入麻酔薬セボフルランの投与は概日リズムをつかさどる時計遺伝子に対して変化をもたらすのか",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "花城 真理子",
+     "affiliation": "横浜市立大学大学院医学研究科看護学専攻",
+     "position": "博士後期課程1年",
+     "project_title": "周術期患者の喉の渇きの要因を明らかにする研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "入部 康弘",
+     "affiliation": "横浜市立大学大学院医学研究科 泌尿器科学",
+     "position": "博士課程",
+     "project_title": "腎細胞癌発癌過程におけるHippo pathway関連遺伝子変異の果たす役割の解明",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 183
+ },
+ "https://www.elsj.org/content/files/newsletter/nl146.pdf": {
+  "fdn": "日本英文学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本英文学会",
+   "source_url": "https://www.elsj.org/content/files/newsletter/nl146.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "中島崇法",
+     "affiliation": "弘前大学人文社会科学部",
+     "position": "助教",
+     "project_title": "Symmetry Breaking in Freezing, Wh-Island, and Proper Binding Condition Effects",
+     "project_abstract": null,
+     "amount_jpy": 100000,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.inamori-f.or.jp/recipient/ade-irma-suriajaya/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/ade-irma-suriajaya/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "スリアジャヤ アデ イルマ",
+     "affiliation": "九州大学大学院数理学研究院",
+     "position": "准教授",
+     "project_title": "リーマンゼータ関数と素数の間隔の分布",
+     "project_abstract": "私は「リーマンゼータ関数」と「ディリクレL関数」を研究と、素数の分布への応用も研究しています。数学で最も有名な未解決問題のひとつである「リーマン予想」は、リーマンゼータ関数の自明でない零点は全て一直線上にあると主張しています。私は長い間、リーマンゼータ関数の自明でない零点の性質を研究してき、最近の研究では、これらと双子素数の分布やゴールドバッハ問題などの他の未解決問題との関係を調べています。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 18
+ },
+ "https://www.idac.tohoku.ac.jp/site_ja/news/22388": {
+  "fdn": "公益財団法人艮陵医学振興会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人艮陵医学振興会",
+   "source_url": "https://www.idac.tohoku.ac.jp/site_ja/news/22388",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "方震宙",
+     "affiliation": "東北大学加齢医学研究所 腫瘍生物学分野",
+     "position": "助教",
+     "project_title": "分裂期キナーゼによるBRCA1結合分子のユビキチン化を介した中心体制御機構の解明",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.chemistry.or.jp/societyguide/2025annual_report.pdf": {
+  "fdn": "日本化学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本化学会",
+   "source_url": "https://www.chemistry.or.jp/societyguide/2025annual_report.pdf",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "中山 雅晴",
+     "affiliation": "山口大学大学院創成科学研究科 化学系専攻",
+     "position": "教授",
+     "project_title": "洋上風力発電─水素変換のための直接海水電解触媒のスクリーニング─活性および塩素─酸素選択性の評価プロトコルの確立─",
+     "project_abstract": null,
+     "amount_jpy": 2000000,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 57
+ },
+ "https://www.dent.osaka-u.ac.jp/wp-content/uploads/2026/05/List-of-Prize-Recipients2.pdf": {
+  "fdn": "岩垂育英会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "岩垂育英会",
+   "source_url": "https://www.dent.osaka-u.ac.jp/wp-content/uploads/2026/05/List-of-Prize-Recipients2.pdf",
+   "fiscal_year": 2024,
+   "awardees": []
+  },
+  "elapsed_s": 52
+ },
+ "https://www.healtheconomics.gr.jp/sessions.htm": {
+  "fdn": "医療経済フォーラム・ジャパン",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "医療経済フォーラム・ジャパン",
+   "source_url": "https://www.healtheconomics.gr.jp/sessions.htm",
+   "fiscal_year": 2007,
+   "awardees": [
+    {
+     "awardee_name": "河口洋行",
+     "affiliation": "国際医療福祉大学",
+     "position": "助教授",
+     "project_title": "我が国病院市場の競争形態と病床規制政策に関する研究 ～我が国の病院市場における競争促進は「価格低下と品質向上」をもたらすか～",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 41
+ },
+ "https://www.inamori-f.or.jp/recipient/akane-kawaguchi-2026-225574-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/akane-kawaguchi-2026-225574-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "川口 茜",
+     "affiliation": "情報・システム研究機構 国立遺伝学研究所",
+     "position": "助教",
+     "project_title": "両生類再生モデルを用いたクロマチン制御の階層的理解",
+     "project_abstract": "脊椎動物を俯瞰すると、個々の種が持つ生命力は驚くほど多様性である。形態的特異性はもとより、表現型に現れない潜在能力の差、その一つに器官再生能力の圧倒的な隔たりがある。哺乳類では欠損組織や器官の復元は困難であり、その克服のため再生医療は日々革新を遂げている。一方、自然界に目を向ければ、有尾両生類のように四肢さえも元通りに再生し、かつ高い発がん耐性を示す種が存在する。本研究は、有尾両生類の再生過程で惹起される遺伝子発現の制御機構に注目し、その卓越した器官再生能力を可能にする分子基盤の解明を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/ai-tashiro/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/ai-tashiro/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "田代 藍",
+     "affiliation": "東京大学未来ビジョン研究センター",
+     "position": "特任講師",
+     "project_title": "変容する新コモンズ管理論の構築：田んぼダムの意思決定に関する実証研究",
+     "project_abstract": "本研究では、多面的価値があり営農しながら地域の防災・減災に貢献可能な「田んぼダム」の合意形成と持続的な実践に関する方策の検討を目的とする。田堰の上下げ等の管理が不可欠な田んぼダムは、管理・運営に関する方策の検討が喫緊の課題であるが、貯水・治水の計測、シミュレーション等の水理工学的な検証が蓄積される一方で、共有地やガバナンスに関する社会科学的知見は乏しい。そこで本研究では、田んぼダムを題材とし、私有地・使用地・共有地が混在する変容するコモンズの合意形成の検証と新しい「コモンズ管理論」を体系化する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 31
+ },
+ "https://www.inamori-f.or.jp/recipient/akiko-yagi-2026-225604-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/akiko-yagi-2026-225604-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "八木 亜樹子",
+     "affiliation": "名古屋大学 トランスフォーマティブ生命分子研究所",
+     "position": "教授",
+     "project_title": "新奇孤立π電子系の創製と機能開拓",
+     "project_abstract": "π共役骨格は電子材料や医薬品など多くの機能性物質に見られる分子骨格である。近年、π分子の分子間相互作用の微細制御による機能創出が注目を集めはじめている。高密度にπ骨格を近接させることで優れた電子伝導やスピン伝達を狙う研究が盛んに行われている中、「分子間相互作用をしない、孤立させたπ電子系をつくる」研究の機運も高まりつつある。本研究では、sp3炭素骨格で周辺修飾された剛直な孤立π電子系の創製および機能開拓を行う。それにより革新的な電子素子やスピン材料の創出を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 21
+ },
+ "https://www.inamori-f.or.jp/recipient/akiko-hashiguchi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/akiko-hashiguchi/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "橋口 晶子",
+     "affiliation": "筑波大学医学医療系",
+     "position": "助教",
+     "project_title": "研究コミュニティによるピア評価は、新たな学問分野を着想する専門家を見出し育成できるのか",
+     "project_abstract": "研究評価に用いられる既存指標は総体としての人材評価・研究評価の観点で最適化されていないため、専門家が構想する新たな学術分野のきざしを捉えることは難しい。本研究では、専門家各人の行動特性を反映するように計算した代替指標を用いた分析を行い、日本の独自研究を見出し、それが科研費制度などの研究開発システムにおいてどのように評価されているのかを明らかにする。これにより、ピア評価を担当する研究コミュニティの新興学術領域を戦略的に育てる能力への信頼可能性をはかる。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/akihiro-nishiguchi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/akihiro-nishiguchi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "西口 昭広",
+     "affiliation": "物質・材料研究機構 高分子・バイオ材料研究センター",
+     "position": "主幹研究員",
+     "project_title": "液-液相分離制御によるin vivo血管化技術の開発",
+     "project_abstract": "虚血性疾患に対する治療法として、細胞移植による治療が行われています。一方で、細胞のみを注入するだけでは生着率が低いことが課題でした。そこで本研究では、液-液相分離という細胞内で観察される現象に着想を得て、多孔構造を有するインジェクタブルゲルを開発し、生体内（in vivo）で血管構造を構築する技術へ応用することを目的とします。インジェクタブルでありながら多孔構造を有する本材料は、細胞浸潤や血管新生因子の徐放、酸素・栄養素の供給によって、移植細胞の生着効率を向上させ、虚血状態を回復させことができると期待できます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/atsuro-takai/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/atsuro-takai/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "高井 淳朗",
+     "affiliation": "物質・材料研究機構高分子・バイオ材料研究センター",
+     "position": "主任研究員",
+     "project_title": "近赤外光電変換を実現するπ共役分子のワンステップ合成・高密度集積化",
+     "project_abstract": "近赤外光の吸収や発光を示すπ共役分子は、高い生体親和性をもったセキュリティセンサーや近赤外光電変換など高付加価値な機能を有する革新的な電子デバイスへの応用が期待できます。しかし、π共役分子の合成・精製プロセスの煩雑さや薄膜上における集積化の困難さがボトルネックとなってきました。本研究では、独自に見出した電子受容性π共役分子とアミンとの無触媒クリック反応に基づき、800nmよりも長波長側の光を吸収するπ共役分子を有機半導体層とする有機薄膜デバイスの簡便な作製法を確立することを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/arisa-hirano/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/arisa-hirano/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "平野 有沙",
+     "affiliation": "筑波大学医学医療系",
+     "position": "助教",
+     "project_title": "体温リズムを制御する神経メカニズムの解明",
+     "project_abstract": "概日時計は、睡眠や体温・代謝などの様々な生理リズムを生み出し、時刻にあわせた生体環境や行動を制御します。例えば、体温はヒトでは活動量が多い昼間に高くなる一方、就寝するときには急激に低下します。これは深い眠りの導入に必要だと言われていますが、加齢により一日の体温の変動幅は小さくなり、入眠時の体温低下が緩やかになるとともに睡眠障害の罹患が増えることが指摘されています。本研究課題では、体温リズムがどのように概日時計によって制御されているのかを神経レベルで明らかにし、その生理的意義に迫ります。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.inamori-f.or.jp/recipient/daichi-oka-2026-225570-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/daichi-oka-2026-225570-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "岡 大地",
+     "affiliation": "東京都立大学 大学院理学研究科",
+     "position": "准教授",
+     "project_title": "高導電性エピタキシャル界面を活用した深紫外透明導電体の開発",
+     "project_abstract": "近年、紫外線を活用する太陽電池やLEDといった光電子デバイスの開発が、微細加工、医療、宇宙事業といった幅広い分野から望まれています。これらのデバイスには光を透過する透明電極が欠かせませんが、既存の材料のほとんどは可視光しか透過せず紫外線を吸収してしまいます。本研究では、電子相関系金属および超ワイドギャップ半導体と呼ばれる2種類の透明材料をエピタキシャル接合し、光透過率を損ねずに高い電気伝導性を示す界面状態を形成することで、深紫外域まで高い透過率を示す新規電極材料の開発を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 21
+ },
+ "https://www.inamori-f.or.jp/recipient/chiaki-goda-2026-225579-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/chiaki-goda-2026-225579-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "合田 千晶",
+     "affiliation": "関西医科大学 看護学部",
+     "position": "助教",
+     "project_title": "看護基礎教育において臨床教員が担う学生への指導の実態と臨床教員が認識する困難",
+     "project_abstract": "2040年に高齢者人口がピークを迎え、医療ニーズが益々高まると推測される中で、高い臨床実践能力を備えた看護師の育成と確保が求められています。これまでの看護基礎教育においては、臨床で看護を実践する看護職員を活用した臨床教員制度が取り入れられています。\n本研究では、臨床教員が担う看護学生への指導の実態についてアンケート調査を行い、臨床教員が抱く困難と大学教員に求める支援についてインタビュー調査で明らかにしていきます。そして、臨床教員と大学教員が協働するための指導指針作成に向けた課題を特定します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/dana-ulanova/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/dana-ulanova/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "ウラノバ ダナ",
+     "affiliation": "高知大学教育研究部総合科学系",
+     "position": "講師",
+     "project_title": "「微生物の会話」を分子レベルで解読し天然化合物探索に役立てる",
+     "project_abstract": "自然環境に存在している微生物は他の微生物や動植物と相互作用しながら生息しています。その際、微生物が栄養等の競争を行っています。このような相互作用の多くは、化学シグナル物質が媒介しています。化学シグナル物質はよく「天然化合物」とよばれ、抗菌活性や細胞毒性をもち、抗生物質や抗がん剤として利用されています。本研究では、海洋細菌における相互作用メカニズムに注目し、新規天然化合物の発見を目指しています。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.idengaku-fukyukai.info/%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90-%E6%B5%B7%E5%A4%96%E6%B8%A1%E8%88%AA%E8%B2%BB/%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90-%E6%B5%B7%E5%A4%96%E6%B8%A1%E8%88%AA%E8%B2%BB-%E9%81%8E%E5%8E%BB%E3%81%AE%E5%AE%9F%E7%B8%BE/": {
+  "fdn": "公益財団法人遺伝学普及会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人遺伝学普及会",
+   "source_url": "https://www.idengaku-fukyukai.info/%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90-%E6%B5%B7%E5%A4%96%E6%B8%A1%E8%88%AA%E8%B2%BB/%E7%A0%94%E7%A9%B6%E5%8A%A9%E6%88%90-%E6%B5%B7%E5%A4%96%E6%B8%A1%E8%88%AA%E8%B2%BB-%E9%81%8E%E5%8E%BB%E3%81%AE%E5%AE%9F%E7%B8%BE/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "Mao",
+     "affiliation": null,
+     "position": null,
+     "project_title": null,
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 74
+ },
+ "https://www.inamori-f.or.jp/recipient/eiji-miyauchi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/eiji-miyauchi/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "宮内 栄治",
+     "affiliation": "群馬大学生体調節研究所",
+     "position": "准教授",
+     "project_title": "母体炎症による子の1型糖尿病増悪機序の解明",
+     "project_abstract": "妊娠期の母体がウイルス感染を起こすと、生まれてくる子の腸内細菌の発達に影響し、1型糖尿病の発症リスクが高まる可能性があります。本研究では、母体の炎症が子の腸内環境や免疫系に及ぼす影響を詳しく解析し、糖尿病の発症を抑える新たな介入法を検討します。この研究を通じて、妊娠中の環境が子の健康に及ぼす影響を明らかにし、将来的な糖尿病予防につなげることを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/eiji-yamaguchi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/eiji-yamaguchi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "山口 英士",
+     "affiliation": "岐阜薬科大学薬学部",
+     "position": "講師",
+     "project_title": "励起アニオン種の戦略的活用に基づく新しい可視光レドックス触媒化学",
+     "project_abstract": "光化学において、強力な還元反応の実現は既存の分子変換と一線を画す方法論としての実現が期待させる。本研究では、申請者がこれまで研究を積み重ねてきたイオン性化学種の光励起を起点とした励起強還元剤の創生とそれを基盤とした分子変換反応の確立を目指すものである。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/emi-minamitani/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/emi-minamitani/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "南谷 英美",
+     "affiliation": "大阪大学産業科学研究所",
+     "position": "教授",
+     "project_title": "トポロジカルデータ解析を応用した酸化物ガラスの構造-物性相関の解明",
+     "project_abstract": "アモルファスのような乱れた構造をもつ物質における物性を、ナノスケールでの原子・分子の挙動に基づいて理解することは現代の物質科学においても難問です。本研究では、機械学習とトポロジカルデータ解析を物性シミュレーションと組み合わせることで、この問題を克服することを目指します。とくに、産業的にも重要なガラスに着目し、パーシステントホモロジーを用いて構造中に潜む環の形状特性の分布と物性値がどのように関係するかを調べ、ナノ構造とマクロ物性との相関を明らかにします。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/fukiko-ikehata/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/fukiko-ikehata/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "池端 蕗子",
+     "affiliation": "立命館大学衣笠総合研究機構",
+     "position": "准教授",
+     "project_title": "イスラーム的価値をめぐる競合と合意の国際政治：イスラーム協力機構を舞台としたイラン外交の事例から",
+     "project_abstract": "中東・イスラーム諸国が織りなす国際政治では、しばしば政治家が宗教的な言説を発信し、「イスラーム的価値」を打ち出すことがあります。それは各国の間で評価がなされ、合意が形成されることもあれば、政治的競合関係が発生することもあります。本研究は、この「イスラーム的価値」をめぐる政治的競合に着目し、その競合が各国体制の政治的正統性を高めるか否かを明らかにするものです。特に、中東・イスラーム諸国57か国が加盟する国際機構であるイスラーム協力機構（OIC）の場で繰り広げられるイラン外交に着目し、分析を行います。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/eiichiro-watamura-2026-225607-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/eiichiro-watamura-2026-225607-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "綿村 英一郎",
+     "affiliation": "大阪大学 大学院人間科学研究科",
+     "position": "教授",
+     "project_title": "Justice by Two Minds－認知バイアスの再評価による人間とAIの「共同判断モデル」の構築",
+     "project_abstract": "15年ほど前、息子と一緒にカブトムシやクワガタを飼っていたことがあります。あるとき、うっかり角の間に中指を入れてしまい、体長10センチほどの小さな生き物ですが、その力は大人の私でも驚くほど強く、振りほどくのに苦労したのを覚えています。\n進化の過程で生物が獲得してきた能力は、ときに私たちの想像を超えるほど強力です。人間の認知もまた、進化の中で形成されてきました。心理学では、人間の判断が合理性から逸脱する現象を「認知バイアス」と呼びます。これらは長い間、判断の誤りや限界として理解されてきました。\n現在、AIが人間の判断に代わり得る存在として急速に発展しています。AIは人間よりも合理的で一貫した判断を行える可能性があります。もしそうだとすれば、人間の判断に含まれる認知バイアスは単なる欠点にすぎないのでしょうか。本研究では、この問いを裁判の判断という文脈で検討します。AIが示す合理的判断と、人間が持つ認知バイアスを比較しながら、人間の判断が司法においてどのような意味を持つのかを明らかにします。\n進化の過程で生物が獲得してきた能力がしばしば予想外の力を持つように、人間の認知にもまた、合理性だけでは測れない役割があるかもしれません。本研究を通じて、人間とAIが共存する司法のあり方を考えていきたいと思います。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 41
+ },
+ "https://www.inamori-f.or.jp/recipient/genichi-tasaka-2026-225589-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/genichi-tasaka-2026-225589-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "田坂 元一",
+     "affiliation": "理化学研究所 生命機能科学研究センター",
+     "position": "上級研究員",
+     "project_title": "養育行動不全におけるドーパミンシステムの機能障害とその克服",
+     "project_abstract": "産後うつ病は新規出産女性の約10〜15％に発症するにもかかわらず、神経回路レベルでの病態理解は十分ではありません。本研究は、母子のウェルビーイングを脅かす産後うつ病の神経回路メカニズムを解明し、養育行動への影響を明らかにすることで、将来的な治療法開発の基盤構築を目指します。特に、報酬や動機づけに関わるドーパミン系に着目し、養育行動不全を引き起こす責任回路を特定するとともに、その機能異常が行動に及ぼす因果的影響を明らかにすることを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/haichun-yu/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/haichun-yu/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "于 海春",
+     "affiliation": "北海道大学大学院メディア・コミュニケーション研究院",
+     "position": "助教",
+     "project_title": "ソーシャルメディアデータを用いた中国のナショナリズムと科学的偽情報の実証分析",
+     "project_abstract": "近年、中国では米中・日中関係の緊張を背景にナショナリズムが台頭し、コロナの意図的散布や福島の処理水による魚の大量死といった科学的に根拠のない陰謀論や偽情報が広がっている。本研究は、中国のソーシャルメディア上での偽情報の拡散実態を踏まえ、コミュニケーションの政治経済学の視点から科学的誤解や陰謀論の拡散を規定する要因を体系的に明らかにすることを目的とする。さらに、ソーシャルメディアの量的テキスト分析を通じて、ナショナリズムの台頭と科学的偽情報の拡散との関係を実証的に示す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/haruki-uchiyama/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/haruki-uchiyama/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "内山 晴貴",
+     "affiliation": "名古屋大学大学院工学研究科",
+     "position": "助教",
+     "project_title": "低電位析出による低次元材料/絶縁膜の界面エンジニアリング",
+     "project_abstract": "次世代半導体デバイスの性能向上にはチャネル材料や構造の革新が不可欠です。特に、Beyond 2 nmの半導体技術では、高移動度を維持しつつ表面散乱を抑えられる低次元材料が有望視されています。しかし、デバイス性能を左右する半導体/ゲート絶縁膜界面において、低次元材料の清浄表面が課題となっています。本研究では、低電位析出による金属単原子バッファ層の形成技術を提案し、低次元材料と絶縁膜の清浄な界面の形成を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/hidenori-ando-2026-225608-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hidenori-ando-2026-225608-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "安藤 英紀",
+     "affiliation": "徳島大学 大学院医歯薬学研究部",
+     "position": "准教授",
+     "project_title": "悪性リンパ腫治療のための膜タンパクに対する革新的抗体創薬研究",
+     "project_abstract": "我々はこれまでに、リポソームなどのキャリアを用いて膜タンパク抗原を脾臓に直接送達する「脾臓免疫技術」を開発し、細胞膜上に発現する膜タンパクを認識する抗体の誘導に成功してきた。特に、従来技術では誘導が困難とされてきたGタンパク質共役型受容体などの複数回膜貫通型膜タンパクに対する抗体誘導にも成功しており、脾臓免疫技術の実用化に大きな可能性を見出している。本研究では、難治性悪性リンパ腫治療を標的とした新たな膜タンパク標的に対するモノクローナル抗体の創出を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 22
+ },
+ "https://www.inamori-f.or.jp/recipient/hidenori-okamura/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hidenori-okamura/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "岡村 秀紀",
+     "affiliation": "東北大学多元物質科学研究所",
+     "position": "助教",
+     "project_title": "細胞内光分子構築法の創成と薬理活性制御への応用",
+     "project_abstract": "薬物療法では、生体内における薬物の非特異的分布による副作用の発現がしばしば問題となります。本研究では、「光反応による薬物分子の生体内合成」という新たなコンセプトに基づく薬理活性制御法を開拓し、薬物療法の副作用回避に貢献します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/haruka-arii/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/haruka-arii/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "有井 晴香",
+     "affiliation": "北海道教育大学教育学部",
+     "position": "准教授",
+     "project_title": "エチオピア村落地域における性的マイノリティによる子育てにみる社会関係",
+     "project_abstract": "エチオピア西南部の少数民族マーレの社会には「アシティメ」と呼ばれる、身体的には男性でありながらも生殖に関与できず女性的な役割を担うジェンダー・カテゴリーがあります。アシティメによる子の養育事例を調査し、既存の親族やジェンダーの枠組みを超えた関係性がいかに築かれるのか、ケアの実践に着目して明らかにするとともに、そのことを通じて養育ケアにたずさわるアシティメの社会的位置づけについても検討を試みます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 36
+ },
+ "https://www.inamori-f.or.jp/recipient/hidetoshi-otono-2026-225609-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hidetoshi-otono-2026-225609-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "音野 瑛俊",
+     "affiliation": "九州大学 大学院理学研究院",
+     "position": "准教授",
+     "project_title": "衝突型加速器の生成するニュートリノの初観測から3年、さらなる発展への架け橋",
+     "project_abstract": "素粒子の一つであるニュートリノは、極めて軽い質量と高い透過力を持ち、宇宙の創生と進化の鍵を握る。FASER実験が大型ハドロン衝突型加速器（LHC）において実現したニュートリノの観測は、素粒子研究の新たな地平を切り拓くと同時に、それをプローブとする原子核・宇宙線研究の創成へと繋がった。本研究では、少人数の国際チームによってFASER実験へ大胆かつ迅速に導入した新型カロリメータの本格稼働と先鋭化を推進し、特に電子型ニュートリノの測定を飛躍的に向上させることで、高エネルギー領域に潜む新たな物理の解明に挑む。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/hiroko-watanabe/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hiroko-watanabe/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "渡辺 寛子",
+     "affiliation": "東北大学ニュートリノ科学研究センター",
+     "position": "助教",
+     "project_title": "海洋底地球ニュートリノ観測の実現を目指した光検出器モジュールの開発",
+     "project_abstract": "地球内部の熱は地震や火山の噴火といった様々な地球活動の源であり、地球の未来をも左右する重要な量であるにも関わらず、その熱源の分布や量が未解明です。地球内放射性物質起源の「地球ニュートリノ」観測は、地球の熱の約半分を占めると考えられている放射化熱量を直接観測する強力な方法です。本研究では現代検出器の不可能を克服する「海洋底地球ニュートリノ観測」の実現に向け、海洋底環境で稼働する光検出器モジュールの開発を行い、大型研究実現に向けた確実な一歩とします。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 22
+ },
+ "https://www.inamori-f.or.jp/recipient/hirohisa-ohno/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hirohisa-ohno/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "大野 博久",
+     "affiliation": "京都大学iPS細胞研究所",
+     "position": "特定拠点助教",
+     "project_title": "精密な遺伝子発現制御を可能とする人工RNAの開発",
+     "project_abstract": "近年、RNAワクチンに代表されるように、人工メッセンジャーRNA（mRNA）が大きな注目を集めています。RNAは原理的にゲノムに組み込まれる危険性がなく、目的遺伝子に応じた設計の変更や合成が容易、といった利点も持っています。しかし一方で、安定性や特異性については改善が望まれています。\n本研究では、標的細胞と非標的細胞を識別して標的細胞でのみ遺伝子発現を行う能力をRNA自身に持たせることで、特異性を改善し、高い安全性と効果を持つ人工mRNAを開発します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/hiroaki-shimomoto/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hiroaki-shimomoto/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "下元 浩晃",
+     "affiliation": "愛媛大学大学院理工学研究科",
+     "position": "准教授",
+     "project_title": "立体規則性が制御された易分解性アクリル樹脂の開発",
+     "project_abstract": "我々の研究グループでは、アクリル樹脂として工業的に利用されているポリ(メタ)アクリル酸エステル類と類似の構造を有するポリ(アルコキシカルボニルメチレン）の合成に成功しています。最近、ポリ(アルコキシカルボニルメチレン）が、比較的温和な条件下において分解することが明らかとなりました。この結果をもとに本研究では、材料物性の向上を目指すために立体規則性制御を試み、ポリ(アルコキシカルボニルメチレン）の易分解プラスチックとしての応用展開を探ることを目的としています。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/hironobu-hayashi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hironobu-hayashi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "林 宏暢",
+     "affiliation": "物質・材料研究機構マテリアル基盤研究センター",
+     "position": "主任研究員",
+     "project_title": "水溶性有機多孔質ナノシートの開発と機能",
+     "project_abstract": "２次元に周期的なポーラスを有する有機多孔質ナノシートは、ガス吸着・触媒担持・電極材料・濾過膜など、環境・エネルギー分野への応用が盛んに検討されている材料である。多孔質ナノシートのボトムアップ合成には、可逆反応である動的共有結合の利用が有効であると言われている。しかし、その結合の可逆性に起因して、形成多孔質材料は水分で容易に分解する場合が多い。本研究では、加水分解が進行しない共有結合を利用し、水溶性有機多孔質ナノシートの開発を目的とする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 20
+ },
+ "https://www.inamori-f.or.jp/recipient/hiroyuki-tsunashima/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hiroyuki-tsunashima/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "綱島 洋之",
+     "affiliation": "大阪公立大学都市科学・防災研究センター",
+     "position": "特任講師",
+     "project_title": "園芸療法の現象学―実践者の主観的経験の積極的評価による「障害の社会モデル」の適用",
+     "project_abstract": "障害に伴う困難の原因は本人を取り巻く社会的多数派の側にあるとする「社会モデル」を、国際社会が重視しつつある。これを園芸療法に適用するためには、療法士が対象者に働きかけるという、これまで自明視されてきた一方通行の二元論的モデルから脱却する必要がある。ひとつの突破口は、園芸療法士たちが実践過程で自らが対象者から働きかけを受けていることを自覚しているという事実である。その主観的にしか語ることのできない経験の意義を評価することにより、園芸療法が社会的多数派にどのような働きかけができるかを検討する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 20
+ },
+ "https://www.inamori-f.or.jp/recipient/hiroshi-makino-2026-225614-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hiroshi-makino-2026-225614-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "牧野 浩史",
+     "affiliation": "慶應義塾大学 医学部",
+     "position": "教授",
+     "project_title": "社会的排除行動における神経機序の解明",
+     "project_abstract": "現代社会で深刻化する「社会的排除」は、ヒトや動物に共通する現象であり、脳のドーパミン報酬系が深く関与していると考えられている。しかし、同系がどのように排除行動を駆動するのか、その詳細なメカニズムは未解明である。本研究ではこの課題に対し、マウスにおけるドーパミン報酬系の多様性と排除行動の関連性を明らかにする。さらに、AIエージェントによる仮想社会構築を通じた理論的解析と、そこで同定された関連因子の実験的検証により、排除行動や差別に対する新たな介入策の基盤構築を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/hiroyuki-uechi-2026-225567-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hiroyuki-uechi-2026-225567-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "上地 浩之",
+     "affiliation": "京都大学 大学院薬学研究科",
+     "position": "准教授",
+     "project_title": "細胞内相分離による三細胞結合点の形成機構",
+     "project_abstract": "三つ以上の細胞の接着点「三細胞結合点」は、特異な局在分子により固有の生理機能を発揮します。これら分子的特徴が発現する機構は不明です。私は最近、細胞内相分離が三細胞結合点分子の局在、機能形成の一要素であることを見出しました。本研究では解析対象分子を拡張し、相分離のアイデア取り入れた試験管内再構成実験とショウジョウバエ遺伝学、ライブイメージングを組み合わせた解析により、三細胞結合点の分子動態・生理機能構築機序を説明しうる本概念の普遍性を提示することを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/hitomi-omata-rappo/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hitomi-omata-rappo/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "小俣ラポー 日登美",
+     "affiliation": "京都大学白眉センター",
+     "position": "特任准教授",
+     "project_title": "奇蹟という焦点——聖遺物をめぐる「事実」構築過程の歴史",
+     "project_abstract": "聖遺物は、聖なる人間の遺物で、カトリックキリスト教では信仰の対象となって尊ばれる。ただし、文字資料なしにその真贋が保証できず、それを通じた「奇蹟」の発現が歴史上その真正性を証明してきた。したがって「奇蹟」の証明は、かつては教会裁判の議題となって綿密に議論され、現在は科学実験の対象となっている。特定の出来事が「奇蹟」を検証する資料に反映される過程、資料の読解が「事実」の認識に反映される過程が、歴史「事実」の構築過程とみなされうる。その意味で本研究は、歴史ができるプロセスについての歴史研究である。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 28
+ },
+ "https://www.inamori-f.or.jp/recipient/jumpei-taguchi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/jumpei-taguchi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "田口 純平",
+     "affiliation": "東京大学医科学研究所",
+     "position": "特任助教",
+     "project_title": "遺伝子全長ヒト化マウスの汎用的作出を実現する基盤技術の開発",
+     "project_abstract": "マウスはヒトと99%の類似性を持つゲノムを有し、あらゆる医学・生命科学研究の有用なモデル動物です。一方で、遺伝子発現やタンパクの三次元構造などヒトとは異なる面も多々存在することから目的のマウス遺伝子領域をヒト遺伝子領域に置換する技術(遺伝子のヒト化)の必要性が指摘されていました。しかしながら、遺伝子のヒト化には数10-100kbに及ぶ広範なゲノム領域の組換えを誘導する必要があり、現在のところ汎用的な遺伝子ヒト化技術は確立されておりません。本研究では、高い相同組換え効率をもつES細胞に着目することで100kbを超えるゲノム領域を対象とした遺伝子全長ヒト化技術の開発を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/hoshino-ayuko/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/hoshino-ayuko/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "星野 歩子",
+     "affiliation": "東京大学 先端科学技術研究センター",
+     "position": "教授",
+     "project_title": "エクソソームが切り拓く疾患生物学",
+     "project_abstract": "エクソソームは、すべての細胞から産生されるウイルスほどの微小な小胞であり、タンパク質、脂質、核酸など、元の細胞由来の物質を含んでいる。これまでは細胞内の不要物を処理するメカニズムとして考えられてきたが、近年、産生細胞から別の細胞への取り込みが明らかになり、新たな細胞間コミュニケーションツールとして注目されている。本研究では、体内に拡散する小胞であるエクソソームによる細胞間の相互作用メカニズムが、遠隔に位置する組織を結びつけ、様々な疾患の発症や病態に関与する可能性があり、これについて生理学的な新たな概念を開拓していくことを目指している。",
+     "amount_jpy": 100000000,
+     "period_start": "2024",
+     "period_end": "2033"
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/jingjing-xiang/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/jingjing-xiang/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "向 静静",
+     "affiliation": "立命館大学立命館アジア・日本研究機構",
+     "position": "助教",
+     "project_title": "20世紀前半における日本漢方医学書の中国への影響：東アジアの思想的交流の解明",
+     "project_abstract": "本研究は、日中における医学の交流が、中国の古典医書から日本への影響という一方的な関係にとどまらず、日本から中国への影響があったことを実証的に論じる。これまで、近世東アジアにおける『傷寒論』の注釈・流布によって発生した思想の変容について研究を進めてきたが、本研究では２０世紀前半における日本漢方医学書が近代中国に与えた影響を解明する。具体的には、近世日本で蓄積されてきた中国古典医書関係書が近代中国の医学・思想界に与えた影響を、これまで使われていない史料を用いて解明する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 36
+ },
+ "https://www.inamori-f.or.jp/recipient/jusaku-minari/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/jusaku-minari/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "三成 寿作",
+     "affiliation": "京都大学iPS細胞研究所",
+     "position": "特定准教授",
+     "project_title": "ゲノム編集技術の急速な発展に伴うヒト受精卵のあり方に関する倫理的考察",
+     "project_abstract": "2012年に登場したCRISPR/Cas9に代表されるゲノム編集技術により、様々な細胞の中にあるゲノム（全遺伝情報）を容易に書き換えられるようになってきています。ゲノム編集技術に関しては、多様な実践や応用が試みられていますが、とりわけヒト受精卵への適用のあり方をめぐっては、受精卵の有する「人間になり得る」という潜在性や含意に鑑み、倫理的・法的・社会的観点から熟慮を要します。このような状況に対し、本研究では国内における関連動向に焦点を当て、ヒト受精卵の社会的な位置づけ及び変遷過程について多角的に探究します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 28
+ },
+ "https://www.inamori-f.or.jp/recipient/kaoru-sonoda-2026-225586-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kaoru-sonoda-2026-225586-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "園田 薫",
+     "affiliation": "慶應義塾大学 商学部",
+     "position": "講師",
+     "project_title": "マイノリティの性質の重なりが雇用・企業に与える影響の実証的研究",
+     "project_abstract": "少数派となりやすいマイノリティとしての性質や属性は、性別や国籍、障害の有無などの要因によって多面的に決定されます。これまでマイノリティに関する研究は1つの属性に注目してきましたが、近年はその交差性への関心が高まっています。しかし、日本の企業では、マイノリティの雇用に関するデータの開示が進まずこの点がほとんど深掘りされていません。本研究は、この現状を変え、多様な人材が活躍可能な社会を模索していくためにも、マイノリティの性質の重なりが雇用の差別・不平等にもたらす影響について実証的に検討します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/kana-furukawa/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kana-furukawa/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "古川 可奈",
+     "affiliation": "大阪大学エマージングサイエンスデザインR3センター",
+     "position": "特任助教",
+     "project_title": "進化的に保存された気管組織ジャバラ様構造形成メカニズムの解明",
+     "project_abstract": "肺呼吸を行う動物にとって、空気を肺に送る唯一の通り道である気管の管腔構造は、生命維持に直結する。気管は気管軟骨が等間隔で並ぶジャバラ様構造を持ち、この構造によりどんな体勢下でも気管の管腔構造は維持される。しかし、ジャバラ様構造形成メカニズムは未解明である。申請者はこれまでの研究で、哺乳類・鳥類・爬虫類に共通して存在しうるジャバラ様構造形成メカニズムを発見した。そこで本研究では、力学的解析と分子生物学的解析を組み合わせて、進化的に保存された気管組織ジャバラ様構造形成メカニズムの解明に挑む。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 37
+ },
+ "https://www.inamori-f.or.jp/recipient/katsuya-mutoh-2026-225602-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/katsuya-mutoh-2026-225602-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "武藤 克也",
+     "affiliation": "大阪公立大学 大学院理学研究科",
+     "position": "講師",
+     "project_title": "スピン相互作用を基軸とする機能性超原子の創成",
+     "project_abstract": "金属クラスターは、通常の原子のs, p, d軌道に相似した形状を持つ「超原子軌道（1S, 1P, 1D…）」と呼ばれる特異な電子状態を有している物質である。金属クラスターの化学をさらに発展させ機能性を拡張するためには、クラスターの電子状態を司る超原子軌道を理解し、金属コア内に局在する超原子軌道へ効果的にアプローチする方法論を確立することが重要である。本研究では、超原子軌道に対し化学結合形成を担う電子スピンに着目することで、超原子軌道の結合性相互作用や空間を介した相互作用の本質を解明することを目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/jun-ichi-sakamaki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/jun-ichi-sakamaki/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "坂巻 純一",
+     "affiliation": "順天堂大学医学部",
+     "position": "准教授",
+     "project_title": "オルガネラ膜脂質のユビキチン化の普遍性、分子基盤、生物学的意義の解析",
+     "project_abstract": "タンパク質へのユビキチンの連結は真核細胞で普遍的に見られる修飾反応であり、数多くの生命現象や疾患に関わることが知られている。ユビキチン化の標的は長らくタンパク質のみであると考えられてきたが、我々は、エンドソームやリソソームなどのオルガネラ膜やウイルス膜のリン脂質がユビキチン化されるという新しい修飾様式を発見した。しかし、修飾の分子機構やその破綻が細胞にどのような影響をもたらすかは不明である。本研究では、膜リン脂質のユビキチン化の分子機構、生物学的意義、疾患との関連を解明することを目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 54
+ },
+ "https://www.inamori-f.or.jp/recipient/kawaguchi-kyogo-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kawaguchi-kyogo-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "川口 喬吾",
+     "affiliation": "理化学研究所 開拓研究所",
+     "position": "主任研究員",
+     "project_title": "インテリジェントマターの創発原理の解明",
+     "project_abstract": "生き物はエネルギーを使って自分の状態を保ち続けています。物理学ではこれを「非平衡系」と呼びますが、川の流れや天気の移り変わりも同じく非平衡です。では、生命は何が特別なのか？ 私は、生命がただエネルギーを使うのではなく、環境に応じて「うまく」使っているところ、いわば知的な物質である点にこそ鍵があると考えています。この「インテリジェントマター」の物理を探究することで、生命とは何かという問いに、新しい角度から光を当てたいと思っています。",
+     "amount_jpy": 100000000,
+     "period_start": "2026",
+     "period_end": "2035"
+    }
+   ]
+  },
+  "elapsed_s": 31
+ },
+ "https://www.inamori-f.or.jp/recipient/kazuhisa-murai-2026-225603-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kazuhisa-murai-2026-225603-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "村居 和寿",
+     "affiliation": "金沢大学 医薬保健研究域",
+     "position": "助教",
+     "project_title": "リパーゼによるウイルスの多段階制御に基づく抗ウイルス戦略の構築",
+     "project_abstract": "従来、脂質代謝酵素として知られてきた特定の宿主タンパク質が、ウイルス感染時に自然免疫応答を抑制する新たなメカニズムの解明を目指す研究です。このタンパク質はウイルスの細胞侵入を促進するだけでなく、細胞内での防御反応を強力に抑え込む多機能性を持ちます。本研究では、この多段階制御機構を明らかにし、ウイルス変異に左右されない「ホスト指向型」の革新的な抗ウイルス治療戦略の構築に繋げます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 22
+ },
+ "https://www.inamori-f.or.jp/recipient/katsuma-hayashi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/katsuma-hayashi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "林 克磨",
+     "affiliation": "京都大学大学院医学研究科",
+     "position": "特定助教",
+     "project_title": "感染の場の異質性を加味した感染症流行動態モデルの構築",
+     "project_abstract": "感染症の流行動態を深く理解するため、年齢、地理、免疫状態など異質性を考慮したモデル構築が不可欠である。COVID-19の流行で、このような異質性を加味したモデルの重要性が再確認された。日本はパンデミック初期に、クラスターの性質に着目をした。それは集団感染が生じた場に焦点を当てた対策であった。しかし、感染の場の異質性が感染症伝播にどの程度影響するかは明確ではない。本研究では、感染の場の異質性をモデルに取り入れ、その影響を分析する。また、COVID-19とインフルエンザの伝播メカニズムの違いの解析も行い、感染の場の情報が、将来の感染症サーベイランスにどの程度重要であるかを定量的にしめすことも目標とする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 38
+ },
+ "https://www.inamori-f.or.jp/recipient/kayo-takahashi-2026-225588-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kayo-takahashi-2026-225588-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "髙橋 佳代",
+     "affiliation": "鹿児島大学 大学院臨床心理学研究科",
+     "position": "准教授",
+     "project_title": "AIを活用した医療機関における軽度知的障害者の就労定着支援の開発と効果の検証",
+     "project_abstract": "知的発達症者が医療機関でやりがいを持って就労を継続するためのAIを活用した定着支援モデルを開発・検証する。障害者雇用は法定雇用率の達成に偏りやすいが、本来は機関の人材育成に資する「攻め」の取り組みである。知的発達症者が人を支える立場で活躍することにも意味がある。医療福祉領域では感染対策等により受入れが限定的であり、知的障害者の1年後定着率は68%にとどまる。そこでAIを活用し、業務の可視化・切り出し、個人特性と業務のマッチング、困難場面を想定した研修・相談システムを構築する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/kazuki-kato-2026-225610-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kazuki-kato-2026-225610-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "加藤 一希",
+     "affiliation": "東京科学大学 総合研究院",
+     "position": "准教授",
+     "project_title": "新規プロテアーゼ型CRISPR-Cas酵素の探索と多様な抗ウイルス防御機構の解明",
+     "project_abstract": "CRISPR-Cas機構は、原核生物が備えるファージに対する獲得免疫システムです。Cas9をはじめとする多彩なCas酵素がゲノム編集等に応用されていますが、申請者は東京湾の硫酸還元菌から、RNA依存性プロテアーゼ活性を示すCas7-11:Csx29複合体を発見しました。Cas7-11:Csx29複合体は標的RNAの認識に伴い活性化し、基質タンパク質（Csx30）を特異的に切断しますが、このプロテアーゼ活性がいかなる分子機序で抗ウイルス防御に寄与するかは未解明です。本研究では、バイオインフォマティクスによる大規模探索で、未知のホモログを同定し、遺伝学・生化学・構造生物学的解析を統合することで、Cas7-11:Csx29プロテアーゼが制御する多様な免疫応答戦略の全容解明を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.inamori-f.or.jp/recipient/keisuke-ikawa/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/keisuke-ikawa/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "井川 敬介",
+     "affiliation": "名古屋大学大学院理学研究科",
+     "position": "助教",
+     "project_title": "不均一ながん微小環境で引き起こされる細胞間相互作用機構の解明",
+     "project_abstract": "がん原性細胞を取り巻くがん微小環境では、変異による遺伝的変化に加え、免疫細胞の集積などの周辺環境の変化を通じて不均一性が獲得・増強されることがわかってきた。しかしながら、不均一ながん微小環境で生じる複雑な細胞間相互作用の全貌と、そのがん成長への関与は未解明である。本研究では、空間トランスクリプトームを実施し、がん微小環境における局所的な細胞間相互作用を明らかにすると共に、遺伝学的解析やライブイメージングを実施することで、不均一ながん微小環境で引き起こされる腫瘍成長制御の分子基盤の解明を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/kenta-maruyama/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kenta-maruyama/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "丸山 健太",
+     "affiliation": "愛知医科大学医学部",
+     "position": "教授",
+     "project_title": "大腸癌の予防を目指した基礎的研究",
+     "project_abstract": "大腸癌と腸内環境の関係性は驚くほどよくわかっていません。本研究では、腸内には大腸癌の進展を制御する未知の液性因子が存在しているとする作業仮説を検証し、当該機構をうまく利用する技術を開発することを通じて、新しい大腸癌生物学の開拓を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/kengo-tomida/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kengo-tomida/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "富田 賢吾",
+     "affiliation": "東北大学大学院理学研究科",
+     "position": "准教授",
+     "project_title": "大規模並列計算に対応した輻射磁気流体シミュレーションコードAthena++の開発",
+     "project_abstract": "天体現象の研究では実験が不可能なため、計算機シミュレーションが重要な役割を担っています。天体現象は様々な物理過程が絡み合う複雑な現象であり、そのシミュレーションには流体力学・重力・磁場・化学反応・放射などを取り入れた高性能な計算コードが必要になります。特に放射輸送はあらゆる天体現象に共通する基礎的な物理ですが、光の速度が非常に速いため星・惑星形成過程のような系では計算が困難です。本研究では、誰もが放射磁気流体計算を研究に利用できるよう、高速な放射流体シミュレーションコードを開発・公開します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/kenta-tamaki-2026-225591-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kenta-tamaki-2026-225591-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "玉木 健太",
+     "affiliation": "名古屋大学 大学院理学研究科",
+     "position": "助教",
+     "project_title": "光応答性サイボーグ型微小管の創製と動的機能制御",
+     "project_abstract": "人工分子によるタンパク質のサイボーグ化は、その卓越した動的機能を外部から可逆的に精密制御する新たな手法となる可能性を秘めています。本研究では、細胞骨格を形成するタンパク質「微小管」を、光応答性人工分子「アゾベンゼン」で直接化学修飾することで、その動的な形成・分解プロセスの光による可逆制御に挑戦します。さらに、この制御メカニズムを応用し、天然には存在しない新たな動的機能の創出を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/keisuke-yamane/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/keisuke-yamane/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "山根 啓輔",
+     "affiliation": "豊橋技術科学大学大学院工学研究科",
+     "position": "准教授",
+     "project_title": "シリコンフォトニクス応用に向けたIII族-V族元素共添加ゲルマニウム発光素子材料の開発",
+     "project_abstract": "近年、シリコンフォトニクス分野の急速な発展から、発光素子以外の光デバイスが自在にSi基板上に作製できるようになり、ワンチップ上へセンサや光通信機能を集積させる要素技術がそろいつつある。最後のキーデバイスはCMOSプロセス互換性のある発光素子である。申請者はこれまでに、発光デバイスとLSIをモノリシック集積する技術を開発してきた。しかしながら、材料的制約から光通信に用いる赤外光源の実現には至らなかった。本研究ではCMOS互換性のある赤外発光素子材料を新たに開発することで、真のモノリシック集積技術を確立することに挑戦する。先行研究例のある材料系（InGaAs、 GeSn、 n-Ge等）は未だシステム化への出口が見えていないため、これらの従来材料を踏襲せず、Si集積回路に親和性の高い新規材料の開拓に独自路線で挑戦する。具体的にはIII-V族半導体結晶とGeの混晶化技術を開発し、電気的、光学的特性を評価し、発光素子の作製を目指す。本研究目標が達成されれば、チップ間光通信を外部光源に頼る既存のシリコンフォトニクスにおいて、従来路線から逸脱したイノベーションをもたらすことが期待できる。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 35
+ },
+ "https://www.inamori-f.or.jp/recipient/keiko-ishii/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/keiko-ishii/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "石井 慶子",
+     "affiliation": "中央大学理工学部",
+     "position": "准教授",
+     "project_title": "廃熱を必要に応じて取り出せる多機能性流体の創生",
+     "project_abstract": "現代は大量の熱が無駄になっています。無駄になった熱をためておき、必要に応じて取り出すことができる機能的な流体を創生します。蓄熱材や磁性材を含んだマイクロカプセルを流体内に含有させます。蓄熱を取り出す技術や、カプセルを駆動する技術の高度化をします。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 47
+ },
+ "https://www.inamori-f.or.jp/recipient/kenji-takada-2026-225587-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kenji-takada-2026-225587-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "高田 健司",
+     "affiliation": "山形大学 大学院有機材料システム研究科",
+     "position": "准教授",
+     "project_title": "糖ユニットを基盤とした次世代エンジニアリングプラスチックの開発",
+     "project_abstract": "本研究では、天然に存在する糖の一種であるトレハロースを出発原料とし、高い耐熱性と機能性を兼ね備えた新しいプラスチック材料の開発を目指す。トレハロースの分子構造を活かして高分子の原料となる化合物を設計・合成し、これを用いてポリアミドやポリイミドなどの高性能ポリマーを作製する。さらに、マルトースやラクトースなど他の二糖類にも展開し、再生可能資源から高性能材料を生み出すための分子設計指針を明らかにする。本研究により、環境負荷低減と高性能を両立する持続可能な高分子材料の創出が期待される。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 39
+ },
+ "https://www.inamori-f.or.jp/recipient/kentaro-ueda-2026-225566-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kentaro-ueda-2026-225566-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "上田 健太郎",
+     "affiliation": "東京大学 大学院工学系研究科",
+     "position": "講師",
+     "project_title": "非従来型超伝導体の探索に向けた極低温技術の開発",
+     "project_abstract": "量子力学や統計力学によって生じる奥深い現象を内包した凝縮系物理学は、現代物理学の最重要分野の一つである。中でも、低温実験分野は、磁性や超伝導などの種々の秩序相や量子効果の基礎科学的探究に主導的な役割を果たしている。応用として、量子コンピュータなど次世代量子技術への波及効果も期待され、当該分野は隆盛を極めている。\n本研究では、簡単かつ短時間での極低温環境を得られる断熱消磁冷凍機と多目的測定装置と組み合わせたシステムを開発し、新しい量子技術に応用可能な非従来型超伝導の開拓と解明を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/kentaro-kawasaki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kentaro-kawasaki/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "川崎 賢太郎",
+     "affiliation": "東京大学大学院農学生命科学研究科",
+     "position": "准教授",
+     "project_title": "農業発展と獣害に関する統計分析：ブータンを対象として",
+     "project_abstract": "農業は気象災害や病害等、様々なリスクに直面している。本研究では中でも野生動物による獣害リスクに焦点を当てて、研究を行う。対象地はブータンである。森林や動物の保護に力を入れるブータンでは、獣害による収穫ロスが生産量の3割にも達する。獣害は、農家の新品種、農業機械、肥料等の新技術に対する投資意欲はもちろん、極端な場合には生産意欲そのものを奪ってしまう。こうした農業の長期的な発展に対して、獣害のリスクやその対応策が及ぼす影響を、統計分析と現地調査によって明らかにする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.inamori-f.or.jp/recipient/kiyoshi-miyata-2026-225600-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kiyoshi-miyata-2026-225600-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "宮田 潔志",
+     "affiliation": "九州大学 大学院理学研究院",
+     "position": "准教授",
+     "project_title": "高速混合と高速分光を用いた新規反応中間体分析法の開拓",
+     "project_abstract": "化学反応開発において、分子レベルでの反応機構解明は不可欠である。特に複数の反応物が関わる多段階反応を理解し制御するためには、複雑に絡み合った素反応をいかに切り分けて理解していくかが鍵となる。しかし、従来の反応分析の手法では、複数分子が関わる衝突律速の反応制御が難しく議論が間接的といった点が課題であり、特に下流の反応機構について選択的に実時間解析を報告した例は極めて限られている。本研究では、高速混合と分光のシステムを組み合わせることにより、短寿命中間体の計測を含め反応メカニズムの解明に切り込む分析の方法論を開発する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/kohei-ichikawa/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kohei-ichikawa/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "市川 幸平",
+     "affiliation": "早稲田大学理工学術院",
+     "position": "准教授",
+     "project_title": "すばる望遠鏡HSCダークな電波天体からさぐる最遠方超巨大ブラックホールの探査",
+     "project_abstract": "銀河の中心核には膨大な質量をもつ超巨大ブラックホールが存在するが、その質量獲得の起源は未だ謎に包まれている。私はガス吸収に強いGHz帯電波観測での活動銀河核探査を行い、さらにすばる望遠鏡搭載の超高感度可視光撮像装置HSCでさえ対応天体が非検出の\"HSC dark\"電波源を発見した。この天体はライマンα輝線が近赤外線帯域に移った宇宙初期にある超巨大ブラックホールの重要候補である。本研究では、本天体の初の分光同定を行い、宇宙最遠方の電波で明るい活動銀河核の初検出を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/koji-noshita-2026-225593-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/koji-noshita-2026-225593-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "野下 浩司",
+     "affiliation": "九州大学 大学院理学研究院",
+     "position": "助教",
+     "project_title": "葉脈ネットワークの「かたち」の多様性の解明",
+     "project_abstract": "葉脈は植物の水分・光合成産物の輸送を担うネットワーク構造であり、その形態は機能的要請と発生的制約のトレードオフの下で多様化してきた。本研究では、深層学習モデルに基づく画像解析とネットワーク特徴量に基づく定量化手法を国内外の葉脈画像データベースに適用し、被子植物における葉脈ネットワーク構造の多様性と規則性を全球規模で明らかにする。また、葉脈画像データの拡充に向けた新たな取得法の開発に取り組む。さらに、気候データベースとの統合解析により、葉脈の形態的多様性を規定する環境要因の解明を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/kosuke-kiyama-2026-225576-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kosuke-kiyama-2026-225576-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "木山 幸輔",
+     "affiliation": "筑波大学 人文社会系",
+     "position": "助教",
+     "project_title": "アフリカを参照項とした紛争後和解の倫理：ルワンダでの調査、倫理的意味の探究、紛争後表象への範例提示",
+     "project_abstract": "この研究は、アフリカにおいて紛争後に人々が積み上げた行為や実践の意味を探ります。それによって、紛争後の共生へ向けた倫理を探求するとともに、紛争後表象における要求事項や望ましい範例の提示を行うことを目指します。特にルワンダ・ジェノサイド後の実践を、記念館や記念碑に焦点を当てて考察しつつ、西洋の道徳・政治・法哲学における和解実践と対照していきます。アフリカにおいて人々が重ねた実践から紛争後の共生の参照項を獲得する一つの道筋を示すこと。これが、本研究が達成を目指す目標です。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 20
+ },
+ "https://www.inamori-f.or.jp/recipient/koya-hirose-2026-225594-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/koya-hirose-2026-225594-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "廣瀬 航也",
+     "affiliation": "宮城教育大学 教育学部",
+     "position": "准教授",
+     "project_title": "リール市レオン・ド・ロニー文庫を中心としたフランスにおける日本美術関連資料に基づく「日本学」の構想",
+     "project_abstract": "フランスにおける「日本学」の創始者であるレオン・ド・ロニー（Léon de Rosny : 1837-1914）は、リール市図書館にその膨大な蔵書を遺している。従来もこの蔵書については、日本・フランスの研究者が様々な観点から調査を実施してきたが、彼の日本美術関連資料については十分な調査・検討はなされていない。本研究では、ロニーの日本美術関連蔵書を調査し、彼の著作や学術的営為の中でその意義を検討する。その結果を、フランス国内の他の日本美術関連資料と照合し、ジャポニスムの文脈を参照しながら、同時代のフランスにおける「日本」をめぐる知のネットワークの中に位置付けることで、「日本」という枠組みがその外部であるフランスにおいてどのように捉えられてきたのかを明らかにすることを目的とする。以上の調査・考察を通して、「日本学」という学問領域の変遷をその草創期から辿るとともに、今日における学際的・国際的な「日本学」の枠組みを構想する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/kyogo-kobayashi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kyogo-kobayashi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "小林 曉吾",
+     "affiliation": "九州大学大学院理学研究院",
+     "position": "助教",
+     "project_title": "場所に関する記憶の識別に関与する細胞基盤の解明",
+     "project_abstract": "「自分が今どこにいるのか？」や「昨日どこに行った？」というように、場所に関する記憶を正確に獲得・維持することは、豊かな日常生活を送るためには欠かせません。場所に関する記憶の識別に異常が生じると、よく知っているはずの場所で道に迷う「徘徊」や、違う場所で起きた出来事同士を混同してしまう「過誤記憶」などが引き起こされてしまいます。私たちは最近、脳の中にある海馬と呼ばれる領域において環境認知に関与する脳神経活動の計測を行い、「環境細胞」という新規の細胞集団を発見しました(Kobayashi and Matsuo, Cell Reports 2023)。しかし、脳海馬には環境細胞以外にも、場所細胞や記憶痕跡細胞といった細胞も場所に関する記憶の形成に重要な役割を果たすことが先行研究により示唆されています。具体的には、「どの細胞」が「どのように活動する」ことで正常な記憶が成立し、また「どのように異常になる」ことで場所認識が破綻するのか、その詳細な細胞メカニズムは未解明の点が多く残されています。そこで本研究では、海馬細胞の網羅的な神経活動計測を行い、場所に関する記憶の識別に関与する細胞基盤の解明に挑みます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/kotaro-hiramatsu-2026-225613-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kotaro-hiramatsu-2026-225613-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "平松 光太郎",
+     "affiliation": "九州大学 大学院理学研究院",
+     "position": "教授",
+     "project_title": "明滅フリー超局在顕微鏡の開発と応用",
+     "project_abstract": "本研究では、独自の多色「ラマンタグ」とスパースモデリングを融合した新しい超解像イメージング技術を開発し、明滅フリーかつ高速な超解像技術の確立を目指します。これにより、明滅を待たずに1回の撮影でナノレベルの構造を特定でき、高速化を実現します。細胞内の高速な分子の動きをリアルタイムで可視化し、生命現象の解明や革新的な医療診断技術への応用を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 28
+ },
+ "https://www.inamori-f.or.jp/recipient/makoto-fukushima-2026-225595-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/makoto-fukushima-2026-225595-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "福嶋 誠",
+     "affiliation": "広島大学 大学院先進理工系科学研究科",
+     "position": "准教授",
+     "project_title": "脳コネクトームの構造的結合パターンが担う機能の解明",
+     "project_abstract": "従来のネットワーク分析により、脳コネクトームの構造的結合パターンにはグラフとしての特徴的な性質が存在することが示されてきましたが、これらの性質が具体的にどのような認知機能を支えるのかは明らかではありませんでした。そこで本研究では、脳コネクトームの構造的結合パターンを組み込んだ人工神経回路網モデルを構築し、計算機上で実装された多数の認知タスクに適用します。このときのタスク性能を帰無モデルを用いたときの性能と比較し、脳コネクトームの構造的結合パターンがもたらす効果を各タスクにおいて検証していきます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 21
+ },
+ "https://www.inamori-f.or.jp/recipient/kyohei-takae/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kyohei-takae/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "高江 恭平",
+     "affiliation": "東京大学生産技術研究所",
+     "position": "特任講師",
+     "project_title": "スキルミオン凝縮相におけるダイナミクスの普遍構造",
+     "project_abstract": "カイラリティをもつ磁性体や分子結晶・液晶などの凝縮系において現れるスキルミオンおよび半スキルミオンの運動を制御することは、機能的な材料設計のために必要不可欠である。スキルミオンの凝縮相におけるダイナミクスは、理論的な機構解明がなされていないが、最近我々は、分子結晶における半スキルミオンの特異な拡散・緩和を見出した。そこで、本研究課題においては、磁気スキルミオンの凝縮相におけるダイナミクスを探索することで、磁性体と分子結晶に共通する高密度スキルミオンの普遍構造を明らかにすることを目的とする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/kyota-mikami-2026-225599-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kyota-mikami-2026-225599-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "三上 杏太",
+     "affiliation": "京都大学 大学院工学研究科",
+     "position": "助教",
+     "project_title": "高温エレクトロニクスの開拓を目指した炭化ケイ素pチャネルMOSトランジスタの物理モデル構築",
+     "project_abstract": "現在主流のシリコン半導体を用いるCMOS集積回路は、材料物性に起因して本質的に300℃以上の高温環境で動作できず、燃焼炉制御・地下資源掘削・金星探査には使用できません。本研究では高温動作の観点で有望な炭化ケイ素(SiC)半導体を用いるCMOS集積回路の実用化を目指し、これを構成するpチャネルMOSトランジスタの物理モデルを構築します。これにより、現代社会に必要不可欠なエレクトロニクスを超高温域へと拡大し、学術と産業双方の発展に貢献します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/kyoko-kitamura-2026-208678-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/kyoko-kitamura-2026-208678-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "北村 恭子",
+     "affiliation": "東北大学 大学院工学研究科",
+     "position": "教授",
+     "project_title": "単一素子円偏光レーザーの開発",
+     "project_abstract": "単一素子で同軸上に円偏光を発する新たなレーザーを開発し、光センシング技術や量子情報技術等の発展への貢献を目指す研究。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/masahito-sakoda/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/masahito-sakoda/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "迫田 將仁",
+     "affiliation": "北海道大学大学院工学研究院",
+     "position": "助教",
+     "project_title": "強相関化合物CaRuO3で現れる桁外れなサイズ効果のメカニズム解明",
+     "project_abstract": "CaRuO3薄膜の厚さ依存して電気抵抗率が25Å周期で変動するサイズ効果を発見した。わずか１ナノメートルの膜厚を変えるだけで、電気抵抗率は３０億倍（低温）も増大する。CaRuO3が強い電子相関に由来して絶縁化する可能性を探り、新奇サイズ効果の発現メカニズムを解明する。電子相関の影響を明らかにするため、X線回折を用いて格子を調べる。蒸着するCaRuO3は基板より格子定数が小さい。しかし、いくつかの膜厚においては基板の格子定数を上回る顕著な格子の拡大を見出している。格子の膜厚依存性を測定して絶縁体の形成を解明する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 22
+ },
+ "https://www.inamori-f.or.jp/recipient/koki-katsuhara/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/koki-katsuhara/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "勝原 光希",
+     "affiliation": "岡山大学学術研究院環境生命自然科学学域",
+     "position": "助教",
+     "project_title": "送粉者を介した競争関係にある植物の多種共存メカニズム",
+     "project_abstract": "植物の多くは、ハチや鳥といった送粉者に繁殖を依存しており、複数種が送粉者を共有する場合、自種花粉が他種に運ばれ無駄になったり、他種花粉の干渉が種子生産に悪影響を与えたりする等、送粉者を介した競争が発生します。古典的な理論がこのような競争が共存を困難にすると指摘してきた一方、送粉者を共有する複数種の共存は、野外でしばしば観察されます。本研究では、身近な雑草であるツユクサ属植物を対象に、野外生物群集を模した実験と、現代共存理論と呼ばれる枠組みを組み合わせ、多種共存メカニズムの解明を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 57
+ },
+ "https://www.inamori-f.or.jp/recipient/manabu-okui/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/manabu-okui/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "奥井 学",
+     "affiliation": "中央大学理工学部",
+     "position": "准教授",
+     "project_title": "人工筋肉駆動打楽器演奏ロボットの開発を通したヒトの脱力活用メカニズムの解明",
+     "project_abstract": "生物は関節剛性を変化させ脱力状態を巧みに活用して多様な動作を可能にしているが、そのメカニズムは完全には明らかになっていない。本研究課題では、関節剛性の制御が可能な人工筋肉アクチュエータを用いた打楽器演奏ロボットを開発し、その制御開発を通してヒトの脱力活用メカニズムの解明を目指す。これより、スポーツ選手や楽器演奏者のようにアクチュエータの性能を最大限に活かす制御の実現が期待される。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/masaki-takasugi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/masaki-takasugi/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "高杉 征樹",
+     "affiliation": "大阪公立大学大学院医学研究科",
+     "position": "講師",
+     "project_title": "適応的な加齢変化とその制御機構の解明",
+     "project_abstract": "我々はこれまで、加齢に伴う遺伝子発現変化の一部は個体の寿命という観点からは有益な変化であり、比較生物学がそのような適応的な老化を浮き彫りにするための強力な手法である事を示唆する結果を得てきた（PMID: 37351606）。本研究では、独自の比較生物学的手法に基づき適応的である事が示唆された加齢変化について、動物実験による証明を行う事で「分子レベルの加齢変化の良い側面」と「分子レベルの加齢変化の悪い側面」を区別するための方法論を確立し、「適応的な老化」の実態とそのコントロール法を示す事を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 28
+ },
+ "https://www.inamori-f.or.jp/recipient/masato-yamamichi-2026-222215-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/masato-yamamichi-2026-222215-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "山道 真人",
+     "affiliation": "情報・システム研究機構 国立遺伝学研究所",
+     "position": "准教授",
+     "project_title": "環境変動が進化的救助に及ぼす影響：理論と実証",
+     "project_abstract": "生物集団の絶滅プロセスを解明することは、基礎的な生態学・進化生物学の中心的なテーマであるだけでなく、応用的にも非常に重要な課題です。近年になって、生物が環境変動に対して迅速に適応進化し、絶滅を回避する「進化的救助」という現象に注目が集まっています。本研究では進化的救助に環境変動が与える影響に焦点を当て、マイクロコズムを用いたプランクトン培養実験と数理モデル解析を組み合わせて、進化と絶滅の相互作用についての知見を深めていきます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/masayuki-munekane/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/masayuki-munekane/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "宗兼 将之",
+     "affiliation": "金沢大学医薬保健研究域",
+     "position": "助教",
+     "project_title": "放射性ハロゲンで標識した抗体薬物複合体の開発",
+     "project_abstract": "抗体薬物複合体（ADC）は、がん細胞特異的な治療を可能とするバイオ医薬品として注目を集めているが、臨床試験において十分な治療効果が認められない例が多く存在する。本研究では、刺激応答性リンカーを介して治療用放射性核種で標識したDNA標的型薬剤を抗体に結合させたADCを開発することで、「抗体によるがん組織（がん細胞）への高い集積」と「がん細胞内の低pHや還元状態等の刺激に応答して放出される放射性標識体の核（DNA）への移行」の両方を達成することで、高い治療効果を得られる核医学治療法を開発する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 19
+ },
+ "https://www.inamori-f.or.jp/recipient/masato-yamamichi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/masato-yamamichi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "山道 真人",
+     "affiliation": "情報・システム研究機構国立遺伝学研究所",
+     "position": "准教授",
+     "project_title": "迅速な進化と共存動態：理論と実証",
+     "project_abstract": "資源をめぐって競争している多種がどのように共存しているのか、という問いは、生態学における中心的なテーマとして研究されてきました。一方で近年になって、生物が環境変動に対して迅速に適応進化することが明らかになってきました。そこで、迅速な進化がどのように多種共存を促進するかというテーマについて、マイクロコズムを用いた培養実験と数理モデル解析を組み合わせて研究を発展させていきます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 33
+ },
+ "https://www.inamori-f.or.jp/recipient/miki-mochizuki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/miki-mochizuki/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "望月 美希",
+     "affiliation": "静岡大学情報学部",
+     "position": "助教",
+     "project_title": "福島第一原発事故における「通い復興」と生活再建の現状",
+     "project_abstract": "東日本大震災に伴い発生した福島第一原発事故の影響から、福島県では長期にわたり避難指示区域が設定されてきた。一方、長期・広域避難が続くなかで、「ふるさと＝元の居住地」との関係を維持しようと試みてきた住民の姿も見られる。本研究では、避難先と元の居住地を往来しながら地域の復興に携わる「通い復興」の現状を捉え、避難の超長期化においてどのような支援や制度的措置が求められるのかを検討する。特に、福島県浪江町大堀地区の伝統産業である「大堀相馬焼」を事例として、フィールドワークによる実証的研究を行う。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 18
+ },
+ "https://www.inamori-f.or.jp/recipient/mayu-urata/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/mayu-urata/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "浦田 真由",
+     "affiliation": "名古屋大学大学院情報学研究科",
+     "position": "准教授",
+     "project_title": "世界遺産白川郷における地域住民および観光客の主観情報収集によるオーバーツーリズム指標の開発",
+     "project_abstract": "本研究では、世界遺産白川郷を研究フィールドとして、住民と旅行者の観光客数に対する「感じ方」を収集するシステムを構築し、「オーバーツーリズム指標」を開発することを目的とする。住民や観光客等が感じたオーバーツーリズムに対する主観的な程度を一定期間スマホから登録できるようにし、村で収集している観光客数（推計）や駐車台数と照らし合わせることで、どの程度の観光客数がオーバーキャパシティとなるのか、住民や観光客の感覚と一致する指標を開発する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/miho-shiratori/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/miho-shiratori/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "白鳥 美穂",
+     "affiliation": "順天堂大学薬学部",
+     "position": "准教授",
+     "project_title": "一次求心性神経の遺伝子発現変化から迫る炎症性皮膚疾患の病態解明",
+     "project_abstract": "炎症性皮膚疾患は、全皮膚疾患における受診患者数上位 10 疾患のうち半数以上を占めています。罹患率は世界的に増加傾向にあり、既存薬が効かず難治化するケースも多いことが知られています。本研究では、一次求心性神経の遺伝子発現変化を起点に炎症性皮膚疾患の病態に迫ります。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/misaki-ishibashi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/misaki-ishibashi/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "石橋 美咲",
+     "affiliation": "京都大学大学院農学研究科",
+     "position": "助教",
+     "project_title": "イチゴの概日時計に対する器官別代謝リズムの影響",
+     "project_abstract": "植物は複数の時計遺伝子からなる概日時計をもち、それによって細胞伸長や花成などの生理現象を制御しています。概日リズムの維持については、一部の器官において代謝物の関与が示唆されています。本研究では、実生から果実まで様々な生育段階の器官を利用可能な栽培イチゴ（Fragaria × ananassa）の種子繁殖型品種を用い、器官ごとの代謝物動態と時計遺伝子のリズムを時空間的に比較します。代謝物の蓄積リズムの変化から、各器官における概日時計の維持や生理現象に及ぼす影響の解明を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/megumi-mukoyoshi-2026-225601-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/megumi-mukoyoshi-2026-225601-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "向吉 恵",
+     "affiliation": "京都大学 大学院理学研究科",
+     "position": "助教",
+     "project_title": "連続フロー合成法によるハイエントロピーMOFの創製",
+     "project_abstract": "本研究では、5種以上の金属イオンが均一に固溶した多孔性配位高分子（Metal–Organic Framework, MOF）である新物質群「ハイエントロピーMOF」の合成に挑戦します。従来のMOF合成技術では難しかった多元素固溶状態を、高温高圧下で瞬時に反応を完結させる連続フロー合成技術によって実現します。単一の金属種から構成されるMOFでは発現し得ない、特異なガス吸着・分離特性、触媒機能、イオン伝導性などの物性発現を狙います。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 44
+ },
+ "https://www.inamori-f.or.jp/recipient/motohiro-yasui-2026-225605-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/motohiro-yasui-2026-225605-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "安井 基博",
+     "affiliation": "京都工芸繊維大学 分子化学系",
+     "position": "助教",
+     "project_title": "未踏ヘテロ環を基盤とする機能性錯体の創出",
+     "project_abstract": "我々のグループでは最近、これまで確立していなかった1H-pyrrolo[1,2-b]pyrazole骨格の合成法を見出した。本骨格はインドール等と同じ10π電子系二環性ヘテロ芳香環であるが、物性は未解明である。本研究では本骨格の固有物性の解明と機能性分子への展開を目的とする。具体的には①エステル部位の除去・脱保護法の確立、②本骨格を配位子としたPt, Ruなどの有機金属錯体の合成、③aza-BODIPY類縁体の合成を行う。さらにこれら誘導体の光学特性および酸化還元特性を評価し、本骨格の物性を体系的に明らかにする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 22
+ },
+ "https://www.inamori-f.or.jp/recipient/naoko-okamoto/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/naoko-okamoto/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "岡本 尚子",
+     "affiliation": "人間文化研究機構人間文化研究創発センター",
+     "position": "研究員",
+     "project_title": "『千一夜物語』仏語訳者J.-C.マルドリュス研究－地中海地域における文学空間の実相解明に向けて",
+     "project_abstract": "エジプト出身でパリで活躍したJ.-C.マルドリュス(1868-1949)による『千一夜物語』仏語訳は、世界中で読まれる世界文学となっているものの、翻訳の底本が不明なこと等から研究者からの評価は低い。本研究では、遺族が保管していた未発表資料「マルドリュス遺贈コレクション」や親族への聞き取り調査等を通じて、マルドリュスをベル・エポック期のパリが持つ文化的機能や、地中海地域をパリを経由して世界へと広がる流れの中で再評価し、地中海地域の文学空間の実相の解明、更には文学研究の視点から地域研究の新たな理論の構築を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 19
+ },
+ "https://www.inamori-f.or.jp/recipient/masanori-nomoto/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/masanori-nomoto/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "野本 真順",
+     "affiliation": "富山大学学術研究部医学系",
+     "position": "准教授",
+     "project_title": "睡眠中の脳の情報処理ルールを解読する",
+     "project_abstract": "脳は夢を見るように、覚醒時と同様に睡眠時も活動しています。睡眠時の脳活動は記憶の定着や様々な認知機能に必要ですが、睡眠中の脳が情報処理する仕組みの多くは謎に包まれたままです。本研究では、睡眠時の影響を受けにくい嗅覚経路に注目し、光による疑似嗅覚刺激を用いて、覚醒―睡眠時の匂いに関する脳内表現と記憶情報をシームレスに追跡し、覚醒―睡眠状態における脳の情報処理の作動原理の解明を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 60
+ },
+ "https://www.inamori-f.or.jp/recipient/mitsuki-ozaki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/mitsuki-ozaki/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "尾﨑 充希",
+     "affiliation": "宮崎大学教育学部",
+     "position": "講師",
+     "project_title": "肢体不自由特別支援学校の主体的・対話的で深い学びの実現に向けたCO-OPを基盤とした授業づくり",
+     "project_abstract": "脳性まひ児者の教育課題の１つとして、主体性の育ちにくさが指摘されています。CO-OP（子ども中心の問題解決アプローチ）を特別支援学校の授業に導入することによって、脳性まひ児者の主体的・対話的で深い学びを実現させるとともに、自ら問題解決する力の育成を行いたいと考えています。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/mio-k-shiubta-2026-225583-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/mio-k-shiubta-2026-225583-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "澁田 未央",
+     "affiliation": "山形大学 理学部",
+     "position": "助教",
+     "project_title": "花粉管が伸びる際に精細胞を運ぶ栄養核の働きを解き明かす",
+     "project_abstract": "被子植物の花粉は、花粉管という細い管を伸ばして精細胞を運ぶ。「栄養核」は、大きく形を変えながら精細胞を先導する役割を担うが、そのダイナミックな形態変化の仕組みは未解明である。申請者はゲノムサイズの大きな植物を用いた高解像度観察により、栄養核の特徴的な表面構造と内部構造を発見した。本研究では、核膜やクロマチン構造の観察・解析から栄養核形態変化の制御機構を示し、栄養核がどのように形を変えながら花粉管の中を移動するのか、その仕組みの解明を目指す。将来的には交配技術や品種改良、種の保存への応用を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 36
+ },
+ "https://www.inamori-f.or.jp/recipient/naiqi-li/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/naiqi-li/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "李 乃琦",
+     "affiliation": "名古屋大学高等研究院",
+     "position": "特任助教",
+     "project_title": "「古代仏教辞典データベース」の構築と公開に向けた基礎的研究",
+     "project_abstract": "日本語学、中国語学、印度語学、人文情報学、仏教学、敦煌学を横断し、世界各地の古代仏教辞典を統合的に研究する。「古代仏教辞典データベース」を構築・公開し、仏典翻訳語の時代・地域・宗派による違いから、仏典のアジア各国への伝播と翻訳方法を検討する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.inamori-f.or.jp/recipient/naoyuki-matsumoto-2026-225598-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/naoyuki-matsumoto-2026-225598-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "松本 直之",
+     "affiliation": "情報・システム研究機構 国立遺伝学研究所",
+     "position": "特任助教",
+     "project_title": "神経回路の再編機構を単一細胞レベルのin vivoイメージングにより解析する",
+     "project_abstract": "脳の機能は、神経回路の適切なネットワーク構造により生み出されます。発生初期における神経回路の構築には、遺伝的な分子シグナルによる制御以外に、自発的な神経活動（自発活動）による回路の再編集が必要とされています。本研究では、自発活動と神経回路再編を生体内で同時に観察する先駆的なイメージング手法を用いることで、自発活動依存的な神経回路再編機構の詳細な解明を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/naomi-kuze-2026-225577-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/naomi-kuze-2026-225577-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "久世 尚美",
+     "affiliation": "和歌山大学 システム工学部",
+     "position": "講師",
+     "project_title": "クロスシャード通信効率化のための階層型committeeアーキテクチャ",
+     "project_abstract": "ブロックチェーンの拡張性の向上に向け、ネットワーク内のノードを複数のcommitteeに分割し、各committeeがブロックチェーンの断片（シャード）の管理を行うシャーディング技術が着目されている。一方で、シャード間の通信が必要となる場合、シャード数、committee内ノード数の増加に伴い、シャード間通信コストが増大するという問題がある。そこで、本研究においては、committeeを階層化し、上層committeeが下層committeeの通信の中継・集約・管理を行う階層型committeeアーキテクチャを提案し、通信コストおよびそれに伴う拡張性の観点からその有効性を示す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/nobuhiko-hosono/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/nobuhiko-hosono/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "細野 暢彦",
+     "affiliation": "東京大学大学院工学系研究科",
+     "position": "准教授",
+     "project_title": "ナノポーラス材料を利用したタンパク質精製およびリフォールディング技術の開発",
+     "project_abstract": "ナノサイズの微小な細孔を有する多孔性材料（ナノポーラス材料）を用いて、変性したタンパク質を認識し効率的に除去する技術や、正常な折りたたみ構造へと戻すリフォールディング技術の開発を行います。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/reiko-kuriyama-2026-225578-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/reiko-kuriyama-2026-225578-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "栗山 怜子",
+     "affiliation": "京都大学 大学院工学研究科",
+     "position": "准教授",
+     "project_title": "壁面せん断応力計測法の新規開発に向けた蛍光ナノプローブの設計と検証",
+     "project_abstract": "流れ場の力学的特性を評価する上で、壁面に作用するせん断応力の計測は不可欠な基盤技術ですが、従来法には侵襲性の高さや空間分解能の低さといった課題がありました。本研究では、これらの課題解決に向けて、力に応じて蛍光波長が変化する蛍光ナノプローブを設計し、せん断応力に対する応答性を実験により検証します。この研究を通じて、流体工学、医療工学、レオロジーなどの広範な分野に応用可能な、非接触かつ高空間分解能な計測技術の確立に寄与することを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/rigel-suzuki-2026-225585-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/rigel-suzuki-2026-225585-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "鈴木 理滋",
+     "affiliation": "九州大学 大学院医学研究院",
+     "position": "助教",
+     "project_title": "新規宿主因子によるB型肝炎ウイルス転写制御機構の包括的解析",
+     "project_abstract": "B型肝炎ウイルス（HBV）は肝細胞癌を誘導するDNAウイルスです。HBVの治療薬には、ペグインターフェロン製剤及び核酸アナログ型逆転写酵素阻害剤が存在しますが、いずれもウイルスDNAを完全に排除することができません。そのため、ウイルスタンパク質が合成され続け、肝細胞癌を引き起こす可能性があります。したがって、HBVの転写を抑制する新たな治療薬の開発が期待されますが、HBVの転写機構には未解明な点が多いです。本研究では新たに同定した宿主因子を中心にHBV転写制御機構の解明を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/rei-itsukushima/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/rei-itsukushima/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "厳島 怜",
+     "affiliation": "九州工業大学大学院工学研究院",
+     "position": "准教授",
+     "project_title": "河川地形の遷急点に着目した伏在活断層の探査手法の構築",
+     "project_abstract": "河川の縦断勾配の急変点である滝などの地形は遷急点と呼ばれ、その分布や形成は長大な時空間スケールの地球科学的現象を反映している。私は、遷急点の分布が地震活動と密接な関係にあり、遷急点や震源が密に存在するにも関わらず、断層が認められていない場所に、未発見の活断層が存在する可能性があることを明らかにし、本研究の着想を得た。地球科学と工学の融合により、未発見の活断層の新たな探査方法を確立することで、活断層型地震の被害軽減に寄与し、安全・安心な社会の構築に貢献したい。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/nobuaki-tanaka-2026-225590-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/nobuaki-tanaka-2026-225590-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "田中 伸明",
+     "affiliation": "北里大学 一般教育部",
+     "position": "講師",
+     "project_title": "ヨーハン・ゴットリープ・グラウンの音楽史的意義––器楽作品への検証を通じて",
+     "project_abstract": "ヨーハン・ゴットリープ・グラウン（1702/03–1771）―フリードリヒ大王の宮廷楽団でコンサートマスターを務めながら、名声とはほとんど無縁であったこの音楽家が、「前古典期」のドイツ音楽に重要な貢献をしていた可能性があります。本研究では、これまでほとんど探究されず手稿のまま残されてきたグラウン作品全般を対象に検討を行い、彼の規範的影響力を明らかにするとともに、ドイツに独自の音楽様式（≒混合趣味）が本当に成立していたのかという問題を、豊富な作品傍証を通じて実証的に解明することを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/norihito-arichi-2026-225563-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/norihito-arichi-2026-225563-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "有地 法人",
+     "affiliation": "京都大学 大学院薬学研究科",
+     "position": "助教",
+     "project_title": "メチオニン残基を標的とするタンパク質の光化学的修飾法",
+     "project_abstract": "本研究では、独自に見出した三重項ナイトレンの反応性を利用し、タンパク質中のメチオニン残基を標的とする光化学的修飾法を開発する。本手法は、タンパク質中の存在頻度が低いメチオニン残基を標的とするため、修飾数や修飾位置の精密な制御が可能である。薬物抗体比（DAR）が制御された抗体薬物複合体（ADC）をはじめ、均一なコンジュゲートを創製する基盤技術として本手法を確立し、バイオ医薬品開発や生命科学研究の進展へ貢献することを目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 38
+ },
+ "https://www.inamori-f.or.jp/recipient/ryo-takahashi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/ryo-takahashi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "髙橋 遼",
+     "affiliation": "お茶の水女子大学基幹研究院",
+     "position": "助教",
+     "project_title": "渦度ダイナミクスによるスピン流体発電の制御",
+     "project_abstract": "スピン自由度の輸送を駆使するスピントロニクスでは、音響振動などの力学効果を介しスピン流を生成・制御するアプローチが一つの研究対象となっています。スピン流体発電は、微細領域での液体金属の駆動流下で、力学回転（渦度）と電子スピンとの角運動量変換によりスピン流を生成します。渦度の揺らぎが発現の鍵となるものの、未だ制御性に欠けています。そこで本研究では視点を転換し、渦度のダイナミクスに着目します。音響振動により外部から渦度を制御するマイクロ流体デバイスを構築し、スピン流体発電の制御性確立を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/ryuichiro-narita/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/ryuichiro-narita/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "成田 龍一朗",
+     "affiliation": "秋田大学教育文化学部",
+     "position": "講師",
+     "project_title": "社会の分断に対するエゴイズム論の可能性――ドラ・マースデンを手掛かりに",
+     "project_abstract": "人種差別、性差やセクシュアリティによる差別、宗教的対立や貧富の格差など、社会の分断は現代社会の一つのキーワードとなっています。このような分断に対して、本研究ではドラ・マースデンの思想を手掛かりにして、エゴイズム論という新たな解決策の可能性を検討することを目的とします。それは社会の分断の原因をアイデンティティそのものに見て、各個人の全き自己性に生きること、敷衍すればアイデンティティに回収されない自分らしい生を徹底的に生きることにより、分断を徹底し、その先に真のエゴイスト同士の連帯を見るという考えです。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 28
+ },
+ "https://www.inamori-f.or.jp/recipient/ryo-ichijo/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/ryo-ichijo/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "一條 遼",
+     "affiliation": "京都大学医生物学研究所",
+     "position": "助教",
+     "project_title": "毛包幹細胞遠隔制御メカニズムの解明",
+     "project_abstract": "皮膚は表皮、真皮、皮下組織から形成される。これまで表皮、真皮における研究は数多く報告されているが、皮膚深層については未開拓の領域である。毛包は定常状態で伸長と退縮を繰り返す非常にユニークな器官である。これまで毛包を構成する毛包幹細胞、毛包幹細胞を取り巻く周囲の環境については、よく研究されてきた。しかし、毛包幹細胞が遠方から制御されている可能性については明らかとなっていない。本研究では、毛包幹細胞と皮膚深層との細胞間コミュニケーションに着目することで新たな毛包幹細胞制御メカニズムを明らかにする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 33
+ },
+ "https://www.inamori-f.or.jp/recipient/satoru-morimoto/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/satoru-morimoto/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "森本 悟",
+     "affiliation": "慶應義塾大学殿町先端研究教育連携スクエア",
+     "position": "特任准教授",
+     "project_title": "筋萎縮性側索硬化症における病態回避機構の解明と治療法開発",
+     "project_abstract": "筋萎縮性側索硬化症（ALS）は上位・下位運動ニューロンの脱落を伴う進行性致死性疾患であり、異常リン酸化TDP-43の蓄積や細胞脱落の度合いに運動ニューロンサブタイプごとの差が認められる。脊髄前角・舌下神経核では著明な変性を示す一方、Betz細胞や動眼神経核は比較的抵抗性を有する。さらに、ALS脊髄運動ニューロンではFOX2B低下が脆弱性に関与することを明らかにした。これを踏まえ、本研究はiPS細胞と患者脳脊髄を用い、特定の神経における病態回避機構を解明し、DMT含む新たなALS治療法の開発を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/ryohei-thomas-nakano/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/ryohei-thomas-nakano/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "中野 亮平",
+     "affiliation": "北海道大学大学院理学研究院",
+     "position": "教授",
+     "project_title": "根圏常在細菌が分泌し宿主植物の成長を制御する生理活性物質の同定",
+     "project_abstract": "植物は様々な微生物に囲まれて生きています。特に根圏に常在する微生物は植物の生長や免疫応答、ストレス耐性など様々な生理現象に大きな影響を及ぼします。そのため、野外環境における植物の真の生き様を理解するためには、これらの根圏常在微生物が植物生理に与える影響とその分子メカニズムを理解する必要があります。本研究では、シロイヌナズナの生長と免疫応答を操作する根圏細菌を対象に、その生理活性を担う物質を同定することを目指します。活性物質の生合成経路を明らかにすることで、植物と根圏微生物の共進化の謎に迫ります。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 33
+ },
+ "https://www.inamori-f.or.jp/recipient/satoshi-minami/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/satoshi-minami/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "南 聡",
+     "affiliation": "大阪大学大学院医学系研究科",
+     "position": "特任助教（常勤）",
+     "project_title": "1細胞RNAseq 解析を用いたAKI to CKD の病態解明と治療応用",
+     "project_abstract": "急性腎障害（AKI）は慢性腎臓病（CKD）に至る（AKI to CKD）。申請者はAKI to CKDの過程では近位尿細管細胞の中にAKI後修復されず萎縮に至る細胞群が存在しこの細胞群が多様な細胞間相互作用を介しCKD進展に働くことを同定したが、その分子機構は不明である。近年1細胞RNAseq解析により細胞分化の過程や制御因子同定、また細胞間相互作用の網羅的解析が可能となった。以上より本研究は1細胞RNAseq解析をはじめとした統合的解析からAKI後近位尿細管細胞が修復や萎縮に至る分子機構並びに細胞間相互作用の全貌を解明しAKI to CKDに対する治療応用を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/sagawa-takahiro-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/sagawa-takahiro-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "沙川 貴大",
+     "affiliation": "東京大学 大学院工学系研究科",
+     "position": "教授",
+     "project_title": "非線形・非平衡トポロジーとその熱力学への応用",
+     "project_abstract": "非線形性や非平衡性は、生物から量子まで多彩な系で重要な役割を果たします。本研究では、非線形・非平衡系を「トポロジー」の観点から解析し、擾乱に強い安定なふるまいが生まれる原理を解明します。とくに古典確率過程や非線形振動子など、従来トポロジーがあまり議論されてこなかった対象に注目し、新たなトポロジカル物理の地平を拓きます。さらにそれを熱力学へと応用し、省エネルギーな熱機関・情報処理の設計原理を提案します。",
+     "amount_jpy": 100000000,
+     "period_start": "2026",
+     "period_end": "2035"
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/seiko-suzuki-2026-217076-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/seiko-suzuki-2026-217076-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "鈴木 聖子",
+     "affiliation": "大阪大学 大学院人文学研究科",
+     "position": "准教授",
+     "project_title": "近現代日本の伝統音楽・伝統芸能をめぐる聴覚文化論：仲介者としての音楽研究者・芸能者・講演家の表現",
+     "project_abstract": "本研究は、伝統的な音楽芸能の「語り」の芸を近現代において理解するために新しい「語り」の聴覚的表現を創出した人々に光を当て、その仲介者としての仕事を聴覚文化史上に位置づけつつ、それを応用した聴覚的表現を現場で検討することを目的とする。具体的には、①伝統音楽・伝統芸能についての「解説」を得意とした音楽研究者、②伝統芸能を「話芸」で刷新した芸能者、③伝統芸能を援用した「講演」で魅惑した講演家の表現を取り上げ、音響的側面と文化的側面から分析した後、実際の「語り」の上演の場でフィードバックを積み重ねる。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/shiho-makino/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shiho-makino/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "牧野 支保",
+     "affiliation": "東京大学定量生命科学研究所",
+     "position": "助教",
+     "project_title": "初期胚発生におけるRNA分解の選択性を生み出す時空間的制御",
+     "project_abstract": "細胞質成分を大規模に分解するオートファジーは、オルガネラやタンパク質だけでなくRNAの分解に関わることが明らかとなってきた。最近研究代表者は、単細胞生物である出芽酵母においてオートファジーによって分解されやすい一群のRNAを同定した。その一方で、多細胞生物におけるオートファジーを介したRNA分解の詳細はほとんど理解されていない。本研究では、胚発生過程においてオートファジーによるRNA分解の選択性と、その生物学的意義の解明を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/shintaro-takahashi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shintaro-takahashi/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "高橋 慎太郎",
+     "affiliation": "学習院大学理学部",
+     "position": "助教",
+     "project_title": "脱テルル化反応を駆動力とする新規な典型元素カップリング反応の探索",
+     "project_abstract": "本研究では、テルル化合物を鍵中間体とした、脱テルル化反応を介する新規なシリルボランの合成法の探索を目的とする。シリルボランはケイ素およびホウ素源として有用な試薬であるが、電気陽性な元素同士を結合させる必要があり、合成法には工夫が必要である。本研究で目的とする合成法は、電気陽性なホウ素およびケイ素の元来の性質を保ったまま、テルルを仲介することでシリルボランを合成する新規性の高い合成法である。この合成法が達成された際には、従来の合成法では合成できなかった置換基を有する種々のシリルボランが合成できる。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/shohei-nosaki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shohei-nosaki/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "野崎 翔平",
+     "affiliation": "筑波大学生命環境系",
+     "position": "助教",
+     "project_title": "アルギニンリッチなDNA結合タンパク質の分子機能および生物学的意義の解明",
+     "project_abstract": "近年注目されているタンパク質液-液相分離は天然変性領域によって駆動されていることがと明らかにされていますが、特定の構造をもつドメインが液-液相分離に関わるかどうかの理解は不十分です。そのような中、私は植物で高度に保存されるアルギニンリッチなDNA結合タンパク質が試験管内で液滴形成およびゲル化すること、さらに液滴形成・ゲル化を起こさない変異体を見出しました。本研究では、その変異体を用いた生化学・分子生物学的解析を駆使することで、アルギニンリッチなDNA結合タンパク質の分子機能と生物学的意義に迫ります。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/shuhei-nakamura-2026-225612-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shuhei-nakamura-2026-225612-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "中村 修平",
+     "affiliation": "奈良県立医科大学 医学部",
+     "position": "教授",
+     "project_title": "リソソーム損傷応答の分子機構およびその老化における役割の解明",
+     "project_abstract": "リソソームは細胞内外成分の分解やシグナル伝達のハブとして働き、細胞および個体の恒常性維持に必須の働きをもつ。一方、リソソームは加齢に伴い機能低下し、これが老化や加齢性疾患の進展に関与すると考えられるが、この仕組みは不明である。本研究では、損傷を受けたリソソームに対処して恒常性を維持する「リソソーム損傷応答」に着目し、この応答の破綻がリソソーム機能低下と老化の要因になるとの仮説のもと、その分子機構と加齢に伴う変容の実態を明らかにする。得られた知見をもとに老化制御の新たな基盤創出を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/shun-kojima/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shun-kojima/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "小島 駿",
+     "affiliation": "東京大学生産技術研究所",
+     "position": "特任助教",
+     "project_title": "可視光通信システムにおける物理層秘密鍵生成法の開発",
+     "project_abstract": "近年、高速・大容量通信の需要増加に伴う周波数資源の逼迫問題への対応策として、可視光通信システムが注目されています。この実用化に当たっては、軽量・安全なセキュリティ技術が喫緊の課題となっています。そこで本研究では、可視光通信システムにおいて、伝搬路情報をランダム源とする軽量で情報理論的に安全な物理層秘密鍵生成手法を導入することで、低計算量で堅牢かつ高速な可視光通信の実現を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/shun-fujii/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shun-fujii/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "藤井 瞬",
+     "affiliation": "慶應義塾大学理工学部",
+     "position": "助教",
+     "project_title": "原子層二次元物質で機能化した超高Q値微小光共振器による新奇ナノ光物性の開拓",
+     "project_abstract": "二次元材料は原子数層程度の薄さをもつ究極的な薄膜物質で、次世代のナノテクノロジー材料として大きな注目を集めています。しかし、この材料を真に利用価値のあるデバイスへ応用するためにはハイブリッド集積性に優れた手法の開発と、二次元材料の特異な物性を最大限に引き出す必要があります。本研究提案では、原子層二次元材料と高Q値微小光共振器を融合したハイブリッドデバイスの開発を通して、新たな高機能ナノ光デバイスの実現を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/shun-omagari/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shun-omagari/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "大曲 駿",
+     "affiliation": "東京科学大学物質理工学院",
+     "position": "助教",
+     "project_title": "超解像蛍光顕微鏡法と感温性希土類蛍光ナノビーズを組み合わせた新規ナノ温度計測技術の概念実証",
+     "project_abstract": "材料、デバイス、生体における温度は、デバイスの作製や動作、材料や生体の物理的特性の評価、およびそのメカニズムの解明において重要な情報である。特に近年、ナノテクノロジーの発展に伴い、ミクロスケールにおける現象の解明が急務となっており、ナノスケールの温度計測手法が注目を集めている。本研究では、ナノスケールの空間分解能を有する新規な温度計測手法を開発し、その概念実証を行う。具体的には、超解像蛍光顕微鏡法の一種であるRESOLFTと、温度計測において有用な発光特性を持つ希土類錯体を組み合わせる。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 37
+ },
+ "https://www.inamori-f.or.jp/recipient/shun-takahashi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shun-takahashi/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "高橋 駿",
+     "affiliation": "京都工芸繊維大学電気電子工学系",
+     "position": "准教授",
+     "project_title": "らせん型半導体フォトニック結晶を用いた電子スピン制御",
+     "project_abstract": "電場および磁場が「らせん軌跡」を描く円偏光は、同じ波長周期の「らせん型フォトニック結晶」を用いることで、高効率に制御できる。本研究では、さらに円偏光－スピン間の選択的な角運動量転写を利用することで、らせん型フォトニック結晶内部で円偏光を介して電子スピンを制御し、それを光学的に観測することを目的とする。らせん型フォトニック結晶の円偏光共振器モードに対して、円偏光とスピンの選択則が満たされる場合のみ、パーセル効果により活性層からの発光が増強されることを観測する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/shunsaku-kitagawa-2026-225575-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shunsaku-kitagawa-2026-225575-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "北川 俊作",
+     "affiliation": "京都大学 大学院理学研究科",
+     "position": "准教授",
+     "project_title": "多重超伝導状態の干渉がもたらす新奇準粒子励起の解明",
+     "project_abstract": "電気抵抗がゼロになる「超伝導」は、従来ひとつの物質にはひとつの状態と考えられてきました。しかし近年、複数の超伝導状態が同時に現れてせめぎ合う、特殊な物質が見つかっています。\n本研究は、そうした物質の中で異なる超伝導がぶつかり合う「境界線」に注目します。ミクロな世界の複雑な影響により、この境界線にはこれまで知られていなかった未知の粒子の振る舞い（エネルギー状態）が現れると予想されています。その性質を解き明かし、未来の画期的な技術や新素材の開発につなげることが本研究の目的です。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 21
+ },
+ "https://www.inamori-f.or.jp/recipient/shoki-kosai/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shoki-kosai/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "光斎 翔貴",
+     "affiliation": "立命館大学立命館グローバル・イノベーション研究機構",
+     "position": "准教授",
+     "project_title": "乗り換えかレストアか？自動車の資源循環を踏まえた天然資源消費量の評価",
+     "project_abstract": "昨今の研究により、車産業において炭素排出を減らそうとするイノベーションが新たに多大な資源負荷を誘発する可能性が明らかとなってきました。その中でますますサーキュラーエコノミーが重要視されていますが、本当にサーキュラーエコノミー戦略は期待できる資源削減効果をもたらすのでしょうか？私の研究では自動車の修理に注目し、真の資源削減効果を可視化することを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 49
+ },
+ "https://www.inamori-f.or.jp/recipient/shun-shibata/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/shun-shibata/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "柴田 峻",
+     "affiliation": "東北大学大学院医学系研究科",
+     "position": "助教",
+     "project_title": "ヒト胚着床オルガノイドモデルを用いた妊娠免疫母子間ネットワーク機構の深層解明",
+     "project_abstract": "少子化が進行する現代社会において、不妊症対策は最重要課題のひとつであります。特に、着床不全は改善が困難であり年間約17万件ともいわれています。本研究では、近年わたしたちが確立した着床オルガノイドに、母体免疫を模したシステムを付加したin vitroモデルを創出することで、胎児の免疫寛容機構の理解や着床不全の診断や治療に応用したいと考えています。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/tadayoshi-karasawa/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tadayoshi-karasawa/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "唐澤 直義",
+     "affiliation": "自治医科大学分子病態治療研究センター",
+     "position": "講師",
+     "project_title": "脂質代謝を標的とした順遺伝学による細胞死の制御法の確立",
+     "project_abstract": "これまで偶発的なネクローシスと考えられてきた細胞死にも、死を制御するプロセスが存在するRegulated cell death（RCD）が含まれることが明らかになってきており、多様な病態への関与が示唆されています。ネクローシス様のRCDは細胞膜の破綻を伴うことから、細胞膜を構成する脂質代謝の制御は、ネクローシス様RCDを制御する糸口になると期待されます。本研究では脂質代謝酵素を標的とした順遺伝学手法により、ネクローシス様RCDの感受性を規定する脂質と、その代謝酵素を明らかにすることを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 19
+ },
+ "https://www.inamori-f.or.jp/recipient/sotaro-kusumoto/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/sotaro-kusumoto/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "楠本 壮太郎",
+     "affiliation": "神奈川大学化学生命学部",
+     "position": "特別助教",
+     "project_title": "有用な溶媒蒸気を汎用的に捕捉可能な高機能吸着材料の開発",
+     "project_abstract": "配位性の揮発性溶媒であるメタノールやアミン類は産業的に重要であり、これらの捕捉・再利用技術の開発が求められている。本研究では、四配位Ni錯体を用いた溶媒蒸気の化学吸着材料を開発し、迅速かつ安定的な捕捉を目指す。この錯体は「四配位⇔六配位」の構造変換を駆動力とし、吸着・脱離が可能である。さらに、構造変化に伴う色変化を利用し、視覚的検知ができるセンサーとしての応用も期待できる。従来のNi錯体は高い平面性により応答性が低かったが、本研究ではかさ高い置換基を導入することで立体構造を変化させ、Niの活性点を露出させる。これにより、溶媒蒸気の吸着効率向上や反応時間短縮を期待する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.inamori-f.or.jp/recipient/taiki-sakaguchi-2026-225581-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/taiki-sakaguchi-2026-225581-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "坂口 大起",
+     "affiliation": "大阪大学 大学院医学系研究科",
+     "position": "特任助教",
+     "project_title": "潰瘍性大腸炎の粘膜修復を促す上皮幹細胞分化制御薬の開発",
+     "project_abstract": "潰瘍性大腸炎（UC）の既存治療は炎症抑制が主眼であるが、難治例には組織修復促進という新たなアプローチが期待される。我々は、UC腸管粘膜ではCDC42の過剰活性化に起因して上皮幹細胞の分裂様式が異常変化し、分化不全から上皮細胞のターンオーバー活性が低下して粘膜修復が障害されることを単一細胞RNA-seq解析とオルガノイド実験により明らかにした。本研究ではCDC42阻害薬ML141を用いて、幹細胞分裂様式の正常化による粘膜修復促進と炎症性発癌抑制の両立を目指す新たなUC治療戦略を検証する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/takahisa-igata-2026-225564-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takahisa-igata-2026-225564-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "伊形 尚久",
+     "affiliation": "学習院大学 理学部",
+     "position": "助教",
+     "project_title": "強い屈折極限における光の偏向角の局所幾何学的記述の一般化",
+     "project_abstract": "本研究は、ブラックホール候補天体の周囲の強重力領域における時空構造が、光の偏向角や重力波の振動の減衰率などの観測量にどのように反映されるのかを、理論的に明らかにすることを目的としています。特に、光が極めて強く曲げられる領域に重点を置き、これらの観測量を時空の曲率と結びつけて統一的に理解する枠組みを構築します。これにより、ブラックホールとそれを模倣するコンパクト天体とを見分け、ブラックホールシャドウや重力波の観測から候補天体の実体や強い重力場の性質を読み解く新たな理論的手法を提示します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 19
+ },
+ "https://www.inamori-f.or.jp/recipient/takafumi-furuhata-2026-225596-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takafumi-furuhata-2026-225596-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "古畑 隆史",
+     "affiliation": "東京大学 大学院工学系研究科",
+     "position": "助教",
+     "project_title": "転写因子の標的分解を指向した間接的ユビキチン化剤の創出",
+     "project_abstract": "狙ったタンパク質を分解する技術は、さまざまな疾病の治療に適用できる新しい創薬プラットフォームとして注目されています。この研究では、がんを含む疾病に関わる一方、創薬困難であった転写因子に対する新たな創薬戦略として「間接的ユビキチン化法」による標的分解の実現を目指します。これにより、従来治療が困難と考えられてきた難治性疾患に対する新しい創薬戦略の発信を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 22
+ },
+ "https://www.inamori-f.or.jp/recipient/suzuki-hiroshi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/suzuki-hiroshi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "鈴木 洋",
+     "affiliation": "名古屋大学大学院医学系研究科",
+     "position": "教授",
+     "project_title": "遺伝子制御情報の時空間進化の理解・予測に基づくがん治療DX",
+     "project_abstract": "高齢化に伴い、現代の日本では、2人に1人が生涯でがんを発症する。がんの治療は、がんゲノム解析・分子標的治療・がん免疫療法によって大きく進化したが、がんの再発・治療抵抗性の獲得、すなわち、がんと治療のいたちごっこはがん医療の永遠の課題である。本研究では、染色体外環状DNA（eccDNA）などのがん細胞の遺伝子制御情報の時空間進化のメカニズムに注目し、AIや情報科学を駆使した新たながん研究の方法論と新たな遺伝子制御の分子ツールの開発を推進することにより、「あきらめないがん治療」に資する研究を展開する。",
+     "amount_jpy": 100000000,
+     "period_start": "2024",
+     "period_end": "2033"
+    }
+   ]
+  },
+  "elapsed_s": 36
+ },
+ "https://www.inamori-f.or.jp/recipient/takaaki-ozawa/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takaaki-ozawa/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "小澤 貴明",
+     "affiliation": "大阪大学蛋白質研究所",
+     "position": "助教",
+     "project_title": "最先端多領域光ドーパミン計測と光神経操作による恐怖学習制御メカニズムの解明",
+     "project_abstract": "ドーパミンは脳内報酬系と呼ばれる神経回路において主要な役割を果たす神経伝達物質ですが、恐怖などの嫌悪的な感情が引き金となって生じる学習行動の調節にも重要であることが知られています。本研究では、最先端のイメージング法や神経活動操作法を駆使してドーパミン神経系による恐怖学習の制御メカニズムを明らかにすることを試みます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/takahito-iga/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takahito-iga/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "伊賀 隆史",
+     "affiliation": "慶應義塾大学医学部",
+     "position": "特任助教",
+     "project_title": "加齢に伴う骨折治癒遅延の原因の解明",
+     "project_abstract": "高齢者の骨折治癒遅延の一因として、血管の老化が関与していると考えられる。若齢マウスでは骨折部に新生血管が誘導され、骨折治癒が促進されるが、高齢マウスではこの血管形成が低下する。しかし、特定の血管調節機構を操作することで血管新生が亢進し、骨折治癒が促進されることを確認した。さらに、治癒促進に関与する因子を特定し、局所投与による治療効果を検証している。本研究を通じて、高齢者の骨折治療の新たな戦略を構築することを目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/takaichi-watanabe/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takaichi-watanabe/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "渡邉 貴一",
+     "affiliation": "岡山大学学術研究院環境生命自然科学学域",
+     "position": "准教授",
+     "project_title": "リサイクル可能なイオン伝導性ビトリマーの開発",
+     "project_abstract": "Vitrimerとは、動的な共有結合を持つ高分子材料で、熱や刺激により可逆的に結合交換し、リサイクル性や自己修復性を有する。申請者は、独自の主鎖型高分子イオン液体に動的架橋構造を導入した新たなイオン導電性Vitrimerの開発に取り組んでいる。本研究では、そのモノマー設計と自己修復性・イオン伝導性の関係を明らかにする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/takahisa-shiraishi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takahisa-shiraishi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "白石 貴久",
+     "affiliation": "熊本大学先進マグネシウム国際研究センター",
+     "position": "准教授",
+     "project_title": "特異な周期配列構造の自己形成メカニズムの解明: チタン合金の開発",
+     "project_abstract": "金属材料が持つ機能は、種々の結晶相から成る微細組織に強く依存します。本研究では、軽金属材料の一つであるチタン合金で見出したユニークな微細組織（組成変調を伴う周期配列組織）の形成メカニズムを解明し、機能向上に向けた材料設計指針を確立します。これにより、エネルギー問題や環境問題の解決に不可欠されている「輸送機の軽量化」に資する高機能チタン合金の開発を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/takakazu-seki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takakazu-seki/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "関 貴一",
+     "affiliation": "弘前大学大学院理工学研究科",
+     "position": "助教",
+     "project_title": "界面振動分光法による，界面分子描像の三次元超解像顕微鏡の開発",
+     "project_abstract": "従来の顕微分光法やプローブ顕微法などによる材料表面・界面における局所分子構造や電荷状態の観察法は、分子選択性と水平方向・深さ方向への空間分解能など界面の分子現象を見る上で必要な要件を満たすことは容易ではなく、新奇の界面解析手法の開発が望まれていました。本提案では、和周波発生振動分光法に超解像イメージング技術などで利用されてきた、水平方向の超空間分解技術を拡張し、非接触で分子の構造情報や電荷情報などの界面局在環境を高分解に解像する革新的な顕微分光技術の確立に挑みます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/takao-oto-2026-225568-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takao-oto-2026-225568-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "大音 隆男",
+     "affiliation": "山形大学 大学院理工学研究科",
+     "position": "准教授",
+     "project_title": "ハニカム格子内のプラズモニックナノ共振器を用いた高効率赤色発光素子の開拓",
+     "project_abstract": "超スマート社会を支える次世代マイクロLEDディスプレイの実現には、InGaN系材料による高効率赤色LEDの創製が不可欠である。本研究では、ハニカム格子InGaNナノコラムと銀ナノ構造を融合したプラズモニックLEDを提案する。側面に原子層堆積法で酸化膜を形成することで表面欠陥を抑制しつつ、空隙内に表面プラズモンポラリトンを閉じ込めるナノ共振器構造を構築し、高速結合による発光増強を図る。これにより、InGaN系赤色LEDの高効率化に向けた新原理を提示し、10倍以上の赤色発光増強を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/takanori-wakatake/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takanori-wakatake/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "若竹 崇雅",
+     "affiliation": "奈良先端科学技術大学院大学先端科学技術研究科",
+     "position": "助教",
+     "project_title": "寄生植物と宿主植物の間で道管液が転流するしくみの理解と制御",
+     "project_abstract": "寄生植物は自身の維管束を宿主植物の維管束と連結させて、宿主植物の栄養を奪い成長します。この維管束の連結を通して、さまざまな物質が双方向に移動していることが報告されていますが、その輸送メカニズムは明らかになっていません。本研究では葉での蒸散に着目して、寄生植物が宿主植物から道管液を奪うメカニズムの理解と制御を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/takamasa-tsukamoto/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takamasa-tsukamoto/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "塚本 孝政",
+     "affiliation": "東京大学生産技術研究所",
+     "position": "講師",
+     "project_title": "クラスター物質を基盤とする新物質化学領域の開拓",
+     "project_abstract": "本研究では、申請者が独自に開発したクラスター物質の精密設計理論と精密合成技術を融合させることで、直径１ナノメートル前後の極小物質「クラスター物質」を基盤とした新たな物質化学領域の開拓を目的とする。特に、磁気特性や発光特性を始めとした物理的性質や、触媒特性に代表される化学的性質等の特異的物性を持つクラスターを設計し、これを実験的に合成・実証することを目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.inamori-f.or.jp/recipient/takatoshi-oyama/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takatoshi-oyama/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "大山 貴稔",
+     "affiliation": "九州工業大学教養教育院",
+     "position": "准教授",
+     "project_title": "グローバル・サウスから見た「平和国家」の変質：メコン地域の開発援助関係者への聞き取りを通して",
+     "project_abstract": "2010年代半ば頃から、日本政府の開発協力政策は質的な転換を遂げてきました。この日本側の政策転換について、本研究ではメコンという特定の地域でどのように具現化したかを明らかにしつつ、タイや中国、国際NGOの援助関係者が日本の変化をいかに捉えてきたかを調査します。日本政府が掲げる「自由で開かれたインド太平洋（FOIP）」構想の中核に位置づけられ、国際的な援助競合の場と化したメコン地域において生じた視差を浮き彫りにする国際共同研究に取り組むことで、日本の開発協力政策の転換が国際的にどのような影響を及ぼしたのかを考察します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 28
+ },
+ "https://www.inamori-f.or.jp/recipient/takuya-maeda/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takuya-maeda/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "前田 拓也",
+     "affiliation": "東京大学大学院工学系研究科",
+     "position": "講師",
+     "project_title": "新奇ヘテロ接合を利用した窒化物半導体高電子移動度トランジスタに関する研究",
+     "project_abstract": "窒化ガリウム(GaN)系高電子移動度トランジスタ(HEMT)は、高耐圧・低損失・高周波動作可能など優れた特性を有しており、パワーデバイスや高周波増幅デバイスとして研究開発が活発化している。今後更なる実用化に向けて、劇的な高性能化や新機能発現のために新規電子材料の導入が鍵となる。窒化スカンジウムアルミニウム(ScAlN)は強い分極や強誘電性、高い誘電率といった魅力的な物性を有している上、エピタキシャル成長によってGaN系デバイスに融合できる。本研究では、ScAlN/GaNヘテロ接合の高品質化に基づく物性解明と電子デバイス試作実証に取り組む。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/takuya-matsumoto-2026-214711-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takuya-matsumoto-2026-214711-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "松本 拓也",
+     "affiliation": "大阪公立大学 大学院工学研究科",
+     "position": "准教授",
+     "project_title": "グルコースを燃料とする人工細胞型エネルギー変換システムの構築",
+     "project_abstract": "グルコース（糖）を燃料にして動く「人工細胞」の構築を目指します。細胞膜を模した「リポソーム」に、糖から電子を取り出す酵素と、電子を膜内部へ運ぶタンパク質を同時に組み込むことで、自然界には存在しない新しいエネルギー獲得の仕組みを人工的に実現します。通常の細胞が複雑な代謝経路でエネルギーを得るのに対し、本研究では電子を直接膜内へ届ける独自のシステムを構築します。将来的には、ドラッグデリバリーやがん治療、極限環境での物質生産への応用を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 28
+ },
+ "https://www.inamori-f.or.jp/recipient/takuya-matsumoto-2026-225597-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takuya-matsumoto-2026-225597-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "松本 卓也",
+     "affiliation": "信州大学 理学部",
+     "position": "助教",
+     "project_title": "物質文化が霊長類の認知・社会性に与えた影響の解明：ニホンザルの温泉入浴に着目して",
+     "project_abstract": "エジプト文明の公衆浴場、ギリシャのテルマエ等、ヒトの温泉入浴の歴史は長い。さらにオルドバイ渓谷の170万年前の地層から温泉の痕跡が見つかり、ヒトの誕生以前から、温泉を含む生態系が人類進化の舞台だったと示唆される。\n一方、地獄谷野猿公苑に生息する野外ニホンザル集団では、60年以上にわたり温泉入浴が続けられており、これは非ヒト霊長類で確認されている中で最も歴史の長い文化的行動の１つと言える。本研究は、温泉入浴がニホンザルの社会や腸内細菌叢に与えた影響を実証的に検討し、人類進化における温泉の役割を評価する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/takuya-ohmura-2026-225569-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takuya-ohmura-2026-225569-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "大村 拓也",
+     "affiliation": "北海道大学 電子科学研究所",
+     "position": "助教",
+     "project_title": "球対称遊泳微生物が示す光応答性一方向運動における駆動力制御機構の解明",
+     "project_abstract": "神経系を持たず熱ゆらぎの影響を受ける遊泳微生物（マイクロスイマー）は、マクロ生物とは異なる原理で環境応答を行っています。本研究では、球対称な群体を形成する遊泳微生物「モトヨセヒゲムシ」の走光性を対象に、3次元流体中における一方向への運動制御機構を明らかにするべく、実験・流体数値計算を組み合わせてアプローチします。光感受器官を持たず極めて対称性が高い本種が、光源方向への移動をいかに制御しているかは未解明です。本研究を通じて得られる知見は、将来的にドラッグデリバリーやマイクロ輸送システムの制御技術における新たな指針となると考えています。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/teisuke-sakai-2026-225611-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/teisuke-sakai-2026-225611-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "坂井 禎介",
+     "affiliation": "奈良女子大学 研究院生活環境科学系",
+     "position": "専任講師",
+     "project_title": "亭（東屋）の通史構築",
+     "project_abstract": "建築史では、歴史の表舞台に立つ巨大建築の研究が主でした。一方、本研究では庭の中に建つ3mほどの小さな東屋(=亭)を着目します。東屋は壁がほぼなく、周囲の自然の眺望や遠くの山々まで取り込むため、その空間的広がりは数kmにも及びます。この小さくも豊かな空間は山水画などにも描かれ、建築という物理的制限を超えて文人の理想の住まいと結びついてきました。この文化は、中国で生まれ、韓国や日本へ伝わり、18世紀には西洋にも伝わるという世界的なテーマです。本研究では、この小さな東屋の文化史を世界的視野から明らかにします。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 20
+ },
+ "https://www.inamori-f.or.jp/recipient/tatsuro-kawakami-2026-225573-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tatsuro-kawakami-2026-225573-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "河上 龍郎",
+     "affiliation": "東京大学 大学院数理科学研究科",
+     "position": "准教授",
+     "project_title": "正標数における微分形式の拡張問題に関する研究",
+     "project_abstract": "本研究のテーマは、正標数における微分形式の拡張問題である。微分形式の拡張問題とは、微分形式が局所的に特異点解消などの上にある双有理モデルへと持ち上がるかを問うものであり、代数多様体の微分形式と特異点の性質に関わる基本的な問題である。本研究では、F特異点と呼ばれる正標数における重要な特異点クラスが、 高次の微分形式の拡張性を満たすかを明らかにすることを目標とする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/tetsuya-takano/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tetsuya-takano/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "髙野 哲也",
+     "affiliation": "九州大学高等研究院",
+     "position": "准教授",
+     "project_title": "高精度プロテオーム解析を用いたストレス応答神経回路の分子レベルの解明と精神疾患の理解",
+     "project_abstract": "脳内の神経回路はストレスなどの環境要因に応じて日々変化しているが、それぞれの神経回路がどのように形成され、脳機能を制御しているかは依然として不明である。これは、一つの神経細胞が形成するシナプスが多様であり、従来の手法では脳機能と関連する個々の神経回路に存在する構成分子を解析できなかった為である。本研究では、ストレスに応じて変化する神経回路の分子成分を網羅的に探索する時空間プロテオーム技術を開発する。さらに、ストレス記憶の各段階における個々の神経回路の形成と機能を制御する分子機序を解明し、脳の動作原理及び精神・神経疾患の病態解明を進める。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/tatsuya-ikuta-2026-225565-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tatsuya-ikuta-2026-225565-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "生田 達也",
+     "affiliation": "慶應義塾大学 医学部",
+     "position": "専任講師（有期）※助成決定当時",
+     "project_title": "血管収縮を引き起こすホルモン受容システムの解明",
+     "project_abstract": "本研究は、抗ウイルス薬レムデシビルのオフターゲット作用による心毒性メカニズムの解明を目的としています。血管収縮に関わるウロテンシンII受容体（UTS2R）は構造情報が乏しいものの、先行研究でレムデシビルが本受容体を活性化し、心機能障害を誘発することが示唆されています。そこで、クライオ電子顕微鏡による立体構造解析、MDシミュレーション、細胞アッセイを統合し、リガンド結合による受容体活性化機構を包括的に理解します。本研究は、副作用を回避した新薬設計や心血管疾患の創薬基盤構築に貢献するものです。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 28
+ },
+ "https://www.inamori-f.or.jp/recipient/tomohiro-fukushima/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tomohiro-fukushima/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "福島 知宏",
+     "affiliation": "北海道大学大学院理学研究院",
+     "position": "講師",
+     "project_title": "振動強結合下での水和イオンの物性制御",
+     "project_abstract": "物質の振動子が共振器と相互作用することによりポラリトン状態が発現することが知られ、近年の量子技術の礎となっています。化学の分野においても凝縮相の分子が協奏的に強結合し、反応や物性変革が生じることが知られつつあります。本研究では振動強結合下での水和イオンの物性制御に取り組みます。水和イオンの物性に関して電気化学、分光計測の観点から取り組み、研究を推進します。将来的には電気化学反応に向けた物性制御に向けて、これらの物理化学特性の基礎物性の理解を進めます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/takuya-osakada-2026-225571-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/takuya-osakada-2026-225571-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "小坂田 拓哉",
+     "affiliation": "東京科学大学 生命理工学院",
+     "position": "特任准教授",
+     "project_title": "社会的ストレスへの適切な応答を導出する回路基盤の同定",
+     "project_abstract": "社会的ストレスへの応答を双方向に制御する脳回路の解明を目指す研究。先行研究で明らかにした、視床下部のオキシトシンシグナリングとストレス経験依存的な逃避行動との関係を発展させる。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 43
+ },
+ "https://www.inamori-f.or.jp/recipient/tomohiko-mizutani/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tomohiko-mizutani/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "水谷 智彦",
+     "affiliation": "山形大学地域教育文化学部",
+     "position": "講師",
+     "project_title": "戦前期における学校の選抜・配分機能をめぐる考察―大正期・昭和初期の「個性調査簿」に着目して―",
+     "project_abstract": "本研究では、戦前期の学校が、人の生活設計を変える力を持っていたのかを問い直します。戦前の人びとの生活設計は、基本的に生まれた土地や家柄によって拘束されており、進学のために生まれた土地を出たり、受け継がれる家業とは異なる近代的職業に就くことは、高い階層の人に限られたことでした。このように戦前には土地に根付いておこなわれた進学・就職行動を、同時期の学校はどの程度変えることができたのか。大正・昭和初期に小学校の教師たちが作成した「個性調査簿」という児童の個票データを分析し、解明したいと思います。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/tomohiro-higashino/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tomohiro-higashino/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "東野 智洋",
+     "affiliation": "京都大学大学院工学研究科",
+     "position": "准教授",
+     "project_title": "マッカイ結晶実現に向けた三次元周期構造を有するπ共役分子の開発",
+     "project_abstract": "マッカイ結晶はフラーレン、カーボンナノチューブ、グラフェンに続く、未知の三次元ナノカーボン材料であり、三次元構造に由来する物性の発現が期待されることから、理論・応用の両面において大きな注目を集めています。しかしながら、マッカイ結晶はおろか、その基本単位とも言える、周期構造をもつ三次元π共役分子の合成すら、未だ達成されていません。そこで本研究では、周期構造をもつ三次元π共役分子の合成法開拓と構造・物性解明に取り組み、三次元ナノカーボン材料の実現を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/tomokazu-tamura-2026-225592-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tomokazu-tamura-2026-225592-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "田村 友和",
+     "affiliation": "九州大学 大学院医学研究院",
+     "position": "准教授",
+     "project_title": "RNAウイルス感染における病態多様性を決定づける翻訳機構の解明",
+     "project_abstract": "ウイルスの中には、似た遺伝子構造を持ち同じ臓器に感染するにもかかわらず、急性で終わるものと慢性的に感染するものがあります。しかし、この違いが生じる分子基盤は十分に解明されていません。本研究では、ウイルスゲノムと宿主細胞の分子応答の相互作用を体系的に解析することで、感染成立や持続化を規定する新たな原理の理解を目指します。得られる知見は、ウイルス感染症の理解の深化に加え、新たな抗ウイルス薬開発につながる基盤的知見の創出が期待されます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/tomomi-wakabayashi-2026-219111-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tomomi-wakabayashi-2026-219111-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "若林 智美",
+     "affiliation": "奈良先端科学技術大学院大学 先端科学技術研究科",
+     "position": "助教",
+     "project_title": "ミヤコグサにおける高温による発芽抑制の種内多型と適応進化機構の解明",
+     "project_abstract": "発芽時期は植物の生育地環境への適応に貢献する。温度は発芽時期制御に関わり、その分子メカニズムの報告もあるが、環境適応との関連については野生植物を対象とした遺伝的要因レベルでの実証例が十分ではない。ミヤコグサは、国内に広く連続的に分布し、過去の分布拡大に伴い各環境に適応してきていると考えられる。申請者らの実験では、由来地の異なるミヤコグサ系統間で高温条件に対する発芽応答の違いが観測された。本研究では、高温による発芽抑制を介した本種の環境適応機構を、遺伝要因と環境要因の両面から理解することを目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/tomoo-adachi/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tomoo-adachi/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "安達 知郎",
+     "affiliation": "京都教育大学大学院連合教職実践研究科",
+     "position": "准教授",
+     "project_title": "教師による倫理綱領作成を支援するプログラムの開発、および効果測定",
+     "project_abstract": "専門職倫理とは、個人の観点からは「具体的な倫理的問題を体系的に考える力」、社会的観点からは「専門職と社会との間で対話的に構成されるルール」であると考えられます。そして、専門職倫理が具体化されたものが、倫理綱領であると考えられます。しかし、日本には教師の倫理綱領が存在しません。本研究の目的は、倫理綱領を教師自らが作るというプログラムを開発することです。本研究では、プログラムに参加した教員が自らの専門職倫理、専門性に気づいていくこと、さらには、教育と社会との間に新たな対話が生まれることを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/tomomi-tsunematsu/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tomomi-tsunematsu/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "常松 友美",
+     "affiliation": "北海道大学大学院理学研究院",
+     "position": "講師",
+     "project_title": "神経細胞に依存しない睡眠覚醒制御機構の解明",
+     "project_abstract": "脳は神経細胞、グリア細胞等で構成されています。脳の機能は神経細胞だけでなく、グリア細胞も様々な役割を担っていることが分かってきています。近年私たちは、睡眠覚醒ステージに伴いアストロサイトの活動がマウスにおいてダイナミックに変化していることを見出しました。本研究では、化学遺伝学的手法を用いてアストロサイトの活動を人為的に活性化したときに睡眠覚醒ステージに影響を及ぼしうるか、その因果関係を検討します。本研究により神経細胞に依存しない睡眠制御機構の解明を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/tomotaka-ishizaki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tomotaka-ishizaki/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "石﨑 友崇",
+     "affiliation": "名古屋大学医学部附属病院",
+     "position": "病院助教",
+     "project_title": "ヒト脳内電極で脳深部の謎を解く：生理的視床神経活動とてんかんの異常ネットワーク解明",
+     "project_abstract": "視床は脳内ネットワークの調整に重要な役割を果たすが、その神経活動の解明は技術的な制約により困難である。本研究では、難治てんかん患者の術前検査として施行される定位的頭蓋内脳波を用いて、ヒト視床の神経活動を直接記録し、その生理的および病的ネットワークを解析する。これにより、視床が異常なてんかんネットワークに関与するメカニズムを解明し、脳深部刺激療法の適応判断および刺激条件の最適化に貢献することが期待される。さらに、視床ネットワークの理解を深めることで、新たな外科的治療法の開発につながる可能性がある。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 18
+ },
+ "https://www.inamori-f.or.jp/recipient/tsuyoshi-terakawa/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/tsuyoshi-terakawa/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "寺川 剛",
+     "affiliation": "京都大学大学院理学研究科",
+     "position": "助教",
+     "project_title": "DNAカーテン１分子蛍光イメージングで探る転写因子YY1のDNAループ形成分子機構",
+     "project_abstract": "遺伝子発現制御は、生命の根幹をなしているにも関わらず、その分子機構は完全には明らかになっていません。真核生物の遺伝子発現は、エンハンサー（E）とプロモーター（P）とよばれるDNA配列領域の近接・解離によって制御されています。近年、転写因子YY1がE-Pペアを近接させることが明らかになりましたが、その分子機構はわかっていません。本研究では、転写因子YY1が、E-Pを近接させるようにDNAループを形成するダイナミクスを、DNAカーテン法を用いて１分子レベルで可視化し、その分子機構を明らかにします。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/trishit-ruj/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/trishit-ruj/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "ルジ トリシット",
+     "affiliation": "岡山大学惑星物質研究所",
+     "position": "准教授",
+     "project_title": "地球外生命探査に向けた火星北極周辺の液体塩水の存否検証と水質推定",
+     "project_abstract": "低温低圧チャンバーによる火星環境の模擬実験、リモートセンシング解析、地球上の類似環境の調査、熱力学計算を組み合わせ、火星北極周辺における液体塩水の存在、水質組成、生息可能な微生物種を検証・推定する研究。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.inamori-f.or.jp/recipient/wakako-satomura-2026-225582-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/wakako-satomura-2026-225582-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "里村 和歌子",
+     "affiliation": "九州大学 アジア・オセアニア研究教育機構",
+     "position": "准教授",
+     "project_title": "ラオスのポストコロナ期女子教育停滞のメカニズム——語ることとジェンダー",
+     "project_abstract": "ラオスでは新型コロナ禍以降、東南アジア唯一の女子就学率低下が生じ、ジェンダーギャップ指数も急落した。本研究は「なぜラオスの女子は学業継続が困難なのか」を問いとし、物語り政策フレームワークを用いて就学率低下のメカニズムを実証的に解明する。女子高校生約300名へのアンケートと質的インタビュー、政策分析を組み合わせた混合研究により、個人・家族・国家・市場の多層レベルで要因を分析する。在日ラオス人女性労働者の調査も加え、グローバルな力学と個人の行動を連関させることで、ジェンダー格差是正への新たな視座を提示する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/wataru-shihoya-2026-225584-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/wataru-shihoya-2026-225584-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "志甫谷 渉",
+     "affiliation": "慶應義塾大学 医学部",
+     "position": "准教授",
+     "project_title": "新規紫外光チャネルロドプシンの構造機能解析と光遺伝学応用",
+     "project_abstract": "本研究は、新規に発見した紫外光応答性チャネルロドプシンApuRhを基盤に、従来の多色光遺伝学の限界を克服する紫外光光遺伝学ツールを創出する。昆虫細胞発現系、パッチクランプ、Cryo-EMにより紫外光吸収機構と陰イオン透過経路の分子基盤を解明し、構造情報に基づく変異導入で長時間持続型・高速オフ型陰イオンチャネルや陽イオン透過型へ改変する。さらにAAVを用いて神経細胞と脳スライスで機能を検証し、多波長操作、GEVI併用All-optical光遺伝学、BMI応用への実証基盤を築く。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 28
+ },
+ "https://www.inamori-f.or.jp/recipient/yasuaki-hiraoka/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yasuaki-hiraoka/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "平岡 裕章",
+     "affiliation": "京都大学 高等研究院",
+     "position": "教授",
+     "project_title": "数学からヒト生物学への挑戦",
+     "project_abstract": "近年の生物学では網羅的実験によって膨大なデータが生成されているが、そこから生物学的原理を見出すことを可能にするデータ解析手法が不足している。種ごとの内在的データ構造および種間の相対関係を明らかにすることで生物学的知見を深めていくが、これは数学的にはデータが定める空間や写像の不変量を抽出することに対応する。本研究では「What makes us human?」という生物学的な問いに対して、種差表出原理を解明する数学的データ解析手法の開発に取り組む。",
+     "amount_jpy": null,
+     "period_start": "2025",
+     "period_end": "2034"
+    }
+   ]
+  },
+  "elapsed_s": 22
+ },
+ "https://www.inamori-f.or.jp/recipient/weiwei-zhou/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/weiwei-zhou/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "周 偉偉",
+     "affiliation": "東北大学大学院工学研究科",
+     "position": "准教授",
+     "project_title": "レーザ粉末床溶融結合法による多機能セラミックスの創製",
+     "project_abstract": "高いレーザ吸収率を持つナノ添加材によるセラミックスのレーザ吸収率の向上を図り、超高温でのレーザ粉末床溶融結合法（L-PBF）を用いて、高強度－高靭性－高電気伝導性を備えた多機能セラミックス材料の開発を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/yasuhito-suzuki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yasuhito-suzuki/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "鈴木 祥仁",
+     "affiliation": "大阪公立大学大学院工学研究科",
+     "position": "准教授",
+     "project_title": "重合に誘起されるガラス化近傍での不均一性、非晶構造変化、化学反応速度の関係性",
+     "project_abstract": "高分子科学の未解決問題の一つとして、バルクラジカル重合中の急激な反応加速（トロムスドルフ効果）がある。定性的には粘度上昇による停止反応の抑制と説明されてきたが、定量的には未解明であった。最近、申請者はメタクリル酸メチルのバルク重合中に、重合誘起相分離が起こることを発見した。申請者は、相分離によってアレニウス式の頻度因子が大きく変化すると仮説をたてた。本研究では、高分子濃厚溶液での不均一性、非晶構造、反応速度の関係性を明らかにする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 26
+ },
+ "https://www.inamori-f.or.jp/recipient/yoichi-sasaki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yoichi-sasaki/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "佐々木 陽一",
+     "affiliation": "九州大学大学院工学研究院",
+     "position": "助教",
+     "project_title": "励起子分裂の光エネルギー貯蔵への応用",
+     "project_abstract": "光エネルギーの高度な利活用に向けて、材料が光を吸収した後の緩和過程で生じるエネルギーロスの削減が重要となります。特定の有機分子が示すシングレットフィッションは、一つの一重項励起子から二つの三重項励起子が形成される光物理過程であり、生じた励起子のエネルギーを電荷分離や物質変換に用いることで、破格の効率を示す光エネルギー変換が期待されます。本研究では、シングレットフィッションと光化学反応を組み合わせ、エネルギーロスの小さな光エネルギー貯蔵の実現を目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.inamori-f.or.jp/recipient/yoshiaki-abe/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yoshiaki-abe/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "安部 佳亮",
+     "affiliation": "筑波大学医学医療系",
+     "position": "講師",
+     "project_title": "リンパ腫内マイナーポピュレーションT細胞の機能と臨床的意義の解析",
+     "project_abstract": "リンパ腫は最も頻度の高い造血器腫瘍である。本研究では、リンパ腫、多種類の固形癌、ヒトリンパ節に対する一細胞解析に加え、機能実験を組み合わせることで主にリンパ腫における濾胞T細胞の変化の生物学的、臨床的意義について調査し、臨床応用・治療応用の可能性について探索する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/yoshinobu-konishi-2026-225580-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yoshinobu-konishi-2026-225580-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "小西 義延",
+     "affiliation": "京都大学 医学部附属病院",
+     "position": "特定病院助教",
+     "project_title": "空間免疫解析による骨髄腫Bispecific抗体療法の応答予測と耐性克服法開発",
+     "project_abstract": "多発性骨髄腫に対するBispecific抗体療法は高い治療効果を示す一方、多くの患者が再発するという課題があります。本研究では、Imaging Mass Cytometryをはじめとする空間的マルチオミクス技術を用いて、骨髄内のがん細胞と免疫細胞の詳細な位置関係・相互作用を解明します。治療前骨髄検体60症例の空間免疫プロファイリングにより治療応答予測パターンを同定し、多施設210症例での検証を経て、機械学習を活用した臨床実装可能な予後予測システムの構築を目指します。本取り組みは血液がん空間生物学という新領域を切り拓くものです。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/yuhei-chadani/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yuhei-chadani/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "茶谷 悠平",
+     "affiliation": "岡山大学学術研究院環境生命自然科学学域",
+     "position": "准教授",
+     "project_title": "アミノ酸配列に秘匿された新規遺伝情報を自在制御する手法の開発",
+     "project_abstract": "生命を形作る遺伝情報はDNAのみならず、その発現産物であるタンパク質(アミノ酸)にもコードされ得ることが明らかとなってきた。これは核酸配列情報をアミノ酸に変換するリボソームが、特定の並びのアミノ酸配列を合成する際に原則を無視した反応を行うことに起因する。本研究では、こうした「非典型的」翻訳を制御する新規翻訳因子ABCFタンパク質に着目した研究を行う。ABCFタンパク質による翻訳制御の原理解明を通じて、アミノ酸配列に秘匿されていた、新たな遺伝情報を自在制御する技術の確立を目指す。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/yosuke-ashida-2026-225562-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yosuke-ashida-2026-225562-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "芦田 洋輔",
+     "affiliation": "東北大学 大学院理学研究科",
+     "position": "助教",
+     "project_title": "多波長でのニュートリノ観測による天文学の新展開",
+     "project_abstract": "素粒子・ニュートリノによる宇宙・天体観測は、伝統的な観測手段である光では得られない情報にアクセスできるため、天文学分野において非常にユニークかつ重要である。今後数年から十年の間にさまざまな次世代の高性能ニュートリノ検出器が建設される予定であり、ニュートリノによる天文学研究がさらに加速することが期待されている。ここで、主に観測対象となるニュートリノのエネルギーは検出器ごとに異なる。そして、異なるエネルギーのニュートリノは天体の多種多様な活動に応じて生成されるため、観測により同一天体についての多角的な研究が見込める。本研究では、こうした多波長（= 複数エネルギー帯）観測に関して理論的な枠組みの準備と各種ニュートリノ検出器での観測データ解析手法の提案を行う。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 31
+ },
+ "https://www.inamori-f.or.jp/recipient/yosuke-togashi-2026-217947-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yosuke-togashi-2026-217947-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "冨樫 庸介",
+     "affiliation": "岡山大学 学術研究院医歯薬学域",
+     "position": "教授",
+     "project_title": "オルガネラによる多細胞コミュニケーション",
+     "project_abstract": "細胞間コミュニケーションは増殖因子やサイトカイン、ホルモンといった「情報伝達分子」が研究の中心であった。一方、ミトコンドリアなどの細胞質内オルガネラが細胞間でコミュニケーションし、細胞分化や機能に関与することまで我々は見出している。このようなミクロ・ナノスケールのオルガネラによる多細胞コミュニケーションがマクロスケールの生命現象にまで影響している可能性があり、その詳細な分子機構から生命現象への影響まで独自のマウスモデルを用いて明らかにする。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 29
+ },
+ "https://www.inamori-f.or.jp/recipient/yuichi-yagita/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yuichi-yagita/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "八木田 悠一",
+     "affiliation": "九州大学基幹教育院",
+     "position": "助教",
+     "project_title": "タンパク質複合体を正しく組み立てる仕組みの解明",
+     "project_abstract": "私たちの細胞内では、多種多様なタンパク質が作られ、働き、細胞の活動を支えています。これらの多くは単独では働かず、パートナータンパク質と複合体を作って初めて機能します。本研究では、タンパク質やRNAなどの生体高分子が密に混み合う細胞内環境下で、新たに合成されたタンパク質が適切なパートナーと会合し、正確かつ効率的に複合体を形成するメカニズムを理解することを目指します。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 22
+ },
+ "https://www.inamori-f.or.jp/recipient/yu-miyamoto/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yu-miyamoto/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "宮本 佑",
+     "affiliation": "大阪大学免疫学フロンティア研究センター",
+     "position": "特任助教（常勤）",
+     "project_title": "肝臓におけるマクロファージを基軸とした生体防御バリアの実態解明",
+     "project_abstract": "食生活の乱れや加齢などにより腸管バリア機能が破綻すると、腸管管腔に存在する共生微生物など多種多様な異物が大量にからだの中に入ってきます。それらはまず肝臓に運び込まれますが、肝臓免疫系は流入してくる異物を適切に処理し、臓器ひいては全身の恒常性維持に寄与しています。一方で、処理しきれない場合は、全身に拡散して、糖尿病、関節炎、喘息など様々な疾患を誘発することが知られています。そこで本研究では、肝臓免疫系の実態を解明し、腸管から流入してくる異物の処理効率を強化する技術開発に挑みます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/yuichiro-nakata/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yuichiro-nakata/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "中田 雄一郎",
+     "affiliation": "千葉大学大学院医学研究院",
+     "position": "特任助教",
+     "project_title": "メタボリックシンドロームが構築する心不全関連エピジェネティックメモリーの制御機構の解明",
+     "project_abstract": "心不全は、加速する高齢化社会に伴って、患者数が近年大幅な増加傾向にあり、我が国の社会問題となっています。心不全のストレスメモリーが造血幹細胞に蓄積されることがわかってきており、そのストレスメモリーが原因で心不全は再発します。私はそのストレスメモリーの実体や、忘却メカニズムを探索して心不全に対する治療法の開発を目指しています。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.inamori-f.or.jp/recipient/yukinobu-toda/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yukinobu-toda/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "戸田 幸伸",
+     "affiliation": "東京大学 国際高等研究所 カブリ数物連携宇宙研究機構",
+     "position": "教授",
+     "project_title": "圏論的Donaldson-Thomas 理論を通じた新たな研究領域の開拓",
+     "project_abstract": "Donaldson-Thomas 不変量とは複素 3 次元カラビヤウ多様体上の球面やドーナツ型の曲面などの幾何的対象を仮想的に数え上げる整数であり、数学・理論物理双方にとって重要な研究対象である。一方、「圏」とは数学的対象物たちの織り成す一種のコミュニティーとみなせる、抽象的な数学概念である。これまでの研究では圏を用いて不変量のさまざまな性質の解明や予想の証明を与えてきた。本研究では、不変量そのものを復元する圏を構成し、非可換空間とみなして詳細に調べることにより、さまざまな数学分野を繋ぐ新たな研究領域を開拓していく。",
+     "amount_jpy": 100000000,
+     "period_start": "2025",
+     "period_end": "2034"
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.inamori-f.or.jp/recipient/yusuke-kaide/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yusuke-kaide/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "開出 雄介",
+     "affiliation": "北海道大学大学院公共政策学連携研究部",
+     "position": "准教授",
+     "project_title": "気候変動に対処するための国際法の構造分析——約束モデルと公益モデル——",
+     "project_abstract": "私の専門分野は国際法学です。私はこれまで、国際法上国家が他国に対してする約束というものが、国際裁判所の判例や、国家が国際法について示す認識において頻繁に登場するものであるのにも拘らず、これまでの国際法学において見逃されており、こうした重要な要素が踏まえられていない結果、国際法学の体系化が十分に進んでいないのではないか、との問題意識の下、研究を進めてきています。こうした問題意識は、国際法の違反があった場合の法的帰結を全て規律する、国家責任法という国際法の一分野に関する突っ込んだ研究を通じて得られたものですが、今回はこうした研究を踏まえて、気候変動に関する京都議定書とパリ協定を、その法的構造という観点から分析しようとするものです。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 18
+ },
+ "https://www.inamori-f.or.jp/recipient/yuta-hiraike/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yuta-hiraike/",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "平池 勇雄",
+     "affiliation": "東京大学保健・健康推進本部",
+     "position": "助教",
+     "project_title": "褐色脂肪細胞の鍵因子NFIAによる文脈特異的な転写制御機構の解明",
+     "project_abstract": "私は「エネルギー摂取の抑制」ではなく「エネルギー消費の促進」に基づく肥満や2型糖尿病の治療標的として期待される褐色脂肪細胞に注目し、その分化と作用を制御する鍵因子NFIAを同定しました。NFIAの機能解析から肥満や2型糖尿病の治療法の開発へ展開させることを目指しています。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 18
+ },
+ "https://www.inamori-f.or.jp/recipient/yukimura-sakon-2026-203450-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yukimura-sakon-2026-203450-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "左近 幸村",
+     "affiliation": "九州大学 大学院経済学研究院",
+     "position": "准教授",
+     "project_title": "近代アジアにおける自由港の比較研究",
+     "project_abstract": "本研究は、19世紀のアジア（含むロシア極東）における自由貿易システムの拡大や、欧米による植民地支配において、自由港が果たした役割を明らかにすることである。いわゆるアジア間貿易の発展において、自由港は大きな役割を果たしたと考えられているが、その制度の具体的な検証は、意外と限られており、本研究はその穴を埋めるものである。具体的には、香港、シンガポール、大連と、長らく自身の研究対象としてきたウラジオストクを比較しながら、研究を進める予定である。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 32
+ },
+ "https://www.inamori-f.or.jp/recipient/yusuke-nakamura/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yusuke-nakamura/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "中村 勇哉",
+     "affiliation": "名古屋大学大学院多元数理科学研究科",
+     "position": "准教授",
+     "project_title": "周期グラフの数え上げ組合せ論への代数幾何学の応用",
+     "project_abstract": "本研究の目的は「周期グラフの増大数列の性質を調べること」である。 周期グラフとはタイリングや結晶グラフに現れるような、 並進対称性をもつようなグラフのことである。 周期グラフの頂点を一つ固定し、 その頂点からnステップ以下でたどり着くことのできる頂点の数b(n)は増大数列とよばれる。 本研究では、この数列に関する未解決問題に環論・代数幾何学的な手法により挑む。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 21
+ },
+ "https://www.inamori-f.or.jp/recipient/yuya-karita-2026-225572-j/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yuya-karita-2026-225572-j/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "苅田 裕也",
+     "affiliation": "東京大学 大学院理学系研究科",
+     "position": "助教",
+     "project_title": "単一空隙スケールの時空間解析に基づく微生物による土壌汚染浄化の機序解明",
+     "project_abstract": "土壌微生物は土壌粒子の隙間の複雑なネットワークの中に生息しています。この生態系をボトムアップに理解するためには、空間構造を念頭においた単一空隙スケールの時空間解析が重要です。しかし、自然土壌の内部を非侵襲的に解析することには実験上の困難がありました。そこで本研究では、人工の透明土壌培養系を顕微鏡観察し、空隙ネットワークの数理モデルと組みわせることで、土壌生態系のミクロな駆動原理を解明することを目指します。特に汚染浄化への応用を見据え、微生物による油脂分解過程に焦点を当てます。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.inamori-f.or.jp/recipient/yuya-sanaki/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yuya-sanaki/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "佐奈喜 祐哉",
+     "affiliation": "筑波大学生存ダイナミクス研究センター",
+     "position": "助教",
+     "project_title": "腸内細菌と生理学的ストレスがもたらす代謝脆弱化機構",
+     "project_abstract": "私たちの体は、分解と合成の代謝バランスを保つことで、身体の元気さを維持しています。しかし、加齢やがんなどの生理学的ストレスは、分解を司る異化代謝が優位になる代謝バランスの異常を引き起こします。一度傾いた代謝バランスは元に戻すことができず、筋肉や脂肪は持続的に減少し、活動性の低下や生存期間の短縮を引き起こします。生理学的ストレス下でも正常な代謝を維持し、元気さを保つにはどうすれば良いのかを明らかにするため、ショウジョウバエとマウスを用いて研究しています。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 24
+ },
+ "https://www.inamori-f.or.jp/recipient/yukiya-kitayama/": {
+  "fdn": "公益財団法人稲盛財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人稲盛財団",
+   "source_url": "https://www.inamori-f.or.jp/recipient/yukiya-kitayama/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "北山 雄己哉",
+     "affiliation": "大阪公立大学大学院工学研究科",
+     "position": "准教授",
+     "project_title": "αリポ酸共重合体微粒子に対する界面光架橋反応を利用したpH応答性・主鎖分解性高分子カプセルの開発",
+     "project_abstract": "高分子カプセルは、化粧品や香料などとして用いられるが、容易に自然界に流出し海洋マイクロプラスチックによる環境問題の原因となる。そのため、分解性高分子カプセルの開発が求められている。本研究では、α-リポ酸と光反応性モノマーを共重合した光反応性高分子微粒子を合成し、申請者が開発した独自技術である界面光架橋反応を利用することで、還元刺激分解性をもつ機能性高分子カプセルの調製に挑戦する。",
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 38
+ },
+ "https://www.jaas.gr.jp/archives/date/2023/07": {
+  "fdn": "日本アメリカ学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本アメリカ学会",
+   "source_url": "https://www.jaas.gr.jp/archives/date/2023/07",
+   "fiscal_year": 2023,
+   "awardees": [
+    {
+     "awardee_name": "齋藤崇治",
+     "affiliation": "名古屋商科大学",
+     "position": null,
+     "project_title": null,
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 21
+ },
+ "https://www.kasseiken.jp/searchposts/searchposts-8594/": {
+  "fdn": "公益財団法人東北活性化研究センター",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人東北活性化研究センター",
+   "source_url": "https://www.kasseiken.jp/searchposts/searchposts-8594/",
+   "fiscal_year": 2025,
+   "awardees": []
+  },
+  "elapsed_s": 14
+ },
+ "https://www.jaam.jp/info/info-research_list.html": {
+  "fdn": "日本救急医学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本救急医学会",
+   "source_url": "https://www.jaam.jp/info/info-research_list.html",
+   "fiscal_year": 2021,
+   "awardees": [
+    {
+     "awardee_name": "沖山 翔",
+     "affiliation": "アイリス株式会社 / 日本赤十字社医療センター 救急科",
+     "position": "代表取締役",
+     "project_title": "口腔内所見を用いた次世代AI研究基盤の構築",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 30
+ },
+ "https://www.jsnfs.or.jp/wp-content/uploads/file/job_grant/grant_20240722_u-toyama.pdf": {
+  "fdn": "日本ゴマ科学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本ゴマ科学会",
+   "source_url": "https://www.jsnfs.or.jp/wp-content/uploads/file/job_grant/grant_20240722_u-toyama.pdf",
+   "fiscal_year": 2023,
+   "awardees": [
+    {
+     "awardee_name": "後藤孔郎",
+     "affiliation": "大分大学医学部",
+     "position": "講師",
+     "project_title": "食塩過多による高血圧・動脈硬化病変の発症に対するゴマ摂取の有効性に関する検討",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 19
+ },
+ "https://www.jarm.or.jp/wp-cntpnl/wp-content/uploads/2017/05/member_news_JJRM53-3-13-1.pdf": {
+  "fdn": "日本リハビリテーション医学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本リハビリテーション医学会",
+   "source_url": "https://www.jarm.or.jp/wp-cntpnl/wp-content/uploads/2017/05/member_news_JJRM53-3-13-1.pdf",
+   "fiscal_year": 2015,
+   "awardees": [
+    {
+     "awardee_name": "西田 大輔",
+     "affiliation": "済生会神奈川県病院",
+     "position": null,
+     "project_title": "パーキンソン病患者におけるリズム刺激による歩行障害改善の生理学的メカニズムの解明",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 34
+ },
+ "https://www.jsac.jp/assets/docs/pdf/public-information/kaihou-2024.pdf": {
+  "fdn": "日本分析化学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本分析化学会",
+   "source_url": "https://www.jsac.jp/assets/docs/pdf/public-information/kaihou-2024.pdf",
+   "fiscal_year": 2023,
+   "awardees": []
+  },
+  "elapsed_s": 33
+ },
+ "https://www.jimef.jp/dcms_media/other/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%A2%BA%E5%AE%9A2406.pdf": {
+  "fdn": "日本医学医療国際交流財団（旧：日露医学医療交流財団）",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本医学医療国際交流財団（旧：日露医学医療交流財団）",
+   "source_url": "https://www.jimef.jp/dcms_media/other/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%A2%BA%E5%AE%9A2406.pdf",
+   "fiscal_year": 2023,
+   "awardees": []
+  },
+  "elapsed_s": 35
+ },
+ "https://www.mepo.or.jp/contents/wp-content/uploads/2025/07/5733list2025.pdf": {
+  "fdn": "公益財団法人宮崎県産業振興機構",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人宮崎県産業振興機構",
+   "source_url": "https://www.mepo.or.jp/contents/wp-content/uploads/2025/07/5733list2025.pdf",
+   "fiscal_year": 2025,
+   "awardees": []
+  },
+  "elapsed_s": 15
+ },
+ "https://www.kiriyama-syougakukai.or.jp/information/img_info/josei3.pdf": {
+  "fdn": "桐山奨学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "桐山奨学会",
+   "source_url": "https://www.kiriyama-syougakukai.or.jp/information/img_info/josei3.pdf",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "谷口信子",
+     "affiliation": "大阪成蹊短期大学 栄養学科",
+     "position": "教授",
+     "project_title": "ベーグルづくりで食育",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.medicalherb.or.jp/research/research-grant-program": {
+  "fdn": "日本メディカルハーブ協会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "日本メディカルハーブ協会",
+   "source_url": "https://www.medicalherb.or.jp/research/research-grant-program",
+   "fiscal_year": 2025,
+   "awardees": []
+  },
+  "elapsed_s": 23
+ },
+ "https://www.matsushima-foundation.or.jp/%E6%8C%AF%E8%88%88%E5%A5%A8%E5%8A%B1": {
+  "fdn": "公益財団法人園芸振興松島財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人園芸振興松島財団",
+   "source_url": "https://www.matsushima-foundation.or.jp/%E6%8C%AF%E8%88%88%E5%A5%A8%E5%8A%B1",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "岩崎 光徳",
+     "affiliation": "農研機構カンキツNARO S.マルチ開発・普及チーム",
+     "position": "代表",
+     "project_title": "高品質温州ミカンを生産するためのシールディング・マルチ栽培の開発と普及",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 35
+ },
+ "https://www.spsj.or.jp/activity/activity_338.html": {
+  "fdn": "高分子学会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "高分子学会",
+   "source_url": "https://www.spsj.or.jp/activity/activity_338.html",
+   "fiscal_year": 2025,
+   "awardees": []
+  },
+  "elapsed_s": 20
+ },
+ "https://www.scholarship.or.jp/newgrant/": {
+  "fdn": "公益財団法人三菱ＵＦＪ信託奨学財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人三菱ＵＦＪ信託奨学財団",
+   "source_url": "https://www.scholarship.or.jp/newgrant/",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "本庄裕司",
+     "affiliation": "中央大学商学部",
+     "position": "教授",
+     "project_title": "スタートアップの成長ダイナミクスとファイナンス",
+     "project_abstract": null,
+     "amount_jpy": 2818000,
+     "period_start": "2026-04",
+     "period_end": "2027-03"
+    }
+   ]
+  },
+  "elapsed_s": 25
+ },
+ "https://www.nict.go.jp/publicity/topics/2026/06/19-2.html": {
+  "fdn": "国立研究開発法人情報通信研究機構",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "国立研究開発法人情報通信研究機構",
+   "source_url": "https://www.nict.go.jp/publicity/topics/2026/06/19-2.html",
+   "fiscal_year": 2026,
+   "awardees": []
+  },
+  "elapsed_s": 45
+ },
+ "https://www.rentall-zaidan.jp/": {
+  "fdn": "レントオール奨学財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "レントオール奨学財団",
+   "source_url": "https://www.rentall-zaidan.jp/",
+   "fiscal_year": 2025,
+   "awardees": []
+  },
+  "elapsed_s": 43
+ },
+ "https://www.sunstar-foundation.org/grants/received-list": {
+  "fdn": "サンスター財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "サンスター財団",
+   "source_url": "https://www.sunstar-foundation.org/grants/received-list",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "三浦 雅臣",
+     "affiliation": "Joslin Diabetes Center, Harvard Medical School",
+     "position": "医師",
+     "project_title": "ヒトiPSCを用いた脳内インスリン抵抗性の解明",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 37
+ },
+ "https://www.techakodate.or.jp/hitecnews/archives/category/r07-06/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9-r07-06": {
+  "fdn": "公益財団法人函館地域産業振興財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人函館地域産業振興財団",
+   "source_url": "https://www.techakodate.or.jp/hitecnews/archives/category/r07-06/%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9-r07-06",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "株式会社Mark1",
+     "affiliation": null,
+     "position": null,
+     "project_title": "食品密閉用加熱装置の研究開発",
+     "project_abstract": null,
+     "amount_jpy": 3000000,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 36
+ },
+ "https://www.tottori-bio.jp/855/19367.html": {
+  "fdn": "鳥取バイオサイエンス振興会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人 鳥取バイオサイエンス振興会",
+   "source_url": "https://www.tottori-bio.jp/855/19367.html",
+   "fiscal_year": 2023,
+   "awardees": []
+  },
+  "elapsed_s": 9
+ },
+ "https://www.tip.ne.jp/rounenkenkyu/jyosei/": {
+  "fdn": "山口老年総合研究所",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "山口老年総合研究所",
+   "source_url": "https://www.tip.ne.jp/rounenkenkyu/jyosei/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "德永　貴範",
+     "affiliation": "山口大学大学院　医学系研究科 泌尿器科学講座",
+     "position": null,
+     "project_title": "血液指標の統合による身体に優しい前立腺癌診断モデル構築：生検回避による高齢者の健康寿命延伸を目指して",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 27
+ },
+ "https://www.tokizane.net/honours.html": {
+  "fdn": "時実利彦記念脳研究助成基金",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "時実利彦記念脳研究助成基金",
+   "source_url": "https://www.tokizane.net/honours.html",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "吉原 良浩",
+     "affiliation": "理化学研究所 脳神経科学研究センター",
+     "position": "副センター長",
+     "project_title": "嗅覚系および前障の神経回路遺伝学的研究",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 18
+ },
+ "https://www.techno-media.net6.or.jp/techno/wp-content/uploads/sites/2/2021/08/5e75543e44e62842caf64dc2e1d3fcec.pdf": {
+  "fdn": "郡山地域テクノポリス推進機構",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "郡山地域テクノポリス推進機構",
+   "source_url": "https://www.techno-media.net6.or.jp/techno/wp-content/uploads/sites/2/2021/08/5e75543e44e62842caf64dc2e1d3fcec.pdf",
+   "fiscal_year": 2021,
+   "awardees": [
+    {
+     "awardee_name": "樽川 久夫",
+     "affiliation": "アルファ電子株式会社",
+     "position": "代表取締役",
+     "project_title": "地域資源と地域技術を使った米粉麺の販路及びＷｅｂ展開の拡大事業",
+     "project_abstract": "現在は電子機器用部品製造を専業に行っているが、コロナ禍等社会情勢の変化に伴う多角経営によるリスク回避のため、米粉麵の商品開発と販路拡大を推進",
+     "amount_jpy": null,
+     "period_start": "2021-07",
+     "period_end": "2022-02"
+    }
+   ]
+  },
+  "elapsed_s": 38
+ },
+ "https://www.topics.or.jp/articles/-/1407345": {
+  "fdn": "公益財団法人徳島新聞社会文化事業団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人徳島新聞社会文化事業団",
+   "source_url": "https://www.topics.or.jp/articles/-/1407345",
+   "fiscal_year": 2026,
+   "awardees": []
+  },
+  "elapsed_s": 24
+ },
+ "https://www.tyojyu.or.jp/zaidan/about-jigyo/koueki1/new-shien-R8-result.html": {
+  "fdn": "公益財団法人長寿科学振興財団",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "公益財団法人長寿科学振興財団",
+   "source_url": "https://www.tyojyu.or.jp/zaidan/about-jigyo/koueki1/new-shien-R8-result.html",
+   "fiscal_year": 2026,
+   "awardees": [
+    {
+     "awardee_name": "枝広 あや子",
+     "affiliation": "東京都健康長寿医療センター研究所",
+     "position": null,
+     "project_title": "社会的処方に対応できる伝統宗教施設（寺社・教会等の協力による長寿社会実現のための地域支援研究）",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": "2026",
+     "period_end": "2027"
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.yamaha-mf.or.jp/shien/kenkyu/": {
+  "fdn": "（一財）ヤマハ音楽振興会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "一般財団法人ヤマハ音楽振興会",
+   "source_url": "https://www.yamaha-mf.or.jp/shien/kenkyu/",
+   "fiscal_year": 2020,
+   "awardees": [
+    {
+     "awardee_name": "深町 浩司",
+     "affiliation": "打楽器奏者、愛知県立芸術大学音楽学部",
+     "position": "教授",
+     "project_title": "打楽器演奏における指の動作と音色変化のメカニズム",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 23
+ },
+ "https://www.miyazaki-nikkiso.co.jp/": {
+  "fdn": "一樹工業技術奨励会",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "一般財団法人 一樹工業技術奨励会",
+   "source_url": "https://www.miyazaki-nikkiso.co.jp/",
+   "fiscal_year": 2025,
+   "awardees": [
+    {
+     "awardee_name": "藤川 俊英",
+     "affiliation": "宮崎大学 工学教育研究部",
+     "position": "准教授",
+     "project_title": "液体中で発生する張力を検知・計測するためのプローブの開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": "2025-07",
+     "period_end": "2026-06"
+    }
+   ]
+  },
+  "elapsed_s": 91
+ },
+ "https://www.npte-foundation.org/award": {
+  "fdn": "新製剤技術とエンジニアリング振興基金",
+  "n_existing": 1,
+  "codex": {
+   "foundation_name": "新製剤技術とエンジニアリング振興基金",
+   "source_url": "https://www.npte-foundation.org/award",
+   "fiscal_year": 2024,
+   "awardees": [
+    {
+     "awardee_name": "田邉 修一",
+     "affiliation": "第一三共株式会社 テクノロジー本部 テクノロジー開発統括部 技術開発マネジメント部 技術インテリジェンスグループ",
+     "position": "課長代理",
+     "project_title": "機械学習及び物理シミュレーションを統合した工程設計手法の開発と製品適用",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "小川真裕",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": "主幹研究員",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "市原駿",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": "主任研究員",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "當波諒",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": null,
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "赤木航平",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": null,
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "坂井健慈",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": "主任研究員",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "古宮健二",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": "主任研究員",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "板東政史",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": "経口製剤グループ長",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "佐藤晋也",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": "アナリティカルサイエンスグループ長",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "寿命大輔",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": "メカニカルエンジニアグループ長",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "石本隼人",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": "製剤包装グループ長",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "鵜飼宏治",
+     "affiliation": "エーザイ株式会社 製剤研究部",
+     "position": "部長",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "大脇健太郎",
+     "affiliation": "衛材中国 蘇州工場",
+     "position": "副工場長",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "松本勇二",
+     "affiliation": "エーザイ株式会社 川島工場 経口剤製造部",
+     "position": null,
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "住元祐介",
+     "affiliation": "エーザイ株式会社 川島工場 経口剤製造部",
+     "position": null,
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "川瀬淳子",
+     "affiliation": "エーザイ株式会社 川島工場 経口剤製造部",
+     "position": null,
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "堂園健一",
+     "affiliation": "エーザイ株式会社 川島工場 経口剤製造部",
+     "position": null,
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "豊村真一",
+     "affiliation": "エーザイ株式会社 川島工場 経口剤製造部",
+     "position": null,
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "中島裕之",
+     "affiliation": "エーザイ株式会社 川島工場 経口剤製造部",
+     "position": "抗がん剤グループ長",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "柳楽慎介",
+     "affiliation": "エーザイ株式会社 川島工場 生産品質技術部",
+     "position": "部長",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "中山慎太郎",
+     "affiliation": "エーザイ株式会社 川島工場 川島品質保証部",
+     "position": null,
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "日野出嵩裕",
+     "affiliation": "エーザイ株式会社 川島工場 川島品質管理部",
+     "position": "担当課長",
+     "project_title": "経口固形製剤の連続生産技術を用いた製品２品目（タズベリク®錠・タスフィゴ®錠）の開発",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "今吉 優輔",
+     "affiliation": "大阪公立大学 工学研究科 装置工学グループ",
+     "position": null,
+     "project_title": "打錠時における粉体層の粘性挙動解析とキャッピングの予測手法開発への応用",
+     "project_abstract": null,
+     "amount_jpy": null,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 88
  }
 }
