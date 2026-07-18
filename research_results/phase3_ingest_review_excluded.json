@@ -190,5 +190,11 @@
   "field": "total_assets",
   "value": 282434144,
   "reason": "net_assets_not_total (正味財産)"
+ },
+ {
+  "name": "公益財団法人紀文・保芦記念財団",
+  "field": "total_assets",
+  "value": 4358189612,
+  "reason": "net_assets_not_total (正味財産)"
  }
 ]
