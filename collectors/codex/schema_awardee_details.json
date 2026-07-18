@@ -1,0 +1,29 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": ["foundation_name", "source_url", "fiscal_year", "awardees"],
+ "properties": {
+  "foundation_name": {"type": "string"},
+  "source_url": {"type": ["string", "null"], "description": "採択結果一覧の出典URL(実在・アクセス可能)"},
+  "fiscal_year": {"type": ["integer", "null"], "description": "この採択リストの年度(西暦)"},
+  "awardees": {
+   "type": "array",
+   "description": "この出典ページに掲載された採択者/研究課題の全リスト。公式の採択結果から。捏造禁止・確認できたものだけ・不明はnull",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["awardee_name", "affiliation", "position", "project_title", "project_abstract", "amount_jpy", "period_start", "period_end"],
+    "properties": {
+     "awardee_name": {"type": "string", "description": "採択者氏名(日本語表記・姓名)"},
+     "affiliation": {"type": ["string", "null"], "description": "所属機関(大学・研究所)"},
+     "position": {"type": ["string", "null"], "description": "職位(教授/准教授/助教/研究員等)"},
+     "project_title": {"type": ["string", "null"], "description": "研究課題名(研究テーマ)"},
+     "project_abstract": {"type": ["string", "null"], "description": "研究概要・要旨(ページに記載があれば。無ければnull)"},
+     "amount_jpy": {"type": ["integer", "null"], "description": "この採択者個人への助成金額(円・整数)。ページに個別記載があれば。無ければnull(推測禁止)"},
+     "period_start": {"type": ["string", "null"], "description": "助成期間の開始(YYYY or YYYY-MM。記載あれば)"},
+     "period_end": {"type": ["string", "null"], "description": "助成期間の終了(YYYY or YYYY-MM。記載あれば)"}
+    }
+   }
+  }
+ }
+}

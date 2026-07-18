@@ -1,0 +1,236 @@
+{
+ "https://www.takeda-sci.or.jp/research/doc/2024_list.pdf": {
+  "fdn": "公益財団法人武田科学振興財団",
+  "n_existing": 550,
+  "codex": {
+   "foundation_name": "公益財団法人武田科学振興財団",
+   "source_url": "https://www.takeda-sci.or.jp/research/doc/2024_list.pdf",
+   "fiscal_year": 2024,
+   "awardees": []
+  },
+  "elapsed_s": 99
+ },
+ "https://www.takeda-sci.or.jp/research/doc/2025_list.pdf": {
+  "fdn": "公益財団法人武田科学振興財団",
+  "n_existing": 583,
+  "codex": {
+   "foundation_name": "公益財団法人武田科学振興財団",
+   "source_url": "https://www.takeda-sci.or.jp/research/doc/2025_list.pdf",
+   "fiscal_year": 2025,
+   "awardees": []
+  },
+  "elapsed_s": 100
+ },
+ "https://www.takeda-sci.or.jp/research/doc/2023_list.pdf": {
+  "fdn": "公益財団法人武田科学振興財団",
+  "n_existing": 532,
+  "codex": {
+   "foundation_name": "公益財団法人武田科学振興財団",
+   "source_url": "https://www.takeda-sci.or.jp/research/doc/2023_list.pdf",
+   "fiscal_year": 2023,
+   "awardees": [
+    {
+     "awardee_name": "伊藤 能永",
+     "affiliation": "京都大学 医生物学研究所 病因免疫学",
+     "position": "教授",
+     "project_title": "自己抗原の包括的理解による自己免疫疾患の病因解明と治療基盤構築",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "坂田麻実子",
+     "affiliation": "筑波大学 医学医療系",
+     "position": "教授",
+     "project_title": "微小環境のリモデリングを基盤とした悪性リンパ腫の発症機序の統合的解析",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "竹内 春樹",
+     "affiliation": "東京大学 大学院理学系研究科 生物科学専攻 生物化学講座 分子神経生理学研究室",
+     "position": "教授",
+     "project_title": "嗅覚に着目した認知症に対する疾患修飾療法の開発",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "長井 淳",
+     "affiliation": "理化学研究所 脳神経科学研究センター グリア-神経回路動態研究チーム",
+     "position": "チームリーダー",
+     "project_title": "全能グリア-神経カタログによる脳機能発揮/破綻の基盤解明",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "西澤 知宏",
+     "affiliation": "横浜市立大学 生命医科学研究科",
+     "position": "教授",
+     "project_title": "クライオ電子顕微鏡による膜輸送体機構の解明",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "平原 潔",
+     "affiliation": "千葉大学 大学院医学研究院 免疫発生学",
+     "position": "教授",
+     "project_title": "炎症環境下におけるCD4+ T細胞の病原性獲得機構の解明と難治性炎症疾患の制御",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "福原 崇介",
+     "affiliation": "北海道大学 大学院医学研究院 病原微生物学教室",
+     "position": "教授",
+     "project_title": "革新的リバースジェネティクス技術を用いた新たなウイルス学研究の創出",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "松岡 悠美",
+     "affiliation": "大阪大学 免疫学フロンティア研究センター 皮膚アレルギー生体防御",
+     "position": "教授",
+     "project_title": "皮膚を場とした未病期細菌叢-免疫連関解析による慢性炎症性疾患の病態解明",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "松田 憲之",
+     "affiliation": "東京医科歯科大学 難治疾患研究所 病態制御科学研究部門 機能分子病態学分野",
+     "position": "教授",
+     "project_title": "PINK1とParkinを基軸としたパーキンソン病研究の新展開",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "吉田 健一",
+     "affiliation": "国立がん研究センター研究所 がん進展研究分野",
+     "position": "分野長",
+     "project_title": "単一細胞レベルオミックス解析による正常細胞からがんへのクローン進化の研究",
+     "project_abstract": null,
+     "amount_jpy": 30000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "阿久津英憲",
+     "affiliation": "国立成育医療研究センター 研究所 再生医療センター",
+     "position": "センター長",
+     "project_title": "腸管免疫に着目したCOVID-19後遺症予防法の開発",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "池亀 聡",
+     "affiliation": "九州大学病院 呼吸器科",
+     "position": "臨床助教",
+     "project_title": "SARS-CoV-2新規変異株を予測同定するmutagenesis screening",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "加藤 大志",
+     "affiliation": "東京大学 大学院医学系研究科 病因・病理学専攻 微生物学",
+     "position": "准教授",
+     "project_title": "ニパウイルスの増殖機構の理解と予防制御のための基盤的研究",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "鴨居 功樹",
+     "affiliation": "東京医科歯科大学 大学院医歯学総合研究科 眼科学",
+     "position": "講師",
+     "project_title": "HTLV-1感染症の病態解明：眼科学からのアプローチ",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "久場 敬司",
+     "affiliation": "九州大学 大学院医学研究院 薬理学分野",
+     "position": "教授",
+     "project_title": "高病原性ウイルス呼吸器感染症の時空間的な重症化・後遺症の病態解明",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "小谷 典弘",
+     "affiliation": "埼玉医科大学 医学部 医学研究センター",
+     "position": "教授",
+     "project_title": "パンデミックウイルス受容体・感染因子の迅速同定システムの開発",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "田鍬 修平",
+     "affiliation": "大阪大学 感染症総合教育研究拠点 感染症・生体防御研究部門 ウイルス制御学",
+     "position": "特任准教授",
+     "project_title": "重症熱性血小板減少症候群ウイルス(SFTSV)生活環に関連する宿主因子ネットワークの網羅的同定・解析と新規治療法への応用",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "寺 正行",
+     "affiliation": "東京農工大学 大学院工学研究院 生命有機化学講座",
+     "position": "准教授",
+     "project_title": "非典型核酸高次構造を標的とした抗デングウイルス薬研究",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "富田 耕造",
+     "affiliation": "東京大学 大学院新領域創成科学研究科 RNA生物学分野",
+     "position": "教授",
+     "project_title": "tRNA分子を標的とする細菌の病原性、休眠、薬剤耐性、生存競争を制御する酵素群の機能と構造",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    },
+    {
+     "awardee_name": "中南 秀将",
+     "affiliation": "東京薬科大学 薬学部 臨床微生物学教室",
+     "position": "教授",
+     "project_title": "強毒型MRSAによる皮膚感染症の重症化に関与する皮膚マイクロバイオームと宿主因子の解明",
+     "project_abstract": null,
+     "amount_jpy": 10000000,
+     "period_start": null,
+     "period_end": null
+    }
+   ]
+  },
+  "elapsed_s": 240
+ }
+}
