@@ -1,11 +1,18 @@
 #!/usr/bin/env python3
 """Tier B 財務収集 — url を持たない財団(koeki研究財団high 等)を名称+所在地でweb検索。
+   2026-10-19: per-item parallel dispatch now runs through tri-batch.
+   It provides canary, ramp, breaker read only, a machine-wide 48-slot cap, and resume.
+   Only dispatch changed; prompts, selection, and staging remain owned by this script.
+   The existing run_one helper is retained for importers.
    既存 collect_financials.py の url依存 select を「名称検索」に置換した姉妹版。
    staging / schema / ingest は共有(冪等)。捏造厳禁・source_url必須・確認不能はnull。
    Usage: python3 collectors/codex/collect_financials_byname.py --limit 200 --concurrency 8
           [--relevance high|all] [--min-assets-null]  (既定=koeki_research high・未取得のみ)"""
-import sqlite3, json, subprocess, argparse, os, sys
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import sqlite3, json, subprocess, argparse, os, sys, hashlib
+from pathlib import Path
+
+sys.path.insert(0, str(Path.home() / "tools" / "tri-run"))
+from tri_batch_adapter import run as tri_batch_run
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DB = "corporate_research_grants.sqlite"
@@ -72,18 +79,43 @@ def main():
     rows = [r for r in select(a.limit, a.relevance) if r["id"] not in staging]
     print("to collect(TierB): %d (already staged: %d)" % (len(rows), len(staging)), flush=True)
     done = 0
-    with ThreadPoolExecutor(max_workers=a.concurrency) as ex:
-        futs = {ex.submit(run_one, r): r for r in rows}
-        for f in as_completed(futs):
-            oid, res = f.result()
-            staging[oid] = res
-            done += 1
-            json.dump(staging, open(STAGING, "w"), ensure_ascii=False, indent=1)
-            cx = res.get("codex", {})
-            print("[%d/%d] %s %s | est=%s assets=%s grant=%s conf=%s" % (
-                done, len(rows), "OK" if "codex" in res else "ERR", res["name"][:22],
-                cx.get("established_year"), cx.get("total_assets_jpy"),
-                cx.get("annual_grant_amount_jpy"), cx.get("confidence")), flush=True)
+    if a.concurrency <= 0:
+        raise ValueError("max_workers must be greater than 0")
+    batch_rows, row_by_id = [], {}
+    for row in rows:
+        iid = hashlib.sha256(row["id"].encode("utf-8")).hexdigest()
+        prompt = PROMPT_TMPL.format(name=row["name"], pref=row["prefecture"] or "",
+                                    muni=row["municipality"] or "", agency=row["admin_agency"] or "不明")
+        batch_rows.append({"id": iid, "prompt": prompt})
+        row_by_id[iid] = row
+    case = "mig-corporate-foundation-grants-collect-financials-bynam"
+    batch_out = Path.home() / ".tri-run" / case / "batch"
+    results = tri_batch_run(case, batch_rows, schema=SCHEMA, out=batch_out,
+                            profile="collect", model="gpt-6-astra", effort="low",
+                            concurrency=min(a.concurrency, 48), timeout=360,
+                            source_scope="public_web") if batch_rows else []
+    for result in results:
+        row = row_by_id[result["id"]]
+        oid = row["id"]
+        try:
+            state_file = batch_out / "items" / (result["id"] + ".json")
+            env = json.loads(state_file.read_text()) if state_file.exists() else {}
+            env.update({k: result[k] for k in ("status", "run_dir", "note")})
+            if result["status"] == "ok":
+                res = {"name": row["name"], "url": None, "jfc_rank": None,
+                       "codex": result["value"], "elapsed_s": env.get("elapsed_s"), "tier": "B"}
+            else:
+                res = {"name": row["name"], "error": result["status"], "envelope": env}
+        except Exception as e:
+            res = {"name": row["name"], "error": str(e)}
+        staging[oid] = res
+        done += 1
+        json.dump(staging, open(STAGING, "w"), ensure_ascii=False, indent=1)
+        cx = res.get("codex", {})
+        print("[%d/%d] %s %s | est=%s assets=%s grant=%s conf=%s" % (
+            done, len(rows), "OK" if "codex" in res else "ERR", res["name"][:22],
+            cx.get("established_year"), cx.get("total_assets_jpy"),
+            cx.get("annual_grant_amount_jpy"), cx.get("confidence")), flush=True)
     ok = sum(1 for v in staging.values() if "codex" in v)
     print("staged total: %d (ok=%d)" % (len(staging), ok))
 
