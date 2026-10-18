@@ -1,11 +1,17 @@
 #!/usr/bin/env python3
 """Phase 3 — codex-orchestrated financial collection (Claude conducts, codex collects, verify later).
-   Runs codex-run per foundation (web-enabled) to gather established_year/total_assets/annual_grant
+   2026-10-19: the per-foundation loop now runs through tri-batch instead of a thread pool.
+   tri-batch provides canary, ramp, breaker read only, machine-wide 48-slot cap, and resume.
+   Prompts and staging writes stay here; batch results supply financial data and run metadata.
+   Runs web-enabled collection per foundation to gather established_year/total_assets/annual_grant
    with source_url. Writes to STAGING json only (never straight to DB). Resumable. Concurrency-capped.
    Usage: python3 collect_financials.py --limit 40 --concurrency 6
 """
-import sqlite3, json, subprocess, argparse, os, sys
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import sqlite3, json, subprocess, argparse, os, sys, hashlib
+from pathlib import Path
+
+sys.path.insert(0, str(Path.home() / "tools" / "tri-run"))
+from tri_batch_adapter import run as tri_batch_run
 
 DB = "corporate_research_grants.sqlite"
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -67,19 +73,34 @@ def main():
     rows = [r for r in select(a.limit) if r["id"] not in staging]
     print("to collect: %d (already staged: %d)" % (len(rows), len(staging)), flush=True)
     done = 0
-    with ThreadPoolExecutor(max_workers=a.concurrency) as ex:
-        futs = {ex.submit(run_one, r): r for r in rows}
-        for f in as_completed(futs):
-            oid, res = f.result()
-            staging[oid] = res
-            done += 1
-            json.dump(staging, open(STAGING, "w"), ensure_ascii=False, indent=1)  # checkpoint each
-            tag = "OK" if "codex" in res else "ERR"
-            cx = res.get("codex", {})
-            print("[%d/%d] %s %s | est=%s assets=%s grant=%s conf=%s" % (
-                done, len(rows), tag, res["name"][:24],
-                cx.get("established_year"), cx.get("total_assets_jpy"),
-                cx.get("annual_grant_amount_jpy"), cx.get("confidence")), flush=True)
+    row_by_id = {hashlib.sha256(r["id"].encode()).hexdigest(): r for r in rows}
+    batch_rows = [{"id": iid, "prompt": PROMPT_TMPL.format(name=r["name"], url=r["url"])}
+                  for iid, r in row_by_id.items()]
+    case = "mig-corporate-foundation-grants-collect-financials"
+    batch_out = Path.home() / ".tri-run" / case / "batch"
+    results = tri_batch_run(case, batch_rows, schema=SCHEMA, out=batch_out,
+                            profile="collect", model="gpt-6-astra", effort="low",
+                            concurrency=min(a.concurrency, 48), timeout=360,
+                            source_scope="public_web") if batch_rows else []
+    for result in results:
+        row = row_by_id[result["id"]]
+        oid = row["id"]
+        state_file = batch_out / "items" / (result["id"] + ".json")
+        env = json.loads(state_file.read_text()) if state_file.exists() else result
+        if result["status"] == "ok":
+            res = {"name": row["name"], "url": row["url"], "jfc_rank": row["jfc_rank"],
+                   "codex": result["value"], "elapsed_s": env.get("elapsed_s")}
+        else:
+            res = {"name": row["name"], "error": result["status"], "envelope": env}
+        staging[oid] = res
+        done += 1
+        json.dump(staging, open(STAGING, "w"), ensure_ascii=False, indent=1)  # checkpoint each
+        tag = "OK" if "codex" in res else "ERR"
+        cx = res.get("codex", {})
+        print("[%d/%d] %s %s | est=%s assets=%s grant=%s conf=%s" % (
+            done, len(rows), tag, res["name"][:24],
+            cx.get("established_year"), cx.get("total_assets_jpy"),
+            cx.get("annual_grant_amount_jpy"), cx.get("confidence")), flush=True)
     ok = sum(1 for v in staging.values() if "codex" in v)
     print("staged total: %d (ok=%d)" % (len(staging), ok))
 
