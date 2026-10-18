@@ -1,9 +1,16 @@
 #!/usr/bin/env python3
 """応募要項拡張 — codexで研究助成の応募資格(対象者像)を募集要項から収集。
+   2026-10-19: the per-foundation loop now runs through tri-batch instead of a thread pool.
+   tri-batch provides canary, ramp, breaker read only, machine-wide 48-slot cap, and resume.
+   This script keeps its prompts, target selection, staging writes, and progress logs.
    年齢/キャリア/職位/所属種別/国籍/分野/性別/その他。出典必須・捏造禁止。staging json。resumable。
    Usage: python3 collect_eligibility.py --auto N [--concurrency 40]"""
-import sqlite3, json, subprocess, argparse, os
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import sqlite3, json, subprocess, argparse, os, sys, hashlib
+from pathlib import Path
+
+sys.path.insert(0, str(Path.home() / "tools" / "tri-run"))
+from tri_batch_adapter import run as tri_batch_run
+
 DB = "corporate_research_grants.sqlite"
 HERE = os.path.dirname(os.path.abspath(__file__))
 SCHEMA = os.path.join(HERE, "schema_eligibility.json")
@@ -44,14 +51,26 @@ def main():
     staging = json.load(open(STAGING)) if os.path.exists(STAGING) else {}
     targets = [(r["name"], r["url"]) for r in rows if r["name"] not in staging]
     print("to collect:", len(targets), flush=True)
-    with ThreadPoolExecutor(max_workers=a.concurrency) as ex:
-        futs = {ex.submit(run_one, n, u): n for n, u in targets}; done = 0
-        for f in as_completed(futs):
-            nm, res = f.result(); staging[nm] = res; done += 1
-            json.dump(staging, open(STAGING, "w"), ensure_ascii=False, indent=1)
-            el = res.get("codex", {}).get("eligibility", {})
-            has = sum(1 for v in el.values() if v) if el else 0
-            print("[%d/%d] %s %s | fields=%d" % (done, len(targets), "OK" if "codex" in res else "ERR", nm[:22], has), flush=True)
+    batch_rows = []
+    target_by_id = {}
+    for n, u in targets:
+        item_id = "cfgelig-" + hashlib.sha256(json.dumps([n, u], ensure_ascii=False).encode("utf-8")).hexdigest()
+        batch_rows.append({"id": item_id, "prompt": PROMPT.format(name=n, url=u or "(なし)")})
+        target_by_id[item_id] = (n, u)
+    results = tri_batch_run(
+        "mig-corporate-foundation-grants-collect-eligibility", batch_rows,
+        schema=SCHEMA, concurrency=min(a.concurrency, 48), timeout=420,
+        profile="collect", model="gpt-6-astra", effort="low", source_scope="public_web",
+    ) if batch_rows else []
+    for done, result in enumerate(results, 1):
+        nm, url = target_by_id[result["id"]]
+        res = ({"codex": result["value"], "url_hint": url} if result["status"] == "ok"
+               else {"error": result["status"]})
+        staging[nm] = res
+        json.dump(staging, open(STAGING, "w"), ensure_ascii=False, indent=1)
+        el = res.get("codex", {}).get("eligibility", {})
+        has = sum(1 for v in el.values() if v) if el else 0
+        print("[%d/%d] %s %s | fields=%d" % (done, len(targets), "OK" if "codex" in res else "ERR", nm[:22], has), flush=True)
 
 if __name__ == "__main__":
     main()
