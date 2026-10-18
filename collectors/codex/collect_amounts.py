@@ -1,9 +1,16 @@
 #!/usr/bin/env python3
 """金額DB拡張 — codexで研究助成プログラムの金額情報(1件あたり額・件数・総額)を募集要項から収集。
    個別採択額は非公開が多いため program 単位の確実な金額を取る。出典必須・捏造禁止。staging json。resumable。
+   2026-10-19: per-item parallel execution now runs through tri-batch.
+   tri-batch provides canary, ramp, breaker read only, machine-wide 48-slot cap, and resume.
+   Only dispatch changed; prompts and staging writes remain owned by this script.
    Usage: python3 collect_amounts.py --auto N [--concurrency 40]"""
-import sqlite3, json, subprocess, argparse, os
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import sqlite3, json, subprocess, argparse, os, sys, hashlib
+from pathlib import Path
+
+sys.path.insert(0, str(Path.home() / "tools" / "tri-run"))
+from tri_batch_adapter import run as tri_batch_run
+
 DB = "corporate_research_grants.sqlite"
 HERE = os.path.dirname(os.path.abspath(__file__))
 SCHEMA = os.path.join(HERE, "schema_amounts.json")
@@ -46,13 +53,24 @@ def main():
     staging = json.load(open(STAGING)) if os.path.exists(STAGING) else {}
     targets = [(r["name"], r["url"]) for r in rows if r["name"] not in staging]
     print("to collect:", len(targets), flush=True)
-    with ThreadPoolExecutor(max_workers=a.concurrency) as ex:
-        futs = {ex.submit(run_one, n, u): n for n, u in targets}; done = 0
-        for f in as_completed(futs):
-            nm, res = f.result(); staging[nm] = res; done += 1
-            json.dump(staging, open(STAGING, "w"), ensure_ascii=False, indent=1)
-            pg = res.get("codex", {}).get("programs", [])
-            print("[%d/%d] %s %s | programs=%d" % (done, len(targets), "OK" if "codex" in res else "ERR", nm[:24], len(pg)), flush=True)
+    batch_rows, target_of = [], {}
+    for name, url in targets:
+        item_id = "cfgamt-" + hashlib.sha256(json.dumps([name, url], ensure_ascii=False).encode()).hexdigest()
+        batch_rows.append({"id": item_id, "prompt": PROMPT.format(name=name, url=url or "(なし)")})
+        target_of[item_id] = (name, url)
+    results = tri_batch_run(
+        "mig-corporate-foundation-grants-collect-amounts", batch_rows,
+        schema=SCHEMA, concurrency=min(a.concurrency, 48), timeout=420,
+        model="gpt-6-astra", effort="low", profile="collect", source_scope="public_web",
+    ) if batch_rows else []
+    done = 0
+    for result in results:
+        nm, url = target_of[result["id"]]
+        res = {"codex": result["value"], "url_hint": url} if result["status"] == "ok" else {"error": result["status"]}
+        staging[nm] = res; done += 1
+        json.dump(staging, open(STAGING, "w"), ensure_ascii=False, indent=1)
+        pg = res.get("codex", {}).get("programs", [])
+        print("[%d/%d] %s %s | programs=%d" % (done, len(targets), "OK" if "codex" in res else "ERR", nm[:24], len(pg)), flush=True)
 
 if __name__ == "__main__":
     main()
