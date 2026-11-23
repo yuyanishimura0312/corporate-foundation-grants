@@ -48,21 +48,26 @@ PROGRAM_AMOUNT_HINTS = {
     "薬学系研究継続助成": 3_000_000,
     "ライフサイエンス研究助成": 2_000_000,
     "ライフサイエンス研究継続助成": 3_000_000,
-    "特定研究助成": 50_000_000,
+    "特定研究助成": None,  # per-institution range (32-50M yen); table not parsed here
     "ビジョナリーリサーチ助成": 2_000_000,
-    "ビジョナリーリサーチ継続助成": 5_000_000,
+    "ビジョナリーリサーチ継続助成(ホップ)": 5_000_000,
+    "ビジョナリーリサーチ継続助成(ステップ)": 10_000_000,
+    "ビジョナリーリサーチ継続助成(ジャンプ)": 30_000_000,
     "中学校・高等学校理科教育振興助成": 300_000,
+    "理科教育振興助成": 300_000,
 }
+# FY2025 raised the science-education grant from 300k to 500k yen (published overview page).
+PROGRAM_AMOUNT_BY_YEAR = {("理科教育振興助成", 2025): 500_000, ("中学校・高等学校理科教育振興助成", 2025): 500_000}
 
 
 HEADER_RE = re.compile(r"氏\s*名\s+所属機関[・･]職位\s+研\s*究\s*題\s*目")
 SECTION_TERMINATOR_RE = re.compile(r"計\s*\d+\s*件")
 PROGRAM_TITLE_LINE_RE = re.compile(
-    r"^(?:＜.+?＞|武田報彰医学研究助成|ハイリスク新興感染症研究(?:助成)?|"
+    r"^(?:武田報彰医学研究助成|ハイリスク新興感染症研究(?:助成)?|"
     r"生命科学研究助成|医学系研究(?:継続)?助成|薬学系研究(?:継続)?助成|"
     r"ライフサイエンス研究(?:継続)?助成|特定研究助成|"
     r"ビジョナリーリサーチ(?:継続)?助成(?:.*)?|"
-    r"中学校[・･]高等学校理科教育振興助成)\s*(?:[（(].*?[)）])?\s*$"
+    r"(?:中学校[・･]高等学校)?理科教育振興助成)\s*(?:[（(].*?[)）])?\s*$"
 )
 
 
@@ -84,10 +89,21 @@ def _discover_year_pdfs(html: str) -> list[tuple[int, str]]:
     return out
 
 
-def _amount_hint(program: str) -> int | None:
-    for key, val in PROGRAM_AMOUNT_HINTS.items():
+# Heading spellings differ between years; store one program name per program so a
+# re-run does not create duplicate grant_programs rows.
+PROGRAM_CANONICAL = {
+    "ハイリスク新興感染症研究": "ハイリスク新興感染症研究助成",
+    "中学校・高等学校理科教育振興助成": "理科教育振興助成",
+}
+
+
+def _amount_hint(program: str, year: int | None = None) -> int | None:
+    # Longest key first so that e.g. the (ステップ)/(ホップ)/(ジャンプ) variants are not
+    # swallowed by a shorter prefix (the old first-substring-wins loop gave all
+    # continuation grants the same amount).
+    for key in sorted(PROGRAM_AMOUNT_HINTS, key=len, reverse=True):
         if key in program:
-            return val
+            return PROGRAM_AMOUNT_BY_YEAR.get((key, year), PROGRAM_AMOUNT_HINTS[key])
     return None
 
 
@@ -121,31 +137,32 @@ def _iter_sections(pdf_bytes: bytes) -> Iterator[tuple[str, list[list[str]]]]:
     """Iterate ``(program_name, rows)`` across pages.
 
     Each yielded ``rows`` is a list of ``[name, affiliation_cell, title_cell]``.
+
+    The program of a table is the nearest program heading line *above it on the
+    page* (by y position); a table with no heading above it on its page belongs
+    to the last heading of the previous page.  Sub-headings such as
+    ``<がん領域(基礎)>`` are not program headings.  (The earlier version took the
+    line directly before the column header and stopped at the first match on a
+    page, which mislabelled every table after a sub-heading and every second
+    table on a page -- 2023-11-23 correction, see cfg/takeda-fix/notes.md.)
     """
     current_program: str | None = None
     with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
         for page in pdf.pages:
-            text = page.extract_text() or ""
-            lines = [normalize_text(l) for l in text.split("\n") if l.strip()]
-
-            # Detect program header: the line immediately preceding
-            # the column header line (氏名 所属機関・職位 研究題目).
-            for i, line in enumerate(lines):
-                if HEADER_RE.search(line) and i > 0:
-                    candidate = lines[i - 1]
-                    # Skip if previous line is the page-level "氏名" header itself
-                    # or is page numbers / boilerplate.
-                    if PROGRAM_TITLE_LINE_RE.match(candidate):
-                        current_program = candidate
-                        break
-                    # Some pages have "<program>\n氏 名 ..." with TOC-stripped text.
-                    if re.search(r"研究助成|理科教育振興助成", candidate):
-                        current_program = candidate
-                        break
-
-            tables = page.extract_tables() or []
-            for tbl in tables:
-                # Skip empty/header-only tables.
+            headings = []
+            for ln in page.extract_text_lines():
+                txt = normalize_text(ln["text"]).strip()
+                if PROGRAM_TITLE_LINE_RE.match(txt):
+                    headings.append((ln["top"], txt))
+            tables = page.find_tables()
+            for tb in sorted(tables, key=lambda x: x.bbox[1]):
+                prog = None
+                for top, txt in headings:
+                    if top <= tb.bbox[1]:
+                        prog = txt
+                if prog is not None:
+                    current_program = prog
+                tbl = tb.extract()
                 rows = [r for r in tbl if r and any((c or "").strip() for c in r)]
                 if not rows:
                     continue
@@ -166,12 +183,16 @@ def _iter_sections(pdf_bytes: bytes) -> Iterator[tuple[str, list[list[str]]]]:
                 if current_program is None:
                     current_program = "研究助成"
                 yield current_program, rows
+            # a heading below the last table of the page starts the next page's section
+            if headings and (not tables or headings[-1][0] > max(t.bbox[1] for t in tables)):
+                current_program = headings[-1][1]
 
 
 def _parse_pdf(pdf_bytes: bytes, year: int, source_url: str) -> list[dict]:
     out: list[dict] = []
     for program, rows in _iter_sections(pdf_bytes):
-        amount = _amount_hint(program)
+        program = PROGRAM_CANONICAL.get(program, program)
+        amount = _amount_hint(program, year)
         for row in rows:
             if len(row) < 3:
                 continue
